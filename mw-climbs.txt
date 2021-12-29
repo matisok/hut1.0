@@ -1,0 +1,541 @@
+# Areas
+
+AV=Avon Gorge, UK *
+CG=Cheddar Gorge, UK
+SW=Swanage, UK **
+GW=Gower, UK **
+PB=Pembroke, UK ***
+SC=Shorn Cliff, UK *
+WC=Wyncliffe, UK
+WL=Wintour's Leap, UK *
+PQ=Portishead Quarry, UK *
+NW=North Wales, UK *
+CL=Chair Ladder, UK ***
+SE=Sennen, UK *
+BG=Bosigran, UK **
+ND=North Devon, UK
+EC=El Chorro, Spain **
+TE=Tenerife, Spain
+CH=Chamonix Valley, France
+CA=Les Callanques, France *
+PR=Presles, France *
+GR=Grenoble, France
+BX=Buoux, France *
+PD=Peak District, UK **
+TQ=Tintern Quarry, UK
+KU=Kullen, Sweden *
+GU=Gunnard Head, UK
+SD=South Devon, UK **
+LD=Lake District, UK
+GG=Gogarth, UK ***
+SM=Shakemantle Quarry, UK
+UC=Under Cover Rock, UK
+SQ=Split Rock Quarries, UK *
+YO=Yosemite, USA ***
+YS=Yorkshire, UK **
+JT=Joshua Tree, USA **
+ES=El Escalone, Mexico ***
+DI=El Diente, Mexico
+CU=La Cuajo, Mexico ***
+BE=Pena de Bernal, Mexico
+AC=Aculco, Mexico ***
+BA=Cabo San Lucas
+TU=Tulum, Yucatan Peninsular
+SM=Semuc Champey, Guatemala
+GC=Goblin Combe, UK *
+CI=City of Rocks, Idaho *
+BC=Black Cliffs Boise, Idaho *
+SY=Symonds Yoist, UK *
+
+# People
+JR=<a href="../../profiles/jesper/">Jesper Ritzau</a>
+FW=<a href="/frederik">Frederik Willerup</a>
+JI=<a href="../../profiles/jim/">Jim Randell</a>
+SF=<a href="../../profiles/sean/">Sean Franks</a>
+DS=David Skov
+WW=<a href="../../profiles/will/">Will Wray</a>
+TW=<a href="../../profiles/tim/">Tim Wilkinson</a>
+MB=<a href="../../profiles/martin/">Martin Beale</a>
+MF=Mads Fisher-Rasmussen
+OR=Ole Rasmussen
+HW=Henriette Willerup
+AS=Anders Soendergaard
+MI=Mikkel Bulow Lehnsby
+PD=Paola Dotti
+SW=Steve Wright
+RS=Royston Sellman
+PW=Paul Wood
+VH=Vivi Hansen
+DP=Dietrich Paulus
+SH=Simon Hauch
+CH=Craig Harwood
+JC=Julius the Cyclist
+TR=Theresa Rhoades
+LK=<a href="../../profiles/klammer/">Lars Klammer</a>
+HL=Helene Lando
+NE=Neil
+PS=Peter Ras
+JT=Joint
+LS=Linsey Scott
+
+# Climbs
+6-3-2000; PB; Zero Hour; HVS 5b; 120ft; lead MB;
+6-3-2000; PB; Hangover 77; E1 5b; 100ft; sec MB; <2><S>
+6-3-2000; PB; Bludgeon; HVS 5a; 110ft; lead MB; <3>
+6-3-2000; PB; Cool for Cats; E1 5b; 120ft; sec MB; <2>
+5-3-2000; PB; The Loosener; HVS 5a; 70ft; sec MB; <1>
+5-3-2000; PB; The Arrow; E1 5b; 130ft; sec MB; <1>
+5-3-2000; PB; Front Line; HVS 5a; 110ft; lead MB; <2>
+5-3-2000; PB; Piggy's Crack; HVS 5b; 90ft; sec MB; <1><S>
+5-3-2000; PB; Clean Hand Blues Band; E2 5b; 80ft; sec MB; <2>
+27-2-2000; WL; Zelda; HS 4a,4a; 140ft; alt MB; <1>
+26-2-2000; SY; The Prow (Whitt); VS 4c,4c; 130ft; alt MB; <1>
+26-2-2000; SY; The Druid; VS 4c; 100ft; sec MB;
+26-2-2000; SY; Exchange; VS 4b; 100ft; lead MB;
+26-2-2000; SY; Peacock; VS 4b; 100ft; sec MB;
+26-2-2000; SY; Offspring; VS 4c; 100ft; lead MB; <1>
+26-2-2000; SY; Scooby Doo; HVS 5a; 100ft; sec MB;
+26-2-2000; SY; The Russian; HVS 5a; 100ft; lead MB; <1>
+26-2-2000; SY; Red Rose Speedway; HVS 5a; 100ft; sec MB; <2>
+14-11-1999; CG; Sceptre; VS 4b,4a,4a,4c; 260ft; alt MB; <1>
+13-11-1999; ND; Heart of the Sun; E2 5b,5b,5a,4a; 320ft; alt MB; <2>
+11-9-1999; SD; Leviathan; VS 4c; 75ft; lead MB; <3>
+11-9-1999; SD; Climbers Club Direct; HVS 5a,5a; 240ft; alt MB; <3>
+	Has to be the best HVS of the year. Superb climbing on fantastic rock.
+11-9-1999; SD; Mucky Gully; D; 230ft; lead LS
+6-9-1999; SC; Stand and Deliver; E1 5b; 60ft; sec MB
+6-9-1999; SC; Ironside's Men; E2 5b; 60ft; lead MB; <2>
+30-8-1999; WL; Swallows Nest; VS 4b,4b; 130ft; alt SF
+30-8-1999; WL; Freedom variation; HVS 4b,5b; 120ft; alt SF
+29-8-1999; PD; Kelly's Overhang; HVS 5b; 15m; lead- SF; <W>
+	Attempted and failed. Festive route.
+29-8-1999; PD; Inaccessible Crack; VS 4c; 18m; lead SF
+29-8-1999; PD; Twisting Crack; S; 14m; sec SF
+29-8-1999; PD; Gunter; VS 4c; 12m; sec SF
+29-8-1999; PD; High Neb Butress; HVS 5a; 50ft; lead SF
+29-8-1999; PD; Tango Butress; HS 5a; 12m; sec SF
+28-8-1999; PD; Hell Crack; VS 4b; 13m; sec SF
+28-8-1999; PD; Step Ladder Crack; VS 4c; 13m; lead SF
+28-8-1999; PD; The Styx; HVS 45c; 13m; lead SF
+28-8-1999; PD; Amazon Crack; S; 13m; sec SF
+28-8-1999; PD; Agony Crack; HVS 5a; 11m; lead SF
+28-8-1999; PD; The Scoop; HVS 5a; 15m; lead SF
+28-8-1999; PD; The Nose; VS 4b; 10m; lead SF
+19-8-1999; GC; The Black Riders; E1 5b; 80ft; sec TW
+14-8-1999; PQ; Pharos; S 4a; 90ft; lead LS
+	Linsey's first outdoor climb.
+10-8-1999; GC; Mithril; E4 6a; 70ft; sec- JT,TW; <S><W>
+	Joint led up in style, I popped off at the crux, Tim thirded it clean. Good route.
+10-8-1999; GC; Goblin King; E2 5c; 70ft; sec JT,TW
+9-8-1999; AV; Jasper; HVS 5a; 50ft; lead- PS,FW; <P>
+	A wet experience. It was raining quite a lot but Peter wanted to climb rock, so we went for it. I led it, but grabbed Fred's abseil rope in the desperate wet top.
+25-7-1999; CI; The Pygmies Got Stoned; 5.10a; 100ft; sec MB; <B>
+25-7-1999; CI; Tribal Boundaries; 5.10a; 120ft; lead MB; <3><B><T>
+	Excellent sport route.
+25-7-1999; CI; Bloody Fingers; 5.10a; 120ft; sec MB; <3>
+25-7-1999; CI; Double Vision; 5.10a; 100ft; sec MB
+25-7-1999; CI; Double Cracks; 5.10a; 100ft; sec MB; <2><S>
+	I started on this fantastic looking splitter, but was lowered to the ground as the initial finger jam proved too much for my jamming skills.
+25-7-1999; CI; Stan's Roof; 5.10a; 100ft; sec- MB; <1><S><T><W>
+	Martin started our City of Rocks experience with a serious lead up to Stan's Roof. He commited himself to some marginal smearing and I can't remember having seen Martin so close to popping off as the roof didn't contain an obivous thank God Hold. Scary stuff. I on the other hand popped off in the roof section.
+19-7-1999; BC; The Pansy; 5.10a; 50ft; lead MB; <B>
+19-7-1999; BC; Neon Leprechaun; 5.10a; 50ft; lead MB; <B><1>
+19-7-1999; BC; Temporary Insanity; 5.9; 50ft; sec MB
+19-7-1999; BC; Unknown; 5.10a; 50ft; lead MB; <1>
+19-7-1999; BC; Two Studs; 5.8; 50ft; lead MB
+19-7-1999; BC; Shake Smear; 5.9; 50ft; sec MB
+18-7-1999; BC; Citizens Against Spiders; 5.9; 50ft; lead MB; <1> 
+18-7-1999; BC; Basalt Somersault; 5.9+; 50ft; sec MB; <1>
+18-7-1999; BC; The Doug Scott Route; 5.9+; 50ft; lead MB
+6-7-1999; GC; Bullroar; E1 5b; 80ft; sec RS,TW; <1>
+	Royston rested on the rope twice. Quite a strenous little number.
+24-6-1999; AV; Hell Gates; HVS 4c,5a,4b; 250ft; alt SW; <2>
+	I did the direct variation a year ago and I reckon that to be a much better line than this Ed Drummond zig zag. The direct line is much better protected.
+22-6-1999; GC; Goblin King; E2 5c; 70ft; sec TW,RS; <2>
+22-6-1999; GC; Smaug the Dragon; E2 5c; 70ft; lead RS,TW; <2>
+20-6-1999; GW; Frigg; VS 4b; 26m; sec NE
+20-6-1999; GW; Seth; E1 5b; 36m; lead NE; <1><S>
+20-6-1999; GW; Errant; E2 5c; 13m; lead NE; <1><T>
+20-6-1999; GW; South West Diedre; HVS 5a; 33m; lead NE; <2><E>
+19-6-1999; GW; Arch Slab; VS 4c; 24m; lead FW
+19-6-1999; GW; Joggled Wall Direct; HS 4b; 18m; sec FW
+19-6-1999; GW; Scavenger; VS 4b; 26m; lead TR,FW; <2><P ../routes/scavenger.jpg>
+19-6-1999; GW; East Ridge; VD 4c; 73m; solo; <P ../routes/solojunki.jpg>
+17-6-1999; GC; Elrond; VS 4c; 70ft; sec TW
+17-6-1999; GC; Gundabad; E1 5b; 70ft; sec TW
+17-6-1999; GC; Gondolin; VS 4b; 70ft; sec TW
+8-6-1999; AV; Howhard; HVS 5b,4b; 240ft; lead FW,SW; <1><E><V>
+26-5-1999; GC; Treebeard; VS 4c; 70ft; lead SW
+26-5-1999; GC; Elrond; VS 4c; 70ft; sec SW
+19-5-1999; AV; Earl of Perth; E1 5b,5a; 200ft; alt RS
+9-5-1999; AV; The Lich; HVS 5a; 90ft; lead FW
+9-5-1999; AV; The Corpse; HVS 5a; 90ft; sec FW
+1-5-1999; AV; New Horizons II; E2 5c; 60ft; lead TW; <2><P ../routes/newhorizons.jpg>
+1-5-1999; AV; Arms Race; E4 5c; 60ft; lead TW; <S><W><2><N ../armsrace.html><P ../routes/armsrace.jpg>
+	My arms were like two wooden planks half way up. Loads of good pro which held several falls including a couple of pretty long whippers. Pulled it through in the end (with full use of the ringbolt). Will be going back again for a redpoint attempt. Read Tim's trip report by clicking the appropriate icon.
+1-5-1999; AV; Jasper; HVS 5a; 80ft; lead TW
+9-4-1999; CG; Eden Crack; M; 150ft; lead LK,HL
+4-4-1999; GC; Gondolin; VS 4b; 70ft; lead FW; <1>
+4-4-1999; GC; Necromancer; HS 4b; 70ft; sec FW,TR
+4-4-1999; PQ; Pickpocket; HVS 5a; 150ft; lead MI
+28-3-1999; AV; Suspension Bridge Arete; HVS 5a; 110ft; sec FW
+28-3-1999; AV; Limbo direct; E1 5b,4b; 150ft; alt FW; <2><E>
+27-3-1999; CG; Viper crack; VS 5a; 70ft; lead FW,JC; <1><S>
+	Excellent day out in Cheddar. Weather was perfect and we finished the day of with this little steep splitter. We gave a rope end to a chap passing us on bicycle from London on his way to Penzane.
+27-3-1999; CG; Consolation; E1 5a,5b; 150ft; alt FW; <3><E><S><L><P ../routes/consolation.jpg>
+	Good route! Really good route.
+20-3-1999; WL; King Kong; E2 5c,5a,4a; 300ft; alt FW; <S><2><N ../kingkong.html><P ../routes/king.jpg>
+	The route has fallen down and we did the "new" King Kong. Serious stuff. *Very* sustained. I reckon it's E2.
+31-1-1999; JT; Damper; 5.9; 15m; sec MB; <S><P ../../mexico/img/damper.jpg>
+31-1-1999; JT; Western Saga; 5.9; 40m; lead FW,MB; <3><E><P ../../mexico/img/saga.jpg>
+	Brilliant fist/layback crack with exciting roof. Read the <a href="../western.html">Trip Report</a>.
+31-1-1999; JT; Fote Hog; 5.6; 45m; sec FW,MB; <3><E><P ../../mexico/img/foot.jpg>
+	Brilliantly exposed and steep, followed by finger crack and layback.
+31-1-1999; JT; Wild Wind; 5.9; 23m; sec MB,FW; <2><P ../../mexico/img/joshroute.jpg>
+31-1-1999; JT; Sail Away; 5.8; 25m; lead FW,MB; <2><P ../../mexico/img/mat-climb.jpg>
+	Felt easier than some of the previous days - are we finally getting used to Josh rock?
+30-1-1999; JT; Looney Tunes; 5.9; 30m; sec MB,FW
+30-1-1999; JT; Left Nixon Crack; 5.9+; 7m; sec MB; <S><P ../../mexico/img/nixon.jpg>
+30-1-1999; JT; Nuts and Bolts; 5.9; 50m; sec MB,FW; <3><B><T><P ../../mexico/img/nuts.jpg>
+29-1-1999; JT; Left Nixon Crack; 5.9+; 7m; lead- FW; <S><W>
+	Short, steep splitter!
+29-1-1999; JT; Buissonier; 5.7d; 20m; lead FW; <3><S><P ../../mexico/img/josh.jpg>
+	Very sustained layback flake.
+29-1-1999; JT; Mike's Book; 5.6 [2]; 50m; sec FW; <1>
+29-1-1999; JT; Double Cross; 5.7+; 25m; lead FW; <3>
+28-1-1999; JT; SW Corner; 5.6; 25m; lead FW; <3><B><E><P ../routes/swcorner.jpg>
+28-1-1999; JT; Drawstring; 5.7; 50m; lead FW; <W><P ../routes/drawstring.jpg>
+	The newly purchased camalot 4 was essential for this route.
+28-1-1999; JT; The Flake; 5.8; 40m; lead FW; <2><P ../routes/flake.jpg>
+	A scary introduction to Josh rock.
+20-1-1999; BA; Whalers Dues; VS 4c; 25m; lead FW; <1><W><P ../routes/cabo2.jpg>
+20-1-1999; BA; Red Sling; VS 4c; 25m; sec FW; <1><P ../routes/cabo.jpg>
+	Interesting climbing on the "decomposing granite", well-protected fun.
+15-1-1999; ES; Double Crack; E1 5a,5a; 50m; alt FW; <3>
+15-1-1999; ES; Page 99; E2 5b,5c; 50m; lead FW; <3><E><S><M><P ../routes/escalone2.jpg>
+	Very sustained jamming, and somewhat run-out at the top. Scary. A perfect climb with everything... Check out page 99 of "Climbing Magazine" - that's the one.
+14-1-1999; ES; Chameleon; E1 5b; 50m; lead FW; <3><P ../routes/chameleon.jpg>
+14-1-1999; ES; Double Crack and Top Jam; HVS 5b; 25m; sec FW; <3><P ../routes/escalone.jpg>
+13-1-1999; ES; Double Crack; VS 5a; 25m; sec FW; <3>
+	We climbed the first pitch and it got dark. We left the gear in and will continue tomorrow.
+13-1-1999; ES; Chimney; HVS 5b; 50m; lead FW; <3>
+13-1-1999; DI; Square Boulder 2; 5.11a; 8m; top; <B>
+13-1-1999; DI; Square Boulder 1; 5.11a; 8m; lead FW; <B>
+12-1-1999; DI; Front Face; 5.10d; 30m; lead FW; <B><T>
+	Very thin moves on steep slab, followed by a marginal dyno to clear an overhanging bulge.
+12-1-1999; DI; Paradise 2; 5.9; 20m; sec FW; <B>
+12-1-1999; DI; Paradise 1; 5.10; 20m; lead FW; <B>
+12-1-1999; DI; Alumbrado Publico; 5.9; 12m; sec FW; <B>
+12-1-1999; DI; Rokkesten; 5.10; 22m; lead FW; <B>
+12-1-1999; DI; Primavera; 5.9; 18m; sec FW; <B>
+12-1-1999; DI; Danza del Poder; 5.10b; 18m; lead FW; <B>
+12-1-1999; DI; Chimney; 5.8; 20m; sec FW; <B>
+10-1-1999; CU; Capitan Garfio; 5.10; 45m; lead FW; <3><B><S>
+9-1-1999; CU; Regalo Danese; E1 5b; 20m; lead FW; <3><S><M><P ../../mexico/img/regalo.jpg>
+	First Ascent!
+9-1-1999; CU; Pinche Gripa; 5.10a; 20m; sec FW; <1><B>
+9-1-1999; CU; Siquiriqui; 5.10d; 20m; lead FW; <2><B><T>
+9-1-1999; CU; Versachi; 5.10b; 20m; sec FW; <B><1>
+5-1-1999; BE; La Bernalina; 5.8 [6]; 270m; alt FW; <B><1>
+5-1-1999; BE; Chada? Dominical; 5.10a; 40m; lead FW; <B><2><P ../routes/chada.jpg><P ../routes/bernal.jpg>
+3-1-1999; AC; Symphonia de Ojas Secas; 5.9; 25m; lead FW; <3><S><T><M><N ../symphonia.html>
+	Absolutely brilliant route with everything: technical, jamming, strength, mantleshelf, layback, crack, face, etc...
+3-1-1999; AC; Tennis; 5.8; 25m; lead FW; <3>
+2-1-1999; AC; Right of Nacnactang; 5.10a; 25m; lead FW
+2-1-1999; AC; Crack; 5.10b; 25m; toprope
+2-1-1999; AC; Nacnactang?; 5.10b; 25m; lead FW; <B><2><P ../routes/nacnac.jpg>
+2-1-1999; AC; La Proa; 5.8; 30m; lead FW; <3>
+20-12-1998; TU; Sea Travers; V2; 40m; FW; <P ../routes/tulum.jpg>
+18-12-1998; TU; Tulum Pillar; VS 4c; 12m; solo; <3><M><P ../../mexico/img/tulum.jpg>
+	Great place. Superb rock rising from the beach. Very soft sand, good for a potential fall.
+8-12-1998; SM; Chop Chop Machette Galore; HVS (-,-,-,5b,-,-); 100m; alt FW; <3><V><N ../machete.html>
+	New route. Good experience. A festive climb.
+8-11-1998; WL; Notung; E1 5a/b; 180ft; lead MB; <3>
+8-11-1998; WL; Pig Iron; E2 5b; 60ft; lead MB; <1>
+7-11-1998; SD; The Midas Touch; HVS 5b; 80ft; lead CH
+7-11-1998; SD; Moonraker; HVS 5a,4b,4c; 250ft; alt CH; <3>
+18-10-1998; YO; Reed's Pinnacle Direct; 5.9 [2]; 50m; sec MB; <3><P ../routes/reeds.jpg>
+17-10-1998; YO; Fairview Dome Regular Route; 5.9 [11]; 400m; alt MB; <3><P ../routes/fairview.jpg>
+	We videoed the ascent. Come around my boat if you want to see it.
+11-10-1998; YO; Positively 4th Street; 5.9 [5]; 120m; alt MB; <3><P ../positively.html>
+	Brilliant laybacking, jamming and underclinging. Thanks for the tip Royston.
+11-10-1998; YO; Little John Left; 5.8; 40m; lead MB; <2><S><P ../routes/elcap.jpg>
+10-10-1998; YO; Needle Spoon; 5.10a [2]; 60m; sec MB; <3><T><B>
+	Ultra Technical slab. Martin at his best.
+12-9-1998; PD; Left Unconquerable; E1 5a; 13m; sec TW; <2>
+12-9-1998; PD; Right Unconquerable; HVS 5b; 13m; lead TW; <1>
+6-9-1998; SQ; Certain Suprise; E2 5b; 90ft; sec MB; <1><S><N ../certainsurprise.html>
+5-9-1998; ND; Midnight Cowboy; HVS 4c,5a/b,4b; 240ft; alt MB; <1><N ../midnight.html>
+5-9-1998; ND; Fools Rush In; E1 4c,5b,-; 420ft; alt MB; <2><T>
+	Really technical traverse of the Baggy Point Promontory Slab. I was pretty close to not making it, but eventually pulled it through.
+5-9-1998; ND; Lost Horizons; HVS 5a; 150ft; lead MB; <2>
+5-9-1998; ND; Terrapin; E3 5b; 150ft; sec MB; <3><T><N ../terrapin.html>
+            A bold lead by Martin Beale (his first E3 lead). Read his <a href="../terrapin.html">story in here.</a>
+31-8-1998; PB; Rock Idol; E1 5a/b; 140ft; lead TW; <3><E>
+31-8-1998; PB; The Hole; E1 5b; 120ft; lead TW; <2>
+31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3><P ../routes/manzuko.jpg>
+31-8-1998; PB; World War III Blues; E1 5b; 65ft; sec TW; <2><S>
+30-8-1998; PB; Deep Space; E2 5b,5a; 150ft; alt TW; <3><P ../routes/deepspace.jpg>
+30-8-1998; PB; The Strait Gate; E2 5b; 150ft; sec TW; <3>
+30-8-1998; PB; Brazen Butress Triple Direct; E2 5b; 120ft; lead TW; <P ../routes/brazenbutress.jpg>
+             Desperately off route I climbed three routes in one.
+29-8-1998; PB; Kraken; E1 5a; 110ft; lead TW; <2><S><E>
+29-8-1998; PB; Hangover 77; E1 5a/b; 100ft; sec TW; <1>
+29-8-1998; PB; War Games; E2 5b; 110ft; lead TW; <2><P ../routes/wargames.jpg>
+29-8-1998; PB; Depraved; E1 5b; 120ft; sec TW 
+29-8-1998; PB; Howling Gale; E3 6a; 90ft; lead TW; <1><T><P ../routes/howling.jpg>
+             My first E36a OSF
+29-8-1998; PB; First Blood; E2 5c; 120ft; sec TW; <2>
+             Hard warm up!
+22-8-1998; BG; Venusberg; VS 4a,4c,4b; 210ft; alt TW; <1>
+
+22-8-1998; BG; Thin Wall Special; E1 5b,5a; 210ft; alt TW; <3>
+             Technical start. Exposed roof in the finish. Excellent route.
+22-8-1998; BG; Doorpost; HS 4a,4b,4a; 210ft; alt TW; <1>
+18-8-1998; WL; Firefly; E2 4c,5c; 190ft; alt TW; <2>
+             We climbed this Wintour's Leap classic in perfect conditions. Tim had a rare lack of confidence and I lowered him down from the midway stance. I was then left on my own on the ledge 25 meter above the ground, waiting for Tim to throw down a rope from the top. This he did, and I finished the route. Nice little Tuesday evening epic.
+11-8-1998; UC; Red in the corner (indoor); 7a+; 12m; lead TW; <B><M>
+             Although indoor climbing is not featured a lot on Willerup.com, I thought it appropriate to log my first ever 7a flash. Yooor! 
+10-8-1998; SM; Rain Something; E2 5c; 80ft; sec TW,MB; <1>
+10-8-1998; SM; Eczema; E2 5c; 80ft; sec MB,TW; <P ../routes/shake.jpg>
+6-8-1998; SC; The New Replublic; HVS 5a; 90ft; sec MB 
+6-8-1998; SC; War is Declared; E1 5b; 90ft; sec MB; <1>
+6-8-1998; SC; One for All; HS 4a; 100ft; sec MB
+6-8-1998; SC; Laughing Cavaliers; HVS 5b; 90ft; sec MB
+5-8-1998; SC; No Musketeers Direct; E1 5c; 90ft; sec MB
+            We <a href="../routes/shorn-camp.jpg">camped at the bottom of Shorn Cliff</a> and ticked four more routes the next morning before going to work at 9am. (Started climbing at 5:30am).
+5-8-1998; SC; Bitter Battle Tears; HVS 5b; 90ft; sec MB
+5-8-1998; SC; All for One; HVS 5a; 90ft; sec MB
+2-8-1998; GG; Britomartis; HVS 5a,4c; 190ft; alt TW; <3><P ../routes/britomartis.jpg>
+2-8-1998; GG; The Strand; E2 5b,4c; 160ft; alt TW; <3><S><P ../routes/strand.jpg><P ../routes/strand.gif>
+            Very dodgy second pitch - specially in the light of a <a href="../routes/news.gif">guy plunging to the ground</a> the day before. First pitch is excellent though!
+1-8-1998; GG; Gogarth; E1 4b,5a,4c,4b,5b; 360ft; alt RS,TW; <3><E><P ../routes/gogarth.jpg>
+31-7-1998; GG; A Dream of White Horses; HVS 4c,4c,4c; 350ft; alt RS,TW; <3><P ../routes/r1.gif>
+             We were passed by three young lads who where soloing the Dream. Good going! (Tim later found out that one of them was Leo Houlding - young English E8-climber!)
+27-7-1998; SC; War of the Worlds; VS 4c; 90ft; sec MB; <1><P ../routes/war.jpg>
+27-7-1998; SC; One For All; S 4a; 100ft; sec MB; <P ../routes/oneforall.gif>
+30-6-1998; SC; Loss of Innocence; HVS 5b; 110ft; lead RS; <2>
+30-6-1998; SC; Easy Rider; E1 5b; 105ft; sec RS; <2>
+22-6-1998; PQ; Highway One; E4 6a; 140ft; sec TW; <3><T><N ../highwayone.html>
+22-6-1998; PQ; The Brink Of Solarity; HVS 4c; 150ft; lead TW
+16-6-1998; SC; Treason; E1 5a; 90ft; lead RS,DP; <1>
+16-6-1998; SC; Laughing Cavaliers; HVS 5b; 90ft; sec RS,DP
+6-6-1998; AV; Suspension Bridge Arete; HVS 5a; 110ft; lead TW 
+6-6-1998; AV; Earl of Perth; E1 5b,5a; 200ft; alt TW; <1><P><S>
+6-6-1998; AV; Suspense; HVS 5a; 110ft; sec TW
+31-5-1998; PB; Hangover 77; E1 5b; 100ft; lead VH; <3><S><E>
+31-5-1998; PB; B-Team Butress; E1 5b; 90ft; sec VH; <2><T>
+31-5-1998; PB; Aero; VS 5a; 90ft; lead VH
+30-5-1998; PB; Whispering Wind; E1 5b; 90ft; lead VH; <2>
+30-5-1998; PB; Rear Wind; HVS 5a; 90ft; sec VH; <1>
+30-5-1998; PB; Cool for Cats; E1 5b; 120ft; lead VH; <3>
+30-5-1998; PB; Limbo; VS 4c; 75ft; sec VH
+30-5-1998; PB; Manzoku; E1 5b; 120ft; lead VH; <2>
+             I had forgotten all my friends for this weekend so all the routes were done on a set of nuts. Quite okay actually.
+25-5-1998; PB; Blue Sky; VS 4b,4b; 180ft; alt WW; <3><E>
+25-5-1998; PB; World War III Blues; E1 5b; 65ft; lead WW; <2><S>
+25-5-1998; PB; Hercules; HVS 5a; 110ft; lead WW; <2>
+25-5-1998; PB; Limbo; VS 4c; 75ft; lead WW; <1>
+25-5-1998; PB; Stennis Pillar; HVS 4c,4a; 130ft; alt WW; <E>
+24-5-1998; PB; Inner Space; HVS 4b,4c,4c; 140ft; lead WW; <3><S><E>
+24-5-1998; PB; Sea Groove; VS 4b; 140ft; lead WW; <2>
+23-5-1998; PB; Flanker; VS 4c; 130ft; lead WW
+23-5-1998; PB; Deranged; E2 5b; 120ft; lead WW; <3><T><S><M>
+23-5-1998; PB; Tactician; HVS 5a; 110ft; lead WW; <2>
+23-5-1998; PB; Front Line; HVS 5a; 110ft; lead WW; <1>
+21-5-1998; WC; Mecca; E3 5c; 100ft; sec TW; <W>
+             I rested on the rope. Tim took quite a whipper.
+21-5-1998; WC; Trial; HVS 5a; 100ft; sec TW,MB; <1>
+20-5-1998; AV; Hell Gates Direct; HVS 5a,5a,4b; 250ft; alt WW; <3><P ../routes/hell5.jpg>
+19-5-1998; AV; Floating Voter; VS 4b; 80ft; lead RS 
+19-5-1998; AV; Jasper; HVS 5a; 80ft; lead RS; <P>
+17-5-1998; WL; Butterfly; VS 4c; 85ft; alt TW; <1><P ../routes/butterfly.jpg>
+17-5-1998; WL; The Split; VS 4b; 50ft; lead TW; <1>
+17-5-1998; WL; Swatter; HVS 5a,5a; 100ft; alt TW; <2>
+17-5-1998; WL; Split Flies; E2 5a,5c; 90ft; alt TW 
+17-5-1998; WL; Freedom; VS 4b,4c; 100ft; alt TW; <2>
+12-5-1998; SC; Side Effects; E1 5b; 60ft; lead PW; <3><P ../routes/sideeffects.jpg>
+12-5-1998; SC; Tigers don't Cry; HVS 5b; 65ft; lead PW; <3><P ../routes/tigers.jpg>
+10-5-1998; YS; Pothole Direct; VS 5a; 10m; sec TW 
+10-5-1998; YS; The Traditional Climb; VS 4c; 10m; lead TW 
+10-5-1998; YS; Great Western; HVS 5a; 20m; lead TW; <3><E>
+10-5-1998; YS; Frankland's Green Crack; VS 4c; 20m; sec TW 
+9-5-1998; PD; Congo Corner Direct; HVS 5a; 20m; lead TW; <2><E><S>
+9-5-1998; PD; Dangler; E2 5c; 20m; sec TW, RS; <S>
+            Royston and I had to rest on the rope - very strenious stuff.
+9-5-1998; PD; Eliminator; HVS 5a; 20m; lead TW,RS; <1>
+9-5-1998; PD; Flying Butress Direct; E1 5b; 20m; sec TW,RS
+4-5-1998; PB; The Crucifix; VS 4c; 160ft; lead WW
+4-5-1998; PB; Michelangelo; VS 4c; 150ft; lead WW 
+4-5-1998; PB; The Crucifix; VS 4c; 160ft; lead WW 
+4-5-1998; PB; Razzle Dazzle; VS 4c; 150ft; lead WW; <1>
+4-5-1998; PB; The Gadfly; VS 4c; 140ft; lead JI,WW; <T>
+4-5-1998; PB; Bow-shaped Slap; HS 4a; 140ft; sec JI,WW 
+3-5-1998; PB; Sea mist; HS 4a; 90ft; sec JI,WW
+3-5-1998; PB; Ocean passage; VS 4c, 4a; 150ft; alt JI,WW; <1>
+3-5-1998; PB; Riders on the storm; HVS 5a; 100ft; lead JI; <3><T><P ../routes/riders.jpg>
+3-5-1998; PB; Ouickstep; VS 4b; 60ft; lead JI,WW 
+3-5-1998; PB; Highland fling; VS 4b; 60ft; sec JI,WW 
+2-5-1998; PB; Cupids Bow; HVS 5a; 130ft; lead JI; <1><T>
+            I couldn't do the direct start and had to traverse in from the left.
+2-5-1998; PB; The Arrow; E1 5b; 130ft; lead WW; <2>
+2-5-1998; PB; Chieftain; VS 4b; 80ft; lead WW 
+2-5-1998; PB; Army Dreamers; HVS 5a; 75ft; lead WW; <1>
+2-5-1998; PB; Bomb bay; VS 4a; 60ft; lead WW 
+2-5-1998; PB; Shell Shock; VS 4c; 65ft; lead WW; <1>
+2-5-1998; PB; Sandbagged; VS 4C; 70ft; lead WW 
+2-5-1998; PB; Stacked Against; VS 4b; 75ft; lead WW; <P ../pembroke/index.html>
+            <a href="../pembroke/index.html">Check out the photos</a> from the weekend
+30-4-1998; SC; Organ Grinder; HVS 5a; 55ft; lead MB; <1>
+             Disturbed an Owl with - owlings?...
+30-4-1998; SC; Night Rider; VS 4c; 100ft; sec MB
+30-4-1998; SC; One Less White Nigger; HVS 4c; 100ft; lead MB
+28-4-1998; SC; Emotional Dyslexia; HVS 5a; 90ft; lead MB; <1>
+28-4-1998; SC; Bursting the Renaissance Bubble; HVS 5b; 65ft; sec MB
+28-4-1998; SC; Renaissance; E1 5b; 65ft; lead MB
+26-4-1998; CL; Terrier's Tooth; VD 4a; 130ft; alt MB; <N ../terrier.html>
+             We were forced to climb this route in pretty extreme conditions. <a href="../terrier.html"> Read the short story here.</a>
+26-4-1998; CL; Diocese; VS 4c,5a,4b; 200ft; alt MB; <3><E><P ../routes/diocese.jpg>
+             Cornwall at its best
+26-4-1998; CL; Bishop's Rib; E1 5b,5a; 190ft; alt MB; <2><T>
+26-4-1998; CL; Flannel Avenue; S 4b,4a; 185ft; alt MB
+25-4-1998; BG; Doorway Direct; HVS 5a,4a; 190ft; alt MB; <2>
+             Martin did the start - HARD
+25-4-1998; BG; Ocre Slab I; VS 4b,4c; 130ft; alt MB; <1>
+             Interesting slab - windy and exposed
+25-4-1998; BG; Anvil Chorus; HVS 4b,4b,4c,4c; 190ft; alt MB; <3><P ../routes/anvil.jpg>
+             Superb layback
+25-4-1998; BG; Doorpost; HS 4a,4b; 210ft; alt MB
+25-4-1998; BG; Little Brown Jug Direct; HVS 5a,5a; 200ft; alt MB; <2>
+7-4-1998; SC; All For One...; HVS 5a; 85ft; sec MB; <1>
+7-4-1998; SC; Bitter Battle Tears; HVS 5a; 85ft; lead MB; <1>
+31-1-1998; LD; Central Gully (Ice); Grade 3; 200m; alt TW; <3><L><M><N ../central.html>
+             My first proper iceclimb. Good stuff, although a bit thin and delicate at places. Released a huge rock which thundered down the gully which was packed with 4-5 other teams. Not good! Nobody got hurt luckily. <a href="../central.html">Here's a trip report plus some photos</a>
+28-09-1997; GU; Right Corner Alternative; VS 4a,4c,4b; 200ft; alt WW; <L><P ../routes/rightwall.jpg>
+              Some dudes before us psyked out and we had to create a route directly upwards from our stance to get out of the place.
+28-09-1997; CL; South Face Direct; VS 4b,4c,4b,4a; 170ft; alt WW; <3>
+27-09-1997; SE; Demo Route; HS 4b,4b; 80ft; alt WW; <2><P ../routes/demoroute.jpg>
+13-09-1997; PQ; The Baldest; E1 5b; 90ft; sec TW 
+13-09-1997; PQ; Pickpocket; HVS 5a; 150ft; lead TW 
+19-08-1997; SC; Motion Pictures; E1 5b; 70ft; sec TW,MB
+19-08-1997; SC; State of Independence; VS 4b; 60ft; lead SW
+14-08-1997; TQ; Dinosaurs don't dino; E2 5b; 60ft; lead TW; <B>
+14-08-1997; TQ; Pocket full of Cryptonite; E1 5b; 60ft; lead TW; <B>
+12-08-1997; SC; Beeline; VS 4c; 50ft; lead TW
+12-08-1997; SC; Pooh Stick; E1 5b; 60ft; sec TW
+10-08-1997; AV; Piton Route; VS 4c, 4a, 4b; 120ft; alt SF 
+08-06-1997; AV; Daydream; VS 5a; 80ft; sec WW,PD 
+              It started pissing down while I was on the route which made the polished and slippery Avon Rock even more impossible to climb.
+01-06-1997; SE; Church corner; ; 80ft; sec WW,PD 
+              Due to some serious partying the day before I managed to forget my harness and climbing boots. I climbed this route in a borrowed harness and teva sandals</a>.
+23-4-1997; WC; The Firebird; HVS 5a; 100ft; sec TW; <1>
+23-4-1997; WC; Cadillac; VS 4c; 100ft; lead TW; <1>
+21-4-1997; WC; Questor; VS 4c; 110ft; lead TW; <2>
+21-4-1997; WC; Suncrush; HVS 5a/b ; 110ft; sec TW; <1>
+16-10-1996; BX; Grande Veine Bleu; 6a; 30m; lead OR,HW; <2><B><S>
+16-10-1996; BX; Bloc Note; 5c; 30m; lead OR,HW; <B>
+16-10-1996; BX; Le Tozal; 5c; 30m; lead OR; <B>
+16-10-1996; BX; La Voliere; 5b; 30m; lead OR; <B>
+              Ole almost bought the ticket on this climb.
+12-10-1996; GR; Nuit de Cauchemar; 6b, 6a, 6a, 6a+; 90m; alt DS; <B>
+12-9-1996; SW; Various Routes; ; 170ft; alt MI
+23-6-1996; LD; A lot of nice routes; VS; 200ft; alt SF
+20-6-1996; GW; Osiris; VS 4c; 36m; lead WW; <2>
+6-5-1996; SD; Argonaut; VS 4c; 80ft; lead JI; <2>
+6-5-1996; SD; Solid Air; HS 4a; 70ft; second JI
+4-5-1996; SD; Solid Air; S; 110ft; alt JI
+15-10-1995; CG; Coronation Street; E1 4b,4a,5b,5a,5b,5a; 390ft; alt FW; <3><S><E><L><P><V><M><P ../routes/coronation-street.jpg><N ../cstreet.html>
+	I still wake up with cold sweat on my forehead. <a href="../cstreet.html">Complete Trip Report in here.</a>
+8-10-1995; SW; Finale Groove; HVS 4c; 100ft; lead FW; <3>;<E><P ../routes/finale.jpg>
+1-10-1995; AV; Giant's Cave Butress; VS 4c,4a,4c; 250ft; alt FW+MF 
+17-9-1995; AV; Suspense; HVS 5a; 110ft; lead FW; <1>
+17-9-1995; AV; Limbo; HVS 5b,4b; 150ft; sec FW; <2><T>
+3-9-1995; SC; All For One...; HVS 5a; 85ft; sec FW; <1>
+3-9-1995; SC; Bitter Battle Tears; HVS 5a; 85ft; lead FW; <1>
+3-9-1995; SC; Laughing Cavaliers; HVS 5a; 90ft; sec FW; <2>
+3-9-1995; SC; Emotional Dyslexia; HVS 5a; 85ft; lead FW 
+3-9-1995; SC; Organ Grinder; HVS 4c; 85ft; sec FW; <2>
+3-9-1995; SC; Tigers Don't Cry; HVS 5a; 85ft; lead FW; <2><S><M>
+3-9-1995; AV; The Arete; VD -,-,4a; 120ft; alt FW 
+	Pissing rain and big boots.
+27-5-1995; CH; Le Pilier; V+; 30m; sec FW,DS; <B>
+27-5-1995; CH; Le Diedre de Gauche; V+; 30m; sec FW,DS; <B>
+27-5-1995; CH; Le Ckisia; 6a+; 27m; sec FW,DS; <2><B>
+27-5-1995; CH; Jypsckey; 6b; 27m; sec FW,DS; <2><B>
+9-6-1995; CH; L'arete des Bucherons; V+; 25m; sec FW; <B> 
+9-6-1995; CH; La Batson; 6a+; 20m; sec- FW; <1><B>
+10-6-1995; CH; La Titi; V+,V+; 70m; alt FW; <B>
+	It pissed down when we climbed the second pitch
+2-6-1995; CA; Super Sirene; V+,6a,6a,IV,IV; 100m; alt- FW; <2><B>
+3-6-1995; CA; La Saphir/Sortie des Artistes; IV,II,V-,V+; 80m; alt FW; <1><B>
+3-6-1995; CA; Petite Aiguille I; IV; 25m; sec FW ; <B>
+2-6-1995; CA; Petite Aiguille II; IV; 25m; lead FW ; <B>
+3-6-1995; CA; Debilodrome; V; 25m; lead FW; <1><B>
+; SW; Transcript Direct; VS 5a; 50ft; sec FW; <2>
+; NW; Crown of Thorns; S [3]; 135ft; alt FW 
+; NW; Rib and Slab; VD [2]; 250ft; alt FW,HW 
+; NW; The Wrinkle; VD [3]; 235ft; alt FW,HW 
+; NW; Lion; VS 4a,4c,-,4a; 285ft; alt FW; <2><E>
+; NW; Crackstone Rib; S [3]; 175ft; alt FW 
+; NW; Dives/Better Things; HS 4a,-,4a; 210ft; alt FW; <2>
+; GG; A Dream of White Horses; HVS 4c,4c,4c; 350ft; alt FW; <3><E><P ../adream.html>
+; NW; Creagh Dhu Wall; HS; 200ft; alt FW,HW; <1>
+; NW; Grooved Arete; VD [5];  ; alt FW,HW; <1>
+; NW; Tennis Shoe; S [6]; 465ft; alt FW,HW 
+; EC; Paco Eugene; 5,4,3,5,6a;  ; alt FW; <2><B>
+; EC; Algo Sobrela Virgin; 6b;  ; lead FW; <1><B>
+; EC; El Perito Caliente; 6a+;  ; sec FW; <1><B>
+; EC; Aspro Manis; 5+;  ; sec FW; <B> 
+; EC; Gecha el Cielo; 4+,6a,5,5+,5+; 390ft; alt FW; <2><B>
+; EC; Avion Roquero; 5,5+,5+; 210ft; alt FW,DS; <2><B>
+; EC; Zeppelin (first 3 pitches); 4,6a+,5; 250ft; alt FW;<B><S><T> 
+	We gave up because it was burning hot and too difficult.
+; EC; Troncomouil; 6a;  ; lead FW; <B> 
+; EC; Amptrax; 3,4,4+,5,5,5,5,4; 560ft; alt FW; <2><B>
+; EC; Camello Cojo; 5;  ; sec FW; <B> 
+; EC; Fisura de Los Santos; 5;  ; lead FW; <B> 
+; EC; El Monstruo de Las Galletas; 5+;  ; sec FW; <B> 
+; EC; Inominata; 5;  ; lead FW; <B> 
+; EC; Number 1; 4;  ; sec FW; <B> 
+; EC; Super Galetta; 5+;  ; lead FW; <1><B>
+; EC; Los Mandriles No Comen Galletas; 6a;  ; sec FW; <1><B>
+; EC; Empotrador Empotrad; 4+,4+;  ; alt FW; <B> 
+; EC; Amarilla; 5,5+; 140ft; sec FW,DS; <1><B>
+; EC; The Wire; VS (Very Scary); 300ft; alt FW; <3><E><M>
+; TE; El Regreso del Patron (first half); 7a;  ; alt- FW; <B> 
+	We didn't have a topo at this time and the line looked reasonable. It wasn't, so we went off route to easier ground before the crux
+; TE; Barrio Conflictivo; 6a+;  ; lead FW; <2><B>
+; TE; Esponlon del Rampa; 6a;  ; FW; <B> 
+; TE; Papeo Chachi; 6a;  ; FW; <B> 
+; TE; Super Lopez; 6b;  ; FW; <T><B> 
+; TE; McNesio; 6a;  ; FW; <B> 
+; TE; Diedre; IV+;  ; sec FW 
+; TE; Waterloo; V+;  ; lead FW; <1><B><S>
+; TE; No Repercute; 6a+;  ; sec- FW; <2><B>
+; TE; El Senor de las Bestitas; 6b;  ; lead FW; <B> 
+; KU; One tricky move; V-; 8m; lead
+; KU; Originalruten; III; 18m; lead 
+; KU; Diedren; III; 14m; lead 
+; KU; Den store diedre; III; 14m; lead 
+; KU; Toebrud; III; 20m; lead
+; KU; Ventetiden; IV; 20m; lead 
+; KU; Svenskeruten; V-; 18m; lead; <3>
+; KU; Finger jam; V+; 13m; lead-; <3>
+; KU; Spirillen; V; 12m; lead 
+; KU; Pentymal/Daffy jam; V; 12m; lead 
+; KU; Diedren; III+; 12m; lead 
+; KU; Den stejle groove; IV; 12m; lead 
+; KU; Traditionel; III+; 22m; lead 
+; KU; Den hoeje travers; V; 50m; lead 
+; KU; Klasisk IV; IV; 25m; lead 
+; KU; Koalakanten; V+; 18m; top 
+; KU; P.S. Diedren; IV; 18m; lead 
+; KU; Originalruten; V-; 20m; lead; <2>
+      A little piece of quartz got into my eye and I had to get it out with local anastaetic the next day on the hospital. Very nasty. 
+; KU; Svaeveflyvervaeggen; V-; 40m; lead 
+; KU; Myretuen; IV+; 18m; lead 
+; KU; Svenskervaeggen; IV; 50m; lead 
+; KU; Lynet; A1/2; 22m; lead JR
+      My first aid climb. Excellent stuff. I fell on my smallest rp, and it held. Good good fun.
+; KU; Traditionel; III+; 22m; sec JR,SH;
+      September 1991. My first ever climb. Jesper Ritzau took Simon Hauch and me up this 2 pitch route on Aakermansberget on Kullen. I was pretty excited for almost a whole year having done this one climb. It was good fun and it was the start of something big!
