@@ -8,7 +8,9 @@
 # The script uses climbs-frame.html to generate the stuff around the actual
 # data. Modify that file if you need different headers, footers or whatever.
 #
-# Written by Frederik Willerup, Jan 97
+# Author:   Frederik Willerup 
+# Created:  January 1997
+# Modified: January 2022 (mw) mathias@willerup.com
 #
 
 # require("extenv.pl");
@@ -19,44 +21,44 @@ $src = ".";
 $dest = "./html";
 
 # Color constants
-$Chead = "BGCOLOR=#ccccff";
-$Cbody = "BGCOLOR=#f2f2f8";
+$Chead = "";
+$Cbody = 'class="q"';
 @Cbody = ("#e6e6e6","#eaeaea","#eeeeee","#f2f2f2","#f6f6f6","#fafafa");
 @Ctext = ("#000000","#444444","#777777","#999999","#bbbbbb","#d8d8d8");
 $Ccomment = "";
 
-$Istar1 = '<img src="img/star1.gif" alt="Good" height=10 width=10>';
-$Istar2 = '<img src="img/star2.gif" alt="Great" height=10 width=19>';
-$Istar3 = '<img src="img/star3.gif" alt="Superb" height=10 width=28>';
+$Istar1 = '&#129482;'; #ice
+$Istar2 = '&#127956;'; #mount
+$Istar3 = '&#128371;';  #cave 
 
 # Some table formatting
-$Hdate = "<td>Date</td>";
-$Hname = "<td>Route</td>";
-$Harea = "<td align=center>Area</td>";
-$Hpeople = "<td>Partner(s)</td>";
-$Hgrade = "<td align=center>Grade</td>";
-$Hheight = "<td align=center>Height</td>";
-$Hicons =  "<td align=right>Notes</td>";
-$Hstars = "<td>&nbsp;</td>";
+$Hstars = "";
+$Hdate = "";
+$Hname = "";
+$Harea = "";
+$Hpeople = "";
+$Hgrade = "";
+$Hheight = "";
+$Hicons =  "";
 
-$Tdate = '<td><font size=1>';
-$Tdate1 = '</font></td>';
-$Tname = '<td nowrap><b>';
-$Tname1 = '</b></td>';
-$Tarea = '<td align=center>';
-$Tarea1 = '</td>';
-$Tpeople = '<td>';
-$Tpeople1 = '</td>';
-$Tgrade = '<td align=center>'; #'<td><font size=1>';
-$Tgrade1 = '</td>'; #'</font></td>';
-$Theight = '<td align=center>';
-$Theight1 = '</td>';
-$Ticons =  '<td align=right>';
-$Ticons1 = '</td>';
-$Tstars =  '<td align=right>';
-$Tstars1 = '</td>';
+$Tstars = ' ';
+$Tstars1 = '/';
+$Tdate = ' ';
+$Tdate1 = '/';
+$Tname = ' ';
+$Tname1 = '/';
+$Tarea = ' ';
+$Tarea1 = '/';
+$Tpeople = ' ';
+$Tpeople1 = '/';
+$Tgrade = ' '; #'<td>';
+$Tgrade1 = '/'; #'</td>';
+$Theight = ' ';
+$Theight1 = '/';
+$Ticons =  ' '; #'<td style="padding: 0px 0px 0px 4px">'
+$Ticons1 = '/';
 
-$Ttable = '<table width=100% cellspacing=2 cellpadding=0 border=0>';
+$Ttable = '';
 
 
 # Global Routines and things
@@ -194,21 +196,32 @@ while (<CLIMBS>) {
         $height = '&nbsp;' unless ($height);
 
         # Icons
-        $i1 = '<img src=';
-        $i2 = ' height=10>'; # align=bottom>';
+        $i1 = '<img src='; # '<img src=';
+        $i2 = ' height=18>'; # ' height=18>';
 	$mind = $icons =~ /<M>/;
-        $icons =~ s/<E>/$i1"img\/heart.gif" alt="Scary" width=14$i2/g;
+        $icons =~ s/<E>/$i1"img\/heart.gif" alt="Scary" width=18$i2/g; 
+        $icons =~ s/<I>/&#129482;/g;
+        $icons =~ s/<1S>/*/g;
+        $icons =~ s/<2S>/**/g;
+        $icons =~ s/<3S>/***/g;
+        #$icons =~ s/<I>/$i1"img\/ice.gif" alt="Ice" width=18$i2/g;
+        $icons =~ s/<Q>/$i1"img\/bail.gif" alt="Bail" width=24$i2/g;
+        #$icons =~ s/<C>/$i1"img\/cave.gif" alt="Cave" width=15 height=15>/g;
+        $icons =~ s/<C1>/$i1"img\/A.gif" alt="Cave beginner" width=18$i2/g;
+        $icons =~ s/<C2>/$i1"img\/B.gif" alt="Cave challenge" width=18$i2/g;
+        $icons =~ s/<C3>/$i1"img\/C.gif" alt="Cave intermediate" width=18$i2/g;
+        $icons =~ s/<C4>/$i1"img\/D.gif" alt="Cave expert" width=18$i2/g;
         $icons =~ s/<S>/$i1"img\/arm.gif" alt="Streneous" width=16$i2/g;
-        $icons =~ s/<T>/$i1"img\/technical.gif" alt="Technical" width=12$i2/g;
-        $icons =~ s/<L>/$i1"img\/loose.gif" alt="Loose" width=11$i2/g;
-        $icons =~ s/<W>/$i1"img\/whipper.gif" alt="Whipper" width=9$i2/g;
-        $icons =~ s/<P>/$i1"img\/polished.gif" alt="Polished" width=10$i2/g;
-        $icons =~ s/<B>/$i1"img\/bolted.gif" alt="Bolted" width=9$i2/g;
-        $icons =~ s/<V>/$i1"img\/vegetabled.gif" alt="Vegetabled" width=11$i2/g;
-        $icons =~ s/<M>/$i1"img\/mindblow.gif" alt="Mindblower" width=13$i2/g;
-        $icons =~ s/<R>/$i1"img\/runout.gif" alt="Runout" width=10$i2/g;
-        $icons =~ s/<N ([^\>]*)>/<a href="\1">$i1"img\/note.gif" border=0 alt="Note" width=10$i2<\/a>/g;
-        $icons =~ s/<P ([^\>]*)>/<a href="\1">$i1"img\/photo.gif" border=0 alt="Photo" width=13$i2<\/a>/g;
+        # $icons =~ s/<T>/$i1"img\/technical.gif" alt="Technical" width=12$i2/g;
+        # $icons =~ s/<L>/$i1"img\/loose.gif" alt="Loose" width=11$i2/g;
+        $icons =~ s/<W>/$i1"img\/whipper.gif" alt="Whipper" width=36$i2/g;
+        # $icons =~ s/<P>/$i1"img\/polished.gif" alt="Polished" width=10$i2/g;
+        $icons =~ s/<B>/$i1"img\/bolted.gif" alt="Bolted" width=18$i2/g;
+        # $icons =~ s/<V>/$i1"img\/vegetabled.gif" alt="Vegetabled" width=11$i2/g;
+        $icons =~ s/<M>/&#127798;/g;
+        # $icons =~ s/<R>/$i1"img\/runout.gif" alt="Runout" width=10$i2/g;
+        $icons =~ s/<N ([^\>]*)>/<a href="\1">$i1"img\/note.gif" border=0 alt="Note" width=18$i2<\/a>/g;
+        $icons =~ s/<P ([^\>]*)>/<a href="\1">$i1"img\/photo.gif" border=0 alt="Photo" width=18$i2<\/a>/g;
 
         #$icons = sprintf("<%d>",$nstars) . $icons if ($nstars && !($icons =~ /<\d>/));
         #$icons =~ s/<1>/$Istar1/g;
@@ -230,11 +243,11 @@ while (<CLIMBS>) {
             $sdate = "00000000";
             $date = "&nbsp;";
         }
-        $d =~ s/1$/1st/;
-        $d =~ s/2$/2nd/;
-        $d =~ s/3$/3rd/;
-        $d =~ s/([04-9])$/\1th/;
-        $d =~ s/(1[0-9])../\1th/;
+        $d =~ s/1$/1/;
+        $d =~ s/2$/2/;
+        $d =~ s/3$/3/;
+        $d =~ s/([04-9])$/\1/;
+        $d =~ s/(1[0-9])../\1/;
 	  $cdate{$ndate} .= "|" if ($cdate{$ndate});
         $cdate{$ndate} .= "$sdate~$d~$name~$sarea~$grade~$height~$speople~$icons~$stars~";
 
@@ -256,10 +269,10 @@ while (<CLIMBS>) {
             $cstars{$nstars} .=  "$sdate~$date~$name~$sarea~$grade~$height~$speople~$icons~$stars~";
 
         }
-        if ($mind) {
-            $cstars{4} .= "|" if ($cstars{4});
-            $cstars{4} .=  "$sdate~$date~$name~$sarea~$grade~$height~$speople~$icons~$stars~";
-	  }
+#        if ($mind) {
+#           $cstars{4} .= "|" if ($cstars{4});
+#          $cstars{4} .=  "$sdate~$date~$name~$sarea~$grade~$height~$speople~$icons~$stars~";
+# }
 
         # @grade
         $base = &basegrade($grade);
@@ -334,19 +347,18 @@ while (<IN>) {
         # Write AREA
         %stat = ();
         foreach $area(sort keys %carea) {
-            $output = "<a name=\"$area\"></a><hr><h2>$larea{$area} ($area)</h2>\n";
-            $output .= "$Ttable\n";
-            $output .= "<tr $Chead>$Hdate$Hstars$Hname$Hgrade$Hheight$Hpeople$Hicons</tr>\n";
+            $output = "<a name=\"$area\"></a><hr class=grey><h2>$larea{$area} ($area)</h2>\n";
+            $output .= "";
+            $output .= "";
 
             $h = 0; $r = 0;
             foreach (sort {$b<=>$a} split('\|', $carea{$area})) {
                 ($name,$grade,$height,$people,$date,$icons,$stars,$comment) = split('~');
-                $output .= "<tr $Cbody>";
-                $output .= "$Tdate$date$Tdate1$Tstars$stars$Tstars1 $Tname$name$Tname1";
-                $output .= "$Tgrade$grade$Tgrade1 $Theight$height$Theight1";
-                $output .= "$Tpeople$people$Tpeople1 $Ticons$icons$Ticon1</tr>\n";
+                $output .= "<hr class=grey>";
+                $output .= "<div class=name>$name <span class=grade>$grade $icons</span> <span class=tiny> / $date</span></div>";
+                $output .= "<div class=details>$height / $people</div> \n ";
                 if ($comment) {
-                    $output .= "<tr><td colspan=2></td><td colspan=4 $Ccomment><i>$comment</i></td></tr>\n";
+                    $output .= "<div class=comment>$comment</div>\n";
                 }
 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
@@ -354,12 +366,12 @@ while (<IN>) {
                 $height = 30 if ($height =~ /^\s*$/);         # Assume 30ft if there is no height
                 $r++; $h += $height;
             }
-            $output .= "</table>\n\n";
+            $output .= "\n\n";
             $carea{$area} = $output;
             $stat{$area} = "$r $h";
         }
         # Print statistics for each area
-        print AREA "<hr><h2>Area index</h2><table>\n";
+        print AREA "<hr class=grey><h2>Area index</h2><table>\n";
         print AREA "<tr><td></td><td><i>Area</i></td>";
         print AREA "<td align=right><i>Routes</i></td><td align=right><i>Height</i></td></tr>\n";
         foreach $area(sort byroutes keys %stat) {
@@ -377,72 +389,56 @@ while (<IN>) {
 
         # Write DATE
         $latest = 0;
-        $l = "$Ttable<tr $Chead>$Hdate$Hname$Harea$Hgrade$Hpeople</tr>\n";
+        $l = "\n";
 
         foreach $sdate(sort {$b<=>$a} keys %cdate) {
             $title = @months[substr($sdate,4,2)-1].' '.substr($sdate,0,4);
             $title = "Not dated (before 1995)" if ($sdate == 0);
 
-            print DATE "<hr><h2><a name=\"$sdate\">$title</a></h2>\n";
-            print DATE "$Ttable\n<tr $Chead>";
+            print DATE "<h2><a name=\"$sdate\">$title</a></h2>\n";
+            print DATE "";
             print DATE "$Hdate" if ($sdate > 0);
-            print DATE "$Hstars$Hname$Harea$Hgrade$Hheight$Hpeople$Hicons</tr>\n";
+            print DATE "\n";
 
             foreach (sort {$b<=>$a} split('\|', $cdate{$sdate})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('\~');
-                print DATE "<tr $Cbody>";
-                print DATE "$Tdate$date$Tdate1" if ($sdate > 0);
-                print DATE "$Tstars$stars$Tstars1 $Tname$name$Tname1 $Tarea$area$Tarea1";
-                print DATE "$Tgrade$grade$Tgrade1 $Theight$height$Theight1";
-                print DATE "$Tpeople$people$Tpeople1 $Ticons$icons$Ticons1 </tr>\n";
-                if ($latest < 6) {
-  		      $latestdate{$theinit} = "$date $title" if ($latest == 0);
-                  $date = $date .' '. substr(@months[substr($sdate,4,2)-1],0,3);
-                  $line = "$Tdate$date$Tdate1 $Tname$name$Tname1 $Tarea$area$Tarea1 $Tgrade$grade$Tgrade1 $Tpeople$people$Tpeople1";
-			$line =~ s/(<td[^>]*>)/\1<font color=$Ctext[$latest]>/g;
-			$line =~ s/(<\/td>)/<\/font>\1/g;
-                  $line =~ s/<a href[^>]*>//g;
-                  $line =~ s/<\/a>//g;
-   		      $l .= "<tr BGCOLOR=$Cbody[$latest]>$line</tr>\n";
-                  $latest++;
-                }
+                print DATE "<hr class=grey>";
+                print DATE "<div class=name>$name <span class=grade>$grade $icons</span></div>";
+                print DATE "<div class=details>$area / $height / $people / $stars</div>";
                 if ($comment) {
-                  print DATE "<tr>";
-                  print DATE "<td></td>" if ($sdate > 0);
-                  print DATE "<td></td><td colspan=5 $Ccomment><i>$comment</i></td></tr>\n";
+                  print DATE "<div class=comment>$comment</div>";
                 }
+                
+
             }
-            print DATE "</table>\n\n";
+            print DATE "\n\n";
         }
-        $l .= "</table>";
+        $l .= "";
         $latest{$theinit} = $l;
 
         # Write PEOPLE
         %stat = ();
         foreach $person(sort keys %cpeople) {
-            $output = "<a name=\"$person\"></a><hr><h2>$lpeople{$person} ($person)</h2>\n";
-            $output .= "$Ttable\n";
-            $output .= "<tr $Chead>$Hdate$Hstars$Hname$Harea$Hgrade$Hheight$Hpeople$Hicons</tr>\n";
+            $output = "<a name=\"$person\"></a><hr class=grey><h2>$lpeople{$person} ($person)</h2>\n";
+            $output .= "";
+            $output .= "";
 
             $h = 0; $r = 0;
             foreach (sort {$b<=>$a} split('\|', $cpeople{$person})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars) = split('~');
-                $output .= "<tr $Cbody>$Tdate$date$Tdate1$Tstars$stars$Tstars1$Tname$name$Tname1";
-                $output .= "$Tarea$area</a>$Tarea1";
-                $output .= "$Tgrade$grade$Tgrade1 $Theight$height$Theight1";
-                $output .= "$Tpeople$people$Tpeople1 $Ticons$icons$Ticons1 </tr>\n";
+                $output .= "<hr class=grey><div class=name>$date: $name, $area</a></div>";
 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
                 $height = $1*3 if ($height =~ /^([0-9]*)m/);  # Height is in meters
                 $height = 50 if ($height =~ /^\s*$/);         # Assume 50ft if there is no height
                 $r++; $h += $height;
             }
-            $output .= "</table>\n\n";
+            $output .= "\n\n";
             $cpeople{$person} = $output;
             $stat{$person} = "$r $h";
         }
         # Print statistics for each person
-        print PEOPLE "<hr><h2>Climbing Partners</h2><table>\n";
+        print PEOPLE "<hr class=grey><h2>Climbing Partners</h2><table>\n";
         print PEOPLE "<tr><td><i>Initials</i></td><td><i>Person</i></td>";
         print PEOPLE "<td align=right><i>Routes</i></td><td align=right><i>Height</i></td></tr>\n";
         foreach $person(sort byroutes keys %stat) {
@@ -461,29 +457,30 @@ while (<IN>) {
         
         # Write STARS
         foreach $stars(sort {$b<=>$a} keys %cstars) {
-            @stars = ("The Good $Istar1", "The Great $Istar2", "The Best $Istar3", 'The Mindblowers <img src="img/mindblow.gif" width=13 height=10>');
-            printf STARS "<hr><h2>%s</h2>\n", $stars[$stars-1];
-            print STARS "$Ttable\n";
-            print STARS "<tr $Chead>$Hdate$Hname$Harea$Hgrade$Hheight$Hpeople$Hicons</tr>\n";
+            @stars = ("Ice climbs $Istar1", "Mountains $Istar2", "Caves $Istar3");
+            printf STARS "<h2>%s</h2>\n", $stars[$stars-1];
+            print STARS "";
+            print STARS "";
 
             foreach (sort {$b<=>$a} split('\|', $cstars{$stars})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$s,$comment) = split('~');
-                print STARS "<tr $Cbody>$Tdate$date$Tdate1 $Tname$name$Tname1 $Tarea$area$Tarea1 $Tgrade$grade$Tgrade1";
-                print STARS "$Theight$height$Theight1 $Tpeople$people$Tpeople1 $Ticons$icons$Ticons1 </tr>\n";
+                print STARS "<hr class=grey>";
+                print STARS "<div class=name>$name <span class=grade>$grade </span></div>";
+                print STARS "<div class=details>$area / $height / $people / $icons</div>";
                 if ($comment) {
-                    print STARS "<tr><td></td><td colspan=5 $Ccomment><i>$comment</i></td></tr>\n";
+                  print STARS "<div class=comment>$comment</div>";
                 }
             }
-            print STARS "</table>\n\n";
+            print STARS "<hr class=grey>\n";
         }
 
         # Write Difficulty
       %table = ();
       foreach $sys(keys %cgrade) {
 	  $output = "";
-           $output .= "<hr><h2>$sys Graded Climbs</h2>\n";
-           $output .= "<p>$Ttable\n";
-           $output .= "<tr $Chead>$Hdate$Hstars$Hname$Harea$Hgrade$Hheight$Hpeople$Hicons</tr>\n";
+           $output .= "<h2>$sys Graded Climbs</h2>\n";
+           $output .= "";
+           $output .= "";
            %list = ();
            foreach (sort {$b<=>$a} split('\|', $cgrade{$sys})) {
                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
@@ -491,10 +488,10 @@ while (<IN>) {
                $g =~ s/\s\S*$//;
                $list{$g}++;                   
 
-               $output .= "<tr $Cbody>$Tdate$date$Tdate1$Tstars$stars$Tstars1 $Tname$name$Tname1 $Tarea$area$Tarea1";
-               $output .= "$Tgrade$grade$Tgrade1 $Theight$height$Theight1 $Tpeople$people$Tpeople1 $Ticons$icons$Ticons1</tr>\n";
+               $output .= "<hr class=grey><div class=name>$name <span class=grade>$grade</span>, $area</a></div>";
+               $output .= "<div class=details>$height / $people / $icons / $stars / $date</div>\n";
            }
-           $output .= "</table><p>\n\n";
+           $output .= "\n\n";
 
 ####### table of number of routes in each grade
 #	     print GRADE "<table><tr><td>Grade</td><td>Routes</td></tr>\n";

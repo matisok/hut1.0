@@ -1,1 +1,45 @@
-<HTML><HEAD><title>{NAME}'s Climbing Diary</title><!-- Changed by: climbs.pl {DATE} --></HEAD><BODY BGCOLOR="#ffffff"><!--HEADER--> <TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0> <TR> <TD BGCOLOR="#003399"> <MAP NAME="home">  <AREA SHAPE="rect" COORDS="5,6,30,29" HREF="../../">  <AREA SHAPE="rect" COORDS="42,6,70,31" HREF="../"> </MAP> <IMG SRC="../../images/home.gif" USEMAP="#home" ISMAP BORDER=0 WIDTH=75 HEIGHT=33 ALIGN=LEFT> </TD> <TD BGCOLOR="#003399" ALIGN=LEFT><A HREF="../../"><IMG SRC="../../images/head.gif" BORDER=0 WIDTH=290 HEIGHT=33></A></TD> <TD BGCOLOR="#003399" VALIGN=BOTTOM ALIGN=RIGHT><A HREF="../../{LNAME}"><IMG SRC="../../images/head{I}.gif" BORDER=0 WIDTH=100 HEIGHT=33></A></TD> </TR> </TABLE><!--HEADER--><TABLE BGCOLOR="#EC9900" BORDER=1 CELLSPACING=2 CELLPADDING=0 WIDTH=100%><TR><TD BGCOLOR="#ffd799"><TT><IMG SRC="star3.gif" WIDTH=31 HEIGHT=20 ALIGN=TOP>&nbsp;Quality</TT></TD><TD BGCOLOR="#ffd799"><TT><IMG SRC="heart.gif" WIDTH=25 HEIGHT=20 ALIGN=TOP>&nbsp;Exposed</TT></TD><TD BGCOLOR="#ffd799"><TT><IMG SRC="arm.gif" WIDTH=31 HEIGHT=20 ALIGN=TOP>&nbsp;Sustained</TT></TD><TD BGCOLOR="#ffd799"><TT><IMG SRC="technical.gif" WIDTH=21 HEIGHT=20 ALIGN=TOP>&nbsp;Technical</TT></TD><TD BGCOLOR="#ffd799"><TT><IMG SRC="loose.gif" ALIGN=TOP WIDTH=21 HEIGHT=20>&nbsp;Loose</TT></TD><TD BGCOLOR="#ffd799"><TT><IMG SRC="note.gif" WIDTH=17 HEIGHT=20 ALIGN=TOP>&nbsp;Note</TT></TD><TD BGCOLOR="#ffd799"><IMG SRC="photo.gif" WIDTH=17 HEIGHT=20 ALIGN=TOP><TT>&nbsp;Photo</TT></TD></TR></TABLE><BR CLEAR="LEFT"><h1>{NAME}'s Climbs</h1>Sort by:[<a href="{I}-date.html">date</a>][<a href="{I}-area.html">area</a>][<a href="{I}-grade.html">difficulty</a>][<a href="{I}-quality.html">quality</a>][<a href="{I}-people.html">people</a>]<p><!--<a href="legend.html">Explanation</a>--><p><i>Last updated:</i> {DATE}<p>{DATA}<!--FOOTER--><BR CLEAR=LEFT><CENTER><TABLE WIDTH="100%" BORDER=1 CELLSPACING=0 CELLPADDING=2><TR><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../trips.html">Trips</A></FONT></TD><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../sport.html">Sport</A></FONT></TD><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../tull">Tull</A></FONT></TD><TD BGCOLOR="#003399"><P ALIGN=CENTER><FONT COLOR="#FFFFFF" SIZE=-1>&copy; The Willerups 1996-1998</FONT></TD><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../frederik">Frederik</A></FONT></TD><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../mathias">Mathias</A></FONT></TD><TD WIDTH="10%"><P ALIGN=CENTER><FONT FACE="arial, helvetica"><FONT SIZE=-2><A HREF="../../overview.html"><I>Index</I></A></FONT></TD></TABLE><FONT SIZE=-1>Comments to: <TT><A HREF="mailto:feedback@willerup.com">feedback@willerup.com</A></TT></FONT></CENTER><!--FOOTER--></BODY></HTML>
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{NAME}'s Climbing Diary</title>
+<!-- Changed by: climbs.pl {DATE} -->
+<style> 
+    body {
+        background-color: black;
+        color: whitesmoke;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    a {color: cornflowerblue;}
+    th, td {
+        vertical-align: top; 
+    }
+    .tiny { font-size: x-small;
+        padding: 20px 0px 20px 0px;
+    }
+    .icon { font-size: medium;}
+    img { position: relative;
+            top: 2px;
+    }
+    table { border-collapse: collapse; }
+    .q { border-top: 1pt solid rgb(146, 146, 146);}
+    .name {color:yellowgreen;}
+    .details {color:rgb(124, 124, 124);}
+    .comment {color:rgb(104, 126, 60);}
+    .grade {color:rgb(104, 126, 60);}
+    hr.grey {border: 1px solid rgb(48, 48, 48);}
+
+</style>
+</head>
+<body>
+[<a href="mw-date.html">date</a>] [<a href="mw-area.html">area</a>] [<a href="mw-grade.html">difficulty</a>] [<a href="mw-quality.html">quality</a>] [<a href="mw-people.html">people</a>]
+<br>
+<i>Last updated:</i> {DATE}
+
+<h1>{NAME}'s Climbs</h1>
+
+{DATA}
+
+</body>
+</html>
