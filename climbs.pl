@@ -355,10 +355,16 @@ while (<CLIMBS>) {
         $carea{$area} .= $comment if ($area);
         # $cgrade{$sys} .= $comment if ($sys);
         $cstars{$nstars} .= $comment if ($nstars);
+        if ($people && $comment) {
+          $tmp = $people;
+          while (($p) = $tmp =~ /([A-Z]+)/) {
+            $cpeople{$p} .= $comment;
+            $tmp =~ s/[A-Z]+//;
+          }
+        }
     }
 }
 close(CLIMBS);
-
 
 
 # Output: write the files
@@ -460,10 +466,11 @@ while (<IN>) {
 
             $h = 0; $r = 0;
             foreach (sort {$b<=>$a} split('\|', $cpeople{$person})) {
-                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars) = split('~');
+                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>
                 <div class=name2><span class=tiny>$date $area</span><br>
                 $stars $name <span class=grade> $grade $icons</span></div>";
+                $output .= "<div class=comment>$comment</div>" if ($comment);
                 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
                 $height = $1*3 if ($height =~ /^([0-9]*)m/);  # Height is in meters
