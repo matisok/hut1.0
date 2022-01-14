@@ -193,20 +193,20 @@ while (<CLIMBS>) {
         $height = '&nbsp;' unless ($height);
 
         $thelegend = '&#10024;1 &#127775;2 &#11088;3 &#129336;Whip &#128175;Top100 &#129344;Bail &#129528;Wish 
-        <br>
+        
         &#9748;Rain &#127780;Sun &#127788;Windy &#128297;Bolt &#128128;Suicide
-        <br>
+
         &#127768;Benighted &#128170;Achievement &#128293;Mindblower';
 
         # Icons
-        $icons =~ s/<1S>/&#10024;/g;  #1 star 
-        $icons =~ s/<2S>/&#127775;/g; #2 stars
+        $icons =~ s/<1S>/&#10024;/g;  #1 &#128261; star 
+        $icons =~ s/<2S>/&#127775;/g; #2 &#128262; stars
         $icons =~ s/<3S>/&#11088;/g;  #3 stars
 
-        $icons =~ s/<C1>/&#128154;/g; # green helemt
-        $icons =~ s/<C2>/&#128153;/g; # blue helmet
-        $icons =~ s/<C3>/&#129505;/g; # red helmet
-        $icons =~ s/<C4>/&#128420;/g; #black helmet
+        $icons =~ s/<C1>//g; # &#128154; green helemt
+        $icons =~ s/<C2>//g; # &#128153; blue helmet
+        $icons =~ s/<C3>//g; # &#129505; red helmet
+        $icons =~ s/<C4>//g; # &#128420; black helmet
 
         $icons =~ s/<Q>/&#129344;/g; #bail
         $icons =~ s/<L>/&#129528;/g; #wish
@@ -221,10 +221,13 @@ while (<CLIMBS>) {
         $icons =~ s/<G>/&#128074;/g; #boulder
         $icons =~ s/<T>/&#128175;/g; #bulls eye
         $icons =~ s/<W>/&#129336;/g; #whipper
-        $icons =~ s/<N ([^\>]*)>/<a href="\1" class="report">&#128173; Report<\/a>/g;
-        $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128247; Photo<\/a>/g;
+        $icons =~ s/<N ([^\>]*)>/<a href="\1" class="report">&#128218;Report<\/a>/g;
+        $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128247;Photo<\/a>/g;
+        $icons =~ s/<O ([^\>]*)>/<a href="\1" class="map">&#129517;Topo<\/a>/g;
+        $icons =~ s/<K ([^\>]*)>/<a href="\1" class="map">&#127916;Video<\/a>/g;
  
-        #dice &#127922;
+        #compass &#129517;
+        #video clapper &#127916;
         #firecracker &#129512;
         #pill &#128138;
         #rock &#129704;
@@ -355,10 +358,16 @@ while (<CLIMBS>) {
         $carea{$area} .= $comment if ($area);
         # $cgrade{$sys} .= $comment if ($sys);
         $cstars{$nstars} .= $comment if ($nstars);
+        if ($people && $comment) {
+          $tmp = $people;
+          while (($p) = $tmp =~ /([A-Z]+)/) {
+            $cpeople{$p} .= $comment;
+            $tmp =~ s/[A-Z]+//;
+          }
+        }
     }
 }
 close(CLIMBS);
-
 
 
 # Output: write the files
@@ -438,13 +447,11 @@ while (<IN>) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('\~');
                 print DATE "<hr class=grey>\n";
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
-                print DATE "<div class=name2>$name <span class=grade>$grade $stars</span></div>\n";
-                print DATE "<div class=details>$area / $height / $people / $icons</div>\n";  
+                print DATE "<div><span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span></div>\n";
+                # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
                 print DATE "<div class=comment>$comment</div>";
                 }
-                
-
             }
             print DATE "\n\n";
         }
@@ -460,10 +467,11 @@ while (<IN>) {
 
             $h = 0; $r = 0;
             foreach (sort {$b<=>$a} split('\|', $cpeople{$person})) {
-                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars) = split('~');
+                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>
                 <div class=name2><span class=tiny>$date $area</span><br>
                 $stars $name <span class=grade> $grade $icons</span></div>";
+                $output .= "<div class=comment>$comment</div>" if ($comment);
                 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
                 $height = $1*3 if ($height =~ /^([0-9]*)m/);  # Height is in meters
