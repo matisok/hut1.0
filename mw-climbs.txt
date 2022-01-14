@@ -100,7 +100,7 @@ JI=Jim Randell
 JG=Jean Gabriel
 JR=Jesper Ritzau
 JS=Joakim Svensker
-JT=Joint
+JT=Joint Wilkinson
 JL=Jakob Lorentzen
 KK=Kristian
 KR=<b>Kaspar Raats</b>
@@ -139,6 +139,8 @@ WISH=Wish list
 PP=Poul Henriksen
 SN=Sanne Wendes
 RG=Ralf Grusshaber
+JA=James Cromwell
+JB=Jack Bernstein
 
 # Wishlist
 ; RU; Juvsojla; W6; 50m; WISH; <1><L>
@@ -160,20 +162,20 @@ RG=Ralf Grusshaber
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
 
 # Climbs
-23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><T><P photos/blame.jpg>
+23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><P photos/blame.jpg>
     Brilliant route. You abseil down to the base and have to climb out. This is the easiest route out.
 23-10-2021; BH; Sex i smyg; S; 60ft; sec FZ CA; 
 23-10-2021; BH; Toker och Glader; HS; 60ft; lead FZ;
 23-10-2021; BH; Droemmen om Snoevit; S; 60ft; lead FZ CA;
 23-10-2021; BH; Prosit och spader; VS 4b; 60ft; lead FZ;
-22-10-2021; BH; Baesta Leden i Valesrod; E1 5b; 60ft; lead FZ; <Z>
+22-10-2021; BH; Baesta Leden i Valesrod; E1 5b; 60ft; lead FZ;
 
 12-09-2021; KU; Navnloes; HVS 5a; 14m; lead FZ;
 12-09-2021; KU; Den lille Skorsten; S; 14m; lead FZ EW;
 12-09-2021; KU; Beta; E1 5b; 14m; lead FZ; <2S>
     Well worth it. The area above K2 is not as loose as it looks from below.
 12-09-2021; KU; Swlabr; VS 4b; 14m; lead FZ; 
-    This route is crammed in between 2 more obvious lines. Total eliminate.
+    This route is crammed in betimeen 2 more obvious lines. Total eliminate.
 12-09-2021; KU; Wang Dang Doodle; HVS 5a; 14m; lead FZ; <B> 
     Excellent route. Bomber protection throughout.
 12-09-2021; KU; Single Handjam; VS 4b; 20m; lead FZ; <1S>
@@ -185,7 +187,7 @@ RG=Ralf Grusshaber
 17-08-2021; CN; JG Wedding; 6a; 25m; dws JG LP LW; <B>
 16-08-2021; CN; Sodome et Gomorrhe; 6a; 25m; lead JG LP LW; <B>
 
-07-08-2021; PD; Easy Walling; VS; 30ft; lead;
+07-08-2021; PD; Easy Walling; VS; 30ft; lead RS;
 07-08-2021; PD; The Real 20 foot Crack; VS; 30ft; sec RS; <P https://photos.app.goo.gl/HWwe7NLh7YgrJCca8>
 
 07-11-2020; GB; Bantaren; HVS 5a; 60ft; lead FZ; 
@@ -372,7 +374,7 @@ RG=Ralf Grusshaber
 19-09-2017; GB; Svara Diedret; E3 6a; 60ft; top; 
 12-09-2017; GB; Bantaren; HVS 5a; 60ft; top; 
     I would say that is is wider not narrower than the other ow mentioned in the book. Excellent route.
-29-08-2017; GB; Kenneths snedsteg; E1 5b; 60ft; lead KR; 
+29-08-2017; GB; Kenneths snedsteg; E1 5b; 60ft; lead KR; <P photos/kenneth.JPG>
 29-08-2017; GB; Kenneths led; VS 4c; 60ft; lead KR; 
 29-08-2017; GB; Gomorra; VS 4b; 60ft; lead KR; 
 23-08-2017; GB; Tunnsprickan; VS 4b; 60ft; lead KR; 
@@ -431,7 +433,7 @@ RG=Ralf Grusshaber
 05-10-2016; BH; Jungfrun; S; 60ft; lead KR; 
 05-10-2016; BH; Nunnegurkan; HVS 5a; 60ft; lead KR; 
 
-03-10-2016; KJ; SS Sloper; 6c+; 10m; LA; <4><3S><P https://27crags.com/videos/11662>
+03-10-2016; KJ; SS Sloper; 6c+; 10m; LA; <4><3S><K https://27crags.com/videos/11662>
 
 #Trip with Martin Bohuslan
 21-08-2016; BH; Fingret; VS 5a; 15m; sec MB;
@@ -524,9 +526,9 @@ RG=Ralf Grusshaber
 09-06-2015; GB; Silvias VF; 5c; 60ft; lead KR; 
 09-06-2015; GB; Highway 66; 5c; 60ft; lead KR; <T>
 
-29-05-2014; KJ; To Gode Juggar; 6b; 8m; LA FZ; <4> <P photos/IMG_1197.MOV>
-29-05-2014; KJ; Mr Magnet; 6b; 8m; LA FZ; <4> <P photos/IMG_1198.MOV>
-29-05-2014; KJ; Hajfinna; 6b; 8m; LA FZ; <4> <P photos/IMG_1200.MOV>
+29-05-2014; KJ; To Gode Juggar; 6b; 8m; LA FZ; <4> <K photos/IMG_1197.MOV>
+29-05-2014; KJ; Mr Magnet; 6b; 8m; LA FZ; <4> <K photos/IMG_1198.MOV>
+29-05-2014; KJ; Hajfinna; 6b; 8m; LA FZ; <4> <K photos/IMG_1200.MOV>
 
 01-01-2014; RU; Ozzimosis; W4; 60ft; lead; <1>
 
@@ -591,7 +593,7 @@ RG=Ralf Grusshaber
 2-3-2008; AV; Suspense; HVS 5a; 110ft; sec MB; <3S>
     Good lead from Martin. 
 1-3-2008; WL; Butterfly; VS - 4c; 25m; alt MB;
-1-3-2008; WL; Freedom; VS 4b 4c; 30m; lead;
+1-3-2008; WL; Freedom; VS 4b 4c; 30m; lead MB;
     polished and therefore quite difficult
 1-3-2008; WL; The Split; VS 5a 4b; 30m; alt MB;
     On permanent loan from Indian creek. I struggled.
@@ -609,7 +611,7 @@ RG=Ralf Grusshaber
 11-11-2005; LL; Agen Allwedd; ; 8h; MB TW; <3><C4><3S>
     Excellent digging trip to dig 9. Also saw the Corkscrew Chamber which was found the day before.
 4-6-2005; KU; Originalruten; V; 30m; lead MB; <3S> 
-    A long held desire to show KU to Martin is realised. Climbed on a borrowed rack from Fred and Martin using a sling as a harness. Good climb squeezed in between social engagements. Very kind of Martin to give the climb three stars.
+    A long held desire to show KU to Martin is realised. Climbed on a borrowed rack from Fred and Martin using a sling as a harness. Good climb squeezed in betimeen social engagements. Very kind of Martin to give the climb three stars.
 20-3-2005; SC; No Musketeers; HVS 4c; 30m; sec MB; <3S> 
 20-3-2005; SC; All For One...; HVS 5a; 25m; sec MB; <3S>
     After the cave spankotronic on Saturday I was struggling on everything. The drive to Gatwick afterwards was desperate.
@@ -656,14 +658,14 @@ RG=Ralf Grusshaber
 7-6-2003; WL; Never Say Goodbye; E2 5c; 25m; lead TW; <3S> 
     Great start to the weekend. Top route. Good to be back.
 1-6-2003; KU; Dyt; IV; 18m; lead CW; <1S> 
-1-6-2003; KU; Originalruten; V; 30m; lead; <3S> 
+1-6-2003; KU; Originalruten; V; 30m; lead CW; <3S> 
     Incredible rute up the exposed arete of one of the most impressive walls on KU. It was quite wet in the bottom requiring a bit of mad going for it in the start  which unfortunately turned Celine of the idea of climbing it this time.
-31-5-2003; KU; Svenskeruten; V-; 18m; lead; <3S> 
+31-5-2003; KU; Svenskeruten; V-; 18m; lead CW; <3S> 
 31-5-2003; KU; Toebrud; III; 20m; lead CW; <1S> 
     Great rute at the grade
 31-5-2003; KU; Ventetiden; IV; 20m; lead CW; <2S> 
     Celine's first go at traditional climbing.
-31-5-2003; KU; Kapillar; V- (5+); 18m; lead; <3S><S> 
+31-5-2003; KU; Kapillar; V- (5+); 18m; lead CW; <3S><S> 
     Brilliant start to a weekend of Swedish rock sea and sun
 17-5-2003; KU; Tyskeruten; V+; 22m; lead FW; <3S> 
     Lovely route
@@ -688,7 +690,7 @@ RG=Ralf Grusshaber
 8-2-2003; LG; Stalactus; W4; 50m; alt TW PW; <1>
 17-1-2003; LG; Caturgeas; W5; 600m; sec SF; <M><1><T><3S><A>
     600 meters of pure ice! We ticked all of it although it took us 15 hours! (and then 3 hours to get down). Quite a day out.
-12-1-2003; LG; Chizarton; W3; 20m; lead; <1S><1>
+12-1-2003; LG; Chizarton; W3; 20m; lead JA; <1S><1>
     Initiation ice climb for James. He did very well. The finishing top is quite unpleasant.
 
 28-7-2002; VD; Vue de Cezanne; 5a; 10m; lead FW; <F><1S> 
@@ -712,10 +714,11 @@ RG=Ralf Grusshaber
 22-7-2002; GR; Mort Subite; 6b; 10m; lead AL; <B><P photos/al1.jpg>
     Great little pumpy number. Super pockets.
 22-7-2002; GR; Belle de Jour; 5+; 8m; sec AL; <B>; 
-7-7-2002; AR; Apres de mon Abre; 4c; 30m; CW lead; <B>; 
-7-7-2002; AR; La Vie Eternelle; 6c; 30m; lead; <B>; 
+7-7-2002; AR; Apres de mon Abre; 4c; 30m; sec CW; <B>; 
+    I let Celine lead this one and got while she was at the top out of view, I got undressed to climb it nude and to arrive nude at the stance - for festive purposes. 
+7-7-2002; AR; La Vie Eternelle; 6c; 30m; lead CW; <B>; 
     Excellent place this Ardeche. Finally had a go on something a bit harder  and although I had to rest on the rope three times  I was quite pleased with the tick.
-7-7-2002; AR; Hang on; 6a; 30m; lead; <B><3S> 
+7-7-2002; AR; Hang on; 6a; 30m; lead cw; <B><3S> 
 2-7-2002; GR; Celine; 5+; 15m; lead CW; <B>; 
     The neighbourgh route to Mathias - is called Celine. Nice and tricky little number.
 2-7-2002; GR; Mathias; 5; 15m; lead CW; <B>; 
@@ -724,41 +727,43 @@ RG=Ralf Grusshaber
     Great line up the main face. Atmospheric crag with a lot of potential.
 30-6-2002; OM; Assurance Tous Risque; 5a; 21m; lead CW; <B>; 
 30-6-2002; OM; Cacaboum; 4c; 20m; sec CW; <B>; Good lead from Celine
-30-6-2002; OM; Neuleu; 6a; 30m; lead; <B><2S> 
+30-6-2002; OM; Neuleu; 6a; 30m; lead CW; <B><2S> 
 30-6-2002; OM; Vasidoux; 4c; 20m; lead CW; <B>; 
 30-6-2002; OM; Acrobuis; 5a; 30m; lead CW; <B>; 
 2-6-2002; GR; Les Grandes Mulets; 5b; 10m; lead CW; <B>; 
 2-6-2002; GR; Tango pour un Viking; 6c; 8m; lead; <B><2S> 
 2-6-2002; GR; Vision dans les Spasmes; 6B; 30m; lead CW; <B><3S> 
     Excellent route with an ultra long reach mid way
-21-5-2002; GR; Tu Rame; 6b; 10m; lead; <B>; 
+21-5-2002; GR; Tu Rame; 6b; 10m; lead CW; <B>; 
     Quick evening tick. Pleased I am getting used the sports medium at last.
 21-5-2002; GR; Zim Dime; 5c; 10m; lead CW; <B><1S> 
-16-5-2002; GR; Ad Hoc; 5+; 10m; lead ; <B><1S> 
-16-5-2002; GR; Stardust; 6a; 20m; lead; <B>; 
+16-5-2002; GR; Ad Hoc; 5+; 10m; lead CW; <B><1S> 
+16-5-2002; GR; Stardust; 6a; 20m; lead CW; <B>; 
     I like this area - the rock somewhat resembles that of AV. Good evening venue.
 16-5-2002; GR; Crysalide; 4+; 20m; lead CW; <B>; 
-16-5-2002; GR; N.R.J.; 5+; 20m; lead CW; <B><1S> 
-28-4-2002; VT; Peaceful Warrior; 5.7; 15m; lead; <B><1S> 
-28-4-2002; VT; Chosmaster; 5.7; 30m; lead; <B>; 
-28-4-2002; VT; Boschido; 5.10c; 30m; lead; <B><3S> 
+16-5-2002; GR; N.R.J.; 5+; 20m; lead CW; <B><1S>
+
+28-4-2002; VT; Peaceful Warrior; 5.7; 15m; lead JB; <B><1S><K https://youtu.be/pXzozt24StQ>
+    Check out the video from the weekend.
+28-4-2002; VT; Chosmaster; 5.7; 30m; lead JB; <B>; 
+28-4-2002; VT; Boschido; 5.10c; 30m; lead JB; <B><3S> 
     The route of the crag. Superbly natural line weaving it's way up this huge exposed basalt pillar. The locals were impressed by the onsight tick. I was well pleased. Sustained.
-28-4-2002; VT; Desert Shield Right; 5.8; 15m; lead; <B><1S> 
-28-4-2002; VT; Hardening of the Artery; 5.10c; 10m; lead; <B><1S> 
+28-4-2002; VT; Desert Shield Right; 5.8; 15m; lead JB; <B><1S> 
+28-4-2002; VT; Hardening of the Artery; 5.10c; 10m; lead JB; <B><1S> 
     Short pump fest
-28-4-2002; VT; Desert Shield; 5.10a; 15m; lead; <B><3S> 
-27-4-2002; VT; VT Point; 5.8; 25m; lead; <B><3S> 
+28-4-2002; VT; Desert Shield; 5.10a; 15m; lead JB; <B><3S> 
+27-4-2002; VT; VT Point; 5.8; 25m; lead JB; <B><3S> 
     Great position up an exposed arete.
-27-4-2002; VT; Clip em or Skip em; 5.7; 20m; lead; <B>; 
-27-4-2002; VT; Whipsaw; 5.7; 20m; lead; <B>; 
+27-4-2002; VT; Clip em or Skip em; 5.7; 20m; lead JB; <B>; 
+27-4-2002; VT; Whipsaw; 5.7; 20m; lead JB; <B>; 
 27-4-2002; VT; Ride em Cowboy; 5.9; 30m; lead; <B><3S> 
     Superb route up the arete of one of the endless basalt columns
-27-4-2002; VT; Dance of the Sharman; 5.10b; 15m; lead; <B><2S> 
+27-4-2002; VT; Dance of the Sharman; 5.10b; 15m; lead JB; <B><2S> 
     Nice moves
-27-4-2002; VT; Dawn Cyote; 5.8; 15m; lead; <B><1S> 
+27-4-2002; VT; Dawn Cyote; 5.8; 15m; lead JB; <B><1S> 
     Wet in the top.
 
-03-03-2002; CH; Aigi de Midi South Face; 6c; 600m; alt PW; <Q> <P https://youtu.be/fmvgaeoFfLY>
+03-03-2002; CH; Aigi de Midi South Face; 6c; 600m; alt PW; <Q> <K https://youtu.be/fmvgaeoFfLY>
 
 1-4-2002; OM; La Directe des Gupes; 5+/6a; 90m; lead CW; <B><3S><P photos/guepes.jpg>
     Superb route. Three sustained pitches takes you to the summit of this excellent place.
@@ -846,7 +851,7 @@ RG=Ralf Grusshaber
 28-10-2000; YO; La Cosita Left; 5.9; 50m; lead FW; ; 
     Great route with everything. Looks imposible from below  but is okay once you get commited. We wanted to do the amazing looking Sacherer Cracker afterwards  went up the 5.7 Flaring crack  and then it started to rain. Next time!
 28-10-2000; YO; Pine Line; 5.7; 50m; lead FW; <1S> 
-    One pitch route right between the Nose and Salathe - awesome setting.
+    One pitch route right betimeen the Nose and Salathe - awesome setting.
 28-10-2000; YO; Church Bowl Lieback; 5.8; 50m; lead FW; <3S> 
     Hidden gem. We climbed right next to Tom Frost (first ascensionist of El Cap) and called him a chicken. Truly festive guy.
 28-10-2000; YO; Church Bowl Tree; 5.10a; 20m; lead FW; <3S> 
@@ -884,7 +889,7 @@ RG=Ralf Grusshaber
 1-7-2000; KU; Oligmal; V+; 10m; lead UH; <1S> 
 1-7-2000; KU; Mirakel; VI; 10m; lead UH; <1S> 
     A critical midway hold was wet which made it quite difficult.
-1-7-2000; KU; Franska Trick; VII-; 15m; lead; <B><A><3S>
+1-7-2000; KU; Franska Trick; VII-; 15m; lead UH; <B><A><3S>
     This route had been on my Swedish ticklist for a long time. I was well pleased
 1-7-2000; KU; Tyskeruten; V+; 22m; lead UH; <2S> 
     The rock was still wet in places. The weather was improving as the day went on.
@@ -1375,7 +1380,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 21-4-1997; WC; Suncrush; HVS 5a/b ; 110ft; sec TW; <1S>
 
 16-10-1996; BX; Grande Veine Bleu; 6a; 30m; lead OR HW; <2S><B>
-16-10-1996; BX; Bloc Note; 5c; 30m; lead OR HW; <B><P https://youtu.be/J6-eRe2ou2M>
+16-10-1996; BX; Bloc Note; 5c; 30m; lead OR HW; <B><K https://youtu.be/J6-eRe2ou2M>
 16-10-1996; BX; Le Tozal; 5c; 30m; lead OR; <B>
 16-10-1996; BX; La Voliere; 5b; 30m; lead OR; <B>
     Ole almost bought the ticket on this climb.
@@ -1511,12 +1516,12 @@ Due to some serious partying the day before I managed to forget my harness and c
 20-11-2004; LL;  Agen Allwedd; ; 8h; MB; <3><C4><3S>
      A visit to the digface in Grolsch Passage. Managed to make about 2 meters progress  removing 22 trays of spoil. The whole passage is really impressive. 
 19-05-2004; LL; Agen Allwedd; ; 11h; RS MB; <3><C4><3S>
-     Continuing the dig. Excellent burly trip. I enjoyed being at the sharp end much more this TWe. We've hit a boulder section.
+     Continuing the dig. Excellent burly trip. I enjoyed being at the sharp end much more this time. We've hit a boulder section.
 16-05-2004; LL; Agen Allwedd; ; 12h; MB; <3><C4><3S>
      Digging trip towards Daren. Excellent team effort  hard work  but good fun. Digging is not for the claustrophic amongst us. 
 27-03-2004; PD; Maskhill Mine; ; 7h; TW RS MB; <3><C4><C4><3S>
-     Brilliant rig. World class. The subsequent connection was an ultra burly bit of caving. I was particularly traumatised by the gravel/stream squeeze that nearly caught me on the return. Next TWe I'll remember to turn my head the right way. Good effort from MB leading this bit  and not drowning while reversing in the sump. Double black helmet.
-30-01-2004; LL; Ogof y Daren Cilau; ; 22h; RS MB AW FW; <3><C4><3S>
+     Brilliant rig. World class. The subsequent connection was an ultra burly bit of caving. I was particularly traumatised by the gravel/stream squeeze that nearly caught me on the return. Next time I'll remember to turn my head the right way. Good effort from MB leading this bit  and not drowning while reversing in the sump. Double black helmet.
+30-01-2004; LL; Ogof y Daren Cilau; ; 22h; RS MB AW FW; <3><C4><3S><N http://willerup.com/oydc/vicevirgin.html>
      Highlights: sucessfull use of heyphone  wading through bonzai streamway  pushing to Aquenos Choke. Exit series felt hard. 
 07-11-2003; LL; Ogof y Daren Cilau; ; 45h; RS MB; <3><C4><3S>
      Two-nighter into Dweebland (the end of the cave so far). Excellent trip. Flawlessly executed. We let off two smoke bombs (one failed) at the end to see if there's a draught towards Aggen Allwed. There is. Get your crowbars out!
@@ -1526,32 +1531,32 @@ Due to some serious partying the day before I managed to forget my harness and c
      Fred's first rig in the VC unmedium. The pendulum was as festive as ever  and worth noting is that we managed to get up that climb in the end (fairly committing) taking us all the way to the bottom.
 07-06-2002; VC; Scialet de la Chique; ; 3h; MB; <3><C2>
      Excellent cave - easy in all respects (rig and walkin). Martin regained his unfire with a steady lead to the bottom. All bolts overtightened subtracts a star  good photoshooting and muddy fun adds it back.
-06-06-2002; VC; Scialet du Pot de Loup; ; 3h; PW; <3><C2>
+06-06-2002; VC; Scialet du Pot de Loup; ; 3h; PW; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Nice trip with Paul which regained his interest in caving. A great easy cave.
 05-06-2002; VC; Scialet du Pot 2; ; 1h; MB TW; <3><C4><3S><Q>
      The Pot 2 attempt - Grosvenor style. Martin lead down to -80 meters. To be continued.
-04-06-2002; VC; Scialet de Malaterre; ; 1h; MB PW TW; <3><C3>
+04-06-2002; VC; Scialet de Malaterre; ; 1h; MB PW TW; <3><C3><O http://willerup.com/caving/img/malaterre.gif>
      Tried out my new caving radios which works extremely well on these long vertical pitches.
-03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S>
+03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S><O http://willerup.com/caving/img/a2.gif>
      Full on caving. Included a dangerous 25 meter pitch lead in Wellingtons with only a sling and my bolt kit (thank god for that) as protection. Fantastic cave - highly recommendable.
-18-05-2002; VC; Scialet de Malaterre; ; 4h; ; <3><C3>
+18-05-2002; VC; Scialet de Malaterre; ; 4h; JA; <3><C3>
      Great initiation trip for the new speleo recruit. Messed up the logistics by forgetting one descender at the training wall back in the hut. We managed nevertheless and bottomed out the main shaft in style. Good effort from James it being his first real vertical cave.
-16-03-2002; VC; Glaciere d'Autrans; ; 4h; MB; <3><C4><3S>
+16-03-2002; VC; Glaciere d'Autrans; ; 4h; MB; <3><C4><3S><O http://willerup.com/caving/img/autrans.gif>
      Desperate. Approach was as hard as ever and the amount of ice in the cave was worrying, although on the same time ultra festive. Martin fired up an inspirational ice-stal-chopping session as we were stopped but an almost complete blockage of ice in the entrace tunnel. Reaching a depth of approximately 100 meters we eventually decided that this was a black helmet danger zone. Huge television sized blocks of broken off ice was scattered around the shaft, and after a quick statistic calculation on when the next bit of ice could be coming down, we decided to blow retreat horn and hurried out after exhaustive cold caving session.
 15-03-2002; VC; Scialet des Joufflus; ; 4h; MB; <3><C3>
      Excellent job to the bottom. The route finding to the last pitch is a bit tricky until you realize you have to gnarl your way through a hole in the roof (upwards) with the festive aid of a spit/stal sling. The squeeze to the beginning of the last pitch is not as bad as it looks - go in feet first  and you can stand up half way (not imidiately obvious). Yoor!
 02-03-2002; VC; Scialet des Joufflus; ; 3h; AW; <3><C3>
      Really easy when you've already done it once (but not all the way to the deck). The approach was definitely the crux walking in thigh/waist deep snow to the cave. A festive day. Good effort from Andrew who hadn't caved for 10 years and was srt'ing on a rather made up and minimal rack.
-23-02-2002; LL; Ogof y Daren Cilau; ; 28h; MB RS TW JT; <3><C4><3S><3S>
+23-02-2002; LL; Ogof y Daren Cilau; ; 28h; MB RS TW JT; <3><C4><3S><3S><N http://willerup.com/oydc/whybenormal.html>
      Long trip with an overnight camp in the Hard Rock Cafe. The further speed trip to The Microns was a seriously burly piece of work. Good effort from Martin doing the car shuttle on foot both ways and for the amble lager refreshments in the Hard Rock Cafe and Royston for the very inspirering bit of cave leading in the Rock Steady Cruise.
 03-02-2002; VC; Grotte de Bournilllon; ; 2h; ; <3><C3>
      Went up to have a look. Couldn't resist. Went in. Normal way too wet  so I opted for the highlevel dry fossil way which was much longer than I expected and with some pretty nasty (but polished and obvious) squezes. Good training  but cave soloing doesn't feel very clever.
-09-12-2001; VC; Trou du Diable; ; 1h; ; <3><C3>
+09-12-2001; VC; Trou du Diable; ; 1h; CW; <3><C3><O http://willerup.com/caving/img/diableDEC01.gif>
      Solo
-02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS; <3><C4><3S><M>
+02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS; <3><C4><3S><M><T><N http://willerup.com/caving/hpcc/gg.html>
      Lateral Shaft. Superb rig avoiding most of the water of the main shaft. Mindblowing
 02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS JT; <3><C4><3S><X>
-     Main Shaft. Wild decent. Although the water level was low we ended up right in the end waterfall which is serious stuff and very scary but excellent adrenalin fun at the same TWe. The tick is home!
+     Main Shaft. Wild decent. Although the water level was low we ended up right in the end waterfall which is serious stuff and very scary but excellent adrenalin fun at the same time. The tick is home!
 01-12-2001; YS; Rowten Pot; ; 3h; TW RS MB; <3><C3>
      Excellent sporty rig.
 27-11-2001; LL; Ogof y Daren Cilau; ; 7h; MB RS; <3><C3>
@@ -1570,32 +1575,32 @@ Due to some serious partying the day before I managed to forget my harness and c
      Went back for a further exploration. Annabel announced her disgust of the un-rock but David is keen on more. This cave is massive. Over 50  kilometers of known passageway with numerous through trips under Dent de  Crolles. The mountain is basically completely hollow and will be the focus  of activity in the near future. As with all Grenoblois speleoaction it  requires a fully equipped SRT team to explore.
 24-05-2001; CR; Trou de Glaz; ; 20m; MB CW; <3><C1>
      Walked up the Dent de Crolles. Nipped in to a huge cavity with our c-rack.  Massive draft coming out of the cave. Will be back for further  exploration.
-23-05-2001; VC; Scialet de Pot de Loup; ; 3h; MB; <3><C2>
+23-05-2001; VC; Scialet de Pot de Loup; ; 3h; MB; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Absolutely superb SRT trip. Beautiful lines and an amazing 40m drop from an overhanging speleothem. Easy and highly recommendable. Approach - 8 seconds from the car.
 20-05-2001; VC; Glaciere d'Autrans; ; 9h; MB; <3><C4><3S>
      Long day out. 13 hours including the walk. We got back to Grenoble at 4am  in the morning. See map
-19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><P https://flic.kr/p/6ZSEz>
+19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif><P https://flic.kr/p/6ZSEz>
      Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive. See map
 15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2>
      Beautiful cave - lots of little lakes and excellent formations. Perfect  rig as well. See map
 11-04-2001; VC; Glaciere de Carri; ; 7h; MB; <C4><C4><3S><3><X>
      Desperate trip. Got back up to the surface at 12'o'clock at night after a  long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
-10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2>
-     Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This TWe we both put the  double amount of clothes on and was relatively warm. See map
+10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2><O http://willerup.com/caving/img/anglaise.gif>
+     Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This time we both put the  double amount of clothes on and was relatively warm. See map
 09-04-2001; VC; Scialet de Malaterre; ; 6h; MB; <3><C4><3S>
      Massive cave shaft - starts with a 120 meter (360ft) drop of a bridge -  straight down in to the void. Desperate trip - quite wet and extremely  cold. See map 
 05-12-2000; MD; Manor Farm Swallet; ; 4h; DG MB; <3><C3>
-     I decided to postpone the UK underground retirement for one more trip - I  couldn't say no to a trip down Manor Farm with DG and MB. I wasn't  disappointed. DG now goes under the nickname 'Mr. President' (president  for the HPCC) and I had the great pleasure of pushing through some really  dodgy loose bouldery bits in the far end which was rewarded with a huge  chamber which almost certainly had some further continuation. DG and  MB unfortunately didn't reach this glorious chamber as they reckoned  the boulder bits were too unstable.
+     I decided to postpone the UK underground retirement for one more trip - I  couldn't say no to a trip down Manor Farm with DG and MB. I wasn't  disappointed. Dave now goes under the nickname 'Mr. President' (president  for the HPCC) and I had the great pleasure of pushing through some really  dodgy loose bouldery bits in the far end which was rewarded with a huge  chamber which almost certainly had some further continuation. Dave and  Martin unfortunately didn't reach this glorious chamber as they reckoned  the boulder bits were too unstable.
 18-11-2000; LL; Ogof y Daren Cilau; ; 6h; FW; <3><C4><3S>
      Did it! RR went with us for 10 meters and then decided to back out after  a worm attacked her in the entrance. We'd seriously misproportioned the  whole cave - the entrance crawl and chambers beyond was much bigger than  expected. We forgot the map which ment we couldn't make it further than the Great Chamber
 16-11-2000; MD; Thrupe Lane Swallet; ; 4h; FW DG TW; <3><C2>
-     Did the full through trip. A great evening out with TW and DG -  possible the last for a long TWe now that FW's going back to Denmark  and Mathias is going bigger voids in Grenoble.
+     Did the full through trip. A great evening out with TW and DG -  possible the last for a long time now that Fred is going back to Denmark and Mathias is going bigger voids in Grenoble.
 14-10-2000; MD; Goatchurch Cavern; ; 2h; RR LH; <3><C3><X>
      Brilliant trip. Laerke's first ever caving trip and she was so on for it  that we decided to do the full Goaty - into the letterbox and back. It's  f*cking scary in there - sort of smells of evil and it was a stupendious effort from the girls.
 12-10-2000; MD; Fairy/Hillier's Cave; ; 4h; FW TR RR; <3><C2>
      The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back.
 08-10-2000; LL; Ogof y Daren Cilau; ; 2h; FW RR; <3><C3>
-     Oh baby! This hole had been on the ticklist for quite some TWe and still  is! We had to turn back approx 350 meters in through the 530m crawl that  guards the cave. RR had some bad equipment and was freezing and we decided to go back before it would be too late. I have the feeling we will be back - soon.
+     Oh baby! This hole had been on the ticklist for quite some time and still  is! We had to turn back approx 350 meters in through the 530m crawl that  guards the cave. RR had some bad equipment and was freezing and we decided to go back before it would be too late. I have the feeling we will be back - soon.
 25-09-2000; MD; GB Cavern; ; 3h; FW RR DG TR; <3><C2>
      Fine trip. Dave pointed out a number of challenges which we should attempt  soon.
 24-09-2000; MD; Sidcot's Swallet; ; 2h; FW RR; <3><C2>
@@ -1627,9 +1632,9 @@ Due to some serious partying the day before I managed to forget my harness and c
 09-11-1999; MD; GB Cavern; ; 4h; DG TW; <3>
      Great evening out in the MD. GB has some really awesome formations  and some quite entertaining squeezes 
 17-10-1999; MD; Swildon's Hole; ; 4h; FW; <3>
-     We were back to complete the round trip that we had attempted with Peter  three entries down. This TWe the mud sump that we had rushed through was  filled to the roof with water and after an hour or more of pumping water  with no noticeable effect we went to explore the Black Hole Series  instead. This ended when we arrived at a 40 foot pitch. Good day out. We  were both exhausted 
+     We were back to complete the round trip that we had attempted with Peter  three entries down. This time the mud sump that we had rushed through was  filled to the roof with water and after an hour or more of pumping water  with no noticeable effect we went to explore the Black Hole Series  instead. This ended when we arrived at a 40 foot pitch. Good day out. We  were both exhausted 
 19-09-1999; MD; Rhino Rift; ; 2h; TW; <3>
-     We got a hold of the key yet again. TW rigged and I de-rigged 
+     We got a hold of the key yet again. Tim rigged and I de-rigged 
 14-09-1999; MD; Fairy Quarry Cave; ; 3h; FW DG; <3>
      We went in with Dave Grosvenor on a good trip in to the wonders of Fairy  Cave. A surprisingly muddy experience. Some good technical obstacles to  keep the wriggling techniques uptodate. A Grosvenor Special.  Slide show 
 08-08-1999; MD; Swildon's Hole; ; 4h; FW PS; <3>
@@ -1650,7 +1655,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      We finally managed to get all the way in to the 'letterbox' - the furthest  end of the classic cave. The letterbox is an extremely tight squeeze  section very awkward  specially on the return 
 29-12-1998; MX; Cueva Miso Ha; ; 1h; FW TR; <3>
      Mathias negotiated a tricky entrance to a cave with a waterfall coming out  of it. Ended in some muddy dig business
-27-12-1998; MX; Cueva Xtacumbilxun?n; ; 2h; FW TR; <3>
+27-12-1998; MX; Cueva Xtacumbilxun; ; 2h; FW TR; <3>
      Some interesting exploration but we didn't go down the main shaft where it  looked really interesting. No SRT kit. Very visited 
 15-12-1998; BZ; Rio Frio Cave; ; 1h; FW; <3>
      Huge short cave. Explored some galleries but no interesting passages
@@ -1777,14 +1782,13 @@ Due to some serious partying the day before I managed to forget my harness and c
 14-05-2001; CH; Chamonix; ; ; solo; <9><S>
     Got the randonee skis out and revisited the Grande Jorasse basin where Fred and I had been 7 years ago. Went up to Refuge Lascaux (2450m) and headed back. Brilliant trip. 6 hours
 29-04-2001; LG; La Grave; ; ; solo; <9><S>
-    Definitely the last run of the season. Lovely day, lots of sunshine but quite desperate snow conditions. I was almost caught in the biggest avalanche I have ever seen - I was completely alone on the whole "Vallon" side just catching my breath right under La Meije. I hear a "crraaaackk", look up and boy oh boy oh boy, the whole serac fall is coming down. Absolutely mind-blowing to watch (map). It was just getting bigger and bigger in classic avalanche style - you know, developing this huge cloud of snow thundering down toward the valley floor right where I was standing. I waited a few second admiring the spectacle and then I was like "okay, that actually looks like a bad job" and I started the engines and got further away while I could. I stopped some 500 meters further down and looked up again. Like some big disgusting animal the avalanche ate its way down the face and 30 seconds or so later engulfed the place where I had been in cloud and debris. Eventually it reached where I now was but was now a mere wind of snow. Absolutely fantastic to see. All other stuff was very avalanchy as well, but nothing as major as that baby. If only I'd brought my camera. 
-I switched to my skiis midday but changed back to the gun after one desperate run.
+    Definitely the last run of the season. Lovely day, lots of sunshine but quite desperate snow conditions. I was almost caught in the biggest avalanche I have ever seen - I was completely alone on the whole Vallon side just catching my breath right under La Meije. I hear a crraaaackk, look up and boy oh boy oh boy, the whole serac fall is coming down. Absolutely mind-blowing to watch. It was just getting bigger and bigger in classic avalanche style - you know, developing this huge cloud of snow thundering down toward the valley floor right where I was standing. I waited a few second admiring the spectacle and then I was okay, that actually looks like a bad job and I started the engines and got further away while I could. I stopped some 500 meters further down and looked up again. Like some big disgusting animal the avalanche ate its way down the face and 30 seconds or so later engulfed the place where I had been in cloud and debris. Eventually it reached where I now was but was now a mere wind of snow. Absolutely fantastic to see. All other stuff was very avalanchy as well, but nothing as major as that baby. If only I'd brought my camera. I switched to my skiis midday but changed back to the gun after one desperate run.
 22-04-2001; LG; La Grave; ; ; solo; <9>
     Brilliant day. Worked on trying to jump the big serac thing on the left of the drag lift in the top. It's a massive drop and the landing is not very steep so you really gotta go for it all the way. I was there a couple of times but didn't do it. Even Tigers has limits. :-) - I successfully did my usual cliff jump on the left of the telepherique which is always amazingly adreanline pumpy.
 21-04-2001; LG; La Grave; ; ; solo; <9>
     Woke up. Looked at the webcam. Looked good. Headed off. Scrounged my way to a free lift ride. Conditions was pretty desperate actually. Fresh snow but very cold and the base was rock solid (not good for the big air landings). Also the avalance risk was quite obvious very high and I was glad to reach the bottom in one piece
 13-04-2001; LG; La Grave; ; ; MB; <9><3S>
-    Superb day. Excellent big air jumps and some really pumping carving. Absolutely shagged afterwards also partly because of heavy drinking at the previous night with Martin, Christian and forty bottles of bottles of vodka
+    Superb day. Excellent big air jumps and some really pumping carving. Absolutely shagged afterwards also partly because of heavy drinking at the previous night with Martin, Christian Holst and forty bottles of bottles of Christians vodka
 12-04-2001; LG; La Grave; ; ; MB; <9>
     Gnarled around a bit to figure out what the best descend would be with the access to P2 being unskiable. Perfect weather and only few people
 08-04-2001; LG; Sherre Chevalier; ; ; SN; <9>
@@ -1806,7 +1810,7 @@ I switched to my skiis midday but changed back to the gun after one desperate ru
 28-01-2001; CH; ; ; ; ; <9>
     Still powder left from the day before and an excellent snowdepth, soft and perfect for trying some festive jumps. 
 27-01-2001; GR; Sept Laux; ; ; PD; <9>
-It had snowed in the morning, and the bastards closed the top bit (avalance danger) so I was confined to the piste. :-(
+    It had snowed in the morning, and the bastards closed the top bit (avalance danger) so I was confined to the piste. :-(
 26-01-2001; GR; Sept Laux; ; ; solo; <9>
     First time in the local ski resort. Good potential
 21-01-2001; LG; La Grave; ; ; ; <9>
