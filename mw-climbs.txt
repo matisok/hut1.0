@@ -601,7 +601,7 @@ JB=Jack Bernstein
 
 14-2-2011; LH; JG Climb; W3; 80m; alt JG; <2S><1> <P https://flic.kr/p/9jYJKk>
 
-20-10-2010; OS; Robinsson Pillar; D; 7m; lead JG; <I https://live.staticflickr.com/4127/5118522262_fdd197d6a8_b.jpg>
+20-10-2010; OS; Robinsson Pillar; D; 7m; lead JG; ;<I https://live.staticflickr.com/4127/5118522262_fdd197d6a8_b.jpg>
     Hang to the rose/thorn. Comitting. Right foot small hold. Nice solid breaks
 20-10-2010; OS; Freaking Crack; VS; 7m; lead JG;
 21-8-2010; KU; Akerskanten; IV-; 50m; lead AN; <2S>; <I https://live.staticflickr.com/4153/4967852806_77a8b42d19_b.jpg>
@@ -1389,7 +1389,7 @@ JB=Jack Bernstein
              Martin did the start - HARD
 25-4-1998; BG; Ocre Slab I; VS 4b 4c; 130ft; alt MB; <1S>
              Interesting slab - windy and exposed
-25-4-1998; BG; Anvil Chorus; HVS 4b 4b 4c 4c; 190ft; alt MB; <3S>; <I http://willerup.com/p/anvil.jpg><T>
+25-4-1998; BG; Anvil Chorus; HVS 4b 4b 4c 4c; 190ft; alt MB; <T><3S>; <I http://willerup.com/p/anvil.jpg>
              Superb layback
 25-4-1998; BG; Doorpost; HS 4a 4b; 210ft; alt MB
 25-4-1998; BG; Little Brown Jug Direct; HVS 5a 5a; 200ft; alt MB; <2S>
