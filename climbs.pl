@@ -549,7 +549,7 @@ while (<IN>) {
                $g =~ s/\s\S*$//;
                $list{$g}++;                   
 
-               $output .= "<hr class=grey><div class=name2>$name <span class=grade>$grade</span>, $area</a></div>";
+               $output .= "<hr class=grey><div><span class=name2>$name</span> <span class=grade>$grade</span>, $area</a></div>";
                $output .= "<div class=details>$height / $people / $icons / $stars / $date</div>\n";
            }
            $output .= "\n\n";

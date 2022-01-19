@@ -156,11 +156,12 @@ JB=Jack Bernstein
     Roof jam
 ; BH; Melange; E3; 20m; WISH; <L>
     Corner with narrow finger crack
+; BH; Ettan; E2; 40m; WISH; <L>
+    Center stage Hallinden
 ; BH; Ingmars Kamin; E2; 25m; WISH; <L>
     Exposed OW
 ; YS; Black Shiver; ; ; WISH; <3><L>
     Dangerous SRT
-; CH; Mont Blanc; ; ; WISH; <2><L>
 ; KU; Freak Brothers; E4 5c; 15m; WISH; <L>
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
 
@@ -1579,13 +1580,13 @@ Due to some serious partying the day before I managed to forget my harness and c
      Tried out my new caving radios which works extremely well on these long vertical pitches.
 03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S><P https://flic.kr/p/4fruD><O http://willerup.com/caving/img/a2.gif>
      Full on caving. Included a dangerous 25 meter pitch lead in Wellingtons with only a sling and my bolt kit (thank god for that) as protection. Fantastic cave - highly recommendable.
-18-05-2002; VC; Scialet de Malaterre; ; 4h; JA; <3><C3>
+18-05-2002; VC; Scialet de Malaterre; ; 4h; JA; <3><C3><O http://willerup.com/caving/img/malaterre.gif>
      Great initiation trip for the new speleo recruit. Messed up the logistics by forgetting one descender at the training wall back in the hut. We managed nevertheless and bottomed out the main shaft in style. Good effort from James it being his first real vertical cave.
 16-03-2002; VC; Glaciere d'Autrans; ; 4h; MB; <3><C4><3S><O http://willerup.com/caving/img/autrans.gif>
      Desperate. Approach was as hard as ever and the amount of ice in the cave was worrying, although on the same time ultra festive. Martin fired up an inspirational ice-stal-chopping session as we were stopped but an almost complete blockage of ice in the entrace tunnel. Reaching a depth of approximately 100 meters we eventually decided that this was a black helmet danger zone. Huge television sized blocks of broken off ice was scattered around the shaft, and after a quick statistic calculation on when the next bit of ice could be coming down, we decided to blow retreat horn and hurried out after exhaustive cold caving session.
-15-03-2002; VC; Scialet des Joufflus; ; 4h; MB; <3><C3>; <I https://live.staticflickr.com/20/68313209_6eddb56f40_o.jpg>
+15-03-2002; VC; Scialet des Joufflus; ; 4h; MB; <3><C3><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>; <I https://live.staticflickr.com/20/68313209_6eddb56f40_o.jpg>
      Excellent job to the bottom. The route finding to the last pitch is a bit tricky until you realize you have to gnarl your way through a hole in the roof (upwards) with the festive aid of a spit/stal sling. The squeeze to the beginning of the last pitch is not as bad as it looks - go in feet first  and you can stand up half way (not imidiately obvious). Yoor!
-02-03-2002; VC; Scialet des Joufflus; ; 3h; AW; <3><C3>
+02-03-2002; VC; Scialet des Joufflus; ; 3h; AW; <3><C3><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>
      Really easy when you've already done it once (but not all the way to the deck). The approach was definitely the crux walking in thigh/waist deep snow to the cave. A festive day. Good effort from Andrew who hadn't caved for 10 years and was srt'ing on a rather made up and minimal rack.
 23-02-2002; LL; Ogof y Daren Cilau; ; 28h; MB RS TW JT; <3><C4><3S><3S><N http://willerup.com/oydc/whybenormal.html>
      Long trip with an overnight camp in the Hard Rock Cafe. The further speed trip to The Microns was a seriously burly piece of work. Good effort from Martin doing the car shuttle on foot both ways and for the amble lager refreshments in the Hard Rock Cafe and Royston for the very inspirering bit of cave leading in the Rock Steady Cruise.
@@ -1593,7 +1594,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Went up to have a look. Couldn't resist. Went in. Normal way too wet  so I opted for the highlevel dry fossil way which was much longer than I expected and with some pretty nasty (but polished and obvious) squezes. Good training  but cave soloing doesn't feel very clever.
 
 09-12-2001; VC; Trou du Diable; ; 1h; CW; <3><C3><O http://willerup.com/caving/img/diableDEC01.gif>
-     Solo
+     Solo with ground support (making tea).
 02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS; <3><C4><3S><M><T><N http://willerup.com/caving/hpcc/gg.html>
      Lateral Shaft. Superb rig avoiding most of the water of the main shaft. Mindblowing
 02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS JT; <3><C4><3S><X>
@@ -1622,7 +1623,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Long day out. 13 hours including the walk. We got back to Grenoble at 4am  in the morning. See map
 19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif>; <I https://live.staticflickr.com/26/67874301_12eb37461b_b.jpg>
      Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive. See map
-15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2>
+15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>
      Beautiful cave - lots of little lakes and excellent formations. Perfect  rig as well. See map
 11-04-2001; VC; Glaciere de Carri; ; 7h; MB; <C4><C4><3S><3><X>
      Desperate trip. Got back up to the surface at 12'o'clock at night after a  long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
