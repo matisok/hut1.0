@@ -4,47 +4,52 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta property="og:url"                content="http://willerup.com/climbing/climbs/mw-date.html" />
+<!-- meta property="og:url"                content="http://willerup.com/climbing/climbs/mw-date.html" />
 <meta property="og:type"               content="article" />
 <meta property="og:title"              content="{NAME} made a tick!" />
 <meta property="og:description"        content="Check it out on tiklog.com" />
-<!-- <meta property="og:image"              content="http://willerup.com/climbing/routes/bernal.jpg" /> -->
+<meta property="og:image"              content="http://willerup.com/climbing/routes/bernal.jpg" /> -->
 
 <link rel="apple-touch-icon" href="/custom_icon.png"/>
-<title>{NAME}'s Climbing Diary</title>
+<title>{NAME}'s Tiklog</title>
 <!-- Changed by: climbs.pl {DATE} -->
 <style> 
     body {
-        background-color: black;
-        color: whitesmoke;
+        /* background-color: black; */
+        color: black;
         font-family: Arial, Helvetica, sans-serif;
     }
-    a {color: yellowgreen;}
+    a {color: cornflowerblue;}
     th, td {
         vertical-align: top; 
     }
     .tiny { font-size: small;
-            color: blanchedalmond;
+            color: slategray;
     }
     .icon { font-size: medium;}
     img { position: relative;
             top: 2px;
     }
-    b { color: chartreuse;}
+    b { color: rgb(240, 0, 0);}
     table { border-collapse: collapse; }
     .q { border-top: 1pt solid rgb(146, 146, 146);}
-    .name {color:yellowgreen;
+    .name2 {color: black ;
         font-size: large;
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
         font-weight: bold;}
-    .name2 {color:cornflowerblue;
+    .name1 {color:cornflowerblue;
         font-size: large;}    
-    .details {color:rgb(124, 124, 124);}
-    .comment {color:rgb(104, 126, 60);}
-    .grade {color:rgb(104, 126, 60);
+    .large {
+        font-size: xx-large;}    
+    .details {color:slategray;}
+    .comment {color:slategray;}
+    .grade {color:slategray;
         }
-    hr.grey {border: 1px solid rgb(48, 48, 48);
-            background-color: black;}
+
+    hr.grey {
+    border: 0;
+    height: 1px;
+    background: rgb(150, 150, 150);        }
 
 .footer {
   position: fixed;
@@ -73,7 +78,7 @@
 {
   padding:3px 0px;
   border-radius: 8px;
-  color:#fff;
+  color:#000;
   border:0;
   cursor:pointer;
   margin:4px;
@@ -84,7 +89,7 @@
  {
   padding:3px 0px;
   border-radius: 8px;
-  color:#fff;
+  color: black;
   border:0;
   cursor:pointer;
   margin:4px;
@@ -95,7 +100,7 @@
  {
   padding:3px 0px;
   border-radius: 8px;
-  color:#fff;
+  color:#000;
   border:0;
   cursor:pointer;
   margin:4px;
@@ -160,6 +165,7 @@
 <i>{NAME}'s ticks</i> {DATE} <br>
 Grade: [<a href="mw-grade.html#Ice">Ice</a>] [<a href="mw-grade.html#UK">UK</a>]
 [<a href="mw-grade.html#French">French</a>] [<a href="mw-grade.html#US (YDS)">US</a>] [<a href="mw-date.html#000000">Wish list</a>]
+<hr>
 
 {DATA}
 

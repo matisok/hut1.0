@@ -34,7 +34,7 @@ $Istar5 = '&#128279;'; #Via Ferrata
 $Istar6 = '&#129343;'; #dive
 $Istar7 = '&#129666;'; #paraglider
 $Istar8 = '&#127940;'; #surfer
-$Istar9 = '&#127938;'; #snow
+$Istar9 = '&#127938;'; #snow 
 
 # Global Routines and things
 @months = ('January','February','March','April','May','June','July',
@@ -107,7 +107,7 @@ sub generate {
 #    %people=names, %area=area names
 ($theinit) = @_;
 local($people,$short,$totalroutes,$totalheight);
-local(%Yroutes,%Yheight,%Y3star,%Ylead,%Ysec,%Ysport,%Yepoints);
+local(%Yroutes,%Yheight,%Y3star,%Y8star,%Ylead,%Ysec,%Ysport,%Yepoints);
 local(%cdate,%carea,%cpeople,%cgrade,%cstars,%lpeople,%larea,%stat);
 
 $thename = "Frederik" if ($theinit eq 'fw');
@@ -166,7 +166,7 @@ while (<CLIMBS>) {
 	  $stars = $Istar8 if ($nstars == 8);
 	  $stars = $Istar9 if ($nstars == 9);
 
-        ($date,$area,$name,$grade,$height,$people,$icons) = split(';');
+        ($date,$area,$name,$grade,$height,$people,$icons,$photo) = split(';');
 
         # remove some spaces
         $area =~ s/^\s*//;
@@ -190,13 +190,17 @@ while (<CLIMBS>) {
         $h = 50 if ($height =~ /^\s*$/);         # Assume 50ft if there is no height
         $totalroutes++, $totalheight += $h;
 #        $totalroutes++, $totalheight += $h if ($people =~ /,/); # this route was climbed on two diff. occations
-        $height = '&nbsp;' unless ($height);
+        $height = '' unless ($height);
 
         $thelegend = '&#10024;1 &#127775;2 &#11088;3 &#129336;Whip &#128175;Top100 &#129344;Bail &#129528;Wish 
         
         &#9748;Rain &#127780;Sun &#127788;Windy &#128297;Bolt &#128128;Suicide
 
         &#127768;Benighted &#128170;Achievement &#128293;Mindblower';
+
+        # Photo
+        $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img>/g;
+
 
         # Icons
         $icons =~ s/<1S>/&#10024;/g;  #1 &#128261; star 
@@ -218,6 +222,7 @@ while (<CLIMBS>) {
         $icons =~ s/<A>/&#128170;/g; #achievement
         $icons =~ s/<M>/&#128293;/g; #mindblower
         $icons =~ s/<B>/&#128297;/g; #bolt
+        $icons =~ s/<E>/&#129422;/g; #multipitch
         $icons =~ s/<G>/&#128074;/g; #boulder
         $icons =~ s/<T>/&#128175;/g; #bulls eye
         $icons =~ s/<W>/&#129336;/g; #whipper
@@ -226,6 +231,7 @@ while (<CLIMBS>) {
         $icons =~ s/<O ([^\>]*)>/<a href="\1" class="map">&#129517;Topo<\/a>/g;
         $icons =~ s/<K ([^\>]*)>/<a href="\1" class="map">&#127916;Video<\/a>/g;
  
+        #lizard &#129422;
         #compass &#129517;
         #video clapper &#127916;
         #firecracker &#129512;
@@ -264,7 +270,7 @@ while (<CLIMBS>) {
         #$icons =~ s/<3>/$Istar3/g;
         $icons =~ s/<\d>//g;
 
-        $icons = '&nbsp;' if ($icons =~ /^\s*$/);
+        $icons = '' if ($icons =~ /^\s*$/);
 
         # %date
         $d = '0'; $m = '0'; $y = '0';
@@ -276,7 +282,7 @@ while (<CLIMBS>) {
         } else {
             $ndate = "000000";
             $sdate = "00000000";
-            $date = "&nbsp;";
+            $date = "";
         }
         $d =~ s/1$/1/;
         $d =~ s/2$/2/;
@@ -284,7 +290,7 @@ while (<CLIMBS>) {
         $d =~ s/([04-9])$/\1/;
         $d =~ s/(1[0-9])../\1/;
 	  $cdate{$ndate} .= "|" if ($cdate{$ndate});
-        $cdate{$ndate} .= "$sdate~$d~$name~$sarea~$grade~$height~$speople~$icons~$stars~";
+        $cdate{$ndate} .= "$sdate~$d~$name~$sarea~$grade~$height~$speople~$icons~$photo~$stars~";
 
         # %area
         $carea{$area} .= "|" if ($carea{$area});
@@ -328,7 +334,15 @@ while (<CLIMBS>) {
 
         # Yearly stats
         $Yroutes{$y}++, $Yheight{$y} += $h;
-	  $Y3star{$y}++ if ($nstars == 3);
+    	  $Y1star{$y}++ if ($nstars == 1);
+    	  $Y2star{$y}++ if ($nstars == 2);
+    	  $Y3star{$y}++ if ($nstars == 3);
+    	  $Y4star{$y}++ if ($nstars == 4);
+    	  $Y5star{$y}++ if ($nstars == 5);
+    	  $Y6star{$y}++ if ($nstars == 6);
+    	  $Y7star{$y}++ if ($nstars == 7);
+    	  $Y8star{$y}++ if ($nstars == 8);
+    	  $Y9star{$y}++ if ($nstars == 9);
         if (($ep) = $grade =~ /\bE(\d+)/) {
           $Yepoints{$y} += $ep;
         }
@@ -444,9 +458,10 @@ while (<IN>) {
             print DATE "\n";
 
             foreach (sort {$b<=>$a} split('\|', $cdate{$sdate})) {
-                ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('\~');
+                ($x,$date,$name,$area,$grade,$height,$people,$icons,$photo,$stars,$comment) = split('\~');
                 print DATE "<hr class=grey>\n";
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
+                print DATE "$photo";
                 print DATE "<div><span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span></div>\n";
                 # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
@@ -469,8 +484,8 @@ while (<IN>) {
             foreach (sort {$b<=>$a} split('\|', $cpeople{$person})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>
-                <div class=name2><span class=tiny>$date $area</span><br>
-                $stars $name <span class=grade> $grade $icons</span></div>";
+                <div><span class=tiny>$date $area</span><br>
+                $stars <span class=name2>$name</span> <span class=grade> $grade $icons</span></div>";
                 $output .= "<div class=comment>$comment</div>" if ($comment);
                 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
@@ -565,38 +580,76 @@ close(STARS);
 close(GRADE);
 
 ###### Generate the "statistics" section
-$Xroutes = 0, $Xheight = 0, $X3star = 0;
-$s = "Year";
-$s .= "Routes";
-$s .= "$Istar3 Trad";
-$s .= "Sport Epts\n";
+$Xroutes = 0, $Xheight = 0, $X3star = 0, $X8star = 0;
+$s = "<table width=100%>\n<tr>";
+$s .= "<td>Year</td>";
+$s .= "<td>&#129704; Rock</td>";
+#$s .= "<td>Height</td>";
+$s .= "<td>$Istar1 Ice</td>";
+#$s .= "<td>$Istar2 Mnt</td>";
+$s .= "<td>$Istar3 Cave</td>";
+#$s .= "<td>$Istar4 Bldr</td>";
+#$s .= "<td>$Istar5 VF</td>";
+#$s .= "<td>$Istar6 Dve</td>";
+#$s .= "<td>$Istar7 Prp</td>";
+#$s .= "<td>$Istar8 Srf</td>";
+#$s .= "<td>$Istar9 Snw</td>";
+$s .= "<td>&#129422; Lead</td>";
+#$s .= "<td>Second</td>";
+#$s .= "<td>Sport</td>\n";
+$s .= "<td>&#128293; Epts</td></tr>\n";
+#$s .= "<tr><td colspan=13><hr></td></tr>";
 foreach $year(sort {$b<=>$a} keys %Yroutes) {
    $Yroutes{$year} = "&nbsp;" unless ($Yroutes{$year});
    $Yheight{$year} = "&nbsp;" unless ($Yheight{$year});
+   $Y1star{$year} = "&nbsp;" unless ($Y1star{$year});
+   $Y2star{$year} = "&nbsp;" unless ($Y2star{$year});
    $Y3star{$year} = "&nbsp;" unless ($Y3star{$year});
+   $Y4star{$year} = "&nbsp;" unless ($Y4star{$year});
+   $Y5star{$year} = "&nbsp;" unless ($Y5star{$year});
+   $Y6star{$year} = "&nbsp;" unless ($Y6star{$year});
+   $Y7star{$year} = "&nbsp;" unless ($Y7star{$year});
+   $Y8star{$year} = "&nbsp;" unless ($Y8star{$year});
+   $Y9star{$year} = "&nbsp;" unless ($Y9star{$year});
    $Ylead{$year} = "&nbsp;" unless ($Ylead{$year});
    $Ysec{$year} = "&nbsp;" unless ($Ysec{$year});
    $Ysport{$year} = "&nbsp;" unless ($Ysport{$year});
    $Yepoints{$year} = "&nbsp;" unless ($Yepoints{$year});
 
-   $s .= "";
+   $s .= "<tr><td><b>";
    $s .= $year;
    $s .= "-" unless ($year);
-   $s .= "$Yroutes{$year}";
-#   $s .= sprintf "%dm", $Yheight{$year} / 3;
-   $s .= "$Y3star{$year}";
-   $s .= "<a href=\"$theinit-date.html#$YDlead{$year}\">$Ylead{$year}</a>";
-#   $s .= "<a href=\"$theinit-date.html#$YDsec{$year}\">$Ysec{$year}</a>";
-   $s .= "<a href=\"$theinit-date.html#$YDsport{$year}\">$Ysport{$year}</a>";
-   $s .= "$Yepoints{$year}";
+   $s .= "</b></td><td>$Yroutes{$year}</td>";
+#   $s .= sprintf "<td>%dm</td>", $Yheight{$year} / 3;
+   $s .= "<td>$Y1star{$year}</td>";
+#   $s .= "<td>$Y2star{$year}</td>";
+   $s .= "<td>$Y3star{$year}</td>";
+#   $s .= "<td>$Y4star{$year}</td>";
+#   $s .= "<td>$Y5star{$year}</td>";
+#   $s .= "<td>$Y6star{$year}</td>";
+#   $s .= "<td>$Y7star{$year}</td>";
+#   $s .= "<td>$Y8star{$year}</td>";
+#   $s .= "<td>$Y9star{$year}</td>";
+   $s .= "<td><a href=\"$theinit-date.html#$YDlead{$year}\">$Ylead{$year}</a></td>";
+#   $s .= "<td><a href=\"$theinit-date.html#$YDsec{$year}\">$Ysec{$year}</a></td>";
+#   $s .= "<td><a href=\"$theinit-date.html#$YDsport{$year}\">$Ysport{$year}</a></td>";
+   $s .= "<td>$Yepoints{$year}</td></tr>";
 
    $Xroutes += $Yroutes{$year};
    $Xheight += $Yheight{$year};
+   $X1star += $Y1star{$year};
+   $X2star += $Y2star{$year};
    $X3star += $Y3star{$year};
+   $X4star += $Y4star{$year};
+   $X5star += $Y5star{$year};
+   $X6star += $Y6star{$year};
+   $X7star += $Y7star{$year};
+   $X8star += $Y8star{$year};
+   $X9star += $Y9star{$year};
 }
-$s .= "Total";
-$s .= sprintf "$Xroutes\n";
-$s .= "\n\n";
+$s .= "<tr><td><i>Total</i></td><td>";
+$s .= sprintf "<i>$Xroutes</i></td></tr>\n";
+$s .= "</table>\n\n";
 $stats{$theinit} = $s;
 
 

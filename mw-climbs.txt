@@ -77,6 +77,7 @@ KJ=Kjugge, Sweden ****
 JL=Jylland, Denmark *******
 SJ=Sjaelland, Denmark ********
 IN=Indonesia ******
+OR=Oresund
 
 # People
 SG=Soeren Lynggaard
@@ -149,6 +150,8 @@ JB=Jack Bernstein
     Technical Wall
 ; GB; Great Crack; E2; 25m; WISH; <L>
     Monster OW
+; GB; Machu Pichu; E3; 30m; WISH; <L>
+    Lives at Granitgrotten amongst a lot of bolted climbs.
 ; BH; Tor Line; E3; 25m; WISH; <L>
     Roof jam
 ; BH; Melange; E3; 20m; WISH; <L>
@@ -162,7 +165,7 @@ JB=Jack Bernstein
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
 
 # Climbs
-23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><P photos/blame.jpg>
+23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><K http://willerup.com/p/blame.mov>; <I http://willerup.com/p/blame.jpg>
     Brilliant route. You abseil down to the base and have to climb out. This is the easiest route out.
 23-10-2021; BH; Sex i smyg; S; 60ft; sec FZ CA; 
 23-10-2021; BH; Toker och Glader; HS; 60ft; lead FZ;
@@ -172,7 +175,7 @@ JB=Jack Bernstein
 
 12-09-2021; KU; Navnloes; HVS 5a; 14m; lead FZ;
 12-09-2021; KU; Den lille Skorsten; S; 14m; lead FZ EW;
-12-09-2021; KU; Beta; E1 5b; 14m; lead FZ; <2S>
+12-09-2021; KU; Beta; E1 5b; 14m; lead FZ; <2S>; 
     Well worth it. The area above K2 is not as loose as it looks from below.
 12-09-2021; KU; Swlabr; VS 4b; 14m; lead FZ; 
     This route is crammed in betimeen 2 more obvious lines. Total eliminate.
@@ -184,8 +187,8 @@ JB=Jack Bernstein
 11-09-2021; KU; Diedren K2; S; 14m; lead FZ EW;
     Good to be climbing with Emil 
 
-17-08-2021; CN; JG Wedding; 6a; 25m; dws JG LP LW; <B>
-16-08-2021; CN; Sodome et Gomorrhe; 6a; 25m; lead JG LP LW; <B>
+17-08-2021; CN; JG Wedding; f6a; 25m; dws JG LP LW; ; <I http://willerup.com/p/JG.JPG>
+16-08-2021; CN; Sodome et Gomorrhe;f 6a; 25m; lead JG LP LW; <B>
 
 07-08-2021; PD; Easy Walling; VS; 30ft; lead RS;
 07-08-2021; PD; The Real 20 foot Crack; VS; 30ft; sec RS; <P https://photos.app.goo.gl/HWwe7NLh7YgrJCca8>
@@ -195,32 +198,32 @@ JB=Jack Bernstein
 
 12-10-2020; BH; Hoggfarmen; E2 5b; 20m; lead FZ; <3S><P https://photos.app.goo.gl/JYZEgNMpWMzwd52p8>
     Stunning line and a great route. If you are looking for pure splitter fun in Bohuslan (and you are) then this one is a really good choice.
-12-10-2020; BH; Mallorol; E2 5c; 60ft; lead FZ; <A><3S><T><P https://photos.app.goo.gl/fvhZsqEtmZKtL9qZ9>
-    On a rainy weekend this one suddenly came into the suggestion pool. Luckily the sun broke through and we climbed this classic in perfect conditions. It wasn't clear to me where the broken foothold was.
+12-10-2020; BH; <a href="https://www.ukclimbing.com/logbook/crags/haller-12389/mallorol-410454">Mallorol</a>; E2 5c; 60ft; lead FZ; <A><3S><T><P https://photos.app.goo.gl/fvhZsqEtmZKtL9qZ9>
+    On an otherwise rainy weekend this one suddenly came into the suggestion pool. Luckily the sun broke through and we climbed this classic in perfect conditions. It wasn't clear to me where the broken foothold was.
 11-10-2020; BH; Cantremember; VS; 10m; lead FZ;
 11-10-2020; BH; Aaterkomsten; HS; 40m; sec FZ; <R>
 11-10-2020; BH; Barnleken; E1 5b; 40m; lead FZ; <P https://photos.app.goo.gl/CN1m3cFfyCaMWu1S6>
     Worth doing for the diedre in the top. Brilliant.
 
-24-06-2020; HF; Mot Sola; HVS 5b; 550m; dnf KK; <R>
+24-06-2020; HF; Mot Sola; HVS 5b; 550m; dnf KK; <R><E>
     First roof section was dripping wet and we decided to bail. 
-24-06-2020; HF; Linker Einstieg Agent Orange; VS; 400m; alt KK; 
+24-06-2020; HF; Linker Einstieg Agent Orange; VS; 400m; alt KK; <E>
     Excellent last route if the 3 day visit. The roof part is brilliant. 
-23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R>
+23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R><E>; <I http://willerup.com/p/hager.JPG>
     The striking line of the area. We were doing pretty well  though I had to pull on the gear in the crux roof - it was soaking wet. 
-22-06-2020; HF; Gone with the weed; VS 4c; 550m; alt KK; 
+22-06-2020; HF; Gone with the weed; VS 4c; 550m; alt KK; <E>
 
 #Cogne with Sean
-20-01-2020; CO; Monday Money; W4; 220m; alt SF; <1><Q> <P https://photos.app.goo.gl/AP9oS64QBgfPPkcP7>
+20-01-2020; CO; Monday Money; W4; 220m; alt SF; <1><Q><E> <P https://photos.app.goo.gl/AP9oS64QBgfPPkcP7>
     Picked one of the big ones. Long walk in and an absolutely knackering climb up to the base of the ice fall. We started the first pitch but were drained after the walk and hill climb. We bailed. 
 19-01-2020; CO; Valmiana; W3; 200m; alt SF; <1><2S> <P https://photos.app.goo.gl/W5kp5sK2pdsBR1jv6>
     Good conditions throughout. Had the route to ourselves.
-18-01-2020; CO; Cascade Lillaz; W3; 200m; alt SF; <1> <P https://photos.app.goo.gl/74HSXyYbaVMFV6wS6>
+18-01-2020; CO; Cascade Lillaz; W3; 200m; alt SF; <1>; <I http://willerup.com/p/sean_ice.jpg>
 
 22-08-2019; KU; Originalruten; VS 4c; 20m; sec FZ;
-22-08-2019; KU; Straight Flush; 6b; 40m; sec FZ; <B><T><2S>
+22-08-2019; KU; Straight Flush; 6b; 40m; sec FZ; <B><T><2S>; <I http://willerup.com/p/spooky_kullen.JPG>
     Sailed to Kullen with Spooky and MTBikes. Excellent concept.
-02-08-2019; AR; Liaucous; VF; 500m; lead AX; <3S><5>
+02-08-2019; AR; Liaucous; VF; 500m; lead AX; <3S><5>; <I http://willerup.com/p/vf.jpg>
     It was so good we had to do it twice
 01-08-2019; AR; Liaucous; VF; 500m; lead AX; <3S><5>
     Excellent Via Ferrata in Gorges du Tarn
@@ -228,13 +231,13 @@ JB=Jack Bernstein
 02-05-2019; GB; Mirceas led; E2 5c; 60ft; top; 
     Self top rope. No partners. Brilliant practice for finger crack techniques.
 
-11-04-2019; BH; 100 dagar; E1; 25m; top; <P photos/100.jpg>
+11-04-2019; BH; 100 dagar; E1; 25m; top; ; <I http://willerup.com/p/100.jpg>
 
 04-04-2019; GB; Kenneths Led; VS; 60ft; lead KR; 
 04-04-2019; GB; Gunnars skraeck; VS; 60ft; lead KR; 
 04-04-2019; GB; Bananblocket; E1 5b; 60ft; lead KR; 
 04-04-2019; GB; Oles crack; HVS 5a; 60ft; lead KR; 
-04-04-2019; GB; Robins crack; HVS 5a; 60ft; lead KR; <P photos/robin.jpg>
+04-04-2019; GB; Robins crack; HVS 5a; 60ft; lead KR; ; <I http://willerup.com/p/robin.jpg>
 
 # Trip to Rjukan with TW,FZ,SF,Richard
 11-03-2019; RU; Ozzimosis; W4; 60ft; lead FZ SF; <1>
@@ -246,7 +249,7 @@ JB=Jack Bernstein
 09-03-2019; RU; Gaustaspoekelse; W4; 60ft; lead FZ SF; <1>
 
 05-02-2019; GB; Nordkroken; W5; 60ft; sec JC AK; <2S><1>
-05-02-2019; GB; The Undertaker; W5+; 60ft; sec JC AK; <3S><1><T><N http://willerup.com/ice/undertaker2.html>
+05-02-2019; GB; The Undertaker; W5+; 60ft; sec JC AK; <3S><1><T><N http://willerup.com/ice/undertaker2.html>; <I https://live.staticflickr.com/7825/46250223104_76f2f58a15_b.jpg>
 
 13-01-2019; RU; Birthmaker; W4+; 50m; sec JC; <1><3S>
     John in his element. Linking two lines on Gausta making this one.
@@ -259,41 +262,44 @@ JB=Jack Bernstein
 
 05-10-2018; GB; Tjabo; HS; 60ft; sec FZ;
 05-10-2018; GB; Roennleden; VS; 60ft; sec FZ;
-05-10-2018; KU; Ingers Parla; VS 4b; 40ft; lead FZ; <P https://flic.kr/p/PC3in7> 
+05-10-2018; KU; Ingers Parla; VS 4b; 40ft; lead FZ; ; <I https://live.staticflickr.com/1958/31256610588_c84dd0ba04_b.jpg> 
 19-09-2018; GB; Runt Hoernet; VS 4b; 60ft; lead KR; 
-19-09-2018; GB; Tunnsprickan; VS 4b; 60ft; lead KR; <P tunnsprickan.jpg>
+19-09-2018; GB; Tunnsprickan; VS 4b; 60ft; lead KR; <P http://willerup.com/p/tunnsprickan.jpg>
     There was Yoor flowing everywhere that evening. Climbers everywhere - even a team, 2 girls and a guy, starting up a face aid climbing in the dark as we left - totally on for it. The girl flood litted the face with a handheld kowalski light while aid-boy was making his slow progress upwards. They had the yoor.
 
-04-09-2018; GB; Ekorren; 6a; 10m; lead KR; <2S> <P photos/ekorren.jpg><Z>
-04-09-2018; GB; Bearnie; 6a; 10m; lead KR; <P photos/bearnie.jpg>
-04-09-2018; GB; Kanten; 6a; 10m; lead KR; 
+04-09-2018; GB; Ekorren; f6a; 10m; lead KR; <2S><Z>; <I http://willerup.com/p/ekarren.jpg>
+04-09-2018; GB; Bearnie; f6a; 10m; lead KR; ; <I http://willerup.com/p/bearnie.jpg>
+04-09-2018; GB; Kanten; f6a; 10m; lead KR; 
 
-01-01-2018; GB; Till; HVS 5b; 40m; alt KR; #unconfirmed date
-
+01-01-2018; GB; Till; HVS 5b; 40m; alt KR;
 
 19-01-2018; BH; Champangefrukost; E1 5b; 60ft; lead MB; <Q> <R>
 19-08-2018; BH; Prismaster; E1 5b; 55m; alt MB; <3S><T><M>
     Our ambition for the weekend ticked. 
 19-08-2018; BH; Amurleoparden; HVS 5a; ; lead MB; <N http://willerup.com/climbing/bohuslan2018.html>
 19-08-2018; BH; Berguven; E1 5b; 60ft; lead MB; 
-19-08-2018; BH; Oedhumlan; S; 60ft; lead MB; 
-18-08-2018; BH; Palimpsest; HVS 5a; 60ft; lead MB; 
-18-08-2018; BH; DNA; E1 5b; 60ft; lead MB; 
+18-08-2018; BH; Tag mig harifron; S; 60ft; lead MB; 
+18-08-2018; BH; Byggeman Bob; S; 60ft; lead MB; 
+18-08-2018; BH; Oedhumlan; S; 60ft; lead MB; 
 18-08-2018; BH; Baesta Leden i Valesrod; E1 5b; 60ft; lead MB; <3S> 
-18-08-2018; BH; Slippery when wet; VS 4b; 60ft; lead MB; 
-18-08-2018; BH; Bergkirstis polska; E1 5b; 60ft; lead MB; <A><2S><T>
+17-08-2018; BH; Palimpsest; HVS 5a; 60ft; lead MB; <2S>; <I http://willerup.com/p/palimpsest.JPG> 
+17-08-2018; BH; DNA; E1 5b; 60ft; lead MB; 
+17-08-2018; BH; Slippery when wet; VS 4b; 60ft; lead MB; 
+17-08-2018; BH; Bergkirstis polska; E1 5b; 60ft; lead MB; <A><2S><T>
+17-08-2018; BH; Hoppande Norrman; E1 5b; 10m; lead MB; ; <I http://willerup.com/p/norman.JPG>
 
-# 02-08-2018; OS; Ven Nord; ; ; CW; Sail
-#   Excellent trip. A few dramas. Engine stop on the way into harbour. Lightning in the night.
+02-08-2018; OR; Ven Nord; ; 24h; CW EW; SAIL <3S>
+    Excellent trip. A few dramas. Engine stop on the way into harbour. Lightning in the night.
 
 04-07-2018; GB; Pollux; HVS 5a; 10m; lead FZ;
-04-07-2018; GB; Megera; E2 5b; 15m; lead FZ; <3S><A>
+04-07-2018; GB; Megera; E2 5b; 15m; lead FZ; <3S><A>; <I http://willerup.com/p/megera.JPG>
     Happy with onsight of hidden gem of grade 6 jam crack. Sustained and awesome. 
 
 20-06-2018; GB; Skaerselden; HS; 15m; lead KR; 
-20-06-2018; GB; Flygande Maran; VS 4c; 60ft; lead KR; 
+20-06-2018; GB; La Traviata; S; 15m; lead KR; <1S>; <I https://live.staticflickr.com/914/41378093530_240ec452c4_b.jpg>
+20-06-2018; GB; Flygande Maran; VS 4c; 60ft; lead KR; <K http://willerup.com/p/gbg.mov>
 20-06-2018; GB; Alfa Helix; HVS 5a; 60ft; lead KR;  
-20-06-2018; GB; Torrsimmet; VS 4b; 20m; lead KR; 
+20-06-2018; GB; Torrsimmet; VS 4b; 20m; lead KR; <3S>; <I https://live.staticflickr.com/65535/45081251782_0538346fbb_b.jpg>
     Excellent route. Nice to have big gear for the wide cracks.
 
 13-06-2018; GB; Tjabu; D; 20m; lead KR CA; 
@@ -305,7 +311,7 @@ JB=Jack Bernstein
     Off width to chimney. Burly.
 
 24-05-2018; BH; En fyra for en myra; HS; 30m; alt FZ; 
-24-05-2018; BH; Jaernkaminen; VS 4c; 60ft; lead FZ; #unconfirmed
+24-05-2018; BH; Jaernkaminen; VS 4c; 60ft; lead FZ;
 24-05-2018; BH; Hakke Hakkespett; HVS 5a; 10m; lead FZ; 
 24-05-2018; BH; Kalle og Molo; HVS 5a; 10m; lead FZ; 
     Finished with swimming in the nearby lake. Absolute paradise.
@@ -317,7 +323,7 @@ JB=Jack Bernstein
     Excellent route. I had been wanting to do this for a while. Perfect warm evening for it.
 15-05-2018; GB; Luftmadrassen; HVS 5a; 60ft; lead JC;  <2S>
     Other side of the roof of Aelgens. Well worth it.
-15-05-2018; GB; Jappe; VS 4c; 60ft; lead JC;  <2S>
+15-05-2018; GB; Jappe; VS 4c; 60ft; lead JC;  <2S>; <I https://live.staticflickr.com/894/42383586962_b1582b7539_b.jpg>
     A bit more stiff that the other ones of the evening
 15-05-2018; GB; Jug; VS 4c; 60ft; lead JC;  <3S>
     John had hurt his finger  so he let me lead everything this evening
@@ -331,14 +337,15 @@ JB=Jack Bernstein
 
 #Trip to Rjukan Sean
 05-03-2018; RU; Tjonstadbergfossen; W4; 180m; alt SF; <1><2S>
-04-03-2018; RU; Swiss Army; W4; 100m; lead SF; <1><2S>
+04-03-2018; RU; Swiss Army; W4; 50m; lead SF; <1><2S>
 04-03-2018; RU; Camillas Foss; W4; 200m; sec SF; <1><1S>
 03-03-2018; RU; To menn og et foster; W4; 90m; alt SF; <1>
-    Sean dropped 4 of my ice screws on the route! Even so we had a great time. 
+    Sean dropped 4 of my ice screws on the route! Even so, we had a great time. 
+03-03-2018; RU; Bullen; W4; 20m; sec SF; <1><1S>
 
 #Trip to Rjukan with Kaspar and John
 28-01-2018; RU; Bullen; W3; 30m; lead KR; <1>
-28-01-2018; RU; De kaller meg fjaard; M6; 60ft; top JC; <1><3S><P https://flic.kr/p/2hCB5Mp>
+28-01-2018; RU; De kaller meg fjaard; M6; 60ft; top JC; <1><3S>; <I https://live.staticflickr.com/65535/48984639697_0b4876a572_b.jpg>
 27-01-2018; RU; Sabotoerfossen; W4; 80m; lead KR; <1><Q>
     Half of the climb.
 29-01-2018; RU; Rjukanfossen; W4; 80m; lead KR JC; <1><3S><T>
@@ -348,25 +355,28 @@ JB=Jack Bernstein
 
 18-04-2018; GB; Bohemia; E1 5b; 60ft; lead JC;
     Excellent wall climb. Gear is there when you need it.
-18-04-2018; GB; Gladiatorn; 6b+; 60ft; sec JC; <B><2S>
+18-04-2018; GB; Gladiatorn; f6b+; 60ft; sec JC; <B><2S>
     Sport Route. A lot of fun and really technical. 
 18-04-2018; GB; Hollywood; E4 6b; 60ft; lead- JC; <W><2S>
     Tried a difficult route. Protection bomber and midway I thought I had it in the bag. And then the crux spat me off. Tried with difficulty to do the crux and eventually got it. Exciting. Will be back for a red point attempt.
 18-04-2018; GB; Toblerone; E3 6a; 60ft; sec JC; <1>
     Awesome route. Really technical at the top.
 
-17-11-2017; GB; Gunnars skraeck; HVS 5a; 60ft; solo; 
+17-11-2017; GB; Gunnars skraeck; HVS 5a; 60ft; solo; <K http://willerup.com/p/gunnar.mov>
 07-11-2017; GB; Gunnars skraeck; HVS 5a; 60ft; top;
+07-11-2017; GB; Gritslabben; HVS 5b; 60ft; top;
 
-01-10-2017; PD; Alcove Crack; HVS 5a; 60ft; lead RS MB; <2S> 
+01-10-2017; PD; Alcove Crack; HVS 5a; 60ft; lead RS MB; <2S> ; <I http://willerup.com/p/alcove.JPG>
     Led the one Royston did the day before. A perfect route for rainy conditions
-01-10-2017; PD; Chequers Crack; HVS 5c; 60ft; sec- RS MB; <2S>
+01-10-2017; PD; Chequers Crack; HVS 5c; 14m; sec- RS MB; <2S> ; <I http://willerup.com/p/cheq.JPG>
     Excellent lead by Martin. I popped off just before the rest midway.
-01-10-2017; PD; The Thin End of the Hedge; 6a; 60ft; lead MB;
+01-10-2017; PD; The Thin End of the Hedge; f6a; 60ft; lead MB; ; <I http://willerup.com/p/viaduct.JPG>
     Last route of the weekend. Flood lit bridge climbing.
-01-10-2017; PD; Viaduct Crack; HVS; 60ft; sec RS;
+01-10-2017; PD; Viaduct Crack; HVS; 60ft; sec RS; ; <I http://willerup.com/p/viaduct2.JPG>
 29-09-2017; PD; Pocket Symphonie; HVS; 60ft; lead RS;
 29-09-2017; PD; The Thorn; HVS; 60ft; sec RS;
+29-09-2017; PD; Gargoyle Butress; VS; 60ft; sec RS;
+29-09-2017; PD; Zagrete; HS; 60ft; sec RS;
 
 27-09-2017; GB; Sneda Sprickan; VS 4b; 60ft; sec KR;
 26-09-2017; GB; Roennleden; VS; 60ft; sec KR;
@@ -374,14 +384,14 @@ JB=Jack Bernstein
 19-09-2017; GB; Svara Diedret; E3 6a; 60ft; top; 
 12-09-2017; GB; Bantaren; HVS 5a; 60ft; top; 
     I would say that is is wider not narrower than the other ow mentioned in the book. Excellent route.
-29-08-2017; GB; Kenneths snedsteg; E1 5b; 60ft; lead KR; <P photos/kenneth.JPG>
+29-08-2017; GB; Kenneths snedsteg; E1 5b; 60ft; lead KR; ; <I http://willerup.com/p/kenneth.JPG>
 29-08-2017; GB; Kenneths led; VS 4c; 60ft; lead KR; 
 29-08-2017; GB; Gomorra; VS 4b; 60ft; lead KR; 
 23-08-2017; GB; Tunnsprickan; VS 4b; 60ft; lead KR; 
 23-08-2017; GB; Svarta Diedret; HVS 5a; 60ft; lead KR; 
 23-08-2017; GB; Borta med vinden; HVS 5a; 60ft; lead KR;
 
-06-07-2017; GB; Ockero; ; ; LP KR; <4> 
+06-07-2017; GB; Ockero; ; ; LP KR; <4>; <I http://willerup.com/p/ockerobould.jpg>
 05-07-2017; BH; Palimpsest; HVS 5a; 25m; lead LP; 
 05-07-2017; GB; Fina Sprickan; VS 4c; 15m; lead KR;
     Next to Volvo. Brilliant fist jamming.
@@ -392,11 +402,11 @@ JB=Jack Bernstein
 31-03-2017; PD; Heather Wall; VS 4c; 60ft; sec MB RS TW; <2S>
 31-03-2017; PD; Eliminator; HVS 5b; 60ft; lead TW RS MB; <3S><A>
 31-03-2017; PD; Agony Crack; HVS 5a; 60ft; sec MB RS; <2S>
-31-03-2017; PD; Cave Arete; HVS 5a; 60ft; lead MB RS; <2S>
+31-03-2017; PD; Cave Arete; HVS 5a; 60ft; lead MB RS; <2S>; <I http://willerup.com/p/cavearete.JPG>
 31-03-2017; PD; Saliva; E1 5b; 60ft; sec RS MB; <1S>
 31-03-2017; PD; Mississippi Variant; HVS 5a; 60ft; lead MB RS; <2S> 
 31-03-2017; PD; Hell Crack; VS 4c; 60ft; lead TW; <2S>
-31-03-2017; PD; Bond Street; HVS 5a; 60ft; lead TW; <3S><T>
+31-03-2017; PD; Bond Street; HVS 5a; 60ft; lead TW; <3S><T>; <I http://willerup.com/p/bond.JPG>
 31-03-2017; PD; Straight Ahead; HVS 5a; 60ft; sec TW; 
 
 29-03-2017; BH; Feministiskt Initiative; HVS 5a; 20m; lead KR; <R>
@@ -422,7 +432,6 @@ JB=Jack Bernstein
 23-03-2017; RU; Anakje; W3; 60ft; alt FZ; <1><2S>
     Introduction climb for Frits. The ice was the best I have climbed so far. One blow and the pick was placed.
 
-
 #First trip to Cogne 
 04-02-2017; CO; Lillaz; W3; 200m; alt PW; <1>
     Better day than the day before. Finished with festive snowball attack on Richard and Tim. <P https://flic.kr/p/RKCJWR>
@@ -432,8 +441,9 @@ JB=Jack Bernstein
 
 05-10-2016; BH; Jungfrun; S; 60ft; lead KR; 
 05-10-2016; BH; Nunnegurkan; HVS 5a; 60ft; lead KR; 
+05-10-2016; BH; Hoppande Norrman; HVS 5a; 10m; lead KR; ; <I https://live.staticflickr.com/4205/35151496302_7c64b131fd_k.jpg> 
 
-03-10-2016; KJ; SS Sloper; 6c+; 10m; LA; <4><3S><K https://27crags.com/videos/11662>
+03-10-2016; KJ; SS Sloper; f6c+; 10m; LA; <4><3S><K https://vimeo.com/185372882>
 
 #Trip with Martin Bohuslan
 21-08-2016; BH; Fingret; VS 5a; 15m; sec MB;
@@ -446,38 +456,46 @@ JB=Jack Bernstein
 20-08-2016; GB; Oktober; HVS 5a; 60ft; lead MB; 
 20-08-2016; GB; Jamspricka nr 1; E1 5b; 60ft; sec MB; <3S><A><T>
 20-08-2016; GB; Aatervaendsgraenden; E1 5b; 60ft; lead MB; <3S> 
-20-08-2016; GB; Crack of Doom; E1 5b; 60ft; lead MB; <2S>
+20-08-2016; GB; Crack of Doom; E1 5b; 60ft; lead MB; <2S>; <I http://willerup.com/p/doom.JPG>
 20-08-2016; GB; Asterix och Obelix; VS 4c; 60ft; lead MB; <2S>
 
 16-08-2016; KU; Tornerose; E2 5c; 60ft; lead FZ; 
 16-08-2016; KU; Single Handjam; VS 4b; 60ft; lead FZ; 
 16-08-2016; KU; Japanerruten; VS 4c; 60ft; lead FZ; 
 
-21-06-2016; GB; Plugghaesten; E1 5b; 60ft; lead KR;
+21-06-2016; GB; Plugghaesten; E1 5b; 60ft; lead KR; <2S>; <I http://willerup.com/p/plughasten.JPG>
     Back to settle a bill. This time it went free. What a route.
-07-06-2016; GB; Braennvinsleden; HVS 5a; 60ft; lead JS; 
+07-06-2016; GB; Braennvinsleden; HVS 5a; 60ft; lead JS; <3S>
+    Highlight of the evening. Boy was I pumped mid way. Quite strenous in the start traverse. A Cam3 is a real life saver (as always).
 07-06-2016; GB; Roennleden; HS; 60ft; lead JS; 
 07-06-2016; GB; Sneda sprickan; VS 4c; 60ft; lead JS; 
+    Hard if you are not a jamming master
 07-06-2016; GB; Spagaten; HVS 5a; 60ft; lead JS; 
-07-06-2016; GB; Snett aat hoeger; HVS 5a; 60ft; lead JS; 
+07-06-2016; GB; Snett aat hoeger; HVS 5a; 60ft; lead JS;
+    Slightly harder that Spagaten next to it.
 
 06-06-2016; KU; Josefinelust Overhaenget; E2 5c; 60ft; lead FZ; <3S>
+    First route of the day. This one had been on my wishlist for a while and what a route! Excellent line up perfect rock.
 06-06-2016; KU; Flagermusen; HVS 5a; 60ft; lead FZ; <3S><T>
-06-06-2016; KU; Aero; 6c; 60ft; lead FZ; <2S>
+    I had the feeling I had done this before (which I had, 13 years ago), but as I climbed it it all felt new. Brilliant route.
+06-06-2016; KU; Aero; f6c; 60ft; lead FZ; <2S>
+    Did this as the last route of the day. Super pleased that I onsighted it and had plenty of power to spare. Freak Brothers next!
 
-03-06-2016; KY; Cantremember; 5b; 30m; lead AX CW EW; <1S>
-02-06-2016; KY; Monahiki Elia; 6a+; 60ft; lead TW; <3S>
+03-06-2016; KY; Starfish; f5b; 30m; lead AX CW EW; <3S>
+03-06-2016; KY; Karpouzy; f6a; 30m; lead TW; <2S>
+03-06-2016; KY; Tomboy; f6a; 30m; lead TW; <2S>
+02-06-2016; KY; Monahiki Elia; f6a+; 60ft; lead TW; <3S>
     Back at sport climbing like the old days! Great place.
-02-06-2016; KY; DNA; 7a; 60ft; lead- TW; <W> <2S>
+02-06-2016; KY; DNA; f7a; 60ft; lead- TW; <W> <2S>
     Took a proper whipper 3/4 way up
 01-06-2016; KY; Joy in the Garden; ; 60ft; lead TW; <3S>
     Warm up
-01-06-2016; KY; Remember Wadi Rum; 6c; 60ft; lead TW; <2S>
-01-06-2016; KY; Totenhansel; 6c; 60ft; lead TW; <3S><T>
+01-06-2016; KY; Remember Wadi Rum; f6c; 60ft; lead TW; <2S>
+01-06-2016; KY; Totenhansel; f6c; 60ft; lead TW; <3S><T>
     Awesome climb on overhaning tufas
 
-01-04-2016; FB; Marie Rose; 6c; 8m; solo FZ JG LP LW; <4><3S> 
-01-04-2011; FB; Langle Ben; 6c; 8m; solo JG LP LW; <4><3S> 
+01-04-2016; FB; Marie Rose; f6c; 8m; solo FZ JG LP LW; <4><3S> 
+01-04-2011; FB; Langle Ben; f6c; 8m; solo JG LP LW; <4><3S> 
 
 06-03-2016; WL; Freedom; VS; 60ft; lead RS MB;
 06-03-2016; WL; Swatter; VS; 60ft; lead RS MB;
@@ -504,8 +522,8 @@ JB=Jack Bernstein
 28-09-2015; GB; Plugghaesten; E1 5b; 15m; lead- KR; <W><Z> <N http://willerup.com/climbing/lexbyabseil.html> 
     Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more.
 24-09-2015; KU; Originalruten; VS 4c; 20m; sec FZ; 
-22-09-2015; GB; Mefisto; 6c; 60ft; lead- KR; <W>
-10-09-2015; KU; Franska Trick; 6c; 15m; lead FZ; <T>
+22-09-2015; GB; Mefisto; f6c; 60ft; lead- KR; <W>
+10-09-2015; KU; Franska Trick; f6c; 15m; lead FZ; <T>
     Did this route as the last of the day: it was ambitious and I was super pleased I got up it clean. It was at the edge of my greasy fingers at the very top. It's an excellent route.
 17-08-2015; GB; Babianen; HS; 60ft; lead KR; 
     Felt a lot harder than it should. Good effort from Kaspar as the routed required a few jamming moves. 
@@ -517,26 +535,28 @@ JB=Jack Bernstein
     Done in the approaching storm and darkness. Excellent to get a route in before camping.
 10-07-2015; GR; Bastille; VF; 400m; lead AX; <3S><S><A><5><P https://flic.kr/p/vUbM3r>
     Axel on the Grenoble via ferata. 9 years old. At the limit. The yoor made it happen.
-16-06-2015; GB; Nalle Puh; 5c; 60ft; sec FZ; 
-16-06-2015; GB; Subba; 6a; 60ft; sec FZ; 
-16-06-2015; GB; Rovjammet; HVS 5a; 60ft; lead FZ; <3S>
-    Absolute beauty
-10-06-2015; GB; Carl Gustavs HP; 6a; 60ft; lead KR; 
-09-06-2015; GB; Nalle Puh; 5c; 60ft; lead KR; 
-09-06-2015; GB; Silvias VF; 5c; 60ft; lead KR; 
-09-06-2015; GB; Highway 66; 5c; 60ft; lead KR; <T>
+16-06-2015; GB; Nalle Puh; f5c; 60ft; sec FZ; 
+16-06-2015; GB; Subba; f6a; 60ft; sec FZ; 
+16-06-2015; GB; Rovjammet; HVS 5a; 60ft; lead FZ; <3S><X>
+    Absolute beauty. Next time bring a large cam.
+10-06-2015; GB; Carl Gustavs HP; f6a; 60ft; lead KR; 
+09-06-2015; GB; Nalle Puh; f5c; 60ft; lead KR; 
+09-06-2015; GB; Silvias VF; f5c; 60ft; lead KR; 
+09-06-2015; GB; Highway 66; f5c; 60ft; lead KR; <T>
 
-29-05-2014; KJ; To Gode Juggar; 6b; 8m; LA FZ; <4> <K photos/IMG_1197.MOV>
-29-05-2014; KJ; Mr Magnet; 6b; 8m; LA FZ; <4> <K photos/IMG_1198.MOV>
-29-05-2014; KJ; Hajfinna; 6b; 8m; LA FZ; <4> <K photos/IMG_1200.MOV>
+29-05-2014; KJ; To Gode Juggar; 6b; 8m; LA FZ; <4> <K http://willerup.com/p/IMG_1197.MOV>
+29-05-2014; KJ; Mr Magnet; 6b; 8m; LA FZ; <4> <K http://willerup.com/p/IMG_1198.MOV>
+29-05-2014; KJ; Hajfinna; 6b; 8m; LA FZ; <4> <K http://willerup.com/p/IMG_1200.MOV>
 
 01-01-2014; RU; Ozzimosis; W4; 60ft; lead; <1>
 
-01-07-2013; CL; The Corner; HVS 5b; 60ft; alt MB; <T>
+23-07-2013; CL; The Corner; HVS 5b; 60ft; alt MB; <T>
     Trip report on willerup.com
-01-07-2013; CL; Chimney Route; VS 4c; 60ft; alt MB; 
-01-07-2013; CL; Curving Crack; VS 4c; 60ft; alt MB; 
-01-07-2013; CL; Pedestal Crack; HVS 5a; 60ft; alt MB; 
+23-07-2013; CL; Chimney Route; VS 4c; 60ft; alt MB; 
+23-07-2013; CL; Curving Crack; VS 4c; 60ft; alt MB; 
+23-07-2013; CL; Pedestal Crack; HVS 5a; 60ft; alt MB; 
+
+30-05-2013; GB; Vaxelstrom; f6c; 8m; solo; <4> 
 
 # Trip with Anders, Tim and Richard. Climbs not correct.
 01-03-2013; RU; Sabotoerfossen; W5; 200m; lead AK; <1>
@@ -544,10 +564,25 @@ JB=Jack Bernstein
 01-03-2013; RU; Vermorkfossen; W5; 60m; lead AK; <1><3S>
 01-03-2013; RU; Vermork Bridge West; W5; 60m; lead AK; <1>
 
+# Trip to Bristol in the summer
+20-07-2012; AV; No Crack for Old Men; f6b+; 20m; sec TW; <2S>
+19-07-2012; WL; Papillon; E2 5b; 33m; lead PW; <1S>
+    Off route. Pulled a loose block.
+19-07-2012; WL; Zebra; E2 5b; 33m; sec PW; <3S>; <I https://live.staticflickr.com/8282/7606094048_fb6b01b4b2_b.jpg>
+18-07-2012; MD; Bixhead Mine; ; ; lead DG; <1S>
+17-07-2012; GC; Disaster Area; HVS 5a; 33m; sec RS; <2S>; <I https://live.staticflickr.com/8422/7595924008_5a42bac8ba_b.jpg>
+15-07-2012; PB; Shape-Up; E2 5b; 33m; sec MB; <3S>
+    Excellent effort of Martin. It is the easiest line out of Huntsman Leap and it is by no means easy. 
+15-07-2012; PB; Army Dreamers; HVS 5a; 110ft; lead MB; <3S>; 
+15-07-2012; PB; Front line; HVS 5a; 110ft; lead MB; <3S>; <I https://live.staticflickr.com/8434/7578192252_5c52e2f319_b.jpg>
+15-07-2012; PB; The Arrow; E1 5b; 110ft; lead MB; <3S>; 
+15-07-2012; PB; Bludgeon; HVS 5a; 110ft; lead MB; <3S>; 
+15-07-2012; PB; Tactician; HVS 5a; 110ft; sec MB; <3S>; <I https://live.staticflickr.com/8148/7578184944_7d339ac37d_b.jpg>
+
 4-3-2012; RU; Vermork East; W4; 120m; alt SF; <1><3S>
     Super hard finish to a great weekend.
 4-3-2012; RU; Kaminfossen; W4; 120m; alt SF; <1><3S>
-    Excellent lead from Sean. Proper outing.
+    Excellent lead from Sean. Proper outing. 
 3-3-2012; RU; Bullen; W3; 50m; lead SF; <1>
     Sean kicked off the weekend of ice with a steady good lead up the right hand gully. Ice wet but good ice
 3-3-2012; RU; Broken Pillar; W5; 15m; lead SF; <1><A>
@@ -566,10 +601,10 @@ JB=Jack Bernstein
 
 14-2-2011; LH; JG Climb; W3; 80m; alt JG; <2S><1> <P https://flic.kr/p/9jYJKk>
 
-20-10-2010; OS; Robinsson Pillar; D; 7m; lead JG;
+20-10-2010; OS; Robinsson Pillar; D; 7m; lead JG; <I https://live.staticflickr.com/4127/5118522262_fdd197d6a8_b.jpg>
     Hang to the rose/thorn. Comitting. Right foot small hold. Nice solid breaks
 20-10-2010; OS; Freaking Crack; VS; 7m; lead JG;
-21-8-2010; KU; Akerskanten; IV-; 50m; lead AN; <2S>
+21-8-2010; KU; Akerskanten; IV-; 50m; lead AN; <2S>; <I https://live.staticflickr.com/4153/4967852806_77a8b42d19_b.jpg>
     Nice traverse followed by a short but satisfying climb up the exposed arete. Great to have Jakob following teaching Anton the ins and outs of rock climbing.
 
 # First trip to Rjukan
@@ -585,32 +620,35 @@ JB=Jack Bernstein
 27-03-2010; RU; Skrueis; W3; 60ft; alt TW PW; <1>
 27-03-2010; RU; Aarsdagen; W3; 60ft; alt TW PW; <1>
 
-6-6-2009; KU; Traditionel; HS; 22m; lead; <2S>
+6-6-2009; KU; Franska Trick; f6b; 22m; top; <2S>; <I https://live.staticflickr.com/3643/3613373728_b2c3066591_b.jpg>
+6-6-2009; KU; Traditionel; HS; 22m; lead; <2S>;
     Climbed with Marco at Jean Gab's wedding. 
 
 2-3-2008; AV; Suspension Bridge Arete; HVS 5a; 110ft; lead MB; <3S>
     Despite a hangover I felt much more akin to the rock.
 2-3-2008; AV; Suspense; HVS 5a; 110ft; sec MB; <3S>
     Good lead from Martin. 
-1-3-2008; WL; Butterfly; VS - 4c; 25m; alt MB;
+1-3-2008; WL; Butterfly; VS 4c; 25m; alt MB;
 1-3-2008; WL; Freedom; VS 4b 4c; 30m; lead MB;
     polished and therefore quite difficult
-1-3-2008; WL; The Split; VS 5a 4b; 30m; alt MB;
+1-3-2008; WL; The Split; VS 5a; 30m; alt MB;
     On permanent loan from Indian creek. I struggled.
 1-3-2008; WL; African Killer Bee; VS 4c; 30m; alt MB; <3S> 
     Best route of the day. Friction was excellent
 
-01-04-2006; WR; Mumkin; 5c; 600m; alt AW; <N http://willerup.com/climbing/jordan.html>
+1-1-2007; PD; Leaning Buttress Direct; HVS; 5b 20m; lead RS MB; <3S>; <I https://live.staticflickr.com/1324/822038688_3983f0135c_b.jpg>
+
+01-04-2006; WR; Mumkin; E1 5c; 600m; alt AW; <N http://willerup.com/climbing/jordan.html>
     Trip report on willerup.com from an amazing trip to Jordan.
 01-04-2006; WR; Ocean Slabs; AD; 600m; alt AW; <T>
-01-04-2006; WR; Merlin's Wand; 6a+; 600m; alt AW;
+01-04-2006; WR; Rijm Assaf; E2 6a; 600m; alt AW; ; <I https://live.staticflickr.com/52/124626415_754c1a9d3e_b.jpg> 
+01-04-2006; WR; Merlin's Wand; E2 6a; 600m; alt AW;
+01-04-2006; WR; Storm in the Desert; E2 6a; 600m; alt AW; ; <I https://live.staticflickr.com/50/124613789_33ef6a1406_b.jpg> 
 
 01-02-2006; LG; Pisse Froide; W4; 150m; lead TW PW; <3S><1><P https://flic.kr/p/9Zy4z>
     Great route climbed with my best friends
 
-11-11-2005; LL; Agen Allwedd; ; 8h; MB TW; <3><C4><3S>
-    Excellent digging trip to dig 9. Also saw the Corkscrew Chamber which was found the day before.
-4-6-2005; KU; Originalruten; V; 30m; lead MB; <3S> 
+4-6-2005; KU; Originalruten; S; 30m; lead MB; <3S>; <I https://live.staticflickr.com/15/19307024_1f5a4ea1fc_b.jpg>
     A long held desire to show KU to Martin is realised. Climbed on a borrowed rack from Fred and Martin using a sling as a harness. Good climb squeezed in betimeen social engagements. Very kind of Martin to give the climb three stars.
 20-3-2005; SC; No Musketeers; HVS 4c; 30m; sec MB; <3S> 
 20-3-2005; SC; All For One...; HVS 5a; 25m; sec MB; <3S>
@@ -622,7 +660,7 @@ JB=Jack Bernstein
 21-5-2004; SC; The Spanish Inquisition; E1 5a; 19m; lead MB; <1S> 
 18-5-2004; AV; Suspension Bridge Arete; HVS 5a; 110ft; sec RS MB; <2S> <P https://flic.kr/p/b1rhJ>
     Did a festive speed ascent as the second.
-18-5-2004; AV; Baby Duck; E1 5b; 36m; lead MB RS; <3S> 
+18-5-2004; AV; Baby Duck; E1 5b; 36m; lead MB RS; <3S>; <I https://live.staticflickr.com/45/113250030_51391d516f_b.jpg>
     I got pumped. Excellent sustained route.
 17-5-2004; WL; Big Fly Direct; E1 5a 5a 5a; 57m; alt TW PW; <2S>
     Fine route. Fine evening. Made the pub.
@@ -636,7 +674,7 @@ JB=Jack Bernstein
 1-11-2003; WL; Nibelheim; VS 4b 4a 4c 4b; 90m; alt SF; <2S> 
 1-11-2003; WL; Joe's Route; VS 4a 4c; 48m; lead SF; <2S> 
     Worthwhile VS just right of the main North Wall
-24-8-2003; KU; Flopp; V; 15m; lead JR FW AN TR HW; <P https://www.youtube.com/watch?v=P19bYP63OUU>
+24-8-2003; KU; Flopp; V; 15m; lead JR FW AN TR HW; <K https://www.youtube.com/watch?v=P19bYP63OUU>
     Another fun weekend of mixed climbing and scuba diving.
 24-8-2003; KU; Handjam; IV; 18m; lead JR; <2S> Excellent jamming route.
 23-8-2003; KU; Tyskeruten; V+; 22m; lead JR; <3S> Jesper did well in following.
@@ -646,7 +684,7 @@ JB=Jack Bernstein
 16-8-2003; KU; Den Rode Platte; IV; 14m; lead AN; <1S> 
     Anton's first climb. He was so keen on more that instead of walking of from the stance we mountaineered our wayh to the summit climbing a few other routes on the way up. 
 
-23-7-2003; LG; Aiguille Dibona; 6c; 1000ft; alt RS AW; <B><T><3S><P https://flic.kr/p/4NbDh>
+23-7-2003; LG; Aiguille Dibona; f6c; 1000ft; alt RS AW; <B><T><3S><P https://flic.kr/p/4NbDh>
     Excellent little expedition efficiently executed by our three-person's team.
 
 7-6-2003; WL; Zelda; HS 4b 4b; 54m; alt PW; <3S>
@@ -681,71 +719,71 @@ JB=Jack Bernstein
     Fine crag climbing. Fred lost his camelot 2.
 17-5-2003; KU; Freja; 4; 8m; lead FW; <1S> 
     In celebration of Seans newborn daughter called Freja  Fred and I climbed the crag of this little baby.
-22-2-2003; LG; Pylone Right; W3; 70m; lead; <1S> <1>
+22-2-2003; LG; Pylone Right; W3; 70m; lead PW TW; <1S> <1>
     Managed to squeeze an ice climb out of a visiting German friend. We didn't do much  but it was worth it.
 10-2-2003; LG; La Colere du Ciel; W3; 1000ft; alt TW PW; <3S><1> 
     Excellent route. Super festive glissade down to the valley afterwards.
-9-2-2003; LG; Symphonie d'automne; W4; 120m; alt TW PW; <1><T><P https://flic.kr/p/4frZ2>
+9-2-2003; LG; Symphonie d'automne; W4; 120m; alt TW PW; <1><T><P https://flic.kr/p/4frZ2>; <I https://live.staticflickr.com/31/36768426_6f1bbb853b_b.jpg>
     The classic of the crag. Excellent snowblade descent afterwards.
 8-2-2003; LG; Stalactus; W4; 50m; alt TW PW; <1>
-17-1-2003; LG; Caturgeas; W5; 600m; sec SF; <M><1><T><3S><A>
+17-1-2003; LG; Caturgeas; W5; 600m; sec SF; <M><1><T><3S><A>; <I https://live.staticflickr.com/18/69319217_627019763d_o.jpg>
     600 meters of pure ice! We ticked all of it although it took us 15 hours! (and then 3 hours to get down). Quite a day out.
 12-1-2003; LG; Chizarton; W3; 20m; lead JA; <1S><1>
     Initiation ice climb for James. He did very well. The finishing top is quite unpleasant.
 
-28-7-2002; VD; Vue de Cezanne; 5a; 10m; lead FW; <F><1S> 
+28-7-2002; VD; Vue de Cezanne; f5a; 10m; lead FW; <F><1S> 
     Spotted a potential cave at the bottom. Will require digging.
-28-7-2002; VD; Bernard; 5b; 10m; sec FW; <F><1S> 
-28-7-2002; VD; Claude; 5b; 10m; lead FW; <F><1S> 
+28-7-2002; VD; Bernard; f5b; 10m; sec FW; <F><1S> 
+28-7-2002; VD; Claude; f5b; 10m; lead FW; <F><1S> 
     Nice little number. The finishing move is a bit gnarly.
-29-7-2002; VD; La Demande; 5c 5b 5b; 100m; alt FW; <Q><T>
+29-7-2002; VD; La Demande; f5c; 100m; alt FW; <Q><T>
     Fred and I tried our luck with this 11 pitch classic. Eventually backed off due to approaching storm and lacking yoor. Quite good we did. A little epic.
-28-7-2002; GR; Plika Fibreuse; 5c; 20m; lead FW; <B>; 
-24-7-2002; GR; Mort Subite; 6b; 10m; lead RI; <B><2S> 
+28-7-2002; GR; Plika Fibreuse; f5c; 20m; lead FW; <B>; 
+24-7-2002; GR; Mort Subite; f6b; 10m; lead RI; <B><2S><P https://flic.kr/p/738af>
     I love this litttle route.
-24-7-2002; GR; La Mule; 6a; 12m; sec; <B><P photos/floclimb.jpg>
+24-7-2002; GR; La Mule; f6a; 12m; sec; <B>; <I http://willerup.com/p/floclimb.jpg>
     Lovely little pump
-24-7-2002; GR; Au dela de la Verticale; 6b/c; 25m; sec; <B><P photos/matclimb.jpg>
+24-7-2002; GR; Au dela de la Verticale; f6c; 25m; sec; <B>; <I http://willerup.com/p/matclimb.jpg>
     Went free this time  but self toproped because of lack of commited partners. This is definitely the route of the crag.
-22-7-2002; GR; Au dela de la Verticale; 6b/c; 25m; sec AL; <W><B>; 
+22-7-2002; GR; Au dela de la Verticale; f6c; 25m; sec AL; <W><B>; 
     Al took a nasty lob on the top crux. I topped out afterwards  using Al's ropes from his attempt. That route will go free next time.
-22-7-2002; GR; La Mule; 6a; 12m; sec AL; <W><B><P photos/mat1.jpg>
+22-7-2002; GR; La Mule; f6a; 12m; sec AL; <W><B>; <I http://willerup.com/p/mat1.jpg>
     Good effort from visiting Ahut member Al  I had to bail out on the crux pumped out.
-22-7-2002; GR; Mort Subite; 6b; 10m; lead AL; <B><P photos/al1.jpg>
+22-7-2002; GR; Mort Subite; f6b; 10m; lead AL; <B>; <I http://willerup.com/p/al1.jpg>
     Great little pumpy number. Super pockets.
-22-7-2002; GR; Belle de Jour; 5+; 8m; sec AL; <B>; 
-7-7-2002; AR; Apres de mon Abre; 4c; 30m; sec CW; <B>; 
+22-7-2002; GR; Belle de Jour; f5+; 8m; sec AL; <B>; 
+7-7-2002; AR; Apres de mon Abre; f4c; 30m; sec CW; <B>; 
     I let Celine lead this one and got while she was at the top out of view, I got undressed to climb it nude and to arrive nude at the stance - for festive purposes. 
-7-7-2002; AR; La Vie Eternelle; 6c; 30m; lead CW; <B>; 
+7-7-2002; AR; La Vie Eternelle; f6c; 30m; lead CW; <B>; 
     Excellent place this Ardeche. Finally had a go on something a bit harder  and although I had to rest on the rope three times  I was quite pleased with the tick.
-7-7-2002; AR; Hang on; 6a; 30m; lead cw; <B><3S> 
-2-7-2002; GR; Celine; 5+; 15m; lead CW; <B>; 
+7-7-2002; AR; Hang on; f6a; 30m; lead cw; <B><3S> 
+2-7-2002; GR; Celine; f5+; 15m; lead CW; <B>; 
     The neighbourgh route to Mathias - is called Celine. Nice and tricky little number.
-2-7-2002; GR; Mathias; 5; 15m; lead CW; <B>; 
+2-7-2002; GR; Mathias; f5; 15m; lead CW; <B>; 
     Great little route with the same name as me! Superb position overlooking GR  Vercors and The Alps. Great evening crag.
-30-6-2002; OM; Tac (Gauche); 6a+; 27m; lead CW; <B><P photos/5.jpg>
+30-6-2002; OM; Tac (Gauche); f6a+; 27m; lead CW; <B>; <I http://willerup.com/p/5.jpg>
     Great line up the main face. Atmospheric crag with a lot of potential.
-30-6-2002; OM; Assurance Tous Risque; 5a; 21m; lead CW; <B>; 
-30-6-2002; OM; Cacaboum; 4c; 20m; sec CW; <B>; Good lead from Celine
-30-6-2002; OM; Neuleu; 6a; 30m; lead CW; <B><2S> 
-30-6-2002; OM; Vasidoux; 4c; 20m; lead CW; <B>; 
-30-6-2002; OM; Acrobuis; 5a; 30m; lead CW; <B>; 
-2-6-2002; GR; Les Grandes Mulets; 5b; 10m; lead CW; <B>; 
-2-6-2002; GR; Tango pour un Viking; 6c; 8m; lead; <B><2S> 
-2-6-2002; GR; Vision dans les Spasmes; 6B; 30m; lead CW; <B><3S> 
+30-6-2002; OM; Assurance Tous Risque; f5a; 21m; lead CW; <B>; 
+30-6-2002; OM; Cacaboum; f4c; 20m; sec CW; <B>; Good lead from Celine
+30-6-2002; OM; Neuleu; f6a; 30m; lead CW; <B><2S> 
+30-6-2002; OM; Vasidoux; f4c; 20m; lead CW; <B>; 
+30-6-2002; OM; Acrobuis; f5a; 30m; lead CW; <B>; 
+2-6-2002; GR; Les Grandes Mulets; f5b; 10m; lead CW; <B>; 
+2-6-2002; GR; Tango pour un Viking; f6c; 8m; lead; <B><2S> 
+2-6-2002; GR; Vision dans les Spasmes; f6b; 30m; lead CW; <B><3S> 
     Excellent route with an ultra long reach mid way
-21-5-2002; GR; Tu Rame; 6b; 10m; lead CW; <B>; 
+21-5-2002; GR; Tu Rame; f6b; 10m; lead CW; <B>; 
     Quick evening tick. Pleased I am getting used the sports medium at last.
-21-5-2002; GR; Zim Dime; 5c; 10m; lead CW; <B><1S> 
-16-5-2002; GR; Ad Hoc; 5+; 10m; lead CW; <B><1S> 
-16-5-2002; GR; Stardust; 6a; 20m; lead CW; <B>; 
+21-5-2002; GR; Zim Dime; f5c; 10m; lead CW; <B><1S> 
+16-5-2002; GR; Ad Hoc; f5+; 10m; lead CW; <B><1S> 
+16-5-2002; GR; Stardust; f6a; 20m; lead CW; <B>; 
     I like this area - the rock somewhat resembles that of AV. Good evening venue.
-16-5-2002; GR; Crysalide; 4+; 20m; lead CW; <B>; 
-16-5-2002; GR; N.R.J.; 5+; 20m; lead CW; <B><1S>
+16-5-2002; GR; Crysalide; f4+; 20m; lead CW; <B>; 
+16-5-2002; GR; N.R.J.; f5+; 20m; lead CW; <B><1S>
 
 28-4-2002; VT; Peaceful Warrior; 5.7; 15m; lead JB; <B><1S><K https://youtu.be/pXzozt24StQ>
     Check out the video from the weekend.
-28-4-2002; VT; Chosmaster; 5.7; 30m; lead JB; <B>; 
+28-4-2002; VT; Chosmaster; 5.7; 30m; lead JB; <B> <K https://vimeo.com/40743966>
 28-4-2002; VT; Boschido; 5.10c; 30m; lead JB; <B><3S> 
     The route of the crag. Superbly natural line weaving it's way up this huge exposed basalt pillar. The locals were impressed by the onsight tick. I was well pleased. Sustained.
 28-4-2002; VT; Desert Shield Right; 5.8; 15m; lead JB; <B><1S> 
@@ -763,27 +801,27 @@ JB=Jack Bernstein
 27-4-2002; VT; Dawn Cyote; 5.8; 15m; lead JB; <B><1S> 
     Wet in the top.
 
-03-03-2002; CH; Aigi de Midi South Face; 6c; 600m; alt PW; <Q> <K https://youtu.be/fmvgaeoFfLY>
+03-03-2002; CH; Aigi de Midi South Face; f6c; 600m; alt PW; <Q> <K https://youtu.be/fmvgaeoFfLY>
 
-1-4-2002; OM; La Directe des Gupes; 5+/6a; 90m; lead CW; <B><3S><P photos/guepes.jpg>
+1-4-2002; OM; La Directe des Gupes; f6a; 90m; lead CW; <B><3S>; <I http://willerup.com/p/guepes.jpg>
     Superb route. Three sustained pitches takes you to the summit of this excellent place.
-31-3-2002; OM; Le Gastronome; 5+; 50m; lead CW; <B><2S><P photos/gastronome.jpg>
+31-3-2002; OM; Le Gastronome; f5+; 50m; lead CW; <B><2S>; <I http://willerup.com/p/gastronome.jpg>
     After yesterdays epic we only did one pitch of this fairly bolt spaced out classic.
-30-3-2002; OM; Vois de Trou; 5+; 110m; lead CW; <B><2S><P photos/voistrou.jpg>
+30-3-2002; OM; Vois de Trou; f5+; 110m; lead CW; <B><2S>; 
     Excellent little expedition. Got the to summit just as the sun disappeared on the horizon. Three long abseils in complete darkness saw us down eventually. Good effort from Celine who had only abseiled once before.
-21-3-2002; GR; Abolition; 5b; 20m; lead CW; <B><2S> 
-21-3-2002; GR; Humanismous; 5b; 30m; lead CW; <B><1S> 
-9-3-2002; GR; Niou-Niou; 6a; 20m; lead AW; <B><2S> 
-9-3-2002; GR; Interlude; 5+/6a; 20m; sec AW; <B><1S> 
-9-3-2002; GR; Scandal; 5; 10m; sec AW; <B>;
+21-3-2002; GR; Abolition; f5b; 20m; lead CW; <B><2S> 
+21-3-2002; GR; Humanismous; f5b; 30m; lead CW; <B><1S> 
+9-3-2002; GR; Niou-Niou; f6a; 20m; lead AW; <B><2S> 
+9-3-2002; GR; Interlude; f5+/6a; 20m; sec AW; <B><1S> 
+9-3-2002; GR; Scandal; f5; 10m; sec AW; <B>;
     Part of the attempt trying to get up to Annundo.
-9-3-2002; GR; Power; 7a/b; 20m; sec AW; <W><B><1S>
+9-3-2002; GR; Power; f7a; 20m; sec AW; <W><B><1S>
     The guidebook is wrong in this sector and I ended up fighting a hard battle against this 7a thing. Got to the top after two rests.
-9-3-2002; GR; On or In; 6a/b; 20m; sec AW; <B><3S> 
+9-3-2002; GR; On or In; f6b; 20m; sec AW; <B><3S> 
     Fantastic crack climbing. Good lead from Andrew.
-9-3-2002; GR; Panama; 5+/6a; 20m; lead AW; <B><3S> 
+9-3-2002; GR; Panama; f6a; 20m; lead AW; <B><3S> 
     Tricky start. Good jamming and laybacking all the way.
-9-3-2002; GR; Transit; 5+/6a; 20m; sec AW; <B><1S> 
+9-3-2002; GR; Transit; f6a; 20m; sec AW; <B><1S> 
 26-1-2002; LG; Chizarton; W3; 20m; lead CW; <1S><1>
     Lots of fresh snow made the ice climbing less pure. Still a good initiation climb for Celine who did very well.
 21-1-2002; LG; Version Originale; W3; 25m; sec PE; <1>
@@ -793,59 +831,60 @@ JB=Jack Bernstein
 19-1-2002; LG; Le Voile du Chizarton; W4; 30m; top; <3S><1>
     Self toproped because I'm such a sad lonely git down here in France. Excellent stuff though - did it four times for some proper forearm training. Selftoproping worked really well with the Petzl Traction. Ice conditions are *superb* this year.
 
-28-10-2001; GR; Domi Creation; 6b 6a+ 6b 5c+; 90m; lead DS; <B><1S><P https://flic.kr/p/6ZSDB> 
+28-10-2001; GR; Domi Creation; f6b; 90m; lead DS; <B><1S><P https://flic.kr/p/6ZSDB> 
     Not a stylish ascent.
-27-10-2001; PR; Bon Interlude; 5+; 100m; lead RI; <B><2S><Q>
+27-10-2001; PR; Bon Interlude; f5+; 100m; lead RI; <B><2S><Q>
     Great to be out in Presles. Big route at 280m. We only did the two first pitches.
-12-5-2001; PR; Transit; 5+/6a; 20m; lead RI; <B><1S><P https://flic.kr/p/6ZSCN>
+12-5-2001; PR; Transit; f6a; 20m; lead RI; <B><1S><P https://flic.kr/p/6ZSCN>
     Excellent day out in this superb crag. The rucksack were full - but where in in England it would be full of climbing gear - here in France mine was full of flute  watermelon  cheese and pate. :-)
-12-5-2001; GR; N.R.J.; 5+; 20m; lead RI; <B><3S> 
-12-5-2001; GR; Nose Dik; 5; 20m; lead ; <B>; 
-12-5-2001; GR; Crysalide; 4+; 20m; lead; <B>; 
-12-5-2001; GR; Micro-Fissures; 5+; 20m; lead RI; <B>; 
+12-5-2001; GR; N.R.J.; f5+; 20m; lead RI; <B><3S> 
+12-5-2001; GR; Nose Dik; f5; 20m; lead ; <B>; 
+12-5-2001; GR; Crysalide; f4+; 20m; lead; <B>; 
+12-5-2001; GR; Micro-Fissures; f5+; 20m; lead RI; <B>; 
     Quite a hard start for the grade. Unless you do as most French people - pull the quickdraw.
-8-5-2001; GR; Noname3; 6a+; 30m; lead DS; <B><3S> 
+8-5-2001; GR; Noname3; f6a+; 30m; lead DS; <B><3S> 
     A bit dangerous at the bottom because of loose rocks from parties on the area above.
-8-5-2001; GR; Noname2; 6a+; 30m; lead DS; <B><3S> 
+8-5-2001; GR; Noname2; f6a+; 30m; lead DS; <B><3S> 
     Excellent stufff. Brilliant crag very close to GR. A bit like GC in character.
-8-5-2001; GR; Noname1; 6a; 30m; lead DS; <B><1S> 
-14-4-2001; GR; Stardust; 6a; 20m; sec MB; <B>; 
-14-4-2001; GR; Shirpa; 6a; 16m; sec MB; <B>; 
-14-4-2001; GR; Nose Dik; 5; 20m; sec MB; <B>; 
-14-4-2001; GR; Niou-Niou; 6a; 20m; sec MB; <B>; 
-14-4-2001; GR; Nestea; 6a; 17m; sec MB; <B>; 
-14-4-2001; GR; N.R.J.; 5+; 20m; sec MB; <B><3S> 
+8-5-2001; GR; Noname1; f6a; 30m; lead DS; <B><1S> 
+14-4-2001; GR; Stardust; f6a; 20m; sec MB; <B>; 
+14-4-2001; GR; Shirpa; f6a; 16m; sec MB; <B>; 
+14-4-2001; GR; Nose Dik; f5; 20m; sec MB; <B>; 
+14-4-2001; GR; Niou-Niou; f6a; 20m; sec MB; <B>; 
+14-4-2001; GR; Nestea; f6a; 17m; sec MB; <B>; 
+14-4-2001; GR; N.R.J.; f5+; 20m; sec MB; <B><3S> 
     Superb climbing. Undercling 4 meters up provides an easy pass of the crux.
-14-4-2001; GR; Lubna; 6a; 9m; sec MB; <B>; 
-14-4-2001; GR; Interlude; 5+/6a; 20m; lead MB; <B>; 
-14-4-2001; GR; Hyades; 6b; 17m; lead MB; <B>; 
+14-4-2001; GR; Lubna; f6a; 9m; sec MB; <B>; 
+14-4-2001; GR; Interlude; f6a; 20m; lead MB; <B>; 
+14-4-2001; GR; Hyades; f6b; 17m; lead MB; <B>; 
     This was to be my last lead this day. Tried a 6b/c but took a whipper before the last clip. I was pumped stupid and getting exhausted after an intense week of caving and snowboarding. 
-31-3-2001; BX; Cri de guerre; 6b+; 30m; lead SW; <B><2S> 
+31-3-2001; BX; Cri de guerre; f6b+; 30m; lead SW; <B><2S> 
     Perfert Saturday afternoon in superb weather. Almost no people  had most of the world class rock to ourselves.
-31-3-2001; BX; La Voliere; 5b; 30m; lead SW; <B><2S> 
+31-3-2001; BX; La Voliere; f5b; 30m; lead SW; <B><2S> 
 
-29-3-2001; GR; On n'est pad des Betes; 5c; 30m; lead RI; <B><3S><P photos/1onnestpasdesbetes.jpg>
+29-3-2001; GR; On n'est pad des Betes; f5c; 30m; lead RI; <B><3S>; <I http://willerup.com/p/1onnestpasdesbetes.jpg>
     Superb route! Layback and exposed back and footing in the chimney in the top.
-29-3-2001; GR; Mocamba; 5c; 20m; lead RI; <B><1S><P photos/1mocamba.jpg>
+29-3-2001; GR; Mocamba; f5c; 20m; lead RI; <B><1S>; <I http://willerup.com/p/1mocamba.jpg>
     First climb of the year  and first climb in my new local crag. Excellent sports climbing.
 27-3-2001; GR; Bastille; VF; 200m; solo; <5><1S><N http://willerup.com/grenoble/ferrata.html>
     Lunch time climb. With skateboard.
 
-19-2-2001; LG; Les Larmes du Chaos; W4; 90m; PW TW alt; <3S><1><P http://willerup.com/ice/CNV00035a.jpg> 
+19-2-2001; LG; Les Larmes du Chaos; W4; 90m; PW TW alt; <3S><1>; <I http://willerup.com/ice/CNV00035a.jpg> 
     Very atmospheric climb. Good bit of spin drift on the second pitch  steep (85 degress) and quite <a href="https://flic.kr/p/7U11G">remote</a>.
-18-2-2001; LG; La Grotte; W3; 0; sec TW PW; <S><3S><1><P http://willerup.com/ice/CNV00047a.jpg>
+18-2-2001; LG; La Grotte; W3; 0; sec TW PW; <S><3S><1>; <I http://willerup.com/ice/CNV00047a.jpg>
     Superb settings. Full sunshine  perfect ice.
-17-2-2001; LG; Pylone Left; W4; 70m; alt TW PW; <3S><1><P http://willerup.com/ice/CNV00015a.jpg>
+17-2-2001; LG; Pylone Left; W4; 70m; alt TW PW; <3S><1>; <I http://willerup.com/ice/CNV00015a.jpg>
     Less ice than two weeks ago (more delicate) but colder (better ice).
 3-2-2001; LG; Pylone Right; W3; 70m; sec; <2S><1> 
     First ice climb in LG. Excellent stuff.
-12-11-2000; SD; Caravanserai; HVS 4c; 36m; lead MB; <2S><P photos/mathias.jpg>
+
+12-11-2000; SD; Caravanserai; HVS 4c; 36m; lead MB; <2S>; <I http://willerup.com/p/mathias.jpg>
     Ate all my Camelots. Good jamming on the left wall.
-12-11-2000; SD; Sugar Magnolia; HVS 5a; 18m; sec MB; <2S><P photos/martinlead.jpg>
-12-11-2000; SD; Tydomin; HVS 4c; 27m; lead MB; <2S><P photos/culmcoast.jpg>
-12-11-2000; SD; Crimtyphon; E2 5b; 30m; lead MB; <3S><P photos/chryt2.jpg>
+12-11-2000; SD; Sugar Magnolia; HVS 5a; 18m; sec MB; <2S>; <I http://willerup.com/p/martinlead.jpg>
+12-11-2000; SD; Tydomin; HVS 4c; 27m; lead MB; <2S>; <I http://willerup.com/p/culmcoast.jpg>
+12-11-2000; SD; Crimtyphon; E2 5b; 30m; lead MB; <3S>; <I http://willerup.com/p/chryt2.jpg>
     Superb texture and excellent crimps.
-4-11-2000; WL; Nibelheim; VS 4b 4a 4c 4b; 90m; alt MB; <1S> 
+4-11-2000; WL; Nibelheim; VS 4b 4a 4c 4b; 90m; alt MB; <1S>; <I https://live.staticflickr.com/39/78512511_5785cfff9b_b.jpg>
 4-11-2000; WL; The Angel's Eye; HVS 5b 4b 4b; 63m; alt MB; <2S> 
     Severely hungover  I quickly sobered up leading the easy but exposed and sparsely protected second pitch. Classic route.
 28-10-2000; YO; La Cosita Left; 5.9; 50m; lead FW; ; 
@@ -906,7 +945,7 @@ JB=Jack Bernstein
 8-6-2000; HC; Crack Dancer; HVS 5b; 7m; sec MB; <1S> 
     Martin jammed like a savage. I laybacked. 
 8-6-2000; HC; Song Child; VS 4c; 7m; lead MB; 
-8-6-2000; HC; Feather Light Slab; E1 5b; 9m; sec MB; <1S><P photos/feather.jpg>
+8-6-2000; HC; Feather Light Slab; E1 5b; 9m; sec MB; <1S>; <I http://willerup.com/p/feather.jpg>
 7-6-2000; GC; Glamdring; VS 4c; 24m; lead TW; 
     Tried Killer Ant (E26a)  but this time the yoor seemed to be missing  so we did this nice VS instead. 
 7-6-2000; GC; Girion Direct; E2 5c; 15m; sec TW
@@ -929,12 +968,12 @@ JB=Jack Bernstein
     Last route of the day. It was either this or another HVS. Having pushed the limit quite a bit already I wasn't quite sure that I wanted to lead the magnificiently positioned slab which looked completely unprotected from below. We fired up the final bit of yoor and I went for it. An excellent route  and the slab has *one* piece of perfect gear so that's plenty!  
 14-5-2000; NQ; Let Me Know What Life is Like; HVS 5b; 25m; sec PW; <2S> 
     Great route. Paul finally picked up the sharp end  and he led the route in fine style. Plenty of pro (very unusual at Navigation Quarry) 
-14-5-2000; NQ; Totally Relaxed; 6c; 25m; lead PW; <2S> 
+14-5-2000; NQ; Totally Relaxed; f6c; 25m; lead PW; <2S> 
     Due to our almost unprotected adventure we decided to try some bolt clipping. I had to pull on the quickdraw in the crux. Great route if you can climb that grade! Oh yeah  we tried Western Front Direct first. That's E56b on bolts. Paul lowered me off from the impossible roof. 
 14-5-2000; NQ; Fly Me To The Moon; HVS 5a; 22m; lead PW; <1S><X> 
     No gear from mid way. Had to pull up some commiting roofs with 20 meters of unprotected air underneath me. Really f*cking scary. 
 
-13-5-2000; WL; Valley Forge; E2 5c; 40m; lead MB; <2S> 
+13-5-2000; WL; Valley Forge; E2 5c; 40m; lead MB; <2S>; <I https://live.staticflickr.com/41/78512436_49f4410754_b.jpg>
     Superb Saturday out in Wintours. Excellent routes which for me climaxed in this 135 foot hidden gem. Shame about the bolts left of the route which obscures the face a lot. Great hidden line though.  
 13-5-2000; WL; Clucthing at Straws; E2 5c; 12m; lead MB
 13-5-2000; WL; Age of Enlightenment; E1 5b; 24m; sec MB; <1S>
@@ -949,7 +988,7 @@ JB=Jack Bernstein
 7-5-2000; AV; M1; E1 5b; 36m; lead FW; <3S> 
     Excellent route! Really sustained climbing on a brilliant line. Starts with technical bridging  then exposed traversing and finishing up a steep pumpy overhanging wall. 
 6-5-2000; WL; Surrealist; E1 5a 4b 5b 4b; 96m; lead FW; <3S>
-6-5-2000; WL; The Angel's Girdle; VS 4b 4b 5a 4c; 108m; lead FW; <1S>
+6-5-2000; WL; The Angel's Girdle; VS 4b 4b 5a 4c; 108m; lead FW; <1S>; <I https://live.staticflickr.com/39/78512405_6be4cb3931_b.jpg>
 5-5-2000; WL; A Fly in the Eye?; E3 5c; 27m; lead PW; <3S> 
     Thought for a few feet I was doing an HVS but then I realised that it was harder. Turned out to be E3. Yoist. 
 5-5-2000; WL; Wurlitzer; E1 4c 5c; 57m; lead PW; <3S>
@@ -962,7 +1001,7 @@ JB=Jack Bernstein
     Had the block I belayed from decided to let go while we were at it  it would have been the end of it all. Great route. 
 1-5-2000; LL; Passage of Time; E1 5b; 24m; sec MB; <2S> 
     Amazing fingercrack from bottom to top almost. I was getting cold and a little bit fed up after Martin had spent what seemed like two or three hours emptying his chalkbag on the 24 meters of rock. 
-1-5-2000; LL; Little Overhang; HVS 5a; 570; lead MB;<X> 
+1-5-2000; LL; Little Overhang; HVS 5a; 570; lead MB; <X> 
     Scary middle piece of loose shale above rp-gear lower down. Good character building stuff. 
 1-5-2000; LL; Apache; HVS 5a; 18m; sec MB; ; 
     Stepped on a reasonably solid looking piece of rock which disappeared underneath my foot. 
@@ -980,10 +1019,10 @@ JB=Jack Bernstein
 29-4-2000; WL; Exit and Chameleon; VS 4c; 27m; lead MB; ; 
     Good top pitch  but the middle part is seriously vegetaged - even comparing it to the other routes we did that day. 
 29-4-2000; WL; Flies Rise; HVS 4b 5b; 30m; lead MB; 
-29-4-2000; WL; Bzzz Splat; HVS 5a; 30m; lead MB; ; 
+29-4-2000; WL; Bzzz Splat; HVS 5a; 30m; lead MB; <X>; 
     Quite a little epical excursion - at least on the sharp end. It was f*cking loose in the start and I nearly came off which would have ment a certain splat. Thing did *not* get any easier in the top. It was good climbing  but the top was desperate. Gear was good  but the finishing ledge was full of munge and I eventually climbed off leftwards.  
 29-4-2000; WL; Flyte; HVS 4c 5a; 30m; lead MB; <1S>
-27-4-2000; AV; Malbogies Direct; E1 5b 4c; 60m; lead MB; <3S> 
+27-4-2000; AV; Malbogies Direct; E1 5b 4c; 60m; lead MB; <3S><E>
     Another excellent 'after work' tick. What a route! The direct start definitely places a stiff crux in the bottom which was negotiated with an amble amount of Yoor. 
 25-4-2000; WL; Big Fly Direct; E1 5a 5a 5a; 57m; lead MB; <2S> 
     Excellent after work session. Although the last pitch was done in the dark  we managed to get to the Rising Sun in time for a few beers. Met a few of the locals  nice people. 
@@ -991,17 +1030,17 @@ JB=Jack Bernstein
 14-4-2000; AV; Bonbogies; HVS 5a; 110ft; lead MB; <1S>
 10-4-2000; AV; Daydream; VS 5a; 24m; sec MB; <1S>
 10-4-2000; AV; Petros; VS 4c; 27m; lead MB; <1S>
-10-4-2000; AV; Reveille; VS 4c -; 54m; lead MB; <1S>
-9-4-2000; CL; Pegasus; HS 4b 4a 4a 4b; 55m; lead MB; <2S>
-9-4-2000; CL; Excelsior; E1 - 5a - 5a 5b; 60m; lead MB; <3S>
-9-4-2000; BG; Paragon; HVS 5a 5a 5a; 61m; lead MB; <3S> 
+10-4-2000; AV; Reveille; VS 4c; 54m; lead MB; <1S>
+9-4-2000; CL; Pegasus; HS 4b; 55m; lead MB; <2S><E>
+9-4-2000; CL; Excelsior; E1 5b; 60m; lead MB; <3S><E>
+9-4-2000; BG; Paragon; HVS 5a; 61m; lead MB; <3S><E> 
     Excellent route. Big jugs and great positions. 
-8-4-2000; CL; Detergent Wall; HVS 4b 4c 4c 4a; 45m; lead MB; <1S> 
+8-4-2000; CL; Detergent Wall; HVS 4c; 45m; lead MB; <1S><E> 
     Festive approach. The tide was coming in  and we we negotiating some semisubmersed boulderhopping. 
-8-4-2000; CL; Great Western Arete; HVS 5b 4a 5a 4a; 73m; lead MB; <W>; 
+8-4-2000; CL; Great Western Arete; HVS 5b; 73m; lead MB; <W><E>; 
     Strange grading - I lobbed on the 5a pitch which was really akward and hard. 
 8-4-2000; CL; South East Face Direct; HVS 5a; 15m; lead MB; <1S>
-8-4-2000; CL; Kittiwake; HVS 5a -; 48m; lead MB
+8-4-2000; CL; Kittiwake; HVS 5a; 48m; lead MB
 26-3-2000; PD; Sunset Crack; VS 4b; 10m; sec TW
 26-3-2000; PD; Tody's Wall; HVS 5a; 18m; lead TW; <2S>
 26-3-2000; PD; Heartless Hair; E3 6a; 0; lead TW; <2S>
@@ -1040,7 +1079,7 @@ JB=Jack Bernstein
 26-2-2000; SY; Scooby Doo; HVS 5a; 100ft; sec MB;
 26-2-2000; SY; The Russian; HVS 5a; 100ft; lead MB; <1S>
 26-2-2000; SY; Red Rose Speedway; HVS 5a; 100ft; sec MB; <2S>
-14-11-1999; CG; Sceptre; VS 4b 4a 4a 4c; 260ft; alt MB; <1S>
+14-11-1999; CG; Sceptre; VS 4b 4a 4a 4c; 260ft; alt MB; <1S>; <I https://live.staticflickr.com/42/78513317_33d5ac1e8c_o.jpg>
 13-11-1999; ND; Heart of the Sun; E2 5b 5b 5a 4a; 320ft; alt MB; <2S>
 11-9-1999; SD; Leviathan; VS 4c; 75ft; lead MB; <3S>
 11-9-1999; SD; Climbers Club Direct; HVS 5a 5a; 240ft; alt MB; <3S>
@@ -1050,7 +1089,7 @@ JB=Jack Bernstein
 6-9-1999; SC; Ironside's Men; E2 5b; 60ft; lead MB; <2S>
 30-8-1999; WL; Swallows Nest; VS 4b 4b; 130ft; alt SF
 30-8-1999; WL; Freedom variation; HVS 4b 5b; 120ft; alt SF
-29-8-1999; PD; Kelly's Overhang; HVS 5b; 15m; lead- SF; <W>
+29-8-1999; PD; Kelly's Overhang; HVS 5b; 15m; lead- SF; <W>; <I http://willerup.com/p/2kelly.gif>
 	Attempted and failed. Festive route.
 29-8-1999; PD; Inaccessible Crack; VS 4c; 18m; lead SF
 29-8-1999; PD; Twisting Crack; S; 14m; sec SF
@@ -1102,8 +1141,8 @@ JB=Jack Bernstein
 20-6-1999; GW; South West Diedre; HVS 5a; 33m; lead NE; <2S>
 19-6-1999; GW; Arch Slab; VS 4c; 24m; lead FW
 19-6-1999; GW; Joggled Wall Direct; HS 4b; 18m; sec FW
-19-6-1999; GW; Scavenger; VS 4b; 26m; lead TR FW; <2S><P photos/scavenger.jpg>
-19-6-1999; GW; East Ridge; VD 4c; 73m; solo; <P photos/solojunki.jpg>
+19-6-1999; GW; Scavenger; VS 4b; 26m; lead TR FW; <2S>; <I http://willerup.com/p/scavenger.jpg>
+19-6-1999; GW; East Ridge; VD 4c; 73m; solo; ; <I http://willerup.com/p/solojunki.jpg>
 17-6-1999; GC; Elrond; VS 4c; 70ft; sec TW
 17-6-1999; GC; Gundabad; E1 5b; 70ft; sec TW
 17-6-1999; GC; Gondolin; VS 4b; 70ft; sec TW
@@ -1113,7 +1152,7 @@ JB=Jack Bernstein
 19-5-1999; AV; Earl of Perth; E1 5b 5a; 200ft; alt RS
 9-5-1999; AV; The Lich; HVS 5a; 90ft; lead FW
 9-5-1999; AV; The Corpse; HVS 5a; 90ft; sec FW
-1-5-1999; AV; New Horizons II; E2 5c; 60ft; lead TW; <2S><P photos/newhorizons.jpg>
+1-5-1999; AV; New Horizons II; E2 5c; 60ft; lead TW; <2S>; <I http://willerup.com/p/newhorizons.jpg>
 1-5-1999; AV; Arms Race; E4 5c; 60ft; lead TW; <W><A><2S><N http://willerup.com/climbing/armsrace.html>
 	My arms were like two wooden planks half way up. Loads of good pro which held several falls including a couple of pretty long whippers. Pulled it through in the end (with full use of the ringbolt). Will be going back again for a redpoint attempt.
 1-5-1999; AV; Jasper; HVS 5a; 80ft; lead TW; <R><P https://flic.kr/p/5bScD>
@@ -1125,40 +1164,40 @@ JB=Jack Bernstein
 28-3-1999; AV; Limbo direct; E1 5b 4b; 150ft; alt FW; <2S>
 27-3-1999; CG; Viper crack; VS 5a; 70ft; lead FW JC; <1S>
 	Excellent day out in Cheddar. Weather was perfect and we finished the day of with this little steep splitter. We gave a rope end to a chap passing us on bicycle from London on his way to Penzane.
-27-3-1999; CG; Consolation; E1 5a 5b; 150ft; alt FW; <3S><P photos/consolation.jpg>
+27-3-1999; CG; Consolation; E1 5a 5b; 150ft; alt FW; <3S>; <I http://willerup.com/p/consolation.jpg>
 	Good route! Really good route.
 20-3-1999; WL; King Kong; E2 5c 5a 4a; 300ft; alt FW; <2S><N http://willerup.com/climbing/kingkong.html>
 	The route has fallen down and we did the new King Kong. Serious stuff. *Very* sustained. I reckon it's E2.
-31-1-1999; JT; Damper; 5.9; 15m; sec MB; <P http://willerup.com/climbing/mexico/img/damper.jpg>
-31-1-1999; JT; Western Saga; 5.9; 40m; lead FW MB; <3S><P http://willerup.com/climbing/mexico/img/saga.jpg>
+31-1-1999; JT; Damper; 5.9; 15m; sec MB; <P http://willerup.com/mexico/img/damper.jpg>
+31-1-1999; JT; Western Saga; 5.9; 40m; lead FW MB; <3S>; <I http://willerup.com/mexico/img/saga.jpg>
 	Brilliant fist/layback crack with exciting roof. Read the <a href="http://willerup.com/climbing/western.html">Trip Report</a>.
-31-1-1999; JT; Fote Hog; 5.6; 45m; sec FW MB; <3S><P http://willerup.com/climbing/mexico/img/foot.jpg>
+31-1-1999; JT; Fote Hog; 5.6; 45m; sec FW MB; <3S>; <I http://willerup.com/mexico/img/foot.jpg>
 	Brilliantly exposed and steep  followed by finger crack and layback.
-31-1-1999; JT; Wild Wind; 5.9; 23m; sec MB FW; <2S><P http://willerup.com/climbing/mexico/img/joshroute.jpg>
-31-1-1999; JT; Sail Away; 5.8; 25m; lead FW MB; <2S><P http://willerup.com/climbing/mexico/img/mat-climb.jpg>
+31-1-1999; JT; Wild Wind; 5.9; 23m; sec MB FW; <2S>; <I http://willerup.com/mexico/img/joshroute.jpg>
+31-1-1999; JT; Sail Away; 5.8; 25m; lead FW MB; <2S>; <I http://willerup.com/mexico/img/mat-climb.jpg>
 	Felt easier than some of the previous days - are we finally getting used to Josh rock?
 30-1-1999; JT; Looney Tunes; 5.9; 30m; sec MB FW
-30-1-1999; JT; Left Nixon Crack; 5.9+; 7m; sec MB; <P http://willerup.com/climbing/mexico/img/nixon.jpg>
-30-1-1999; JT; Nuts and Bolts; 5.9; 50m; sec MB FW; <3S><B><P http://willerup.com/climbing/mexico/img/nuts.jpg>
+30-1-1999; JT; Left Nixon Crack; 5.9+; 7m; sec MB; ; <I http://willerup.com/mexico/img/nixon.jpg>
+30-1-1999; JT; Nuts and Bolts; 5.9; 50m; sec MB FW; <3S><B>; <I http://willerup.com/mexico/img/nuts.jpg>
 29-1-1999; JT; Left Nixon Crack; 5.9+; 7m; lead- FW; <W>
 	Short  steep splitter!
-29-1-1999; JT; Buissonier; 5.7d; 20m; lead FW; <3S><P http://willerup.com/climbing/mexico/img/josh.jpg>
+29-1-1999; JT; Buissonier; 5.7d; 20m; lead FW; <3S>; <I http://willerup.com/mexico/img/josh.jpg>
 	Very sustained layback flake.
 29-1-1999; JT; Mike's Book; 5.6 [2]; 50m; sec FW; <1S>
 29-1-1999; JT; Double Cross; 5.7+; 25m; lead FW; <3S>
-28-1-1999; JT; SW Corner; 5.6; 25m; lead FW; <3S><B><P photos/swcorner.jpg>
-28-1-1999; JT; Drawstring; 5.7; 50m; lead FW; <W><P photos/drawstring.jpg>
+28-1-1999; JT; SW Corner; 5.6; 25m; lead FW; <3S><B>; <I http://willerup.com/p/swcorner.jpg>
+28-1-1999; JT; Drawstring; 5.7; 50m; lead FW; <W>; <I http://willerup.com/p/drawstring.jpg>
 	The newly purchased camalot 4 was essential for this route.
-28-1-1999; JT; The Flake; 5.8; 40m; lead FW; <2S><P photos/flake.jpg>
+28-1-1999; JT; The Flake; 5.8; 40m; lead FW; <2S>; <I http://willerup.com/p/flake.jpg>
 	A scary introduction to Josh rock.
-20-1-1999; BA; Whalers Dues; VS 4c; 25m; lead FW; <1S><W><P photos/cabo2.jpg>
-20-1-1999; BA; Red Sling; VS 4c; 25m; sec FW; <1S><P photos/cabo.jpg>
+20-1-1999; BA; Whalers Dues; VS 4c; 25m; lead FW; <1S><W>; <I http://willerup.com/p/cabo2.jpg>
+20-1-1999; BA; Red Sling; VS 4c; 25m; sec FW; <1S>; <I http://willerup.com/p/cabo.jpg>
 	Interesting climbing on the "decomposing granite"  well-protected fun.
 15-1-1999; ES; Double Crack; E1 5a 5a; 50m; alt FW; <3S>
-15-1-1999; ES; Page 99; E2 5b 5c; 50m; lead FW; <T><3S><M><P photos/escalone2.jpg>
+15-1-1999; ES; Page 99; E2 5b 5c; 50m; lead FW; <T><3S><M>; <I http://willerup.com/p/escalone2.jpg>
 	Very sustained jamming  and somewhat run-out at the top. Scary. A perfect climb with everything... Check out page 99 of "Climbing Magazine" - that's the one.
-14-1-1999; ES; Chameleon; E1 5b; 50m; lead FW; <3S><P photos/chameleon.jpg>
-14-1-1999; ES; Double Crack and Top Jam; HVS 5b; 25m; sec FW; <3S><P photos/escalone.jpg>
+14-1-1999; ES; Chameleon; E1 5b; 50m; lead FW; <3S>; <I http://willerup.com/p/chameleon.jpg>
+14-1-1999; ES; Double Crack and Top Jam; HVS 5b; 25m; sec FW; <3S>; <I http://willerup.com/p/escalone.jpg>
 13-1-1999; ES; Double Crack; VS 5a; 25m; sec FW; <3S>
 	We climbed the first pitch and it got dark. We left the gear in and will continue tomorrow.
 13-1-1999; ES; Chimney; HVS 5b; 50m; lead FW; <3S>
@@ -1174,23 +1213,23 @@ JB=Jack Bernstein
 12-1-1999; DI; Danza del Poder; 5.10b; 18m; lead FW; <B>
 12-1-1999; DI; Chimney; 5.8; 20m; sec FW; <B>
 10-1-1999; CU; Capitan Garfio; 5.10; 45m; lead FW; <3S><B>
-9-1-1999; CU; Regalo Danese; E1 5b; 20m; lead FW; <3S><M><P http://willerup.com/climbing/mexico/img/regalo.jpg>
+9-1-1999; CU; Regalo Danese; E1 5b; 20m; lead FW; <3S><M>; <I http://willerup.com/mexico/img/regalo.jpg>
 	First Ascent!
 9-1-1999; CU; Pinche Gripa; 5.10a; 20m; sec FW; <1S><B>
 9-1-1999; CU; Siquiriqui; 5.10d; 20m; lead FW; <2S><B>
 9-1-1999; CU; Versachi; 5.10b; 20m; sec FW; <B><1S>
-5-1-1999; BE; La Bernalina; 5.8 [6]; 270m; alt FW; <B><1S><P photos/bernal.jpg>
-5-1-1999; BE; Chada Dominical; 5.10a; 40m; lead FW; <B><2S><P photos/chada.jpg>
+5-1-1999; BE; La Bernalina; 5.8 [6]; 270m; alt FW; <B><1S>; <I http://willerup.com/p/bernal.jpg>
+5-1-1999; BE; Chada Dominical; 5.10a; 40m; lead FW; <B><2S>; <I http://willerup.com/p/chada.jpg>
 3-1-1999; AC; Symphonia de Ojas Secas; 5.9; 25m; lead FW; <3S><M><N http://willerup.com/climbing/symphonia.html>
 	Absolutely brilliant route with everything: technical  jamming  strength  mantleshelf  layback  crack  face  etc...
 3-1-1999; AC; Tennis; 5.8; 25m; lead FW; <3S>
 2-1-1999; AC; Right of Nacnactang; 5.10a; 25m; lead FW
 2-1-1999; AC; Crack; 5.10b; 25m; top
-2-1-1999; AC; Nacnactang?; 5.10b; 25m; lead FW; <B><2S><P photos/nacnac.jpg>
+2-1-1999; AC; Nacnactang; 5.10b; 25m; lead FW; <B><2S>; <I http://willerup.com/p/nacnac.jpg>
 2-1-1999; AC; La Proa; 5.8; 30m; lead FW; <3S>
 
-20-12-1998; TU; Sea Travers; V2; 40m; FW; <P photos/tulum.jpg>
-18-12-1998; TU; Tulum Pillar; VS 4c; 12m; solo; <3S><M><P http://willerup.com/climbing/mexico/img/tulum.jpg>
+20-12-1998; TU; Sea Travers; V2; 40m; FW; ; <I http://willerup.com/p/tulum.jpg>
+18-12-1998; TU; Tulum Pillar; VS 4c; 12m; solo; <3S><M>; <I http://willerup.com/mexico/img/tulum.jpg>
 	Great place. Superb rock rising from the beach. Very soft sand  good for a potential fall.
 8-12-1998; GM; Chop Chop Machette Galore; HVS 5b; 100m; alt FW; <3S><N http://willerup.com/climbing/machete.html>
 	New route. Good experience. A festive climb.
@@ -1198,12 +1237,12 @@ JB=Jack Bernstein
 8-11-1998; WL; Pig Iron; E2 5b; 60ft; lead MB; <1S>
 7-11-1998; SD; The Midas Touch; HVS 5b; 80ft; lead CH
 7-11-1998; SD; Moonraker; HVS 5a 4b 4c; 250ft; alt CH; <3S>
-18-10-1998; YO; Reed's Pinnacle Direct; 5.9 [2]; 50m; sec MB; <3S><P photos/reeds.jpg>
-17-10-1998; YO; Fairview Dome; 5.9 [11]; 400m; alt MB; <T><3S><P photos/fairview.jpg>
+18-10-1998; YO; Reed's Pinnacle Direct; 5.9 [2]; 50m; sec MB; <3S>; <I http://willerup.com/p/reeds.jpg>
+17-10-1998; YO; Fairview Dome; 5.9 [11]; 400m; alt MB; <T><3S>; <I http://willerup.com/p/fairview.jpg>
 	 Regular Route. We videoed the ascent. Come around my boat if you want to see it.
-11-10-1998; YO; Positively 4th Street; 5.9 [5]; 120m; alt MB; <3S><P http://willerup.com/climbing/positively.html>
+11-10-1998; YO; Positively 4th Street; 5.9 [5]; 120m; alt MB; <3S>; <N http://willerup.com/climbing/positively.html>
 	Brilliant laybacking  jamming and underclinging. Thanks for the tip Royston.
-11-10-1998; YO; Little John Left; 5.8; 40m; lead MB; <2S><P photos/elcap.jpg>
+11-10-1998; YO; Little John Left; 5.8; 40m; lead MB; <2S>; <I http://willerup.com/p/elcap.jpg>
 10-10-1998; YO; Needle Spoon; 5.10a [2]; 60m; sec MB; <3S><B>
 	Ultra Technical slab. Martin at his best.
 12-9-1998; PD; Left Unconquerable; E1 5a; 13m; sec TW; <2S>
@@ -1217,17 +1256,17 @@ JB=Jack Bernstein
             A bold lead by Martin Beale (his first E3 lead). Read his <a href="http://willerup.com/climbing/terrapin.html">story in here.</a>
 31-8-1998; PB; Rock Idol; E1 5a/b; 140ft; lead TW; <3S>
 31-8-1998; PB; The Hole; E1 5b; 120ft; lead TW; <2S>
-31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S><P photos/manzuko.jpg>
+31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S>; <I http://willerup.com/p/manzuko.jpg>
 31-8-1998; PB; World War III Blues; E1 5b; 65ft; sec TW; <2S>
-30-8-1998; PB; Deep Space; E2 5b 5a; 150ft; alt TW; <3S><P photos/deepspace.jpg><T>
+30-8-1998; PB; Deep Space; E2 5b 5a; 150ft; alt TW; <3S>; <I http://willerup.com/p/deepspace.jpg><T>
 30-8-1998; PB; The Strait Gate; E2 5b; 150ft; sec TW; <3S>
-30-8-1998; PB; Brazen Butress Triple Direct; E2 5b; 120ft; lead TW; <P photos/brazenbutress.jpg>
+30-8-1998; PB; Brazen Butress Triple Direct; E2 5b; 120ft; lead TW; ; <I http://willerup.com/p/brazenbutress.jpg>
              Desperately off route I climbed three routes in one.
 29-8-1998; PB; Kraken; E1 5a; 110ft; lead TW; <2S>
 29-8-1998; PB; Hangover 77; E1 5a/b; 100ft; sec TW; <1S>
-29-8-1998; PB; War Games; E2 5b; 110ft; lead TW; <2S><P photos/wargames.jpg>
+29-8-1998; PB; War Games; E2 5b; 110ft; lead TW; <2S>; <I http://willerup.com/p/wargames.jpg>
 29-8-1998; PB; Depraved; E1 5b; 120ft; sec TW 
-29-8-1998; PB; Howling Gale; E3 6a; 90ft; lead TW; <1S><P photos/howling.jpg>
+29-8-1998; PB; Howling Gale; E3 6a; 90ft; lead TW; <1S>; <I http://willerup.com/p/howling.jpg>
              My first E36a OSF
 29-8-1998; PB; First Blood; E2 5c; 120ft; sec TW; <2S><T>
              Hard warm up!
@@ -1241,25 +1280,25 @@ JB=Jack Bernstein
 11-8-1998; UC; Red in the corner (indoor); 7a+; 12m; lead TW; <B><M>
              Although indoor climbing is not featured a lot on Willerup.com  I thought it appropriate to log my first ever 7a flash. Yooor! 
 10-8-1998; SM; Rain Something; E2 5c; 80ft; sec TW MB; <1S>
-10-8-1998; SM; Eczema; E2 5c; 80ft; sec MB TW; <P photos/shake.jpg>
+10-8-1998; SM; Eczema; E2 5c; 80ft; sec MB TW; ; <I http://willerup.com/p/shake.jpg>
 
 6-8-1998; SC; The New Replublic; HVS 5a; 90ft; sec MB 
 6-8-1998; SC; War is Declared; E1 5b; 90ft; sec MB; <1S>
 6-8-1998; SC; One for All; HS 4a; 100ft; sec MB
 6-8-1998; SC; Laughing Cavaliers; HVS 5b; 90ft; sec MB
 5-8-1998; SC; No Musketeers Direct; E1 5c; 90ft; sec MB; <Z>
-            We <a href="photos/shorn-camp.jpg">camped at the bottom of Shorn Cliff</a> and ticked four more routes the next morning before going to work at 9am. (Started climbing at 5:30am).
+            We <a href="http://willerup.com/p/shorn-camp.jpg">camped at the bottom of Shorn Cliff</a> and ticked four more routes the next morning before going to work at 9am. (Started climbing at 5:30am).
 5-8-1998; SC; Bitter Battle Tears; HVS 5b; 90ft; sec MB; <Z>
 5-8-1998; SC; All for One; HVS 5a; 90ft; sec MB; <Z>
 
-2-8-1998; GG; Britomartis; HVS 5a 4c; 190ft; alt TW; <3S><P photos/britomartis.jpg><T>
-2-8-1998; GG; The Strand; E2 5b 4c; 160ft; alt TW; <3S><P photos/strand.jpg><P photos/strand.gif>
-            Very dodgy second pitch - specially in the light of a <a href="photos/news.gif">guy plunging to the ground</a> the day before. First pitch is excellent though!
-1-8-1998; GG; Gogarth; E1 4b 5a 4c 4b 5b; 360ft; alt RS TW; <3S><P photos/gogarth.jpg>
-31-7-1998; GG; A Dream of White Horses; HVS 4c 4c 4c; 350ft; alt RS TW; <3S><P photos/r1.gif>
+2-8-1998; GG; Britomartis; HVS 5a 4c; 190ft; alt TW; <3S>; <I http://willerup.com/p/britomartis.jpg><T>
+2-8-1998; GG; The Strand; E2 5b 4c; 160ft; alt TW; <3S>; <I http://willerup.com/p/strand.gif>
+            Very dodgy second pitch - specially in the light of a <a href="http://willerup.com/p/news.gif">guy plunging to the ground</a> the day before. First pitch is excellent though!
+1-8-1998; GG; Gogarth; E1 4b 5a 4c 4b 5b; 360ft; alt RS TW; <3S>; <I http://willerup.com/p/gogarth.jpg>
+31-7-1998; GG; A Dream of White Horses; HVS 4c 4c 4c; 350ft; alt RS TW; <3S>; <I http://willerup.com/p/r1.gif>
              We were passed by three young lads who where soloing the Dream. Good going! (Tim later found out that one of them was Leo Houlding - young English E8-climber!)
-27-7-1998; SC; War of the Worlds; VS 4c; 90ft; sec MB; <1S><P photos/war.jpg>
-27-7-1998; SC; One For All; S 4a; 100ft; sec MB; <P photos/oneforall.gif>
+27-7-1998; SC; War of the Worlds; VS 4c; 90ft; sec MB; <1S>; <I http://willerup.com/p/war.jpg>
+27-7-1998; SC; One For All; S 4a; 100ft; sec MB; ; <I http://willerup.com/p/oneforall.gif>
 30-6-1998; SC; Loss of Innocence; HVS 5b; 110ft; lead RS; <2S>
 30-6-1998; SC; Easy Rider; E1 5b; 105ft; sec RS; <2S>
 22-6-1998; PQ; Highway One; E4 6a; 140ft; sec TW; <3S><N http://willerup.com/climbing/highwayone.html>
@@ -1277,9 +1316,9 @@ JB=Jack Bernstein
 30-5-1998; PB; Cool for Cats; E1 5b; 120ft; lead VH; <3S>
 30-5-1998; PB; Limbo; VS 4c; 75ft; sec VH
 30-5-1998; PB; Manzoku; E1 5b; 120ft; lead VH; <2S>
-             I had forgotten all my friends for this weekend so all the routes were done on a set of nuts. Quite okay actually.
+    I had forgotten all my friends for this weekend so all the routes were done on a set of nuts. Quite okay actually.
 25-5-1998; PB; Blue Sky; VS 4b 4b; 180ft; alt WW; <3S><T>
-    It was just such a great day. Had a wank at the stance. 
+    It was just such a great day. Had a wank at the stance out of sight of Will!  
 25-5-1998; PB; World War III Blues; E1 5b; 65ft; lead WW; <2S>
 25-5-1998; PB; Hercules; HVS 5a; 110ft; lead WW; <2S>
 25-5-1998; PB; Limbo; VS 4c; 75ft; lead WW; <1S>
@@ -1288,21 +1327,22 @@ JB=Jack Bernstein
 24-5-1998; PB; Sea Groove; VS 4b; 140ft; lead WW; <2S>
 23-5-1998; PB; Flanker; VS 4c; 130ft; lead WW
 23-5-1998; PB; Deranged; E2 5b; 120ft; lead WW; <3S><M>
+    I must have felt pretty chuffed with my first E2 in the book.
 23-5-1998; PB; Tactician; HVS 5a; 110ft; lead WW; <2S>
 23-5-1998; PB; Front Line; HVS 5a; 110ft; lead WW; <1S>
 21-5-1998; WC; Mecca; E3 5c; 100ft; sec TW; <W>
             I rested on the rope. Tim took quite a whipper.
 21-5-1998; WC; Trial; HVS 5a; 100ft; sec TW MB; <1S>
-20-5-1998; AV; Hell Gates Direct; HVS 5a 5a 4b; 250ft; alt WW; <3S><P photos/hell5.jpg>
+20-5-1998; AV; Hell Gates Direct; HVS 5a 5a 4b; 250ft; alt WW; <3S>; <I http://willerup.com/p/hell5.jpg>
 19-5-1998; AV; Floating Voter; VS 4b; 80ft; lead RS 
 19-5-1998; AV; Jasper; HVS 5a; 80ft; lead RS; 
-17-5-1998; WL; Butterfly; VS 4c; 85ft; alt TW; <1S><P photos/butterfly.jpg>
+17-5-1998; WL; Butterfly; VS 4c; 85ft; alt TW; <1S>; <I http://willerup.com/p/butterfly.jpg>
 17-5-1998; WL; The Split; VS 4b; 50ft; lead TW; <1S>
 17-5-1998; WL; Swatter; HVS 5a 5a; 100ft; alt TW; <2S>
 17-5-1998; WL; Split Flies; E2 5a 5c; 90ft; alt TW 
 17-5-1998; WL; Freedom; VS 4b 4c; 100ft; alt TW; <2S>
-12-5-1998; SC; Side Effects; E1 5b; 60ft; lead PW; <3S><P photos/sideeffects.jpg>
-12-5-1998; SC; Tigers don't Cry; HVS 5b; 65ft; lead PW; <3S><P photos/tigers.jpg>
+12-5-1998; SC; Side Effects; E1 5b; 60ft; lead PW; <3S>; <I http://willerup.com/p/sideeffects.jpg>
+12-5-1998; SC; Tigers don't Cry; HVS 5b; 65ft; lead PW; <3S>; <I http://willerup.com/p/tigers.jpg>
 10-5-1998; YS; Pothole Direct; VS 5a; 10m; sec TW 
 10-5-1998; YS; The Traditional Climb; VS 4c; 10m; lead TW 
 10-5-1998; YS; Great Western; HVS 5a; 20m; lead TW; <3S>
@@ -1320,7 +1360,7 @@ JB=Jack Bernstein
 4-5-1998; PB; Bow-shaped Slap; HS 4a; 140ft; sec JI WW 
 3-5-1998; PB; Sea mist; HS 4a; 90ft; sec JI WW
 3-5-1998; PB; Ocean passage; VS 4c  4a; 150ft; alt JI WW; <1S>
-3-5-1998; PB; Riders on the storm; HVS 5a; 100ft; lead JI; <3S><P photos/riders.jpg>
+3-5-1998; PB; Riders on the storm; HVS 5a; 100ft; lead JI; <3S>; <I http://willerup.com/p/riders.jpg>
 3-5-1998; PB; Ouickstep; VS 4b; 60ft; lead JI WW 
 3-5-1998; PB; Highland fling; VS 4b; 60ft; sec JI WW 
 2-5-1998; PB; Cupids Bow; HVS 5a; 130ft; lead JI; <1S>
@@ -1331,7 +1371,7 @@ JB=Jack Bernstein
 2-5-1998; PB; Bomb bay; VS 4a; 60ft; lead WW 
 2-5-1998; PB; Shell Shock; VS 4c; 65ft; lead WW; <1S>
 2-5-1998; PB; Sandbagged; VS 4C; 70ft; lead WW 
-2-5-1998; PB; Stacked Against; VS 4b; 75ft; lead WW; <P http://willerup.com/climbing/pembroke/index.html>
+2-5-1998; PB; Stacked Against; VS 4b; 75ft; lead WW; <N http://willerup.com/climbing/pembroke/index.html>
 30-4-1998; SC; Organ Grinder; HVS 5a; 55ft; lead MB; <1S>
              Disturbed an Owl with - owlings?...
 30-4-1998; SC; Night Rider; VS 4c; 100ft; sec MB
@@ -1341,7 +1381,7 @@ JB=Jack Bernstein
 28-4-1998; SC; Renaissance; E1 5b; 65ft; lead MB
 26-4-1998; CL; Terrier's Tooth; VD 4a; 130ft; alt MB; <N http://willerup.com/climbing/terrier.html>
              We were forced to climb this route in pretty extreme conditions.
-26-4-1998; CL; Diocese; VS 4c 5a 4b; 200ft; alt MB; <3S><P photos/diocese.jpg>
+26-4-1998; CL; Diocese; VS 4c 5a 4b; 200ft; alt MB; <3S>; <I http://willerup.com/p/diocese.jpg>
              Cornwall at its best
 26-4-1998; CL; Bishop's Rib; E1 5b 5a; 190ft; alt MB; <2S>
 26-4-1998; CL; Flannel Avenue; S 4b 4a; 185ft; alt MB
@@ -1349,7 +1389,7 @@ JB=Jack Bernstein
              Martin did the start - HARD
 25-4-1998; BG; Ocre Slab I; VS 4b 4c; 130ft; alt MB; <1S>
              Interesting slab - windy and exposed
-25-4-1998; BG; Anvil Chorus; HVS 4b 4b 4c 4c; 190ft; alt MB; <3S><P photos/anvil.jpg><T>
+25-4-1998; BG; Anvil Chorus; HVS 4b 4b 4c 4c; 190ft; alt MB; <3S>; <I http://willerup.com/p/anvil.jpg><T>
              Superb layback
 25-4-1998; BG; Doorpost; HS 4a 4b; 210ft; alt MB
 25-4-1998; BG; Little Brown Jug Direct; HVS 5a 5a; 200ft; alt MB; <2S>
@@ -1357,10 +1397,10 @@ JB=Jack Bernstein
 7-4-1998; SC; Bitter Battle Tears; HVS 5a; 85ft; lead MB; <1S>
 31-1-1998; LD; Central Gully; W3; 200m; alt TW; <3S><M><1><N http://willerup.com/climbing/central.html>
     My first proper iceclimb. Good stuff  although a bit thin and delicate at places. Released a huge rock which thundered down the gully which was packed with 4-5 other teams. Not good! Nobody got hurt luckily.
-28-09-1997; GU; Right Corner Alternative; VS 4a 4c 4b; 200ft; alt WW; <P photos/rightwall.jpg>
+28-09-1997; GU; Right Corner Alternative; VS 4a 4c 4b; 200ft; alt WW; ; <I http://willerup.com/p/rightwall.jpg>
     Some dudes before us psyked out and we had to create a route directly upwards from our stance to get out of the place.
 28-09-1997; CL; South Face Direct; VS 4b 4c 4b 4a; 170ft; alt WW; <3S>
-27-09-1997; SE; Demo Route; HS 4b 4b; 80ft; alt WW; <2S><P photos/demoroute.jpg>
+27-09-1997; SE; Demo Route; HS 4b 4b; 80ft; alt WW; <2S>; <I http://willerup.com/p/demoroute.jpg>
 13-09-1997; PQ; The Baldest; E1 5b; 90ft; sec TW 
 13-09-1997; PQ; Pickpocket; HVS 5a; 150ft; lead TW 
 19-08-1997; SC; Motion Pictures; E1 5b; 70ft; sec TW MB
@@ -1374,18 +1414,18 @@ JB=Jack Bernstein
     It started pissing down while I was on the route which made the polished and slippery Avon Rock even more impossible to climb.
 01-06-1997; SE; Church corner; ; 80ft; sec WW PD 
 Due to some serious partying the day before I managed to forget my harness and climbing boots. I climbed this route in a borrowed harness and teva sandals.
-    23-4-1997; WC; The Firebird; HVS 5a; 100ft; sec TW; <1S>
+23-4-1997; WC; The Firebird; HVS 5a; 100ft; sec TW; <1S>
 23-4-1997; WC; Cadillac; VS 4c; 100ft; lead TW; <1S>
 21-4-1997; WC; Questor; VS 4c; 110ft; lead TW; <2S>
 21-4-1997; WC; Suncrush; HVS 5a/b ; 110ft; sec TW; <1S>
 
-16-10-1996; BX; Grande Veine Bleu; 6a; 30m; lead OR HW; <2S><B>
-16-10-1996; BX; Bloc Note; 5c; 30m; lead OR HW; <B><K https://youtu.be/J6-eRe2ou2M>
-16-10-1996; BX; Le Tozal; 5c; 30m; lead OR; <B>
-16-10-1996; BX; La Voliere; 5b; 30m; lead OR; <B>
+16-10-1996; BX; Grande Veine Bleu; f6a; 30m; lead OR HW; <2S><B>
+16-10-1996; BX; Bloc Note; f5c; 30m; lead OR HW; <B><K https://youtu.be/J6-eRe2ou2M>
+16-10-1996; BX; Le Tozal; f5c; 30m; lead OR; <B>
+16-10-1996; BX; La Voliere; f5b; 30m; lead OR; <B>
     Ole almost bought the ticket on this climb.
 
-12-10-1996; GR; Nuit de Cauchemar; 6b  6a  6a  6a+; 90m; alt DS; <B>
+12-10-1996; GR; Nuit de Cauchemar; f6b; 90m; alt DS; <B>
 12-9-1996; SW; Various Routes; ; 170ft; alt MI
 23-6-1996; LD; A lot of nice routes; VS; 200ft; alt SF
 20-6-1996; GW; Osiris; VS 4c; 36m; lead WW; <2S>
@@ -1394,7 +1434,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 4-5-1996; SD; Solid Air; S; 110ft; alt JI
 15-10-1995; CG; Coronation Street; E1 4b 4a 5b 5a 5b 5a; 390ft; alt FW; <3S><M><N http://willerup.com/climbing/cstreet.html>
 	I still wake up with cold sweat on my forehead.
-8-10-1995; SW; Finale Groove; HVS 4c; 100ft; lead FW; <3S><P photos/finale.jpg>
+8-10-1995; SW; Finale Groove; HVS 4c; 100ft; lead FW; <3S>; <I http://willerup.com/p/finale.jpg>
 1-10-1995; AV; Giant's Cave Butress; VS 4c 4a 4c; 250ft; alt FW MF 
 17-9-1995; AV; Suspense; HVS 5a; 110ft; lead FW; <1S>
 17-9-1995; AV; Limbo; HVS 5b 4b; 150ft; sec FW; <2S>
@@ -1404,112 +1444,112 @@ Due to some serious partying the day before I managed to forget my harness and c
 3-9-1995; SC; Emotional Dyslexia; HVS 5a; 85ft; lead FW 
 3-9-1995; SC; Organ Grinder; HVS 4c; 85ft; sec FW; <2S>
 3-9-1995; SC; Tigers Don't Cry; HVS 5a; 85ft; lead FW; <2S><M>
-3-9-1995; AV; The Arete; VD - - 4a; 120ft; alt FW; <R>
+3-9-1995; AV; The Arete; VD 4a; 120ft; alt FW; <R>
 	Pissing rain and big boots.
 27-5-1995; CH; Le Pilier; V+; 30m; sec FW DS; <B>
 27-5-1995; CH; Le Diedre de Gauche; V+; 30m; sec FW DS; <B>
-27-5-1995; CH; Le Ckisia; 6a+; 27m; sec FW DS; <2S><B>
-27-5-1995; CH; Jypsckey; 6b; 27m; sec FW DS; <2S><B>
+27-5-1995; CH; Le Ckisia; f6a+; 27m; sec FW DS; <2S><B>
+27-5-1995; CH; Jypsckey; f6b; 27m; sec FW DS; <2S><B>
 9-6-1995; CH; L'arete des Bucherons; V+; 25m; sec FW; <B> 
-9-6-1995; CH; La Batson; 6a+; 20m; sec- FW; <1S><B>
-10-6-1995; CH; La Titi; V+ V+; 70m; alt FW; <B><R>
+9-6-1995; CH; La Batson; f6a+; 20m; sec- FW; <1S><B>
+10-6-1995; CH; La Titi; V+; 70m; alt FW; <B><R>
 	It pissed down when we climbed the second pitch
 
-2-6-1995; CA; Les Trois Peches; 6a; 100m; alt FW; <B><P http://willerup.com/climbing/france/les_cal.jpg>
-2-6-1995; CA; Super Sirene; V+ 6a 6a IV IV; 100m; alt- FW; <2S><B>
-3-6-1995; CA; La Saphir/Sortie des Artistes; IV II V- V+; 80m; alt FW; <1S><B>
+2-6-1995; CA; Les Trois Peches; f6a; 100m; alt FW; <B>; <I http://willerup.com/climbing/france/les_cal.jpg>
+2-6-1995; CA; Super Sirene; V; 100m; alt- FW; <2S><B>
+3-6-1995; CA; La Saphir/Sortie des Artistes; V+; 80m; alt FW; <1S><B>
 3-6-1995; CA; Petite Aiguille I; IV; 25m; sec FW ; <B>
 2-6-1995; CA; Petite Aiguille II; IV; 25m; lead FW ; <B>
 3-6-1995; CA; Debilodrome; V; 25m; lead FW; <1S><B>
 
 1-1-1995; SW; Transcript Direct; VS 5a; 50ft; sec FW; <2S>
 
-1-1-1995; NW; Crown of Thorns; S [3]; 135ft; alt FW 
-1-1-1995; NW; Rib and Slab; VD [2]; 250ft; alt FW HW 
-1-1-1995; NW; The Wrinkle; VD [3]; 235ft; alt FW HW 
-1-1-1995; NW; Lion; VS 4a 4c - 4a; 285ft; alt FW; <2S>
-1-1-1995; NW; Crackstone Rib; S [3]; 175ft; alt FW 
-1-1-1995; NW; Dives/Better Things; HS 4a - 4a; 210ft; alt FW; <2S>
+1-1-1995; NW; Crown of Thorns; S; 135ft; alt FW; <E>
+1-1-1995; NW; Rib and Slab; VD; 250ft; alt FW HW; <E>
+1-1-1995; NW; The Wrinkle; VD; 235ft; alt FW HW; <E> 
+1-1-1995; NW; Lion; VS 4c; 285ft; alt FW; <2S><E>
+1-1-1995; NW; Crackstone Rib; S; 175ft; alt FW; <E>
+1-1-1995; NW; Dives/Better Things; HS 4a; 210ft; alt FW; <2S><E>
 
-
-1-09-1994; FB; Lots of blocs; 6a; 8m; lead JR; <4>
-1-1-1994; GG; A Dream of White Horses; HVS 4c 4c 4c; 350ft; alt FW; <3S><P http://willerup.com/climbing/adream.html>
+1-09-1994; FB; Lots of blocs; f6a; 8m; lead JR; <4>; <I http://willerup.com/climbing/france/stok2.jpg>
+1-1-1994; GG; A Dream of White Horses; HVS 4c 4c 4c; 350ft; alt FW; <3S><N http://willerup.com/climbing/adream.html>
 1-1-1994; NW; Creagh Dhu Wall; HS; 200ft; alt FW HW; <1S>
-1-1-1994; NW; Grooved Arete; VD [5];; alt FW HW; <1S>
-1-1-1994; NW; Tennis Shoe; S [6]; 465ft; alt FW HW 
-1-1-1994; EC; Paco Eugene; 6a;; alt FW; <2S><B>
-1-1-1994; EC; Algo Sobrela Virgin; 6b; ; lead FW; <1S><B>
-1-1-1994; EC; El Perito Caliente; 6a+; ; sec FW; <1S><B>
-1-1-1994; EC; Aspro Manis; 5+; ; sec FW; <B> 
-1-1-1994; EC; Gecha el Cielo; 4+ 6a 5 5+ 5+; 390ft; alt FW; <2S><B>
-1-1-1994; EC; Avion Roquero; 5 5+ 5+; 210ft; alt FW DS; <2S><B>
-1-1-1994; EC; Zeppelin; 4 6a+ 5; 250ft; alt FW;<B><Q><S>
+1-1-1994; NW; Grooved Arete; VD;; alt FW HW; <1S>
+1-1-1994; NW; Tennis Shoe; S; 465ft; alt FW HW 
+1-1-1994; EC; Paco Eugene; f6a;; alt FW; <2S><B>
+1-1-1994; EC; Algo Sobrela Virgin; f6b; ; lead FW; <1S><B>
+1-1-1994; EC; El Perito Caliente; f6a+; ; sec FW; <1S><B>
+1-1-1994; EC; Aspro Manis; f5+; ; sec FW; <B> 
+1-1-1994; EC; Gecha el Cielo; f4+ 6a 5 5+ 5+; 390ft; alt FW; <2S><B>
+1-1-1994; EC; Avion Roquero; f5+; 210ft; alt FW DS; <2S><B>
+1-1-1994; EC; Zeppelin; f6a+; 250ft; alt FW;<B><Q><S>; <I https://live.staticflickr.com/20/68311626_2a511fd212_o.jpg>
 	We gave up on pitch 4 because it was burning hot and too difficult.
-1-1-1994; EC; Troncomouil; 6a;; lead FW; <B> 
-1-1-1994; EC; Amptrax; 3 4 4+ 5 5 5 5 4; 560ft; alt FW; <2S><B>
-1-1-1994; EC; Camello Cojo; 5;; sec FW; <B> 
-1-1-1994; EC; Fisura de Los Santos; 5;; lead FW; <B> 
-1-1-1994; EC; El Monstruo de Las Galletas; 5+;; sec FW; <B> 
-1-1-1994; EC; Inominata; 5;; lead FW; <B> 
-1-1-1994; EC; Number 1; 4;; sec FW; <B> 
-1-1-1994; EC; Super Galetta; 5+;; lead FW; <1S><B>
-1-1-1994; EC; Los Mandriles No Comen Galletas; 6a;; sec FW; <1S><B>
-1-1-1994; EC; Empotrador Empotrad; 4+ 4+;; alt FW; <B> 
-1-1-1994; EC; Amarilla; 5 5+; 140ft; sec FW DS; <1S><B>
-1-1-1994; EC; The Wire; VS (Very Scary); 300ft; alt FW; <3S><M><X>
+1-1-1994; EC; Troncomouil; f6a;; lead FW; <B> 
+1-1-1994; EC; Amptrax; f5; 560ft; alt FW; <2S><B>
+1-1-1994; EC; Camello Cojo; f5;; sec FW; <B> 
+1-1-1994; EC; Fisura de Los Santos; f5;; lead FW; <B>; <I http://willerup.com/climbing/elchorro/valley.jpg>
+1-1-1994; EC; El Monstruo de Las Galletas; f5+;; sec FW; <B> 
+1-1-1994; EC; Inominata; f5;; lead FW; <B> 
+1-1-1994; EC; Number 1; f4;; sec FW; <B> 
+1-1-1994; EC; Super Galetta; f5+;; lead FW; <1S><B>
+1-1-1994; EC; Los Mandriles No Comen Galletas; f6a;; sec FW; <1S><B>
+1-1-1994; EC; Empotrador Empotrad; f4+;; alt FW; <B> 
+1-1-1994; EC; Amarilla; f5+; 140ft; sec FW DS; <1S><B>
+1-1-1994; EC; The Wire; VS; 300ft; alt FW; <3S><M><X>; <I https://live.staticflickr.com/32/65885993_829640d61f_o.jpg>
     Wild ride on the wire. Required careful preparation and a full package of yoor.
 
-1-1-1994; TE; El Regreso del Patron; 7a; ; alt- FW; <B> 
+1-1-1994; TE; El Regreso del Patron; f7a; ; alt- FW; <B> 
 	We didn't have a topo at this time and the line looked reasonable. It wasn't so we went off route to easier ground before the crux
-1-1-1994; TE; Barrio Conflictivo; 6a+;; lead FW; <2S><B>
-1-1-1994; TE; Esponlon del Rampa; 6a;; FW; <B> 
-1-1-1994; TE; Papeo Chachi; 6a;; FW; <B> 
-1-1-1994; TE; Super Lopez; 6b;; FW; <B> 
-1-1-1994; TE; McNesio; 6a;; FW; <B> 
+1-1-1994; TE; Barrio Conflictivo; f6a+;; lead FW; <2S><B>
+1-1-1994; TE; Esponlon del Rampa; f6a;; FW; <B> 
+1-1-1994; TE; Papeo Chachi; f6a;; FW; <B> 
+1-1-1994; TE; Super Lopez; f6b;; FW; <B> 
+1-1-1994; TE; McNesio; f6a;; FW; <B> 
 1-1-1994; TE; Diedre; IV+;; sec FW 
 1-1-1994; TE; Waterloo; V+;; lead FW; <1S><B>
-1-1-1994; TE; No Repercute; 6a+;; sec- FW; <2S><B>
-1-1-1994; TE; El Senor de las Bestitas; 6b;; lead FW; <B> 
+1-1-1994; TE; No Repercute; f6a+;; sec- FW; <2S><B>
+1-1-1994; TE; El Senor de las Bestitas; f6b;; lead FW; <B> 
 
-1-1-1992; KU; One tricky move; V-; 8m; lead
-1-1-1992; KU; Originalruten; III; 18m; lead 
-1-1-1992; KU; Diedren; III; 14m; lead 
-1-1-1992; KU; Den store diedre; III; 14m; lead 
-1-1-1992; KU; Toebrud; III; 20m; lead
-1-1-1992; KU; Ventetiden; IV; 20m; lead 
-1-1-1992; KU; Svenskeruten; V-; 18m; lead; <3S>
-1-1-1992; KU; Finger jam; V+; 13m; lead; <3S>
-1-1-1992; KU; Spirillen; V; 12m; lead 
-1-1-1992; KU; Pentymal/Daffy jam; V; 12m; lead 
-1-1-1992; KU; Diedren; III+; 12m; lead 
-1-1-1992; KU; Den stejle groove; IV; 12m; lead 
-1-1-1992; KU; Traditionel; III+; 22m; lead 
-1-1-1992; KU; Den hoeje travers; V; 50m; lead 
-1-1-1992; KU; Klasisk IV; IV; 25m; lead 
-1-1-1992; KU; Koalakanten; V+; 18m; top 
-1-1-1992; KU; P.S. Diedren; IV; 18m; lead 
-1-1-1992; KU; Originalruten; V-; 20m; lead; <2S>
+1-1-1992; KU; One tricky move; VS 4b; 8m; lead
+1-1-1992; KU; Originalruten; D; 18m; lead 
+1-1-1992; KU; Diedren; D; 14m; lead 
+1-1-1992; KU; Den store diedre; D; 14m; lead 
+1-1-1992; KU; Toebrud; D; 20m; lead
+1-1-1992; KU; Ventetiden; S; 20m; lead 
+1-1-1992; KU; Svenskeruten; VS 4b; 18m; lead; <3S>
+1-1-1992; KU; Finger jam; VS 4b; 13m; lead; <3S>
+1-1-1992; KU; Spirillen; VS 4a; 12m; lead 
+1-1-1992; KU; Pentymal/Daffy jam; VS 4a; 12m; lead 
+1-1-1992; KU; Diedren; VD; 12m; lead 
+1-1-1992; KU; Den stejle groove; S; 12m; lead 
+1-1-1992; KU; Traditionel; VD; 22m; lead 
+1-1-1992; KU; Den hoeje travers; VS 4b; 50m; lead 
+1-1-1992; KU; Klasisk IV; S; 25m; lead 
+1-1-1992; KU; Koalakanten; VS 4c; 18m; top 
+1-1-1992; KU; P.S. Diedren; HS; 18m; lead 
+1-1-1992; KU; Originalruten; S; 20m; lead; <2S>
       A little piece of quartz got into my eye and I had to get it out with local anastaetic the next day on the hospital. Very nasty. 
-1-1-1992; KU; Svaeveflyvervaeggen; V-; 40m; lead 
-1-1-1992; KU; Myretuen; IV+; 18m; lead 
-1-1-1992; KU; Svenskervaeggen; IV; 50m; lead 
+1-1-1992; KU; Svaeveflyvervaeggen; S; 40m; lead 
+1-1-1992; KU; Myretuen; S; 18m; lead 
+1-1-1992; KU; Svenskervaeggen; S; 50m; lead 
 1-1-1992; KU; Lynet; A1/2; 22m; lead JR
       My first aid climb. Excellent stuff. I fell on my smallest rp  and it held. Good good fun.
-1-1-1991; KU; Traditionel; III+; 22m; sec JR SH;
+1-1-1991; KU; Traditionel; D; 22m; sec JR SH;
       September 1991. My first ever climb. Jesper Ritzau took Simon Hauch and me up this 2 pitch route on Aakermansberget on Kullen. I was pretty excited for almost a whole year having done this one climb. It was good fun and it was the start of something big!
 
 
-# Caves
-25-11-2021; YS; Jingling Pot; ; 2h; TW AX; <3><C3><2S>
+##### Caves #####
+25-11-2021; YS; Jingling Pot; ; 2h; TW AX; <3><C3><2S><K https://www.youtube.com/watch?v=aED8ZUyzqfg&t>
 24-11-2021; YS; Sell Gill Hole; ; 2h; TW AX; <3><C2><1S><R>
     Axels first visit to the Yorkshire caves
-02-08-2021; MD; Hunters Hole; ; 1h; TW AX; <3><C1><2S><P https://flic.kr/p/2mgdAkG>
+02-08-2021; MD; Hunters Hole; ; 1h; TW AX; <3><C1><2S>; <I https://live.staticflickr.com/65535/51368032206_909930792d_b.jpg>
     Axels first SRT trip
-01-08-2021; MD; Swildons Hole; ; 1h; FW AX EW; <3><C1><1S><P https://flic.kr/p/2mgdA44>
+01-08-2021; MD; Swildons Hole; ; 1h; FW AX EW; <3><C1><1S>
     We got to the down climbs.
-01-08-2021; MD; Goatchurh Cavern; ; 2h; FW AX EW; <3><C2><3S>
+01-08-2021; MD; Goatchurh Cavern; ; 2h; FW AX EW; <3><C2><3S>; <I https://live.staticflickr.com/65535/51368031241_02f4972c74_b.jpg>
     Axel and Elias did the drainpipe.
-13-11-2005; LL; Agen Allwedd; ; 11h; TW MB; <3><C4><3S> 
+29-12-2014; MD; Goatchurh Cavern; ; 2h; PW AX EW; <3><C2><3S>;
+13-11-2005; LL; Agen Allwedd; ; 11h; TW MB; <3><C4><3S>; <I https://live.staticflickr.com/34/63994132_2bc0d19c7b_b.jpg>
      Excellent digging trip to dig 9. Also saw the Corkscrew Chamber which was found the day before.
 19-03-2005; LL; Agen Allwedd; ; 14h; MB RS; <3><C4><3S>
      13 hours spankotronic. With John Stevens
@@ -1519,17 +1559,17 @@ Due to some serious partying the day before I managed to forget my harness and c
      Continuing the dig. Excellent burly trip. I enjoyed being at the sharp end much more this time. We've hit a boulder section.
 16-05-2004; LL; Agen Allwedd; ; 12h; MB; <3><C4><3S>
      Digging trip towards Daren. Excellent team effort  hard work  but good fun. Digging is not for the claustrophic amongst us. 
-27-03-2004; PD; Maskhill Mine; ; 7h; TW RS MB; <3><C4><C4><3S>
-     Brilliant rig. World class. The subsequent connection was an ultra burly bit of caving. I was particularly traumatised by the gravel/stream squeeze that nearly caught me on the return. Next time I'll remember to turn my head the right way. Good effort from MB leading this bit  and not drowning while reversing in the sump. Double black helmet.
+27-03-2004; PD; Maskhill Mine; ; 7h; TW RS MB; <3><C4><C4><3S><X>; <I https://live.staticflickr.com/30/42957891_0d37d3d561_b.jpg>
+     Brilliant rig. World class. The subsequent connection was an ultra burly bit of caving. I was particularly traumatised by the gravel-stream squeeze that nearly caught me on the return. Next time I will remember to turn my head the right way. Good effort from Martin leading this bit and not drowning while reversing in the sump. Double black helmet.
 30-01-2004; LL; Ogof y Daren Cilau; ; 22h; RS MB AW FW; <3><C4><3S><N http://willerup.com/oydc/vicevirgin.html>
      Highlights: sucessfull use of heyphone  wading through bonzai streamway  pushing to Aquenos Choke. Exit series felt hard. 
-07-11-2003; LL; Ogof y Daren Cilau; ; 45h; RS MB; <3><C4><3S>
+07-11-2003; LL; Ogof y Daren Cilau; ; 45h; RS MB; <3><C4><3S>; <I https://live.staticflickr.com/29/36765121_bab3deb22a_o.jpg>
      Two-nighter into Dweebland (the end of the cave so far). Excellent trip. Flawlessly executed. We let off two smoke bombs (one failed) at the end to see if there's a draught towards Aggen Allwed. There is. Get your crowbars out!
-07-12-2002; LL; Ogof y Daren Cilau; ; 32h; TW MB RS PW; <3><C4><3S>
+07-12-2002; LL; Ogof y Daren Cilau; ; 32h; TW MB RS PW; <3><C4><3S>; <I https://live.staticflickr.com/15/68313436_984fae3035_o.jpg>
      Trip to the restaurant of the end of the universe
 27-07-2002; VC; Scialet de la Chique; ; 3h; FW; <3><C3>
-     Fred's first rig in the VC unmedium. The pendulum was as festive as ever  and worth noting is that we managed to get up that climb in the end (fairly committing) taking us all the way to the bottom.
-07-06-2002; VC; Scialet de la Chique; ; 3h; MB; <3><C2>
+     Fred's first rig in the Vercors unmedium. The pendulum was as festive as ever  and worth noting is that we managed to get up that climb in the end (fairly committing) taking us all the way to the bottom.
+07-06-2002; VC; Scialet de la Chique; ; 3h; MB; <3><C2> <2S>; <I https://live.staticflickr.com/29/36766391_305b0da36c_b.jpg>
      Excellent cave - easy in all respects (rig and walkin). Martin regained his unfire with a steady lead to the bottom. All bolts overtightened subtracts a star  good photoshooting and muddy fun adds it back.
 06-06-2002; VC; Scialet du Pot de Loup; ; 3h; PW; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Nice trip with Paul which regained his interest in caving. A great easy cave.
@@ -1537,13 +1577,13 @@ Due to some serious partying the day before I managed to forget my harness and c
      The Pot 2 attempt - Grosvenor style. Martin lead down to -80 meters. To be continued.
 04-06-2002; VC; Scialet de Malaterre; ; 1h; MB PW TW; <3><C3><O http://willerup.com/caving/img/malaterre.gif>
      Tried out my new caving radios which works extremely well on these long vertical pitches.
-03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S><O http://willerup.com/caving/img/a2.gif>
+03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S><P https://flic.kr/p/4fruD><O http://willerup.com/caving/img/a2.gif>
      Full on caving. Included a dangerous 25 meter pitch lead in Wellingtons with only a sling and my bolt kit (thank god for that) as protection. Fantastic cave - highly recommendable.
 18-05-2002; VC; Scialet de Malaterre; ; 4h; JA; <3><C3>
      Great initiation trip for the new speleo recruit. Messed up the logistics by forgetting one descender at the training wall back in the hut. We managed nevertheless and bottomed out the main shaft in style. Good effort from James it being his first real vertical cave.
 16-03-2002; VC; Glaciere d'Autrans; ; 4h; MB; <3><C4><3S><O http://willerup.com/caving/img/autrans.gif>
      Desperate. Approach was as hard as ever and the amount of ice in the cave was worrying, although on the same time ultra festive. Martin fired up an inspirational ice-stal-chopping session as we were stopped but an almost complete blockage of ice in the entrace tunnel. Reaching a depth of approximately 100 meters we eventually decided that this was a black helmet danger zone. Huge television sized blocks of broken off ice was scattered around the shaft, and after a quick statistic calculation on when the next bit of ice could be coming down, we decided to blow retreat horn and hurried out after exhaustive cold caving session.
-15-03-2002; VC; Scialet des Joufflus; ; 4h; MB; <3><C3>
+15-03-2002; VC; Scialet des Joufflus; ; 4h; MB; <3><C3>; <I https://live.staticflickr.com/20/68313209_6eddb56f40_o.jpg>
      Excellent job to the bottom. The route finding to the last pitch is a bit tricky until you realize you have to gnarl your way through a hole in the roof (upwards) with the festive aid of a spit/stal sling. The squeeze to the beginning of the last pitch is not as bad as it looks - go in feet first  and you can stand up half way (not imidiately obvious). Yoor!
 02-03-2002; VC; Scialet des Joufflus; ; 3h; AW; <3><C3>
      Really easy when you've already done it once (but not all the way to the deck). The approach was definitely the crux walking in thigh/waist deep snow to the cave. A festive day. Good effort from Andrew who hadn't caved for 10 years and was srt'ing on a rather made up and minimal rack.
@@ -1551,6 +1591,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Long trip with an overnight camp in the Hard Rock Cafe. The further speed trip to The Microns was a seriously burly piece of work. Good effort from Martin doing the car shuttle on foot both ways and for the amble lager refreshments in the Hard Rock Cafe and Royston for the very inspirering bit of cave leading in the Rock Steady Cruise.
 03-02-2002; VC; Grotte de Bournilllon; ; 2h; ; <3><C3>
      Went up to have a look. Couldn't resist. Went in. Normal way too wet  so I opted for the highlevel dry fossil way which was much longer than I expected and with some pretty nasty (but polished and obvious) squezes. Good training  but cave soloing doesn't feel very clever.
+
 09-12-2001; VC; Trou du Diable; ; 1h; CW; <3><C3><O http://willerup.com/caving/img/diableDEC01.gif>
      Solo
 02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS; <3><C4><3S><M><T><N http://willerup.com/caving/hpcc/gg.html>
@@ -1577,9 +1618,9 @@ Due to some serious partying the day before I managed to forget my harness and c
      Walked up the Dent de Crolles. Nipped in to a huge cavity with our c-rack.  Massive draft coming out of the cave. Will be back for further  exploration.
 23-05-2001; VC; Scialet de Pot de Loup; ; 3h; MB; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Absolutely superb SRT trip. Beautiful lines and an amazing 40m drop from an overhanging speleothem. Easy and highly recommendable. Approach - 8 seconds from the car.
-20-05-2001; VC; Glaciere d'Autrans; ; 9h; MB; <3><C4><3S>
+20-05-2001; VC; Glaciere d'Autrans; ; 9h; MB; <3><C4><3S><K https://vimeo.com/308574859>
      Long day out. 13 hours including the walk. We got back to Grenoble at 4am  in the morning. See map
-19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif><P https://flic.kr/p/6ZSEz>
+19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif>; <I https://live.staticflickr.com/26/67874301_12eb37461b_b.jpg>
      Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive. See map
 15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2>
      Beautiful cave - lots of little lakes and excellent formations. Perfect  rig as well. See map
@@ -1587,8 +1628,9 @@ Due to some serious partying the day before I managed to forget my harness and c
      Desperate trip. Got back up to the surface at 12'o'clock at night after a  long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
 10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2><O http://willerup.com/caving/img/anglaise.gif>
      Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This time we both put the  double amount of clothes on and was relatively warm. See map
-09-04-2001; VC; Scialet de Malaterre; ; 6h; MB; <3><C4><3S>
+09-04-2001; VC; Scialet de Malaterre; ; 6h; MB; <3><C4><3S><O http://willerup.com/caving/img/malaterre.gif>
      Massive cave shaft - starts with a 120 meter (360ft) drop of a bridge -  straight down in to the void. Desperate trip - quite wet and extremely  cold. See map 
+
 05-12-2000; MD; Manor Farm Swallet; ; 4h; DG MB; <3><C3>
      I decided to postpone the UK underground retirement for one more trip - I  couldn't say no to a trip down Manor Farm with DG and MB. I wasn't  disappointed. Dave now goes under the nickname 'Mr. President' (president  for the HPCC) and I had the great pleasure of pushing through some really  dodgy loose bouldery bits in the far end which was rewarded with a huge  chamber which almost certainly had some further continuation. Dave and  Martin unfortunately didn't reach this glorious chamber as they reckoned  the boulder bits were too unstable.
 18-11-2000; LL; Ogof y Daren Cilau; ; 6h; FW; <3><C4><3S>
@@ -1599,14 +1641,14 @@ Due to some serious partying the day before I managed to forget my harness and c
      Brilliant trip. Laerke's first ever caving trip and she was so on for it  that we decided to do the full Goaty - into the letterbox and back. It's  f*cking scary in there - sort of smells of evil and it was a stupendious effort from the girls.
 12-10-2000; MD; Fairy/Hillier's Cave; ; 4h; FW TR RR; <3><C2>
      The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back.
-08-10-2000; LL; Ogof y Daren Cilau; ; 2h; FW RR; <3><C3>
+08-10-2000; LL; Ogof y Daren Cilau; ; 2h; FW RR; <3><C3>; <I https://live.staticflickr.com/27/36764893_d4fc135dea_b.jpg>
      Oh baby! This hole had been on the ticklist for quite some time and still  is! We had to turn back approx 350 meters in through the 530m crawl that  guards the cave. RR had some bad equipment and was freezing and we decided to go back before it would be too late. I have the feeling we will be back - soon.
 25-09-2000; MD; GB Cavern; ; 3h; FW RR DG TR; <3><C2>
      Fine trip. Dave pointed out a number of challenges which we should attempt  soon.
 24-09-2000; MD; Sidcot's Swallet; ; 2h; FW RR; <3><C2>
      We got as far as the 'very narrow tube' and despite Mathias' attempt of  squeezing through in underpants only  there was no way it would go. Good  trip.
 26-05-2000; MD; Goatchurch Cavern; ; 2h; FW; <3><C2>
-     Our sister Henriette went to Bristol to figure out why her brothers like  caving. She didn't find the answer  but found out she is definitely not  desperate to get underground again
+     Our sister Henriette went to Bristol to figure out why her brothers like  caving. She didn't find the answer  but found out she is definitely not  desperate to get underground again. Instead we went on an <a href="http://willerup.com/boat/bath.html">epic trip on the narrowboat</a>
 23-04-2000; YS; Bull Pot; ; 4h; FW; <3><C3><3S>
      A hidden gem. Excellent rig. The line is just pure beauty.
 22-04-2000; YS; Hurnel Moss Pot; ; 6h; FW; <3><C3><3S>
@@ -1619,13 +1661,13 @@ Due to some serious partying the day before I managed to forget my harness and c
      Excellent trip. Did a 'double' abseil simultaneously next to each other  and swapped over in the bottom 
 07-03-2000; MD; Shatter Cave; ; 2h; FW TW DG; <3><C2>
      Very pretty cave in the Fairy Quarry. It's normally locked  so you need an  official guide for this stuff. Impressive formations 
-25-02-2000; MD; Thrupe Lane Swallet; ; 4h; TW; <3><C2>
+25-02-2000; MD; Thrupe Lane Swallet; ; 4h; TW; <3><C2>; <I http://willerup.com/caving/img/thrupe-big.jpg>
      We did the Latheral Aven pitch. But we missed our honoured caving mentor  DG Grosvenor who unfortunately had other obligations this Friday  evening 
 07-12-1999; MD; Thrupe Lane Swallet; ; 4h; TW DG; <3><C2>
      The second big SRT trip after Rhino Rift to do in the MD. We did it  in three pitches - excellent stuff. We will be back soon to do the big  200ft single pitch 
-28-11-1999; MD; Fairy/Hillier's Cave; ; 3h; TW; <3><C3>
+28-11-1999; MD; Fairy/Hillier's Cave; ; 3h; TW; <3><C3>; <I http://willerup.com/caving/fairy/fairy2.jpg>
      A job needed to be done and TW and I went in to finish the Fairy Cave  business. We reached the 'Red Room' which is in the connected Hilliers  Cave and is the furtherst reach of the system. Quite an amazing system and  very well worth it. Recommendable 
-21-11-1999; MD; Fairy Quarry Cave; ; 1h; MI; <3><C2>
+21-11-1999; MD; Fairy Quarry Cave; ; 1h; MI; <3><C2>; <I http://willerup.com/caving/fairy/fairy-mik.jpg>
      Not an ideal trip. I forgot to stock up on carbide  and didn't have a lot of juice in the batteries. So we went in as far as the duck  and probably partly because I was nervous about the lights  Mikkel didn't fancy the duck  and we blew retreat and went out. Shame  because I would have liked to show Mikkel the Red Room.
 20-11-1999; MD; Lionels Hole; ; 3h; FW; <3><C4><3S><T>
      Awesome trip. We did the round trip which has some extremely challenging  routefinding speically on the return. We were very pleased to get out 
@@ -1635,10 +1677,10 @@ Due to some serious partying the day before I managed to forget my harness and c
      We were back to complete the round trip that we had attempted with Peter  three entries down. This time the mud sump that we had rushed through was  filled to the roof with water and after an hour or more of pumping water  with no noticeable effect we went to explore the Black Hole Series  instead. This ended when we arrived at a 40 foot pitch. Good day out. We  were both exhausted 
 19-09-1999; MD; Rhino Rift; ; 2h; TW; <3>
      We got a hold of the key yet again. Tim rigged and I de-rigged 
-14-09-1999; MD; Fairy Quarry Cave; ; 3h; FW DG; <3>
-     We went in with Dave Grosvenor on a good trip in to the wonders of Fairy  Cave. A surprisingly muddy experience. Some good technical obstacles to  keep the wriggling techniques uptodate. A Grosvenor Special.  Slide show 
-08-08-1999; MD; Swildon's Hole; ; 4h; FW PS; <3>
-     An excellent trip! We went into the St. PW Grotto Series which included  some very low crawls and passing a mud sump. Peter did well in this -not-  a beginners section of the cave. We didn't manage the through trip though  since Peter started having more than enough. We didn't realize that this actually was our probably one and only chance of ticking this sought after Swildon's collectors piece. Bummer!
+14-09-1999; MD; Fairy Quarry Cave; ; 3h; FW DG; <3><P http://willerup.com/caving/fairy/photo1.html>;
+     We went in with Dave Grosvenor on a good trip in to the wonders of Fairy  Cave. A surprisingly muddy experience. Some good technical obstacles to  keep the wriggling techniques uptodate. A Grosvenor Special.   
+08-08-1999; MD; Swildon's Hole; ; 4h; FW PS; <3><3S>; <I https://live.staticflickr.com/8068/8262851868_2a317bd1aa_b.jpg>
+     An excellent trip! We went into the St. Poul Grotto Series which included  some very low crawls and passing a mud sump. Peter did well in this -not-  a beginners section of the cave. We didn't manage the through trip though  since Peter started having more than enough. We didn't realize that this actually was our probably one and only chance of ticking this sought after Swildon's collectors piece. Bummer!
 31-05-1999; MD; Swildon's Hole; ; 4h; FW TW RR; <3>
      Good Trip. TR and RR both did Sump 1 in freezing cold water and in  a very uninviting condition. RR even managed to become a 'Son of The  MD*' as she fell into one of the pools twice. *) Read the guidebook  for a further explanation 
 09-04-1999; MD; Swildon's Hole; ; 10m; LK HL; <3>
@@ -1685,7 +1727,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Dry Entrance. Good SRT practice. See map
 14-06-1998; YS; Jingling Pot; ; 1h; TW; <3><C3>
      Main Shaft. 50m down. 50m up. 6 dead rabbits in the bottom. See map
-13-06-1998; YS; Simpson's Pot; ; 4h; TW; <3><C3>
+13-06-1998; YS; Simpson's Pot; ; 4h; TW; <3><C3>; <I http://willerup.com/caving/img/srt-caving.jpg>
      Simpsons Pot to Kingsdale valley entrance. Excellent through trip  featuring a spectacular 25m abseil. Photo
 11-06-1998; FD; Clearwater Mine; ; 3h; DG TW; <3><C2>
      Ancient Iron Mine. Bow to the Ham 
@@ -1709,7 +1751,8 @@ Due to some serious partying the day before I managed to forget my harness and c
      Entertaining trip. Went all the way past the Drainpipe and up in the  letterbox 
 01-07-1994; MD; Swildon's Hole; ; 4h; FW; <3><C2>
 
-#Mountains
+##### Mountains #####
+
 01-06-2014; CH; Mont Blanc; TD; 4000m; SF; <Q><A><2>
     Excellent trip to Mont Blanc with Mark, Sean and Mark. Got to 4000 something and returned.
 01-06-2000; CC; Matterhorn; TD; 4000m; SF FW UH; <2><N http://willerup.com/matterhorn/>
@@ -1717,7 +1760,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-01-1998; MZ; Aconcagua; TD; 6000m; SF FW; <Q><2><Y><A><N http://willerup.com/aconcagua/>
     900 meters from the top.
 
-#Paragliding
+##### Paragliding #####
 2012; JL; Bovbjerg Fyr; ; 3h; PP; <7><3S>
     Joined the yearly parafun meet. Awesome to be back in the air. Happy I hadn't forgotten. Brilliant to be back with the club. 
 01-07-2010; JL; Lindtorp; ; 1h; PP; <7><3S>
@@ -1725,7 +1768,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 29-06-2010; JL; Toftum; ; 4h; PP; <7><3S>
     Brilliant session with lots of top landing and take offs. Managed to stay from the beach the whole time and was generally pretty much comfortable with everything. Great fun.
 23-06-2010; JL; Bovbjerg Fyr; ; 4h; PP; <7>
-    Another great session at Bovbjerg. This time top starting and just enoughwind to keep on hanging. It required care with the flying and I ended up on the beach a few times. Biggest tick was a couple of 100% self supported take-offs from a remoter spot and flying back to the others gaining height. Super satisfying.
+    Another great session at Bovbjerg. This time top starting and just enough wind to keep on hanging. It required care with the flying and I ended up on the beach a few times. Biggest tick was a couple of 100% self supported take-offs from a remoter spot and flying back to the others gaining height. Super satisfying.
 17-06-2010; JL; Bovbjerg; ; 4h; PP; <7><3S>
     Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with PP; <7> flying all over to the lighthouse which was a great trip.
 21-05-2010; JL; Toftum; ; 1h; PP; <7><3S><T>
@@ -1741,11 +1784,11 @@ Due to some serious partying the day before I managed to forget my harness and c
 24-04-2010; JL; Toftum; ; 5h; PP; <7><1S>
     Ground control. Crossed brake launch technique.
 
-#Diving
+##### Diving #####
 19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><T><M><2S><P http://willerup.com/mexico/img/cavediving.jpg>
 05-11-1997; IN; Tulamben; ; 15m; FW; <6>
 05-11-1997; IN; Tulamben; ; 30m; FW; <6>
-04-11-1997; IN; Tulamben; ; 25m; FW; <6> <P https://flic.kr/p/737E1>
+04-11-1997; IN; Tulamben; ; 25m; FW; <6>; <I https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg>
 04-11-1997; IN; Tulamben; ; 32m; FW; <6>
     Deep dive
 03-11-1997; IN; Lovina Beach; ; 15m; FW; <6>
@@ -1755,7 +1798,9 @@ Due to some serious partying the day before I managed to forget my harness and c
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 
-#Surfing
+##### Surfing ##### 
+27-07-2018; SJ; Moen; ; 1h; FW; <8>; <I https://live.staticflickr.com/65535/43718939381_ec4eff874a_b.jpg>
+    Nice to get out. Dad and Fred on shore admirering my shenanigans.
 10-07-2017; SJ; Lynaes kite; ; 2h; SG; <8>
     Nice session with Soeren
 28-10-2014; SJ; Lynaes; ; 2h; SG; <8>
@@ -1778,7 +1823,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 23-09-2008; JL; Ejsing; ; 1h; solo; <8><3S>
     16m2 kite. Old school
 
-#Snowboarding
+##### Snowboarding #####
 14-05-2001; CH; Chamonix; ; ; solo; <9><S>
     Got the randonee skis out and revisited the Grande Jorasse basin where Fred and I had been 7 years ago. Went up to Refuge Lascaux (2450m) and headed back. Brilliant trip. 6 hours
 29-04-2001; LG; La Grave; ; ; solo; <9><S>
@@ -1795,13 +1840,13 @@ Due to some serious partying the day before I managed to forget my harness and c
     Plenty of untouched snow, but weather a bit unstable. Good fun
 06-04-2001; LG; Derby de La Meije; ; ; solo; <9><A><T><3S>
     Yearly off piste race of festive proportions. Came in 84th in the my category - time 12m33s
-18-03-2001; LG; La Grave; ; ; DS; <9>
+18-03-2001; LG; La Grave; ; ; DS; <9>; <I http://willerup.com/snowboard/lagravejump.jpg>
     Steep aaaaand deep. Did my favourite left side (facing the mountain) exclusively. Lot of queing in the lift unfortunately
 17-03-2001; LG; Alpe Duez; ; ; DS; <9>
     Did some excellent cliff jumps. Visibility was poor but due to heavy snowfall
 10-03-2001; LG; Courchevel; ; PD; DS; <9>
     Despite quite crazy conditions (fluffy snow, sun, fog, snowstorm, rain, slush - all in a day) we managed to get some good stuff done. Good jumps.
-11-02-2001; LG; La Grave; ; ; DS; <9><P https://flic.kr/p/6ZSDT>
+11-02-2001; LG; La Grave; ; ; DS; <9>; <I https://live.staticflickr.com/33/67874261_e6d0a62cbc_b.jpg>
     David and Annabel joined me for the evening and we had a good day skiing/boarding. Still plenty of deep snow
 10-02-2001; LG; La Grave; ; ; RG; <9>
     It had snowed a lot the previous day and we arrived to a perfect morning. Perfect snow, lots of it, no people
@@ -1825,7 +1870,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Spend the New Year break in Alpe D'huez the closest big resort to my new home in Grenoble
 01-01-2000; LG; La Grave; ; ; JR LK; <9><3S>
     A week to check out the powder in Chamonix and La Grave. Great trip together with the skiers Jesper Ritzau and Lars Klammer. No trip report. No photos. But we have a fully edited movie (9 MB!)
-01-01-1997; GR; Col de Palet; ; 4h; solo; <9><X>
+01-01-1997; GR; Col de Palet; ; 4h; solo; <9><X>; <I https://live.staticflickr.com/30/65885904_a462ae6e35_b.jpg>
     Did the Col de Palet to Champagny run (alone!). A bit irresponsible in retrospect. Desperate on a snowboard
 01-01-1996; CH; Chamonix: ; ; FW; <9>
     We only had three days as the following days was ear marked for Christmas purposes. There where a lot of nice offpiste riding
