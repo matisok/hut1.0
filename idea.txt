@@ -1,0 +1,20 @@
+# Areas
+AC=Aculco, Mexico 
+
+# People
+FW=Frederik Willendrup
+
+# Activities
+<RUN>=Running
+<CLI>=Climbing
+
+# Conditions
+<R>=raining=icon
+<M>=Mindblower=icon1
+
+
+#### Log ####
+12-01-2013; AC; Mountain 19K; ; 8h309m; FW; <RUN><M>
+    Excellent run in Mexico. A bit warm.
+11-01-2013; AC; Jojos Revenge; HVS 5b; 70m; FW; <CLI><R>
+    We got rained on.

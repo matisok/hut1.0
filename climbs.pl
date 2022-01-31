@@ -27,14 +27,14 @@ $src = ".";
 $dest = "./html";
 
 $Istar1 = '&#129482;'; #ice
-$Istar2 = '&#127956;'; #mount
+$Istar2 = '&#127956;'; #mountain
 $Istar3 = '&#129686;'; #cave &#128294; (flashlight)
 $Istar4 = '&#128074;'; #boulder 
 $Istar5 = '&#128279;'; #Via Ferrata 
 $Istar6 = '&#129343;'; #dive
 $Istar7 = '&#129666;'; #paraglider
 $Istar8 = '&#127940;'; #surfer
-$Istar9 = '&#127938;'; #snow 
+$Istar9 = '&#127938; &#128095;'; #snow and run 
 
 # Global Routines and things
 @months = ('January','February','March','April','May','June','July',
@@ -199,7 +199,7 @@ while (<CLIMBS>) {
         &#127768;Benighted &#128170;Achievement &#128293;Mindblower';
 
         # Photo
-        $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img>/g;
+        $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img><br>/g;
 
 
         # Icons
@@ -213,7 +213,7 @@ while (<CLIMBS>) {
         $icons =~ s/<C4>//g; # &#128420; black helmet
 
         $icons =~ s/<Q>/&#129344;/g; #bail
-        $icons =~ s/<L>/&#129528;/g; #wish
+        $icons =~ s/<L>/&#128280;/g; #wish  teddybear &#129528;
         $icons =~ s/<R>/&#9748;/g;   #rainy
         $icons =~ s/<S>/&#127780;/g; #sunny
         $icons =~ s/<Y>/&#127788;/g; #windy
@@ -262,6 +262,7 @@ while (<CLIMBS>) {
         #explode 128165
         #cloud 9925
         #label 127991
+        #search &#128269;
         
 
         #$icons = sprintf("<%d>",$nstars) . $icons if ($nstars && !($icons =~ /<\d>/));
@@ -412,7 +413,7 @@ while (<IN>) {
             foreach (sort {$b<=>$a} split('\|', $carea{$area})) {
                 ($name,$grade,$height,$people,$date,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>";
-                $output .= "<div><span class=name2>$name </span><span class=grade>$grade $people $date $stars</span></div>";
+                $output .= "<div><span class=name2>$name </span><span class=grade>$people $date $stars $icons</span></div>";
                 # $output .= "<div class=details>$height / </div> \n ";
                 #if ($comment) {
                 #    $output .= "<div class=comment>$comment</div>\n";
@@ -461,12 +462,14 @@ while (<IN>) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$photo,$stars,$comment) = split('\~');
                 print DATE "<hr class=grey>\n";
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
+                print DATE "<div>";
                 print DATE "$photo";
-                print DATE "<div><span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span></div>\n";
+                print DATE "<span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span>\n";
                 # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
                 print DATE "<div class=comment>$comment</div>";
                 }
+                print DATE "</div>";
             }
             print DATE "\n\n";
         }
@@ -484,7 +487,7 @@ while (<IN>) {
             foreach (sort {$b<=>$a} split('\|', $cpeople{$person})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>
-                <div><span class=tiny>$date $area</span><br>
+                <div class=card><span class=tiny>$date $area</span><br>
                 $stars <span class=name2>$name</span> <span class=grade> $grade $icons</span></div>";
                 $output .= "<div class=comment>$comment</div>" if ($comment);
                 
@@ -518,7 +521,7 @@ while (<IN>) {
         # Write STARS
         foreach $stars(sort {$c<=>$b} keys %cstars) {
             @stars = ("Ice climbs $Istar1", "Mountains $Istar2", "Caves $Istar3", "Blocs $Istar4", 
-            "Via Ferrata $Istar5", "Dive $Istar6", "Paraglider $Istar7", "Surf $Istar8", "Snowboard $Istar9");
+            "Via Ferrata $Istar5", "Dive $Istar6", "Paraglider $Istar7", "Surf $Istar8", "Snow and Run $Istar9");
             printf STARS "<h2>%s</h2>\n", $stars[$stars-1];
             print STARS "";
             print STARS "";
@@ -594,6 +597,7 @@ $s .= "<td>$Istar3 Cave</td>";
 #$s .= "<td>$Istar7 Prp</td>";
 #$s .= "<td>$Istar8 Srf</td>";
 #$s .= "<td>$Istar9 Snw</td>";
+#$s .= "<td>$Istar10 Run</td>";
 $s .= "<td>&#129422; Lead</td>";
 #$s .= "<td>Second</td>";
 #$s .= "<td>Sport</td>\n";

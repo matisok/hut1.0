@@ -15,11 +15,11 @@
 <!-- Changed by: climbs.pl {DATE} -->
 <style> 
     body {
-        /* background-color:rgb(231, 231, 231); */
-        color: black;
-        font-family: Arial, Helvetica, sans-serif;
+      margin:0;
+      font-family: Arial, Helvetica, sans-serif;
     }
     a {color: cornflowerblue;}
+    img {max-width: 600px;}
     th, td {
         vertical-align: top; 
     }
@@ -27,9 +27,9 @@
             color: slategray;
     }
     .icon { font-size: medium;}
-    img { position: relative;
+    /* img { position: relative;
             top: 2px;
-    }
+    } */
     b { color: rgb(240, 0, 0);}
     table { border-collapse: collapse; }
     .q { border-top: 1pt solid rgb(146, 146, 146);}
@@ -107,60 +107,92 @@
   text-decoration: none;
 }
 
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
 </style>
 </head>
 <body>
+<div class="navbar">
 
-<!-- Legend -->
-{LEGEND}
-
-<script language="JavaScript">
+  <script language="JavaScript">
     function MM_jumpMenu(targ,selObj,restore){ //v3.0
         eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
           if (restore) selObj.selectedIndex=0;
         }
     </script>
 <form name="form1">
-        <label for="select">Select:</label>
         <select name="menu1" onChange="MM_jumpMenu('parent',this,0)">
             <option selected>Date</option>
-            <option value="#202008">2020</option>
-            <option value="#201901">2019</option>
-            <option value="#201801">2018</option>
-            <option value="#201701">2017</option>
-            <option value="#201601">2016</option>
-            <option value="#201506">2015</option>
-            <option value="#201401">2014</option>
-            <option value="#201303">2013</option>
-            <option value="#201203">2012</option>
-            <option value="#201102">2011</option>
-            <option value="#201001">2010</option>
-            <option value="#200904">2009</option>
-            <option value="#200803">2008</option>
-            <option value="#200701">-</option>
-            <option value="#200602">2006</option>
-            <option value="#200503">2005</option>
-            <option value="#200401">2004</option>
-            <option value="#200301">2003</option>
-            <option value="#200201">2002</option>
-            <option value="#200102">2001</option>
-            <option value="#200002">2000</option>
-            <option value="#199901">1999</option>
-            <option value="#199801">1998</option>
-            <option value="#199703">1997</option>
-            <option value="#199605">1996</option>
-            <option value="#199501">1995</option>
-            <option value="#199401">1994</option>
-            <option value="#199201">1992</option>
+            <option value="mw-date.html#202008">2020</option>
+            <option value="mw-date.html#201901">2019</option>
+            <option value="mw-date.html#201801">2018</option>
+            <option value="mw-date.html#201701">2017</option>
+            <option value="mw-date.html#201601">2016</option>
+            <option value="mw-date.html#201506">2015</option>
+            <option value="mw-date.html#201401">2014</option>
+            <option value="mw-date.html#201303">2013</option>
+            <option value="mw-date.html#201203">2012</option>
+            <option value="mw-date.html#201102">2011</option>
+            <option value="mw-date.html#201001">2010</option>
+            <option value="mw-date.html#200904">2009</option>
+            <option value="mw-date.html#200803">2008</option>
+            <option value="mw-date.html#200701">-</option>
+            <option value="mw-date.html#200602">2006</option>
+            <option value="mw-date.html#200503">2005</option>
+            <option value="mw-date.html#200401">2004</option>
+            <option value="mw-date.html#200301">2003</option>
+            <option value="mw-date.html#200201">2002</option>
+            <option value="mw-date.html#200102">2001</option>
+            <option value="mw-date.html#200002">2000</option>
+            <option value="mw-date.html#199901">1999</option>
+            <option value="mw-date.html#199801">1998</option>
+            <option value="mw-date.html#199703">1997</option>
+            <option value="mw-date.html#199605">1996</option>
+            <option value="mw-date.html#199501">1995</option>
+            <option value="mw-date.html#199401">1994</option>
+            <option value="mw-date.html#199201">1992</option>
           </select>
+
+<a href="mw-people.html">People</a>
+<a href="mw-area.html">Area</a> 
+<a href="mw-grade.html">Grade</a> 
+<a href="mw-quality.html">Type</a>  
 </form>
-<div class="footer" id="footer">
-<a href="mw-date.html" class="button">date</a> 
-<a href="mw-people.html" class="button">people</a>
-<a href="mw-area.html" class="button">area</a> 
-<a href="mw-grade.html" class="button">difficulty</a> 
-<a href="mw-quality.html" class="button">medium</a> 
 </div>
+
+<div class=main>
+
+
+<!-- Legend -->
+{LEGEND}
+
 
 <i>{NAME}'s ticks</i> {DATE} <br>
 Grade: [<a href="mw-grade.html#Ice">Ice</a>] [<a href="mw-grade.html#UK">UK</a>]
@@ -169,5 +201,6 @@ Grade: [<a href="mw-grade.html#Ice">Ice</a>] [<a href="mw-grade.html#UK">UK</a>]
 
 {DATA}
 
+</div>
 </body>
 </html>

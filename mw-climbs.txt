@@ -13,7 +13,7 @@ CG=Cheddar Gorge, UK
 CH=Chamonix, France **
 CI=City of Rocks, Idaho 
 CL=Chair Ladder, UK 
-CL=Cloggy, UK
+CY=Cloggy, UK
 CO=Cogne, Italy *
 CU=La Cuajo, Mexico 
 DI=El Diente, Mexico
@@ -78,8 +78,11 @@ JL=Jylland, Denmark *******
 SJ=Sjaelland, Denmark ********
 IN=Indonesia ******
 OR=Oresund
+WV=Wye Valley
+CW=Cotswold
 
 # People
+TB=Tom Bruntt
 SG=Soeren Lynggaard
 KM=Katarina Mania
 AK=Anders Kantola
@@ -90,6 +93,7 @@ AX=<b>Axel Willerup</b>
 CA=Chris Adam
 CH=Craig Harwood
 CW=Celine Willerup
+CL=Claire Wilkinson
 DP=Dietrich Paulus
 DS=David Skov
 FW=Frederik Willerup
@@ -183,7 +187,7 @@ JB=Jack Bernstein
 12-09-2021; KU; Wang Dang Doodle; HVS 5a; 14m; lead FZ; <B> 
     Excellent route. Bomber protection throughout.
 12-09-2021; KU; Single Handjam; VS 4b; 20m; lead FZ; <1S>
-    Great route - excellent protection throughout.
+    Great route, excellent protection throughout.
 12-09-2021; KU; Japanerruten; VS 4c; 20m; lead FZ; 
 11-09-2021; KU; Diedren K2; S; 14m; lead FZ EW;
     Good to be climbing with Emil 
@@ -201,7 +205,6 @@ JB=Jack Bernstein
     Stunning line and a great route. If you are looking for pure splitter fun in Bohuslan (and you are) then this one is a really good choice.
 12-10-2020; BH; <a href="https://www.ukclimbing.com/logbook/crags/haller-12389/mallorol-410454">Mallorol</a>; E2 5c; 60ft; lead FZ; <A><3S><T><P https://photos.app.goo.gl/fvhZsqEtmZKtL9qZ9>
     On an otherwise rainy weekend this one suddenly came into the suggestion pool. Luckily the sun broke through and we climbed this classic in perfect conditions. It wasn't clear to me where the broken foothold was.
-11-10-2020; BH; Cantremember; VS; 10m; lead FZ;
 11-10-2020; BH; Aaterkomsten; HS; 40m; sec FZ; <R>
 11-10-2020; BH; Barnleken; E1 5b; 40m; lead FZ; <P https://photos.app.goo.gl/CN1m3cFfyCaMWu1S6>
     Worth doing for the diedre in the top. Brilliant.
@@ -353,6 +356,7 @@ JB=Jack Bernstein
     Brilliant route. Lovely walk in, route and walk out.
 27-01-2018; RU; Unknown; W2; 60ft; lead KR; <1>
 27-01-2018; RU; Swiss Army; W4; 100m; lead KR; <1> <2S>
+08-01-2018; GB; Liten og Full; f6b; 8m; solo; <4><2S>
 
 18-04-2018; GB; Bohemia; E1 5b; 60ft; lead JC;
     Excellent wall climb. Gear is there when you need it.
@@ -360,7 +364,7 @@ JB=Jack Bernstein
     Sport Route. A lot of fun and really technical. 
 18-04-2018; GB; Hollywood; E4 6b; 60ft; lead- JC; <W><2S>
     Tried a difficult route. Protection bomber and midway I thought I had it in the bag. And then the crux spat me off. Tried with difficulty to do the crux and eventually got it. Exciting. Will be back for a red point attempt.
-18-04-2018; GB; Toblerone; E3 6a; 60ft; sec JC; <1>
+18-04-2018; GB; Toblerone; E3 6a; 60ft; sec JC; <3S>
     Awesome route. Really technical at the top.
 
 17-11-2017; GB; Gunnars skraeck; HVS 5a; 60ft; solo; <K http://willerup.com/p/gunnar.mov>
@@ -384,13 +388,17 @@ JB=Jack Bernstein
 
 19-09-2017; GB; Svara Diedret; E3 6a; 60ft; top; 
 12-09-2017; GB; Bantaren; HVS 5a; 60ft; top; 
+12-09-2017; GB; Tioringen; D; 60ft; sec; 
     I would say that is is wider not narrower than the other ow mentioned in the book. Excellent route.
 29-08-2017; GB; Kenneths snedsteg; E1 5b; 60ft; lead KR; ; <I http://willerup.com/p/kenneth.JPG>
 29-08-2017; GB; Kenneths led; VS 4c; 60ft; lead KR; 
 29-08-2017; GB; Gomorra; VS 4b; 60ft; lead KR; 
+29-08-2017; GB; Lilla Hornet; D; 60ft; sec KR; 
 23-08-2017; GB; Tunnsprickan; VS 4b; 60ft; lead KR; 
 23-08-2017; GB; Svarta Diedret; HVS 5a; 60ft; lead KR; 
 23-08-2017; GB; Borta med vinden; HVS 5a; 60ft; lead KR;
+
+15-07-2017; AR; Allez au Diable; f6a+; 30m; lead FW; <3S> 
 
 06-07-2017; GB; Ockero; ; ; LP KR; <4>; <I http://willerup.com/p/ockerobould.jpg>
 05-07-2017; BH; Palimpsest; HVS 5a; 25m; lead LP; 
@@ -466,6 +474,11 @@ JB=Jack Bernstein
 
 21-06-2016; GB; Plugghaesten; E1 5b; 60ft; lead KR; <2S>; <I http://willerup.com/p/plughasten.JPG>
     Back to settle a bill. This time it went free. What a route.
+
+15-06-2016; GB; Fridstoraren; HVS 5a; 60ft; lead; <3S>
+14-06-2016; GB; Spagaten; HVS 5a; 60ft; lead; <3S>
+14-06-2016; GB; Alfa Helix; HVS 5a; 60ft; lead; <3S>
+
 07-06-2016; GB; Braennvinsleden; HVS 5a; 60ft; lead JS; <3S>
     Highlight of the evening. Boy was I pumped mid way. Quite strenous in the start traverse. A Cam3 is a real life saver (as always).
 07-06-2016; GB; Roennleden; HS; 60ft; lead JS; 
@@ -495,8 +508,8 @@ JB=Jack Bernstein
 01-06-2016; KY; Totenhansel; f6c; 60ft; lead TW; <3S><T>
     Awesome climb on overhaning tufas
 
-01-04-2016; FB; Marie Rose; f6c; 8m; solo FZ JG LP LW; <4><3S> 
-01-04-2011; FB; Langle Ben; f6c; 8m; solo JG LP LW; <4><3S> 
+01-04-2016; FB; Marie Rose; f6c; 8m; solo FZ JG LP LW; <4><3S>; <I http://willerup.com/p/fbleau_fz.jpg> 
+01-04-2011; FB; Langle Ben; f6c; 8m; solo JG LP LW; <4><3S>; <I http://willerup.com/p/fbleau_jg.jpg>
 
 06-03-2016; WL; Freedom; VS; 60ft; lead RS MB;
 06-03-2016; WL; Swatter; VS; 60ft; lead RS MB;
@@ -551,12 +564,11 @@ JB=Jack Bernstein
 
 01-01-2014; RU; Ozzimosis; W4; 60ft; lead; <1>
 
-23-07-2013; CL; The Corner; HVS 5b; 60ft; alt MB; <T>
-    Trip report on willerup.com
-23-07-2013; CL; Chimney Route; VS 4c; 60ft; alt MB; 
-23-07-2013; CL; Curving Crack; VS 4c; 60ft; alt MB; 
-23-07-2013; CL; Pedestal Crack; HVS 5a; 60ft; alt MB; 
-
+23-07-2013; CY; The Corner; HVS 5b; 60ft; alt MB; <3S><T><N http://willerup.com/climbing/cloggy.html>
+23-07-2013; CY; Chimney Route; VS 4c; 60ft; alt MB; <3S>
+23-07-2013; CY; Curving Crack; VS 4c; 60ft; alt MB;  <3S>
+23-07-2013; CY; Pedestal Crack; HVS 5a; 60ft; alt MB;  <3S>
+    Last route of an excellent weekend at Cloggy.
 30-05-2013; GB; Vaxelstrom; f6c; 8m; solo; <4> 
 
 # Trip with Anders, Tim and Richard. Climbs not correct.
@@ -571,7 +583,7 @@ JB=Jack Bernstein
     Off route. Pulled a loose block.
 19-07-2012; WL; Zebra; E2 5b; 33m; sec PW; <3S>; <I https://live.staticflickr.com/8282/7606094048_fb6b01b4b2_b.jpg>
 18-07-2012; MD; Bixhead Mine; ; ; lead DG; <1S>
-17-07-2012; GC; Disaster Area; HVS 5a; 33m; sec RS; <2S>; <I https://live.staticflickr.com/8422/7595924008_5a42bac8ba_b.jpg>
+17-07-2012; GC; Disaster Area; HVS 5a; 33m; sec RS PW; <2S>; <I https://live.staticflickr.com/8422/7595924008_5a42bac8ba_b.jpg>
 15-07-2012; PB; Shape-Up; E2 5b; 33m; sec MB; <3S>
     Excellent effort of Martin. It is the easiest line out of Huntsman Leap and it is by no means easy. 
 15-07-2012; PB; Army Dreamers; HVS 5a; 110ft; lead MB; <3S>; 
@@ -639,12 +651,13 @@ JB=Jack Bernstein
 
 1-1-2007; PD; Leaning Buttress Direct; HVS; 5b 20m; lead RS MB; <3S>; <I https://live.staticflickr.com/1324/822038688_3983f0135c_b.jpg>
 
-01-04-2006; WR; Mumkin; E1 5c; 600m; alt AW; <N http://willerup.com/climbing/jordan.html>
+01-04-2006; WR; Mumkin; E1 5c; 600m; alt AW; <3S><N http://willerup.com/climbing/jordan.html>
     Trip report on willerup.com from an amazing trip to Jordan.
-01-04-2006; WR; Ocean Slabs; AD; 600m; alt AW; <T>
-01-04-2006; WR; Rijm Assaf; E2 6a; 600m; alt AW; ; <I https://live.staticflickr.com/52/124626415_754c1a9d3e_b.jpg> 
-01-04-2006; WR; Merlin's Wand; E2 6a; 600m; alt AW;
-01-04-2006; WR; Storm in the Desert; E2 6a; 600m; alt AW; ; <I https://live.staticflickr.com/50/124613789_33ef6a1406_b.jpg> 
+01-04-2006; WR; Sunkiss; AD; 600m; alt AW; <3S>
+01-04-2006; WR; Ocean Slabs; AD; 600m; alt AW; <3S><T>
+01-04-2006; WR; Rijm Assaf; E2 6a; 600m; alt AW; ; <3S><I https://live.staticflickr.com/52/124626415_754c1a9d3e_b.jpg> 
+01-04-2006; WR; Merlin's Wand; E2 6a; 600m; alt AW; <3S>
+01-04-2006; WR; Storm in the Desert; E2 6a; 600m; alt AW; <3S>; <I https://live.staticflickr.com/50/124613789_33ef6a1406_b.jpg> 
 
 01-02-2006; LG; Pisse Froide; W4; 150m; lead TW PW; <3S><1><P https://flic.kr/p/9Zy4z>
     Great route climbed with my best friends
@@ -951,7 +964,7 @@ JB=Jack Bernstein
     Tried Killer Ant (E26a)  but this time the yoor seemed to be missing  so we did this nice VS instead. 
 7-6-2000; GC; Girion Direct; E2 5c; 15m; sec TW
 5-6-2000; GC; The Magpie; E1 5a; 18m; sec TW
-5-6-2000; GC; The White Tower; E4 6a/b; 18m; lead TW; <2S> 
+5-6-2000; GC; The White Tower; E4 6a/b; 18m; lead TW; <2S><A> 
     My first E4. I attemtped the route a week previously and fell off. Then I soloed it (self protected) the day before this attempt. Regardless of the climbing ethics  it still (2010) is one of my most memorable routes perhaps because I had to wire it so clearly in my mind to get up it. Well proud to have reached this level through consistent climbing through the years.
 5-6-2000; GC; Bifur; VS 4b; 18m; sec TW
 4-6-2000; GC; The Gnome King; HS 4b; 18m; sec; <1S>
@@ -1108,9 +1121,9 @@ JB=Jack Bernstein
 14-8-1999; PQ; Pharos; S 4a; 90ft; lead LS
 	Linsey's first outdoor climb.
 10-8-1999; GC; Mithril; E4 6a; 70ft; sec- JT TW; <W>
-	Joint led up in style  I popped off at the crux  Tim thirded it clean. Good route.
+	Joint led up in style. I popped off at the crux. Tim thirded it clean. Good route.
 10-8-1999; GC; Goblin King; E2 5c; 70ft; sec JT TW
-9-8-1999; AV; Jasper; HVS 5a; 50ft; lead PS FW; <R>
+9-8-1999; AV; Jasper; HVS 5a; 50ft; lead PS FW TR; <R>; <I https://live.staticflickr.com/28/47385979_97bed4ddf8_b.jpg>
 	A wet experience. It was raining quite a lot but Peter wanted to climb rock  so we went for it. I led it  but grabbed Fred's abseil rope in the desperate wet top.
 25-7-1999; CI; The Pygmies Got Stoned; 5.10a; 100ft; sec MB; <B>
 25-7-1999; CI; Tribal Boundaries; 5.10a; 120ft; lead MB; <3S><B>
@@ -1156,7 +1169,7 @@ JB=Jack Bernstein
 1-5-1999; AV; New Horizons II; E2 5c; 60ft; lead TW; <2S>; <I http://willerup.com/p/newhorizons.jpg>
 1-5-1999; AV; Arms Race; E4 5c; 60ft; lead TW; <W><A><2S><N http://willerup.com/climbing/armsrace.html>
 	My arms were like two wooden planks half way up. Loads of good pro which held several falls including a couple of pretty long whippers. Pulled it through in the end (with full use of the ringbolt). Will be going back again for a redpoint attempt.
-1-5-1999; AV; Jasper; HVS 5a; 80ft; lead TW; <R><P https://flic.kr/p/5bScD>
+1-5-1999; AV; Jasper; HVS 5a; 80ft; lead TW;
 9-4-1999; CG; Eden Crack; M; 150ft; lead LK HL
 4-4-1999; GC; Gondolin; VS 4b; 70ft; lead FW; <1S>
 4-4-1999; GC; Necromancer; HS 4b; 70ft; sec FW TR
@@ -1199,7 +1212,7 @@ JB=Jack Bernstein
 	Very sustained jamming  and somewhat run-out at the top. Scary. A perfect climb with everything... Check out page 99 of "Climbing Magazine" - that's the one.
 14-1-1999; ES; Chameleon; E1 5b; 50m; lead FW; <3S>; <I http://willerup.com/p/chameleon.jpg>
 14-1-1999; ES; Double Crack and Top Jam; HVS 5b; 25m; sec FW; <3S>; <I http://willerup.com/p/escalone.jpg>
-13-1-1999; ES; Double Crack; VS 5a; 25m; sec FW; <3S>
+13-1-1999; ES; Double Crack; VS 5a; 25m; sec FW; <3S><Z>
 	We climbed the first pitch and it got dark. We left the gear in and will continue tomorrow.
 13-1-1999; ES; Chimney; HVS 5b; 50m; lead FW; <3S>
 13-1-1999; DI; Square Boulder 2; 5.11a; 8m; top; <B>
@@ -1394,7 +1407,8 @@ JB=Jack Bernstein
              Superb layback
 25-4-1998; BG; Doorpost; HS 4a 4b; 210ft; alt MB
 25-4-1998; BG; Little Brown Jug Direct; HVS 5a 5a; 200ft; alt MB; <2S>
-7-4-1998; SC; All For One...; HVS 5a; 85ft; sec MB; <1S>
+7-4-1998; SC; All For One...; HVS 5a; 85ft; sec MB; <1S>; <I https://live.staticflickr.com/65535/51852987044_64d6b23d0a_o.jpg>
+    After work climbing session. Pub afterwards.
 7-4-1998; SC; Bitter Battle Tears; HVS 5a; 85ft; lead MB; <1S>
 31-1-1998; LD; Central Gully; W3; 200m; alt TW; <3S><M><1><N http://willerup.com/climbing/central.html>
     My first proper iceclimb. Good stuff  although a bit thin and delicate at places. Released a huge rock which thundered down the gully which was packed with 4-5 other teams. Not good! Nobody got hurt luckily.
@@ -1549,7 +1563,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     We got to the down climbs.
 01-08-2021; MD; Goatchurh Cavern; ; 2h; FW AX EW; <3><C2><3S>; <I https://live.staticflickr.com/65535/51368031241_02f4972c74_b.jpg>
     Axel and Elias did the drainpipe.
-29-12-2014; MD; Goatchurh Cavern; ; 2h; PW AX EW; <3><C2><3S>;
+29-12-2014; MD; Goatchurh Cavern; ; 2h; PW AX EW; <3><C2><3S>;<I http://willerup.com/p/goat_pw.jpg>
 13-11-2005; LL; Agen Allwedd; ; 11h; TW MB; <3><C4><3S>; <I https://live.staticflickr.com/34/63994132_2bc0d19c7b_b.jpg>
      Excellent digging trip to dig 9. Also saw the Corkscrew Chamber which was found the day before.
 19-03-2005; LL; Agen Allwedd; ; 14h; MB RS; <3><C4><3S>
@@ -1574,9 +1588,9 @@ Due to some serious partying the day before I managed to forget my harness and c
      Excellent cave - easy in all respects (rig and walkin). Martin regained his unfire with a steady lead to the bottom. All bolts overtightened subtracts a star  good photoshooting and muddy fun adds it back.
 06-06-2002; VC; Scialet du Pot de Loup; ; 3h; PW; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Nice trip with Paul which regained his interest in caving. A great easy cave.
-05-06-2002; VC; Scialet du Pot 2; ; 1h; MB TW; <3><C4><3S><Q>
+05-06-2002; VC; Scialet du Pot 2; ; 1h; MB TW; <3><C4><3S><Q>; <I https://live.staticflickr.com/65535/51828751882_47495a6687_b.jpg>
      The Pot 2 attempt - Grosvenor style. Martin lead down to -80 meters. To be continued.
-04-06-2002; VC; Scialet de Malaterre; ; 1h; MB PW TW; <3><C3><O http://willerup.com/caving/img/malaterre.gif>
+04-06-2002; VC; Scialet de Malaterre; ; 1h; MB PW TW; <3><C3><O http://willerup.com/caving/img/malaterre.gif>; <I https://live.staticflickr.com/65535/51829823283_06378ef075_b.jpg>
      Tried out my new caving radios which works extremely well on these long vertical pitches.
 03-06-2002; VC; Scialet A2; ; 5h; MB; <3><C4><3S><P https://flic.kr/p/4fruD><O http://willerup.com/caving/img/a2.gif>
      Full on caving. Included a dangerous 25 meter pitch lead in Wellingtons with only a sling and my bolt kit (thank god for that) as protection. Fantastic cave - highly recommendable.
@@ -1594,10 +1608,10 @@ Due to some serious partying the day before I managed to forget my harness and c
      Went up to have a look. Couldn't resist. Went in. Normal way too wet  so I opted for the highlevel dry fossil way which was much longer than I expected and with some pretty nasty (but polished and obvious) squezes. Good training  but cave soloing doesn't feel very clever.
 
 09-12-2001; VC; Trou du Diable; ; 1h; CW; <3><C3><O http://willerup.com/caving/img/diableDEC01.gif>
-     Solo with ground support (making tea).
+     Solo with Celine at ground support (making tea). 
 02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS; <3><C4><3S><M><T><N http://willerup.com/caving/hpcc/gg.html>
      Lateral Shaft. Superb rig avoiding most of the water of the main shaft. Mindblowing
-02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS JT; <3><C4><3S><X>
+02-12-2001; YS; Gaping Gill; ; 3h; TW MB RS JT; <3><C4><3S><X><O https://live.staticflickr.com/65535/51844669160_4cf59cbd06_b.jpg>
      Main Shaft. Wild decent. Although the water level was low we ended up right in the end waterfall which is serious stuff and very scary but excellent adrenalin fun at the same time. The tick is home!
 01-12-2001; YS; Rowten Pot; ; 3h; TW RS MB; <3><C3>
      Excellent sporty rig.
@@ -1605,7 +1619,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Fantastic trip. Made it to the Bonsai Streamway and back.
 25-11-2001; LL; Ogof Ffynnon Ddu; ; 6h; MB RS; <3><C2>
      A job needed to be finished. We wanted to finish yesterdays objective of getting to Smiths Armery but the area was in flood now and we made it past the traverses into OFD3 and reached the roaring streamway which was fantastic to watch but a certain deathtrap to enter. Great trip
-24-11-2001; LL; Ogof Ffynnon Ddu; ; 6h; DG RS MB; <3><C2>
+24-11-2001; LL; Ogof Ffynnon Ddu; ; 6h; DG RS MB TB; <3><C2><N http://willerup.com/caving/hpcc/ofd.html>
      We did an unplanned round trip due to some tricky navigation in the Shambles. On one of the many tricky climbs Tom lobbed of and fell around three meters  but luckily landed on his feet and not on one of the sharp boulders. He sprained his angle badly and we abandoned the trip and got out safely.
 14-10-2001; VC; Grotte Gournier; ; 1h; JR; <3><C1>
      Jesper's first caving experience. Another team was already in there  which unfortunately took the edge of the scaryness factor and it was  really plain sailing. Still enjoyable.
@@ -1620,17 +1634,17 @@ Due to some serious partying the day before I managed to forget my harness and c
 23-05-2001; VC; Scialet de Pot de Loup; ; 3h; MB; <3><C2><O http://willerup.com/caving/img/potdeloup.gif>
      Absolutely superb SRT trip. Beautiful lines and an amazing 40m drop from an overhanging speleothem. Easy and highly recommendable. Approach - 8 seconds from the car.
 20-05-2001; VC; Glaciere d'Autrans; ; 9h; MB; <3><C4><3S><K https://vimeo.com/308574859>
-     Long day out. 13 hours including the walk. We got back to Grenoble at 4am  in the morning. See map
+     Long day out. 13 hours including the walk. We got back to Grenoble at 4am in the morning. 
 19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif>; <I https://live.staticflickr.com/26/67874301_12eb37461b_b.jpg>
-     Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive. See map
+     Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive.
 15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>
-     Beautiful cave - lots of little lakes and excellent formations. Perfect  rig as well. See map
+     Beautiful cave - lots of little lakes and excellent formations. Perfect rig as well.
 11-04-2001; VC; Glaciere de Carri; ; 7h; MB; <C4><C4><3S><3><X>
-     Desperate trip. Got back up to the surface at 12'o'clock at night after a  long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
+     Desperate trip. Got back up to the surface at 12'o'clock at night after a long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
 10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2><O http://willerup.com/caving/img/anglaise.gif>
-     Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This time we both put the  double amount of clothes on and was relatively warm. See map
+     Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This time we both put the  double amount of clothes on and was relatively warm. 
 09-04-2001; VC; Scialet de Malaterre; ; 6h; MB; <3><C4><3S><O http://willerup.com/caving/img/malaterre.gif>
-     Massive cave shaft - starts with a 120 meter (360ft) drop of a bridge -  straight down in to the void. Desperate trip - quite wet and extremely  cold. See map 
+     Massive cave shaft - starts with a 120 meter (360ft) drop of a bridge -  straight down in to the void. Desperate trip - quite wet and extremely cold. 
 
 05-12-2000; MD; Manor Farm Swallet; ; 4h; DG MB; <3><C3>
      I decided to postpone the UK underground retirement for one more trip - I  couldn't say no to a trip down Manor Farm with DG and MB. I wasn't  disappointed. Dave now goes under the nickname 'Mr. President' (president  for the HPCC) and I had the great pleasure of pushing through some really  dodgy loose bouldery bits in the far end which was rewarded with a huge  chamber which almost certainly had some further continuation. Dave and  Martin unfortunately didn't reach this glorious chamber as they reckoned  the boulder bits were too unstable.
@@ -1674,17 +1688,17 @@ Due to some serious partying the day before I managed to forget my harness and c
      Awesome trip. We did the round trip which has some extremely challenging  routefinding speically on the return. We were very pleased to get out 
 09-11-1999; MD; GB Cavern; ; 4h; DG TW; <3>
      Great evening out in the MD. GB has some really awesome formations  and some quite entertaining squeezes 
-17-10-1999; MD; Swildon's Hole; ; 4h; FW; <3>
+17-10-1999; MD; Swildons Hole; ; 4h; FW; <3>
      We were back to complete the round trip that we had attempted with Peter  three entries down. This time the mud sump that we had rushed through was  filled to the roof with water and after an hour or more of pumping water  with no noticeable effect we went to explore the Black Hole Series  instead. This ended when we arrived at a 40 foot pitch. Good day out. We  were both exhausted 
 19-09-1999; MD; Rhino Rift; ; 2h; TW; <3>
      We got a hold of the key yet again. Tim rigged and I de-rigged 
 14-09-1999; MD; Fairy Quarry Cave; ; 3h; FW DG; <3><P http://willerup.com/caving/fairy/photo1.html>;
      We went in with Dave Grosvenor on a good trip in to the wonders of Fairy  Cave. A surprisingly muddy experience. Some good technical obstacles to  keep the wriggling techniques uptodate. A Grosvenor Special.   
-08-08-1999; MD; Swildon's Hole; ; 4h; FW PS; <3><3S>; <I https://live.staticflickr.com/8068/8262851868_2a317bd1aa_b.jpg>
-     An excellent trip! We went into the St. Poul Grotto Series which included  some very low crawls and passing a mud sump. Peter did well in this -not-  a beginners section of the cave. We didn't manage the through trip though  since Peter started having more than enough. We didn't realize that this actually was our probably one and only chance of ticking this sought after Swildon's collectors piece. Bummer!
-31-05-1999; MD; Swildon's Hole; ; 4h; FW TW RR; <3>
-     Good Trip. TR and RR both did Sump 1 in freezing cold water and in  a very uninviting condition. RR even managed to become a 'Son of The  MD*' as she fell into one of the pools twice. *) Read the guidebook  for a further explanation 
-09-04-1999; MD; Swildon's Hole; ; 10m; LK HL; <3>
+08-08-1999; MD; Swildons Hole; ; 4h; FW PS; <3><3S>; <I https://live.staticflickr.com/8068/8262851868_2a317bd1aa_b.jpg>
+     An excellent trip! We went into the St. Poul Grotto Series which included  some very low crawls and passing a mud sump. Peter did well in this -not-  a beginners section of the cave. We didn't manage the through trip though  since Peter started having more than enough. We didn't realize that this actually was our probably one and only chance of ticking this sought after Swildons collectors piece. Bummer!
+31-05-1999; MD; Swildons Hole; ; 4h; FW TW RR; <3>
+     Good Trip. Theresa and Rene both did Sump 1 in freezing cold water and in  a very uninviting condition. Rene even managed to become a 'Son of The Mendips' as she fell into one of the pools twice. 
+09-04-1999; MD; Swildons Hole; ; 10m; LK HL; <3>
      I took Lars and Helene down Swildons Hole for a grand caving trip.  Unfortunately the mission was aborted shortly after entering the cave due  to too much 'noia' 
 09-04-1999; MD; Goatchurch Cavern; ; 1h; LK HL; <3>
      After the failed attempt in Swildons we went for the Goatchurch instead -  objective: to go through the drainpipe. We got to it after some persuasion  but that was as far as the party wanted to go. Drainpipe 2 - Lars Klammer  0 
@@ -1732,25 +1746,25 @@ Due to some serious partying the day before I managed to forget my harness and c
      Simpsons Pot to Kingsdale valley entrance. Excellent through trip  featuring a spectacular 25m abseil. Photo
 11-06-1998; FD; Clearwater Mine; ; 3h; DG TW; <3><C2>
      Ancient Iron Mine. Bow to the Ham 
-05-03-1998; MD; Swildon's Hole; ; 2h; DG TW; <3><C2><R>
+05-03-1998; MD; Swildons Hole; ; 2h; DG TW; <3><C2><R>
      Very wet conditions
 23-02-1998; MD; Goatchurch Cavern; ; 3h; LK; <3><C2><N http://willerup.com/caving/goatchurch.html>
      The guys had visited me all the way from Denmark to see Britol Rovers play against Oldham Saturday the 21th of February. Having arrived already Thursday night we were looking for something to do Friday. With Keld and Frede Firsttimer
 28-01-1998; MD; St. Cuthberts Swallet; ; 2h; DG; <3><C2>
      An extremely beautiful cave. With Andy Sparrow
-08-03-1997; MD; Swildon's Hole; ; 2h; JL; <3><C2>
+08-03-1997; MD; Swildons Hole; ; 2h; JL; <3><C2>
      Jakob did the sump 1 of Swildons. On sight. Photos
 01-10-1996; MD; Goatchurch Cavern; ; 2h; MI; <3><C2>
      Started caving at 11pm!
-01-10-1996; FD; Otter Hole; ; 10h; FW TW DG; <3><C2><T><3S>
-     The entrance of Otter Hole has an exiting feature. The river Wye is tidal  so the entrance is only open an hour or two during low tide. When the  water comes in the entrance (and exit!) closes for about 10 hours which  means that once we enter we are comitted for the whole day. Read the whole  Trip report
-01-07-1994; MD; Sidcot's Swallet; ; 2h; FW; <3><C2>
+01-10-1996; FD; Otter Hole; ; 10h; FW TW DG; <3><C2><T><3S><N http://willerup.com/caving/otter.html>
+     The entrance of Otter Hole has an exiting feature. The river Wye is tidal so the entrance is only open an hour or two during low tide. When the  water comes in the entrance (and exit!) closes for about 10 hours which  means that once we enter we are comitted for the whole day.
+01-07-1994; MD; Sidcots Swallet; ; 2h; FW; <3><C2>
 01-07-1994; MD; Goatchurch Cavern; ; 2h; FW; <3><C2><3S><M>
      Our first cave ever. Excellent trip. Photo
 
 01-07-1996; MD; Goatchurch Cavern; ; ; FW MF; <3><C3>
      Entertaining trip. Went all the way past the Drainpipe and up in the  letterbox 
-01-07-1994; MD; Swildon's Hole; ; 4h; FW; <3><C2>
+01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Mountains #####
 
@@ -1762,17 +1776,17 @@ Due to some serious partying the day before I managed to forget my harness and c
     900 meters from the top.
 
 ##### Paragliding #####
-2012; JL; Bovbjerg Fyr; ; 3h; PP; <7><3S>
+01-07-2012; JL; Bovbjerg Fyr; ; 3h; PP; <7><3S>
     Joined the yearly parafun meet. Awesome to be back in the air. Happy I hadn't forgotten. Brilliant to be back with the club. 
 01-07-2010; JL; Lindtorp; ; 1h; PP; <7><3S>
     Just as I thought I was getting comfortable with it all Allan phone me up with a last chance before going back to CPH to try towing. I said yes and got towed up to 300 meters height and then released my thingy and had a mad mad flight down to earth. It was absolutely mental and I was just screaming and giggling the whole way down. Awesome kick!
-29-06-2010; JL; Toftum; ; 4h; PP; <7><3S>
+29-06-2010; JL; Toftum; ; 4h; PP; <7><3S>; <I https://live.staticflickr.com/65535/4741298211_1fd61e9fee_b.jpg>
     Brilliant session with lots of top landing and take offs. Managed to stay from the beach the whole time and was generally pretty much comfortable with everything. Great fun.
 23-06-2010; JL; Bovbjerg Fyr; ; 4h; PP; <7>
     Another great session at Bovbjerg. This time top starting and just enough wind to keep on hanging. It required care with the flying and I ended up on the beach a few times. Biggest tick was a couple of 100% self supported take-offs from a remoter spot and flying back to the others gaining height. Super satisfying.
 17-06-2010; JL; Bovbjerg; ; 4h; PP; <7><3S>
     Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with PP; <7> flying all over to the lighthouse which was a great trip.
-21-05-2010; JL; Toftum; ; 1h; PP; <7><3S><T>
+21-05-2010; JL; Toftum; ; 1h; PP; <7><3S><T>; <I https://live.staticflickr.com/4071/4647143618_b6e3c8ef71_b.jpg>
     The tick is in the bag! Ever since the first session in Toftum this place remained number one on the ticklist. Great session feeling really in control all the time. The new school wing is really comfortable and launches and handles really smooth. Did 3 succesfull top landings and 2 beach landings. The wind picked up in the end making the last run a bit epic.
 05-05-2010; JL; Hamborg; ; 1h; PP; <7><3S>
     Fully self supported with Poul on the ground obviously. Had some crash landings which I learned a lot from. Landed with my bum on the top  on the slope (controlled)  and in a fence (not controled). 
@@ -1786,6 +1800,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Ground control. Crossed brake launch technique.
 
 ##### Diving #####
+24-08-2003; KU; Aakersberget; ; 15m; JR FW AN TR HW; <6><3S><K https://www.youtube.com/watch?v=P19bYP63OUU>
 19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><T><M><2S><P http://willerup.com/mexico/img/cavediving.jpg>
 05-11-1997; IN; Tulamben; ; 15m; FW; <6>
 05-11-1997; IN; Tulamben; ; 30m; FW; <6>
@@ -1806,10 +1821,11 @@ Due to some serious partying the day before I managed to forget my harness and c
     Nice session with Soeren
 28-10-2014; SJ; Lynaes; ; 2h; SG; <8>
     Morning session
-25-05-2011; SJ; Landerslev; ; 1h; SG; <8> 
+25-05-2011; SJ; Landerslev; ; 1h; SG; <8>
+21-06-2010; JL; Bovbjerg; ; 1h; PP; <8>; <I https://live.staticflickr.com/65535/4713774348_f20f30da7f_b.jpg>
 17-02-2010; JL; Kitesnow Excercise; ; 1h; solo; <8>
 13-02-2010; JL; Ice kite; ; 1h; solo; <8>
-28-01-2010; JL; Struer; ; 1h; solo; <8><3S><T>
+28-01-2010; JL; Struer; ; 1h; solo; <8><3S><T>; <I https://live.staticflickr.com/65535/4259153341_02b82d3a12_b.jpg>
     Snow kite - awesome
 07-11-2009; JL; Cold Hawaii; ; 2h; solo; <8><A><T><3S>
     At last I felt ready to go to the north sea. Amazing ride.
@@ -1821,8 +1837,10 @@ Due to some serious partying the day before I managed to forget my harness and c
 05-05-2009; JL; Off shore; ; 1h; solo; <8><X>
     In the search for pancake flat water I went out in pure off shore wind at a place where the water gets deep quickly and in really cold water (only just finished April). Eventually I fell over and could get the kite back up in time before the water was getting me really cold. I decided to quickly emergency release the kite (which wasn't trivial) and swim to shore. The kite took off on its own on the water. I drove to the nearest harbour and chartered a boat to go out and rescue the kite. Quite an epic afternoon.  
 17-04-2009; JL; Lundoe; ; 1h; solo; <8>
-23-09-2008; JL; Ejsing; ; 1h; solo; <8><3S>
-    16m2 kite. Old school
+23-09-2008; JL; Ejsing; ; 1h; solo; <8><3S>; <I https://live.staticflickr.com/65535/2873426478_bc757d4779_b.jpg>
+    16m2 kite. Old school 
+14-08-2007; JL; Ejsing; ; 1h; ; <8>; <I https://live.staticflickr.com/65535/1129777750_b52a6c4d61_b.jpg>
+    Teaching Brice how to kitesurf  
 
 ##### Snowboarding #####
 14-05-2001; CH; Chamonix; ; ; solo; <9><S>
@@ -1873,9 +1891,60 @@ Due to some serious partying the day before I managed to forget my harness and c
     A week to check out the powder in Chamonix and La Grave. Great trip together with the skiers Jesper Ritzau and Lars Klammer. No trip report. No photos. But we have a fully edited movie (9 MB!)
 01-01-1997; GR; Col de Palet; ; 4h; solo; <9><X>; <I https://live.staticflickr.com/30/65885904_a462ae6e35_b.jpg>
     Did the Col de Palet to Champagny run (alone!). A bit irresponsible in retrospect. Desperate on a snowboard
-01-01-1996; CH; Chamonix: ; ; FW; <9>
+01-01-1996; CH; Chamonix; ; ; FW; <9>
     We only had three days as the following days was ear marked for Christmas purposes. There where a lot of nice offpiste riding
 01-01-1995; CH; Chamonix; ; ; solo; <9>
     Spent two months in Chamonix, one week in Serre Chevalier (and La Grave) and one week in Val d'Isere. The off piste conditions in Val d'Isere was unbelievably good.
 
+##### Running #####
+01-07-2017; LD; SLMM 35K; ; 8h; CW TW; <9>; <I https://live.staticflickr.com/4366/35968049080_e8a33776ed_b.jpg>
+ Wonderful to be back in England running with Celine.
+15-10-2000; WV; Double Wye Valley 38K; ; 4h42m; TW; <9>
+ Tim did a "Double Wye Valley run" today - I was climbing, but I thought this should be noted. Double! If the normal round wasn't hard enough, but doing it it twice - pfeww. Well done Tim.
+6-2-2000; WV; Molboløbet 10K; ; 1h12m; ; <9>
+ Anders Soft ground. No frost. Lots of branches. Danish Orienteering. Great fun. 18 posts. At each post one had to answer a question which is then part of the score.
+16-1-2000; SJ; Furesøen Rundt 22K; ; 2h01m; LK; <9> 
+ Soft ground. No frost. Perfect. Excellent run. All systems were running fine.
+5-12-1999; WV; Wye Valley 19K; ; 2h09m; solo; <9>
+ Agony. I thought it would never go. If I want to get the sub2 again I need to rethink be current diet of beer and crisps. Still - I was going allright from the field to Tutshill, so I was quite pleased with the time.
+01-11-1999; LD; KIMM 37K; ; 11h45m; FW; <9> 
+ We came in 68 of 197 teams in the C class. 69 of these retired after the first day - 128 completed. (2.200m of ascent)
+10-10-1999; WV; Wye Valley 19K; ; 2h25m; solo; <9> 
+ Tried to use ski poles. Disaster. It screwed up my rythm and I struggled all the way through! Ok, I hadn't really had any thing to eat, so I was quite low on energy, but - my ski pole theory has proven wrong.
+19-9-1999; SW; Brecon Beacons 32K; ; 3h35m; TW MB; <3S><R><9> 
+ Superb Half of it was fun. Half of it was a running mare. Absolute savagery. Constant horizontal rain all the way through.
+16-9-1999; WV; Semi Wye Valley 10K; ; ; TW MB; <9><Z>
+ Good training.
+26-6-1999; CW; Cotswold Race 18K; ; 1h33m; solo; <9><S> 
+ Complete torture. No problems in legs but the lungs and overall stamina was suffering seriously from the extreme heat. I came in 15th. It was not pleasant. Ridiculously hot (25+ degrees). Worst conditions I have ever run in.
+16-6-1999; CW; Cotswold Leg 5 (recce) 18K; ; 1h52m; TW; <9> 
+ Calves killing me, otherwise the run was great. We were chased by a flock of cows at some stage.
+13-6-1999; CW; Cotswold Leg 3 (recce) 16K; ; 2h24m; LS; <9> 
+ Got lost once. Picked up the track again after some skillful map reading.
+11-6-1999; WV; Wye Valley 19K; ; 1h50m47s; solo; <3S><A><9> 
+ Up until the top of Wyndcliffe my left calf was in absolute agony, but then it started loosening up after that. Boy was I glad when I ran across the bridge in Chepstow. New record for The Run which I am sure will not stand long
+06-06-1999; WV; Wye Valley 19K; ; 2h59m; LS; <9>
+ We were supposed to have been 6 people going but the other potential participants seemed to have lost their attitude. Still, Linsey and I went and it was as always a fine Valley experience.
+03-6-1999; WV; Wye Valley 19K; ; 2h05m; TW; <9>
+ Perfect! The seasons first after work run. It looked like it was going to be a mean run, but after reaching the otter hole car park things seemed to just go really smoothly and no pain in the knees which is great.
+28-4-1999; WV; HP Extended Valley 12K; ; 0h54m; TW; <9> 
+ Beautiful. I have started running more frequently and on less savage terrain. All systems are working fine. No problems with knees or anything. So I guess I just need to go easy on the actual fell runs.
+21-2-1999; SJ; Furesøen Rundt 18K; ; 1h45m; LK; <9> 
+ Changed to my old more bouncy shoes. I think it helped a bit on my knee, though it still hurt quite a lot. Specially afterwards. Good trip though - but less hilly than I had hoped. Denmark just is flat as a pancake.
+14-2-1999; WV; Wye Valley 19K; ;  2h43m; ; <9>
+ Right knee really painful. Maybe it is my beloved Walsh shoes which are a bit too hardcore after all.
+04-07-1998; LD; SLMM 35K; ; 8h; MB; <9>; <I https://live.staticflickr.com/40/81548792_2539be0c7a_o.jpg>
+ Great conditions. Misty, wet and not too windy. Right knee hurting. After five hours I twist my ankle badly and we decide to retire and manage to arrive at the midway campsite after an additional 3 hours struggle. Read the full story.
+27-06-1998; CW; Cotswold Relay 16K; ; 1h18m; TW; <9> 
+ Team 62 Ideal conditions. Muddy as hell and sun and showers during the run. Despite the fact that my shoes are crap it went okay. I came in 19th of 45 participants. Tim, who ran the leg as well came in 10th, three minuttes before me. Excellent fun. Right knee hurting quite a bit otherwise okay.
+23-06-1998; CW; Cotswold Recce 16K; ; ; TW; <9> 
+ Practice Run for the race on Saturday
+20-06-1998; WV; Wye Valley 19K; ; 2h18m; TW CL; <9> 
+ Worst ever: Hot. Humid. Muddy and slippery. I lead. Tim runs with Claire. Totally exhausted hardest run yet. No blisters. Picked up Claire in Tintern.
+01-01-1998; WV; Wye Valley 19K; ; 2h05m; TW; <9>
+ After work run. I left the field after Devils Pulpit and was alone until the last road section near Chepstow. Fine conditions. Big bloody blister on left toe.
+01-01-1998; WV; Wye Valley 19K; ; 2h18m; TW; <9>
+ Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
+01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
+ First time - twisted my ankle a bit
 
