@@ -23,6 +23,7 @@
     th, td {
         vertical-align: top; 
     }
+    h2 { font-size: small;}
     .tiny { font-size: small;
             color: slategray;
     }
@@ -140,7 +141,6 @@
 </head>
 <body>
 <div class="navbar">
-
   <script language="JavaScript">
     function MM_jumpMenu(targ,selObj,restore){ //v3.0
         eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -149,7 +149,13 @@
     </script>
 <form name="form1">
         <select name="menu1" onChange="MM_jumpMenu('parent',this,0)">
-            <option selected>Date</option>
+            <option selected>Views</option>
+            <option value="mw-people.html">People</option>
+            <option value="mw-area.html">Area</option>
+            <option value="mw-grade.html">Grade</option>
+            <option value="mw-quality.html">Type</option>
+            <option value="mw-photo.html">Photo</option>
+            <option value="mw-date.html">Now</option>
             <option value="mw-date.html#202008">2020</option>
             <option value="mw-date.html#201901">2019</option>
             <option value="mw-date.html#201801">2018</option>
@@ -179,11 +185,6 @@
             <option value="mw-date.html#199401">1994</option>
             <option value="mw-date.html#199201">1992</option>
           </select>
-
-<a href="mw-people.html">People</a>
-<a href="mw-area.html">Area</a> 
-<a href="mw-grade.html">Grade</a> 
-<a href="mw-quality.html">Type</a>  
 </form>
 </div>
 

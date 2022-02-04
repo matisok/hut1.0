@@ -200,36 +200,38 @@ while (<CLIMBS>) {
 
         # Photo
         $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img><br>/g;
-
-
-        # Icons
+        
+        # Stars
         $icons =~ s/<1S>/&#10024;/g;  #1 &#128261; star 
         $icons =~ s/<2S>/&#127775;/g; #2 &#128262; stars
         $icons =~ s/<3S>/&#11088;/g;  #3 stars
 
+        # Caving
         $icons =~ s/<C1>//g; # &#128154; green helemt
         $icons =~ s/<C2>//g; # &#128153; blue helmet
         $icons =~ s/<C3>//g; # &#129505; red helmet
         $icons =~ s/<C4>//g; # &#128420; black helmet
 
-        $icons =~ s/<Q>/&#129344;/g; #bail
-        $icons =~ s/<L>/&#128280;/g; #wish  teddybear &#129528;
-        $icons =~ s/<R>/&#9748;/g;   #rainy
-        $icons =~ s/<S>/&#127780;/g; #sunny
-        $icons =~ s/<Y>/&#127788;/g; #windy
-        $icons =~ s/<X>/&#128128;/g; #suicide
-        $icons =~ s/<Z>/&#127768;/g; #night
+        # Icons
         $icons =~ s/<A>/&#128170;/g; #achievement
-        $icons =~ s/<M>/&#128293;/g; #mindblower
         $icons =~ s/<B>/&#128297;/g; #bolt
         $icons =~ s/<E>/&#129422;/g; #multipitch
         $icons =~ s/<G>/&#128074;/g; #boulder
+        $icons =~ s/<L>/&#128280;/g; #wish  teddybear &#129528;
+        $icons =~ s/<Q>/&#129344;/g; #bail
+        $icons =~ s/<M>/&#128293;/g; #mindblower
         $icons =~ s/<T>/&#128175;/g; #bulls eye
+        $icons =~ s/<R>/&#9748;/g;   #rainy
+        $icons =~ s/<S>/&#127780;/g; #sunny
         $icons =~ s/<W>/&#129336;/g; #whipper
+        $icons =~ s/<X>/&#128128;/g; #suicide
+        $icons =~ s/<Y>/&#127788;/g; #windy
+        $icons =~ s/<Z>/&#127768;/g; #night
         $icons =~ s/<N ([^\>]*)>/<a href="\1" class="report">&#128218;Report<\/a>/g;
-        $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128247;Photo<\/a>/g;
+        $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128248;<\/a>/g;
         $icons =~ s/<O ([^\>]*)>/<a href="\1" class="map">&#129517;Topo<\/a>/g;
         $icons =~ s/<K ([^\>]*)>/<a href="\1" class="map">&#127916;Video<\/a>/g;
+        $icons =~ s/<D ([^\>]*)>/<a href="\1">Link<\/a>/g;
  
         #lizard &#129422;
         #compass &#129517;
@@ -389,6 +391,7 @@ close(CLIMBS);
 open(IN, "$src/frame.html") || die "error: failed to open $src/climbs-frame.html";
 open(AREA, "> $dest/$theinit-area.html") || die "error: failed to open $dest/$theinit-area.html";
 open(DATE, "> $dest/$theinit-date.html") || die "error: failed to open $dest/$theinit-date.html";
+open(PHOTO, "> $dest/$theinit-photo.html") || die "error: failed to open $dest/$theinit-photo.html";
 open(PEOPLE, "> $dest/$theinit-people.html") || die "error: failed to open $dest/$theinit-people.html";
 open(STARS, "> $dest/$theinit-quality.html") || die "error: failed to open $dest/$theinit-quality.html";
 open(GRADE, "> $dest/$theinit-grade.html") || die "error: failed to open $dest/$theinit-grade.html";
@@ -456,14 +459,14 @@ while (<IN>) {
 
             print DATE "<h2><a name=\"$sdate\">$title</a></h2>\n";
             print DATE "$Hdate" if ($sdate > 0);
-            print DATE "\n";
+            print DATE "<hr class=grey>\n";
 
             foreach (sort {$b<=>$a} split('\|', $cdate{$sdate})) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$photo,$stars,$comment) = split('\~');
-                print DATE "<hr class=grey>\n";
+                # print DATE "<hr class=grey>\n";
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
                 print DATE "<div>";
-                print DATE "$photo";
+                # print DATE "$photo";
                 print DATE "<span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span>\n";
                 # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
@@ -472,6 +475,36 @@ while (<IN>) {
                 print DATE "</div>";
             }
             print DATE "\n\n";
+        }
+        $l .= "";
+        $latest{$theinit} = $l;
+
+        # Write PHOTO
+        $latest = 0;
+        $l = "\n";
+
+        foreach $sdate(sort {$b<=>$a} keys %cdate) {
+            $title = @months[substr($sdate,4,2)-1].' '.substr($sdate,0,4);
+            $title = "Wish list" if ($sdate == 0);
+
+            print PHOTO "<h2><a name=\"$sdate\">$title</a></h2>\n";
+            print PHOTO "$Hdate" if ($sdate > 0);
+            print PHOTO "\n";
+
+            foreach (sort {$b<=>$a} split('\|', $cdate{$sdate})) {
+                ($x,$date,$name,$area,$grade,$height,$people,$icons,$photo,$stars,$comment) = split('\~');
+                print PHOTO "<hr class=grey>\n";
+# HOW TO PRINT FULL PHOTO  # print PHOTO "<a name=\"$date\"></a>";
+                print PHOTO "<div>";
+                print PHOTO "$photo";
+                print PHOTO "<span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span>\n";
+                # print PHOTO "<div class=details>$area / $height /  / </div>\n";  
+            if ($comment) {
+                print PHOTO "<div class=comment>$comment</div>";
+                }
+                print PHOTO "</div>";
+            }
+            print PHOTO "\n\n";
         }
         $l .= "";
         $latest{$theinit} = $l;
@@ -570,6 +603,7 @@ while (<IN>) {
     } else {
         print AREA;
         print DATE;
+        print PHOTO;
         print PEOPLE;
         print STARS;
         print GRADE;
@@ -578,6 +612,7 @@ while (<IN>) {
 close(IN);
 close(AREA);
 close(DATE);
+close(PHOTO);
 close(PEOPLE);
 close(STARS);
 close(GRADE);
