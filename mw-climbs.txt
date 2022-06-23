@@ -199,23 +199,23 @@ JB=Jack Bernstein
 
 10-04-2022; GB; Babianen; HS; 60ft; sec FZ;  <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7> 
 	Done a second time to reach the ledge and abseil down the two previous routes to clean them
-10-04-2022; GB; Pyton; E1; 60ft; lead FZ; 
+10-04-2022; GB; Pyton; E1; 60ft; lead FZ; <2S><Q><A> 
 	A monster of a route. Was spanked at the crux and physced out due to the exposure and sketchy hang on a single rope with sharp edges on the rock. Good gear throughout. Will be back to attempt it again.
-10-04-2022; GB; Boa Constrictor; E1; 60ft; lead FZ; 
+10-04-2022; GB; Boa Constrictor; E1; 60ft; lead FZ; <Q><A>
 	Description in the book is wrong. Had to back off this due to lack of large gear
 10-04-2022; GB; Vrålapan; E1 5b; 60ft; lead FZ; 
 	Good pumpy number. Did the left-round-the-block version.
 10-04-2022; GB; Babianen; HS; 60ft; sec FZ; <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7>
 09-04-2022; GB; Till; HVS 5a; 60ft; lead FZ; 
-09-04-2022; GB; Halta Felix; HVS 5a; 60ft; lead FZ; <P https://photos.app.goo.gl/EnwTeuDL7wPQdDcQA>
+09-04-2022; GB; Halta Felix; HVS 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/EnwTeuDL7wPQdDcQA>
 	Worth while route in that area
-09-04-2022; GB; Monster Crack; E1 5a; 60ft; lead FZ; <P https://photos.app.goo.gl/A9h1PZJ2PFqCVxj58>
+09-04-2022; GB; Monster Crack; E1 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/A9h1PZJ2PFqCVxj58>
 	A bit tricky to get to but excellent route. Photo is of the crux
 09-04-2022; GB; Catch 22; E2 5b; 60ft; lead FZ; <P https://photos.app.goo.gl/sJ9hJ7Tfk1r4H5pi9>
 	Had to pull on the bolt in the start. Excellent finishing move
-09-04-2022; GB; Groena Sprickan; HVS 5a; 60ft; lead FZ; <P https://photos.app.goo.gl/tdqhubhBwfwVgLWj9>
+09-04-2022; GB; Groena Sprickan; HVS 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/tdqhubhBwfwVgLWj9>
 	Looks a bit manky from below but it's totally worth it. Excellent fist jams to get your through the roof
-09-04-2022; GB; Leeper; HVS 5a; 60ft; lead FZ; <K https://photos.app.goo.gl/xNSJz2cXbtDi8WV87>
+09-04-2022; GB; Leeper; HVS 5a; 60ft; lead FZ; <2S><K https://photos.app.goo.gl/xNSJz2cXbtDi8WV87>
 	Traverse is fairly sketchy. Finishing move requires umph
 09-04-2022; GB; Roennleden; HS; 60ft; sec FZ; <P https://photos.app.goo.gl/pDu3mVoLyKHhEM8f7>
 
