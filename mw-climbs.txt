@@ -146,6 +146,8 @@ SN=Sanne Wendes
 RG=Ralf Grusshaber
 JA=James Cromwell
 JB=Jack Bernstein
+EE=Emil Bjergklub
+MM=Michael Hjort
 
 # Wishlist
 ; RU; Juvsojla; W6; 50m; WISH; <1><L>
@@ -172,20 +174,20 @@ JB=Jack Bernstein
 # Climbs
 
 
-26-06-2022; KU; King Kong; 6+; 60ft; sec EE; 
-26-06-2022; KU; Tyskerruten; 5+; 60ft; lead EE; 
-26-06-2022; KU; Titanic; 6c+; 60ft; sec EE; 
-25-06-2022; KU; Thunderlips; 5+; 30ft; sec EE; 
-25-06-2022; KU; Master and Servant; 6; 30ft; lead EE; 
-25-06-2022; KU; Giacomo Puccini; 6b+; 30ft; sec MM EE; 
-25-06-2022; KU; Franz Liszt; 6; 30ft; sec EE; 
-25-06-2022; KU; Wolfgang Amadeus; 6; 30ft; lead EE; 
-25-06-2022; KU; Myretuen; 4+; 60ft; sec EE; 
-25-06-2022; KU; Myregangen; 5-; 60ft; lead EE; 
-25-06-2022; KU; Broken English; 6-; 30ft; sec EE; 
-17-06-2022; GB; Silstyparen; HVS 5a; 60ft; lead FZ;
+26-06-2022; KU; King Kong; 6+; 60ft; sec EE; <3S><W>
+26-06-2022; KU; Tyskerruten; 5+; 60ft; lead EE; <3S>
+26-06-2022; KU; Titanic; 6c+; 60ft; sec EE; <2S>
+25-06-2022; KU; Thunderlips; 5+; 30ft; sec EE; <3S>
+25-06-2022; KU; Master and Servant; 6; 30ft; lead EE; <3S>
+25-06-2022; KU; Giacomo Puccini; 6b+; 30ft; sec MM EE; <1S>
+25-06-2022; KU; Franz Liszt; 6; 30ft; sec EE; <2S>
+25-06-2022; KU; Wolfgang Amadeus; 6; 30ft; lead EE; <2S> 
+25-06-2022; KU; Myretuen; 4+; 60ft; sec EE; <1S>
+25-06-2022; KU; Myregangen; 5-; 60ft; lead EE; <1S>
+25-06-2022; KU; Broken English; 6-; 30ft; sec EE; <1S>
+17-06-2022; GB; Silstyparen; HVS 5a; 60ft; lead FZ; <1S>
 	Clean ascent. Gear on left side of harness.
-17-06-2022; GB; Kanten; E3 6a; 60ft; lead FZ;
+17-06-2022; GB; Kanten; E3 6a; 60ft; lead FZ; <3S>
 	One point of aid. Found it impossible to move around the arete. Excellent route after the burly start.
 16-06-2022; GB; Jamspricka Nr 1; E1 5b; 60ft; lead FZ;
 	This time I didn't have a hangover. I was on for it. Still had to rest on the rope once - my hands were cramped up. I think it is more like E2.
