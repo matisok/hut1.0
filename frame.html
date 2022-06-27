@@ -20,10 +20,11 @@
     }
     a {color: cornflowerblue;}
     img {max-width: 600px;}
-    th, td {
-        vertical-align: top; 
-    }
-    h2 { font-size: small;}
+    th, td { vertical-align: top;}
+    h2 { font-size: x-large;
+    margin-bottom: 4px;
+    border-bottom: 1pt solid rgb(0, 0, 0);
+  }
     .tiny { font-size: small;
             color: slategray;
     }
@@ -31,7 +32,6 @@
     /* img { position: relative;
             top: 2px;
     } */
-    b { color: rgb(240, 0, 0);}
     table { border-collapse: collapse; }
     .q { border-top: 1pt solid rgb(146, 146, 146);}
     .name2 {color: black ;
@@ -110,7 +110,7 @@
 
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: white;
   position: fixed;
   top: 0;
   width: 100%;
@@ -185,20 +185,16 @@
             <option value="mw-date.html#199401">1994</option>
             <option value="mw-date.html#199201">1992</option>
           </select>
+          <i>{NAME}'s ticks {DATE}</i> 
 </form>
+<hr>
 </div>
 
 <div class=main>
 
 
 <!-- Legend -->
-{LEGEND}
-
-
-<i>{NAME}'s ticks</i> {DATE} <br>
-Grade: [<a href="mw-grade.html#Ice">Ice</a>] [<a href="mw-grade.html#UK">UK</a>]
-[<a href="mw-grade.html#French">French</a>] [<a href="mw-grade.html#US (YDS)">US</a>] [<a href="mw-date.html#000000">Wish list</a>]
-<hr>
+<!-- {LEGEND} -->
 
 {DATA}
 

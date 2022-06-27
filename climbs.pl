@@ -467,12 +467,13 @@ while (<IN>) {
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
                 print DATE "<div>";
                 # print DATE "$photo";
-                print DATE "<span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span>\n";
+                print DATE "<b>$name</b> $grade,
+                $height $stars $icons $people\n";
                 # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
                 print DATE "<div class=comment>$comment</div>";
                 }
-                print DATE "</div>";
+                print DATE "</div><hr class=grey>";
             }
             print DATE "\n\n";
         }

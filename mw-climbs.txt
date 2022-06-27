@@ -172,64 +172,72 @@ MM=Michael Hjort
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
 
 # Climbs
+# 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
+# Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight
 
+26-06-2022; KU; King Kong; E2 5c; 25m; sec EE; <3S><W><S>
+    Emil won the toss of the lead. Good job. I struggled in the crux and had to pull on the gear to get up.
+26-06-2022; KU; Tyskerruten; VS 4c; 22m; lead EE; <3S><S>
+    Absolute Kullen beauty
+26-06-2022; KU; Titanic; 6c+; 18m; sec EE; <2S>
+    Great little sport route. Had to pull on the gear
+25-06-2022; KU; Thunderlips; VS 4c; 10m; sec EE; <3S>
+    This is a great route.
+25-06-2022; KU; Master and Servant; E1 5b; 10m; lead EE; <3S>
+25-06-2022; KU; Giacomo Puccini; 6b+; 10m; sec MM EE; <1S><P https://photos.app.goo.gl/zkxx2EuiteH36uSu7>
+    Climbed with the Danish climbing legend Hjorten.
+25-06-2022; KU; Franz Liszt; E1 5a; 11m; sec EE; <2S>
+25-06-2022; KU; Wolfgang Amadeus; E1 5a; 12m; lead EE; <2S> 
+25-06-2022; KU; Myretuen; S; 18m; sec EE; <1S><P https://photos.app.goo.gl/zkxx2EuiteH36uSu7>
+25-06-2022; KU; Myregangen; VS 4c; 18m; lead EE; <1S>
+25-06-2022; KU; Broken English; HVS 5a; 10m; sec EE; <1S><S>
+    Excellent quality rock. Just too damn short.
 
-26-06-2022; KU; King Kong; 6+; 60ft; sec EE; <3S><W>
-26-06-2022; KU; Tyskerruten; 5+; 60ft; lead EE; <3S>
-26-06-2022; KU; Titanic; 6c+; 60ft; sec EE; <2S>
-25-06-2022; KU; Thunderlips; 5+; 30ft; sec EE; <3S>
-25-06-2022; KU; Master and Servant; 6; 30ft; lead EE; <3S>
-25-06-2022; KU; Giacomo Puccini; 6b+; 30ft; sec MM EE; <1S>
-25-06-2022; KU; Franz Liszt; 6; 30ft; sec EE; <2S>
-25-06-2022; KU; Wolfgang Amadeus; 6; 30ft; lead EE; <2S> 
-25-06-2022; KU; Myretuen; 4+; 60ft; sec EE; <1S>
-25-06-2022; KU; Myregangen; 5-; 60ft; lead EE; <1S>
-25-06-2022; KU; Broken English; 6-; 30ft; sec EE; <1S>
-17-06-2022; GB; Silstyparen; HVS 5a; 60ft; lead FZ; <1S>
+17-06-2022; GB; Silstyparen; HVS 5a; 15m; lead FZ; <1S>
 	Clean ascent. Gear on left side of harness.
-17-06-2022; GB; Kanten; E3 6a; 60ft; lead FZ; <3S>
+17-06-2022; GB; Kanten; E3 6a; 20m; lead FZ; <3S><W>
 	One point of aid. Found it impossible to move around the arete. Excellent route after the burly start.
-16-06-2022; GB; Jamspricka Nr 1; E1 5b; 60ft; lead FZ;
+16-06-2022; GB; Jamspricka Nr 1; E2 5b; 25m; lead FZ; <3S><A>
 	This time I didn't have a hangover. I was on for it. Still had to rest on the rope once - my hands were cramped up. I think it is more like E2.
-16-06-2022; GB; Climb it; VS 4c; 60ft; lead FZ;
-16-06-2022; GB; Drambuie; VS 4c; 60ft; lead FZ;
+16-06-2022; GB; Climb it; VS 4c; 10m; lead FZ; <P https://photos.app.goo.gl/HxuuU2NFxrhfFbyY7>
+16-06-2022; GB; Drambuie; VS 4c; 15m; lead FZ;
 	Nice little spot.
-16-06-2022; GB; Koskovenor; VS 4c; Length; lead FZ;
-16-06-2022; GB; Chivas Regal; VS 4c; 60ft; lead FZ;
-16-06-2022; GB; Himmelberget; VS 4c; 60ft; lead FZ;
+16-06-2022; GB; Koskovenor; VS 4c; 15m; lead FZ;
+16-06-2022; GB; Chivas Regal; VS 4c; 15m; lead FZ;
+16-06-2022; GB; Himmelberget; VS 4c; 35m; lead FZ; <2S>
 	Great long expedition
-15-06-2022; GB; One move of Sex; E2 5b; 60ft; lead FZ;
+15-06-2022; GB; One move of Sex; E1 5b; 15m; lead FZ; <3S><T>
 	Awesome corner route. Gets grade 6 in the book and a "badly protected". Complete bollocks. It's easier and well protected. Great route.
-15-06-2022; GB; Hollywood; E3 6a; 60ft; lead FZ;
+15-06-2022; GB; Hollywood; E3 6a; 15m; lead FZ; <W>
 	Fell on the crux - again. Excellent sporty route. I gave it E4 6b last time, that I think it too much. No more than E3. 
-15-06-2022; GB; Rosa på Bete; VS 4c; 60ft; lead FZ;
+15-06-2022; GB; Rosa på Bete; VS 4c; 15m; lead FZ; <2S>
 	Worthwhile route. Looks a bit manky from below.
-14-06-2022; GB; Jug; VS 4c; 60ft; sec FZ;
-14-06-2022; GB; Aelgens Overraskning; HVS 5a; 60ft; lead FZ;
+14-06-2022; GB; Jug; VS 4c; 15m; sec FZ;
+14-06-2022; GB; Aelgens Overraskning; HVS 5a; 20m; lead FZ; <3S>
 	Brilliant route as always.
-14-06-2022; GB; Pi Kuan; HVS 5a; 60ft; lead FZ;
+14-06-2022; GB; Pi Kuan; HVS 5a; 15m; lead FZ;
 
 10-04-2022; GB; Babianen; HS; 60ft; sec FZ;  <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7> 
 	Done a second time to reach the ledge and abseil down the two previous routes to clean them
-10-04-2022; GB; Pyton; E1; 60ft; lead FZ; <2S><Q><A> 
+10-04-2022; GB; Pyton; E1; 20m; lead FZ; <2S><Q><A> 
 	A monster of a route. Was spanked at the crux and physced out due to the exposure and sketchy hang on a single rope with sharp edges on the rock. Good gear throughout. Will be back to attempt it again.
-10-04-2022; GB; Boa Constrictor; E1; 60ft; lead FZ; <Q><A>
+10-04-2022; GB; Boa Constrictor; E1; 20m; lead FZ; <Q><A>
 	Description in the book is wrong. Had to back off this due to lack of large gear
-10-04-2022; GB; Vrålapan; E1 5b; 60ft; lead FZ; 
+10-04-2022; GB; Vrålapan; E1 5b; 10m; lead FZ; 
 	Good pumpy number. Did the left-round-the-block version.
-10-04-2022; GB; Babianen; HS; 60ft; sec FZ; <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7>
-09-04-2022; GB; Till; HVS 5a; 60ft; lead FZ; 
-09-04-2022; GB; Halta Felix; HVS 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/EnwTeuDL7wPQdDcQA>
+10-04-2022; GB; Babianen; HS; 25m; sec FZ; <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7>
+09-04-2022; GB; Till; HVS 5a; 30m; lead FZ; 
+09-04-2022; GB; Halta Felix; HVS 5a; 12m; lead FZ; <2S><P https://photos.app.goo.gl/EnwTeuDL7wPQdDcQA>
 	Worth while route in that area
-09-04-2022; GB; Monster Crack; E1 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/A9h1PZJ2PFqCVxj58>
+09-04-2022; GB; Monster Crack; E1 5a; 8m; lead FZ; <2S><P https://photos.app.goo.gl/A9h1PZJ2PFqCVxj58>
 	A bit tricky to get to but excellent route. Photo is of the crux
-09-04-2022; GB; Catch 22; E2 5b; 60ft; lead FZ; <P https://photos.app.goo.gl/sJ9hJ7Tfk1r4H5pi9>
+09-04-2022; GB; Catch 22; E2 5b; 10m; lead FZ; <P https://photos.app.goo.gl/sJ9hJ7Tfk1r4H5pi9>
 	Had to pull on the bolt in the start. Excellent finishing move
-09-04-2022; GB; Groena Sprickan; HVS 5a; 60ft; lead FZ; <2S><P https://photos.app.goo.gl/tdqhubhBwfwVgLWj9>
+09-04-2022; GB; Groena Sprickan; HVS 5a; 15m; lead FZ; <2S><P https://photos.app.goo.gl/tdqhubhBwfwVgLWj9>
 	Looks a bit manky from below but it's totally worth it. Excellent fist jams to get your through the roof
-09-04-2022; GB; Leeper; HVS 5a; 60ft; lead FZ; <2S><K https://photos.app.goo.gl/xNSJz2cXbtDi8WV87>
+09-04-2022; GB; Leeper; HVS 5a; 10m; lead FZ; <2S><K https://photos.app.goo.gl/xNSJz2cXbtDi8WV87>
 	Traverse is fairly sketchy. Finishing move requires umph
-09-04-2022; GB; Roennleden; HS; 60ft; sec FZ; <P https://photos.app.goo.gl/pDu3mVoLyKHhEM8f7>
+09-04-2022; GB; Roennleden; HS; 15m; sec FZ; <P https://photos.app.goo.gl/pDu3mVoLyKHhEM8f7>
 
 23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><K http://willerup.com/p/blame.mov>; <I http://willerup.com/p/blame.jpg>
     Brilliant route. You abseil down to the base and have to climb out. This is the easiest route out.
