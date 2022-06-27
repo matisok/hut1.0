@@ -521,7 +521,7 @@ while (<IN>) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>
                 <div class=card><span class=tiny>$date $area</span><br>
-                $stars <span class=name2>$name</span> <span class=grade> $grade $icons</span></div>";
+                $stars <span class=name2>$name</span> <span class=grade> $grade, $height $icons</span></div>";
                 $output .= "<div class=comment>$comment</div>" if ($comment);
                 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
