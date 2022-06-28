@@ -208,10 +208,12 @@ MM=Michael Hjort
 	Great long expedition
 15-06-2022; GB; One move of Sex; E1 5b; 15m; lead FZ; <3S><T>
 	Awesome corner route. Gets grade 6 in the book and a "badly protected". Complete bollocks. It's easier and well protected. Great route.
-15-06-2022; GB; Hollywood; E3 6a; 15m; lead FZ; <W>
+15-06-2022; GB; Hollywood; E3 6a; 15m; lead FZ; <W>; <I http://willerup.com/p/holy.png>
 	Fell on the crux - again. Excellent sporty route. I gave it E4 6b last time, that I think it too much. No more than E3. 
 15-06-2022; GB; Rosa på Bete; VS 4c; 15m; lead FZ; <2S>
 	Worthwhile route. Looks a bit manky from below.
+15-06-2022; GB; Slowfox; VS 4c; 45m; dnf FZ; <Q>
+	Manky. We went up a wrong start and decided to leave it for another day. 
 14-06-2022; GB; Jug; VS 4c; 15m; sec FZ;
 14-06-2022; GB; Aelgens Overraskning; HVS 5a; 20m; lead FZ; <3S>
 	Brilliant route as always.
@@ -1055,8 +1057,8 @@ MM=Michael Hjort
     Great route. Paul finally picked up the sharp end  and he led the route in fine style. Plenty of pro (very unusual at Navigation Quarry) 
 14-5-2000; NQ; Totally Relaxed; f6c; 25m; lead PW; <2S> 
     Due to our almost unprotected adventure we decided to try some bolt clipping. I had to pull on the quickdraw in the crux. Great route if you can climb that grade! Oh yeah  we tried Western Front Direct first. That's E56b on bolts. Paul lowered me off from the impossible roof. 
-14-5-2000; NQ; Fly Me To The Moon; HVS 5a; 22m; lead PW; <1S><X> 
-    No gear from mid way. Had to pull up some commiting roofs with 20 meters of unprotected air underneath me. Really f*cking scary. 
+14-5-2000; NQ; Fly Me To The Moon; HVS 5a; 22m; lead PW; <1S><X><M> 
+    No gear from mid way. Had to pull up some commiting roofs of loose rock with 20 meters of unprotected air underneath me. Really f*cking scary. 
 
 13-5-2000; WL; Valley Forge; E2 5c; 40m; lead MB; <2S>; <I https://live.staticflickr.com/41/78512436_49f4410754_b.jpg>
     Superb Saturday out in Wintours. Excellent routes which for me climaxed in this 135 foot hidden gem. Shame about the bolts left of the route which obscures the face a lot. Great hidden line though.  
@@ -1891,26 +1893,39 @@ Due to some serious partying the day before I managed to forget my harness and c
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 
 ##### Surfing and Sail ##### 
-29-08-2019; OR; Brinks Byoye; ; ; solo; <8>;
+24-06-2022; SJ; Lasercamp; ; ; AN; <8>; <I http://willerup.com/p/laser.png>
+    Excellent day of sailing and racing in Knudsens Laserjoller
+13-06-2022; OR; Skovshoved; ; ; solo; <8><Y>
+    Returning the boat to Rungsted. Beefy wind. Had to make an emergency stop in a harbour on the way for sail only (engine failure) which went really well. 
+5-06-2022; OR; Christianshavn; ; ; EW; <8><P https://photos.app.goo.gl/CYBmfqK4ddPfAKjp9>
+    Moving the boat to ChrHavn for the kids to stay in the center. Excellent concept.
+29-08-2019; OR; Brinks Byoye; ; ; solo; <8><3S>;
+    Glass flat water but with a light breeze. Moored up and Brincks boye and swam in to shore for a beer. Daren drum useful for keeping the towel and clothes dry on the swim. Brilliant.
 15-08-2019; OR; Ven Singlehand; ; ; solo; <8>;
-02-08-2018; OR; Ven Nord; ; ; CW EW; <8>;
-14-10-2017; OR; Ockero to Malmo; ; ; HW DS; <8>;
-01-03-1998; OR; Ven Camp; ; ; JR FW; <8>; <P http://willerup.com/others/seakayak.jpg>
-19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8>; 
-19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8>; 
-26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8>; 
+02-08-2018; OR; Ven Nord; ; ; CW EW; <8><3S><M>;
+    Excellent trip. A few dramas. Engine stop on the way into harbour. Nearly struck by lightning in the night.
+14-10-2017; OR; Ockero to Malmo; ; ; HW DS; <8><3S><X><Y><Z>;
+    Transport of Spooky from Ockero to Malmo. One long stretch. Extreme. Most of it in pitch black darkness. Cold.
+01-03-1998; OR; Ven Camp; ; ; JR FW; <8><3S><X><A>; <P http://willerup.com/others/seakayak.jpg>
+    Wild trip in kayaks to Ven in the middle of winter. Done as part of preparing for the 1998 Raid Gauloises. 
+19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z>; <N http://willerup.com/sailing/>
+19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8>; <N http://willerup.com/sailing/sr2003.html>
+26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><R><X><X>; <N http://willerup.com/boat/bath.html>
+    Possibly the maddest trip ever. In a sport that if not often associated with adrenalinus maximus
 
-20-09-2020; SJ; Landerslev; ; 1h; SG; <8>; <Phttps://s3.amazonaws.com/garmin-connect-prod/profile_images/06d600f3-83d8-4d14-8fbc-107554e398b3-1104980.jpg>
+20-09-2020; SJ; Landerslev; ; 1h; SG; <8>; <I https://s3.amazonaws.com/garmin-connect-prod/profile_images/06d600f3-83d8-4d14-8fbc-107554e398b3-1104980.jpg>
 27-07-2018; SJ; Moen; ; 1h; FW; <8>; <I https://live.staticflickr.com/65535/43718939381_ec4eff874a_b.jpg>
     Nice to get out. Dad and Fred on shore admirering my shenanigans.
 10-07-2017; SJ; Lynaes kite; ; 2h; SG; <8>
     Nice session with Soeren
+17-07-2015; AV; Oxford Canal; ; 9d; EW AW; <8><3S><S><T>
 28-10-2014; SJ; Lynaes; ; 2h; SG; <8>
     Morning session
 25-05-2011; SJ; Landerslev; ; 1h; SG; <8>
 21-06-2010; JL; Bovbjerg; ; 1h; PP; <8>; <I https://live.staticflickr.com/65535/4713774348_f20f30da7f_b.jpg>
 17-02-2010; JL; Kitesnow Excercise; ; 1h; solo; <8>
-13-02-2010; JL; Ice kite; ; 1h; solo; <8>
+13-02-2010; JL; Ice kite; ; 1h; solo; <8><P https://live.staticflickr.com/4046/4300564457_e46a2e7b46_b.jpg>
+    Mental. On skiis. Max speed 61km/h.
 28-01-2010; JL; Struer; ; 1h; solo; <8><3S><T>; <I https://live.staticflickr.com/65535/4259153341_02b82d3a12_b.jpg>
     Snow kite - awesome
 07-11-2009; JL; Cold Hawaii; ; 2h; solo; <8><A><T><3S>
