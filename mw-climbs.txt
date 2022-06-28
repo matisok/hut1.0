@@ -655,7 +655,6 @@ MM=Michael Hjort
 19-07-2012; WL; Papillon; E2 5b; 33m; lead PW; <1S>
     Off route. Pulled a loose block.
 19-07-2012; WL; Zebra; E2 5b; 33m; sec PW; <3S>; <I https://live.staticflickr.com/8282/7606094048_fb6b01b4b2_b.jpg>
-18-07-2012; MD; Bixhead Mine; ; ; lead DG; <1S>
 17-07-2012; GC; Disaster Area; HVS 5a; 33m; sec RS PW; <2S>; <I https://live.staticflickr.com/8422/7595924008_5a42bac8ba_b.jpg>
 15-07-2012; PB; Shape-Up; E2 5b; 33m; sec MB; <3S>
     Excellent effort of Martin. It is the easiest line out of Huntsman Leap and it is by no means easy. 
@@ -795,11 +794,11 @@ MM=Michael Hjort
 17-5-2003; KU; Tyskeruten; V+; 22m; lead FW; <3S> 
     Lovely route
 17-5-2003; KU; Den hoeje travers; III+; 50m; lead FW; <2S> 
-    I love this route. It is easy  but it is a real little adventure. Great positions.
+    I love this route. It is easy but it is a real little adventure. Great positions.
 18-5-2003; KU; Papillon; V; 22m; lead FW; <2S>
-    I had done this before. A great route  an easier version of its neighbor Flagermusen  equally interesting.
+    I had done this before. A great route an easier version of its neighbor Flagermusen equally interesting.
 18-5-2003; KU; Flagermusen; V+; 22m; lead FW; <3S>
-    Superb route  great exposure  and a finish requirering careful thinking.
+    Superb route great exposure and a finish requirering careful thinking.
 17-5-2003; KU; Pentymal/Daffy jam; V; 12m; lead FW; <1S>
     A classic of this section. Nice crag climbing.
 17-5-2003; KU; Frigg; 4; 10m; sec FW; <1S> 
@@ -1642,6 +1641,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-08-2021; MD; Goatchurh Cavern; ; 2h; FW AX EW; <3><C2><3S>; <I https://live.staticflickr.com/65535/51368031241_02f4972c74_b.jpg>
     Axel and Elias did the drainpipe.
 29-12-2014; MD; Goatchurh Cavern; ; 2h; PW AX EW; <3><C2><3S>;<I http://willerup.com/p/goat_pw.jpg>
+18-07-2012; MD; Bixhead Mine; ; 2h; DG; <3><1S>
 13-11-2005; LL; Agen Allwedd; ; 11h; TW MB; <3><C4><3S>; <I https://live.staticflickr.com/34/63994132_2bc0d19c7b_b.jpg>
      Excellent digging trip to dig 9. Also saw the Corkscrew Chamber which was found the day before.
 19-03-2005; LL; Agen Allwedd; ; 14h; MB RS; <3><C4><3S>
