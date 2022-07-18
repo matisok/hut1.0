@@ -170,6 +170,8 @@ MM=Michael Hjort
     Dangerous SRT.
 ; KU; Freak Brothers; E4 5c; 15m; WISH; <L>
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
+; BH; Torsketaket; E2 5b; 25m; WISH; <L>
+    Recommended from internet.
 
 # Climbs
 # 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
