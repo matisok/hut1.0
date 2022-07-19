@@ -33,7 +33,7 @@ $Istar4 = '&#128074;'; #boulder
 $Istar5 = '&#128279;'; #Via Ferrata 
 $Istar6 = '&#129343;'; #dive
 $Istar7 = '&#129666;'; #paraglider
-$Istar8 = '&#127940;'; #surfer
+$Istar8 = '&#127940; &#9973;'; #surf and sail
 $Istar9 = '&#127938; &#128095;'; #snow and run 
 
 # Global Routines and things
@@ -192,11 +192,9 @@ while (<CLIMBS>) {
 #        $totalroutes++, $totalheight += $h if ($people =~ /,/); # this route was climbed on two diff. occations
         $height = '' unless ($height);
 
-        $thelegend = '&#10024;1 &#127775;2 &#11088;3 &#129336;Whip &#128175;Top100 &#129344;Bail &#129528;Wish 
+        $thelegend = '&#129336;Whip &#128175;Top100 &#129344;Bail &#129528;Wish 
         
-        &#9748;Rain &#127780;Sun &#127788;Windy &#128297;Bolt &#128128;Suicide
-
-        &#127768;Benighted &#128170;Achievement &#128293;Mindblower';
+        &#128128;Suicide &#128170;Achievement &#128293;Mindblower &#127868;Aid &#129422;Multipitch';
 
         # Photo
         $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img><br>/g;
@@ -224,9 +222,10 @@ while (<CLIMBS>) {
         $icons =~ s/<R>/&#9748;/g;   #rainy
         $icons =~ s/<S>/&#127780;/g; #sunny
         $icons =~ s/<W>/&#129336;/g; #whipper
-        $icons =~ s/<X>/&#128128;/g; #suicide
+        $icons =~ s/<X>/&#128128;/g; #suicide 
         $icons =~ s/<Y>/&#127788;/g; #windy
-        $icons =~ s/<Z>/&#127768;/g; #night
+        $icons =~ s/<F>/&#127868;/g; #aid
+        $icons =~ s/<Z>/&#127768;/g; #night 
         $icons =~ s/<N ([^\>]*)>/<a href="\1" class="report">&#128218;Report<\/a>/g;
         $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128248;<\/a>/g;
         $icons =~ s/<O ([^\>]*)>/<a href="\1" class="map">&#129517;Topo<\/a>/g;

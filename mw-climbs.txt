@@ -173,26 +173,26 @@ MM=Michael Hjort
 
 # Climbs
 # 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
-# Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight
+# Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight Faid
 
-17-07-2022; BH; Nixten; E1; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>
-16-07-2022; BH; Vad ar otid; E1; 8m; lead TW; <2S>
+17-07-2022; BH; Nixten; E1; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.jpg>
+16-07-2022; BH; Vad ar otid; E1; 8m; lead TW; <2S>; <I http://willerup.com/p/otid.jpg>
     Pretty happy about this finger crack tick.
-16-07-2022; BH; Stackanda Myror; S; 10m; lead TW; <1S><P https://photos.app.goo.gl/uiWww77sB7uJYXLv6>
+16-07-2022; BH; Stackanda Myror; S; 10m; lead TW; <1S><P https://photos.app.goo.gl/uiWww77sB7uJYXLv6>; <I http://willerup.com/p/myror.jpg>
     Easier version of Tims Tabu.
-16-07-2022; BH; Tabu; E1; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>
+16-07-2022; BH; Tabu; E1; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>; <I http://willerup.com/p/tabu.jpg>
     Amazing OW using hand-fist stacks. It really worked. I was glad Tim led it and really impressed with his abilities.
 16-07-2022; BH; Salsa; HVS; 30m; lead TW; <1S>
 16-07-2022; BH; Tjuvjakt; E2; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
     Excellent route at Binghult. 
-15-07-2022; BH; Stålfål; E1; 15m; lead TW; <3S>
+15-07-2022; BH; Stålfål; E1; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
     Climbed next to Pete Whitaker and his super climber of a girlfriend.
-15-07-2022; BH; En liten bit granit; E2; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>
+15-07-2022; BH; En liten bit granit; E2; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.jpg>
     Excellent lead by Tim.
-14-07-2022; BH; Bjornbarssnarigt; E2; 20m; lead TW; <3S><W>
+14-07-2022; BH; Bjornbarssnarigt; E2; 20m; lead- TW; <3S><W>
     Very close to a real mother of a whipper. I went up above my last nut placement to commit to the crux move and accidently kicked the nut out with my foot. That ment I was now in a committing move and looking at a double length whipper with hurting consequences. I managed to reverse the moves and while loosing power to the pump I just managed to place a friend in, clip it and Tim took in for me to rest and re callibrate. 
 14-07-2022; BH; I andra hand; HVS; 55m; sec TW; <3S><E>
-13-07-2022; BH; Sir William; E2; 20m; lead TW; <W>
+13-07-2022; BH; Sir William; E2; 20m; lead- TW; <F>
     Haller Myr is a pretty place but the routes are not. Apparently the neighbourgh 7- is easier than this one.
 13-07-2022; BH; Gradhyllan; HVS; 20m; sec TW; <P https://photos.app.goo.gl/BtsiPwRfXLX5NQGH8>
 12-07-2022; BH; DNA; E1; 35m; lead TW; <3S>
@@ -203,13 +203,13 @@ MM=Michael Hjort
     Great day out with Lasse and the kids
 29-06-2022; KU; Wolfgang Amadeus; E1 5a; 12m; lead LA; <3S><S>
 29-06-2022; KU; Master and Servant; E1 5b; 10m; top; <3S><S>
-29-06-2022; KU; Thunderlips; VS 4c; 10m; lead LA; <3S><S><P https://photos.app.goo.gl/6f6AANf8q7kAz6zL6>
+29-06-2022; KU; Thunderlips; VS 4c; 10m; lead LA; <3S><S><P https://photos.app.goo.gl/6f6AANf8q7kAz6zL6>; <I http://willerup.com/p/mbike.jpg>
     On motorbike to Kullen. Excellent day out.
-26-06-2022; KU; King Kong; E2 5c; 25m; sec EE; <3S><W><S>
+26-06-2022; KU; King Kong; E2 5c; 25m; sec EE; <3S><F><S>
     Emil won the toss of the lead. Good job. I struggled in the crux and had to pull on the gear to get up.
 26-06-2022; KU; Tyskerruten; VS 4c; 22m; lead EE; <3S><S>
     Absolute Kullen beauty
-26-06-2022; KU; Titanic; 6c+; 18m; sec EE; <2S>
+26-06-2022; KU; Titanic; 6c+; 18m; sec EE; <2S><F>
     Great little sport route. Had to pull on the gear
 25-06-2022; KU; Thunderlips; VS 4c; 10m; sec EE; <3S>
     This is a great route.
@@ -225,11 +225,11 @@ MM=Michael Hjort
 
 17-06-2022; GB; Silstyparen; HVS 5a; 15m; lead FZ; <1S>
 	Clean ascent. Gear on left side of harness.
-17-06-2022; GB; Kanten; E3 6a; 20m; lead FZ; <3S><W>
+17-06-2022; GB; Kanten; E3 6a; 20m; lead FZ; <3S><W><F>
 	One point of aid. Found it impossible to move around the arete. Excellent route after the burly start.
-16-06-2022; GB; Jamspricka Nr 1; E2 5b; 25m; lead FZ; <3S><A>
+16-06-2022; GB; Jamspricka Nr 1; E2 5b; 25m; lead- FZ; <3S><A>
 	This time I didn't have a hangover. I was on for it. Still had to rest on the rope once - my hands were cramped up. I think it is more like E2.
-16-06-2022; GB; Climb it; VS 4c; 10m; lead FZ; <P https://photos.app.goo.gl/HxuuU2NFxrhfFbyY7>
+16-06-2022; GB; Climb it; VS 4c; 10m; lead FZ; <P https://photos.app.goo.gl/HxuuU2NFxrhfFbyY7>; <I http://willerup.com/p/climbit.jpg>
 16-06-2022; GB; Drambuie; VS 4c; 15m; lead FZ;
 	Nice little spot.
 16-06-2022; GB; Koskovenor; VS 4c; 15m; lead FZ;
@@ -263,7 +263,7 @@ MM=Michael Hjort
 	Worth while route in that area
 09-04-2022; GB; Monster Crack; E1 5a; 8m; lead FZ; <2S><P https://photos.app.goo.gl/A9h1PZJ2PFqCVxj58>
 	A bit tricky to get to but excellent route. Photo is of the crux
-09-04-2022; GB; Catch 22; E2 5b; 10m; lead FZ; <P https://photos.app.goo.gl/sJ9hJ7Tfk1r4H5pi9>
+09-04-2022; GB; Catch 22; E2 5b; 10m; lead FZ; <F><P https://photos.app.goo.gl/sJ9hJ7Tfk1r4H5pi9>
 	Had to pull on the bolt in the start. Excellent finishing move
 09-04-2022; GB; Groena Sprickan; HVS 5a; 15m; lead FZ; <2S><P https://photos.app.goo.gl/tdqhubhBwfwVgLWj9>
 	Looks a bit manky from below but it's totally worth it. Excellent fist jams to get your through the roof
@@ -314,7 +314,7 @@ MM=Michael Hjort
     First roof section was dripping wet and we decided to bail. 
 24-06-2020; HF; Linker Einstieg Agent Orange; VS; 400m; alt KK; <E>
     Excellent last route if the 3 day visit. The roof part is brilliant. 
-23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R><E>; <I http://willerup.com/p/hager.JPG>
+23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R><E><F>; <I http://willerup.com/p/hager.JPG>
     The striking line of the area. We were doing pretty well  though I had to pull on the gear in the crux roof - it was soaking wet. 
 22-06-2020; HF; Gone with the weed; VS 4c; 550m; alt KK; <E>
 
@@ -867,7 +867,7 @@ MM=Michael Hjort
 22-7-2002; GR; Belle de Jour; f5+; 8m; sec AL; <B>; 
 7-7-2002; AR; Apres de mon Abre; f4c; 30m; sec CW; <B>; 
     I let Celine lead this one and got while she was at the top out of view, I got undressed to climb it nude and to arrive nude at the stance - for festive purposes. 
-7-7-2002; AR; La Vie Eternelle; f6c; 30m; lead CW; <B>; 
+7-7-2002; AR; La Vie Eternelle; f6c; 30m; lead- CW; <B>; 
     Excellent place this Ardeche. Finally had a go on something a bit harder  and although I had to rest on the rope three times  I was quite pleased with the tick.
 7-7-2002; AR; Hang on; f6a; 30m; lead cw; <B><3S> 
 2-7-2002; GR; Celine; f5+; 15m; lead CW; <B>; 
@@ -928,7 +928,7 @@ MM=Michael Hjort
 9-3-2002; GR; Interlude; f5+/6a; 20m; sec AW; <B><1S> 
 9-3-2002; GR; Scandal; f5; 10m; sec AW; <B>;
     Part of the attempt trying to get up to Annundo.
-9-3-2002; GR; Power; f7a; 20m; sec AW; <W><B><1S>
+9-3-2002; GR; Power; f7a; 20m; sec- AW; <W><B><1S>
     The guidebook is wrong in this sector and I ended up fighting a hard battle against this 7a thing. Got to the top after two rests.
 9-3-2002; GR; On or In; f6b; 20m; sec AW; <B><3S> 
     Fantastic crack climbing. Good lead from Andrew.
@@ -953,7 +953,7 @@ MM=Michael Hjort
 12-5-2001; GR; N.R.J.; f5+; 20m; lead RI; <B><3S> 
 12-5-2001; GR; Nose Dik; f5; 20m; lead ; <B>; 
 12-5-2001; GR; Crysalide; f4+; 20m; lead; <B>; 
-12-5-2001; GR; Micro-Fissures; f5+; 20m; lead RI; <B>; 
+12-5-2001; GR; Micro-Fissures; f5+; 20m; lead RI; <B><F>; 
     Quite a hard start for the grade. Unless you do as most French people - pull the quickdraw.
 8-5-2001; GR; Noname3; f6a+; 30m; lead DS; <B><3S> 
     A bit dangerous at the bottom because of loose rocks from parties on the area above.
@@ -1081,7 +1081,7 @@ MM=Michael Hjort
     Last route of the day. It was either this or another HVS. Having pushed the limit quite a bit already I wasn't quite sure that I wanted to lead the magnificiently positioned slab which looked completely unprotected from below. We fired up the final bit of yoor and I went for it. An excellent route  and the slab has *one* piece of perfect gear so that's plenty!  
 14-5-2000; NQ; Let Me Know What Life is Like; HVS 5b; 25m; sec PW; <2S> 
     Great route. Paul finally picked up the sharp end  and he led the route in fine style. Plenty of pro (very unusual at Navigation Quarry) 
-14-5-2000; NQ; Totally Relaxed; f6c; 25m; lead PW; <2S> 
+14-5-2000; NQ; Totally Relaxed; f6c; 25m; lead PW; <2S><F> 
     Due to our almost unprotected adventure we decided to try some bolt clipping. I had to pull on the quickdraw in the crux. Great route if you can climb that grade! Oh yeah  we tried Western Front Direct first. That's E56b on bolts. Paul lowered me off from the impossible roof. 
 14-5-2000; NQ; Fly Me To The Moon; HVS 5a; 22m; lead PW; <1S><X><M> 
     No gear from mid way. Had to pull up some commiting roofs of loose rock with 20 meters of unprotected air underneath me. Really f*cking scary. 
@@ -1443,7 +1443,7 @@ MM=Michael Hjort
     I must have felt pretty chuffed with my first E2 in the book.
 23-5-1998; PB; Tactician; HVS 5a; 110ft; lead WW; <2S>
 23-5-1998; PB; Front Line; HVS 5a; 110ft; lead WW; <1S>
-21-5-1998; WC; Mecca; E3 5c; 100ft; sec TW; <W>
+21-5-1998; WC; Mecca; E3 5c; 100ft; sec- TW; <W>
             I rested on the rope. Tim took quite a whipper.
 21-5-1998; WC; Trial; HVS 5a; 100ft; sec TW MB; <1S>
 20-5-1998; AV; Hell Gates Direct; HVS 5a 5a 4b; 250ft; alt WW; <3S>; <I http://willerup.com/p/hell5.jpg>
@@ -1461,7 +1461,7 @@ MM=Michael Hjort
 10-5-1998; YS; Great Western; HVS 5a; 20m; lead TW; <3S>
 10-5-1998; YS; Frankland's Green Crack; VS 4c; 20m; sec TW 
 9-5-1998; PD; Congo Corner Direct; HVS 5a; 20m; lead TW; <2S>
-9-5-1998; PD; Dangler; E2 5c; 20m; sec TW  RS; 
+9-5-1998; PD; Dangler; E2 5c; 20m; sec- TW  RS; 
             Royston and I had to rest on the rope - very strenious stuff.
 9-5-1998; PD; Eliminator; HVS 5a; 20m; lead TW RS; <1S>
 9-5-1998; PD; Flying Butress Direct; E1 5b; 20m; sec TW RS; <W>
@@ -1920,11 +1920,12 @@ Due to some serious partying the day before I managed to forget my harness and c
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 
 ##### Surfing and Sail ##### 
+19-07-2022; OR; Christianshavn; ; ; solo; <8>
 24-06-2022; SJ; Lasercamp; ; ; AN; <8>; <I http://willerup.com/p/laser.png>
     Excellent day of sailing and racing in Knudsens Laserjoller
 13-06-2022; OR; Skovshoved; ; ; solo; <8><Y>
     Returning the boat to Rungsted. Beefy wind. Had to make an emergency stop in a harbour on the way for sail only (engine failure) which went really well. 
-5-06-2022; OR; Christianshavn; ; ; EW; <8><P https://photos.app.goo.gl/CYBmfqK4ddPfAKjp9>
+05-06-2022; OR; Christianshavn; ; ; EW; <8><P https://photos.app.goo.gl/CYBmfqK4ddPfAKjp9>
     Moving the boat to ChrHavn for the kids to stay in the center. Excellent concept.
 29-08-2019; OR; Brinks Byoye; ; ; solo; <8><3S>;
     Glass flat water but with a light breeze. Moored up at Brincks boye and swam in to shore for a beer. Daren drum useful for keeping the towel and clothes dry on the swim. Brilliant.
