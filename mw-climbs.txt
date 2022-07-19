@@ -151,25 +151,27 @@ MM=Michael Hjort
 
 # Wishlist
 ; RU; Juvsojla; W6; 50m; WISH; <1><L>
-    Straight 50m pillar
+    Straight 50m pillar. Need to train on wall before winter season for this to happen.
 ; GB; Tuborg; E3; 25m; WISH; <L>
-    Technical Wall
+    Technical Wall climb. Need finger strength.
 ; GB; Great Crack; E2; 25m; WISH; <L>
-    Monster OW
+    Monster OW. I think this requires more nerve than anything.
 ; GB; Machu Pichu; E3; 30m; WISH; <L>
     Lives at Granitgrotten amongst a lot of bolted climbs.
 ; BH; Tor Line; E3; 25m; WISH; <L>
-    Roof jam
+    Roof jam. Need a solid training at crack wall/roof.
 ; BH; Melange; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
-    Corner with narrow finger crack
+    Corner with narrow finger crack. Start needs climbing wall fitness.
 ; BH; Ettan; E2; 40m; WISH; <L>
-    Center stage Hallinden
-; BH; Ingmars Kamin; E2; 25m; WISH; <L>
-    Exposed OW
+    Center stage Hallinden. OW section needs two cam 4. Just bloody go for it.
+; BH; Ingmars Kamin; E1; 25m; WISH; <L>
+    Exposed OW. Protection in small cracks in the top section. Go for it.
 ; YS; Black Shiver; ; ; WISH; <3><L>
-    Dangerous SRT
+    Dangerous SRT.
 ; KU; Freak Brothers; E4 5c; 15m; WISH; <L>
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
+; BH; Torsketaket; E2 5b; 25m; WISH; <L>
+    Recommended from internet.
 
 # Climbs
 # 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
