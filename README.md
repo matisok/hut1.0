@@ -1,3 +1,14 @@
+# What is this?
+
+ahut is a sports log system with a focus on the experience of the activity. You can have multiple sports within the same log file and you log lives in one uniform data file that you maintain and own.
+
+Sport apps like Endomondo, Strava, Garmin Connect come and go and when the go you risk loosing all your hard earned data with it. It happened to us on several occassions. This is annoying as the logging of some sports (particularly adventure type sports) have good value over time. In sports like climbing, caving, snowboarding, kayaking we find it valuable to know what we did when revisiting a crag, cave or site. Or to know what we did with a certain partner over time. In our experience the partners you do sports with often end up being your long term friends, and the topic of "remember that time with did..." pops up often in conversations down the pub or round the bbq and just like any other encylopedea it is nice to be able to consult the truth somewhere when memeory may fail. 
+
+While we have practice a handfull of specific sports (climbing, caving, kayaking, snowboarding, kitesurfing, sailing, running, paragliding) you can decide which sport or sports you want to figure in your system - as long as it follows the following template
+```
+Date; Area; Activity name; Grade; Length; People; Quality; External References; Comments
+```
+
 # prep
 
 install http-server
