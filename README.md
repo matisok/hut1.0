@@ -8,7 +8,19 @@ While we have practice a handfull of specific sports (climbing, caving, kayaking
 ```
 Date; Area; Activity name; Grade; Length; People; Quality; External References; Comments
 ```
-
+Your log entry does not have to have all the parameters (you just leave it blank) and the format within each field is fairly flexible. In the Quality field you can have add a number of icons with meanings like "Top100, Mindblower, Desperate" and more. Area and People field references a list of areas and a list of people within the file.
+Examples (climbing)
+```
+13-05-2022; BH; Tabu Crack; E1 5b; 20m; TW; <3S><A><M>; <P http://img.url/324fm3>; Awesome route. Hard crux mid way.
+```
+or (caving)
+```
+14-05-2022; MD; Goatchurch Cavern; ; 3h; PW TW; <2S><2>; <N http://report.nu/324fm3>;
+```
+or (diving)
+```
+05-11-1997; IN; Tulamben; ; 15m; FW; <6>
+```
 # prep
 
 install http-server
