@@ -175,7 +175,7 @@ MM=Michael Hjort
 # 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
 # Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight Faid Hglove
 
-28-07-2022; BH; Jamspricka; VS; 12m; lead KK; <1S> 
+28-07-2022; BH; Jamspricka; VS 4c; 12m; lead KK; <1S> 
     Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. 
 28-07-2022; BH; Store Björn; E1 5b; 20m; lead KK; <3S> 
     Pure splitter on sharp rock. Crack between hands and fists, but plenty of depth to take the whole arm. Super pleased to get to the top clean despite being spanked at the final bit. Just brilliant. No gloves.
@@ -188,34 +188,34 @@ MM=Michael Hjort
 28-07-2022; BH; Champangefrukost; E1 5c; 35m; lead KK; <2S><S>
     Back to finish an unsettled bill. Excellent route, though a bit broken by the midway ledge. Ate my full rack. Crux is in the roof.
 27-07-2022; BH; Blame Canada; HVS 5a; 20m; sec KK; <3S> 
-27-07-2022; BH; Vad ar otid; E1; 8m; sec KK; <2S>
-27-07-2022; BH; I andra hand; HVS; 55m; alt KK; <3S><E> 
-27-07-2022; BH; Ettan; E2 5c 6a; 55; alt KK; <3S><E>
+27-07-2022; BH; Vad ar otid; E1 5b; 8m; sec KK; <2S>
+27-07-2022; BH; I andra hand; HVS 5a 5a; 55m; alt KK; <3S><E> 
+27-07-2022; BH; Ettan; E2 5b 5c; 55; alt KK; <3S><E>
     Finally we entered center stage. Good to get on it and less intimedating than when looked at from below. I led the first easier pitch and Kristian the second. 
 27-07-2022; BH; Troettmoessans Tystnad; HVS; 20m; sec KK; <2S> 
 
-17-07-2022; BH; Nixten; E1; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.jpg>
-16-07-2022; BH; Vad ar otid; E1; 8m; lead TW; <2S>; <I http://willerup.com/p/otid.jpg>
+17-07-2022; BH; Nixten; E1 5b; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.jpg>
+16-07-2022; BH; Vad ar otid; E1 5b; 8m; lead TW; <2S>; <I http://willerup.com/p/otid.jpg>
     Pretty happy about this finger crack tick.
 16-07-2022; BH; Stackanda Myror; S; 10m; lead TW; <1S><P https://photos.app.goo.gl/uiWww77sB7uJYXLv6>; <I http://willerup.com/p/myror.jpg>
     Easier version of Tims Tabu.
-16-07-2022; BH; Tabu; E1; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>; <I http://willerup.com/p/tabu.jpg>
+16-07-2022; BH; Tabu; E1 5c; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>; <I http://willerup.com/p/tabu.jpg>
     Amazing OW using hand-fist stacks. It really worked. I was glad Tim led it and really impressed with his abilities.
-16-07-2022; BH; Salsa; HVS; 30m; lead TW; <1S>
-16-07-2022; BH; Tjuvjakt; E2; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
+16-07-2022; BH; Salsa; HVS 5a; 30m; lead TW; <1S>
+16-07-2022; BH; Tjuvjakt; E2 5c; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
     Excellent route at Binghult. 
-15-07-2022; BH; Stålfål; E1; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
+15-07-2022; BH; Stålfål; E1 5b; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
     Climbed next to Pete Whitaker and his super climber of a girlfriend.
-15-07-2022; BH; En liten bit granit; E2; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.jpg>
+15-07-2022; BH; En liten bit granit; E2 5c; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.jpg>
     Excellent lead by Tim.
-14-07-2022; BH; Bjornbarssnarigt; E2; 20m; lead- TW; <3S><W>
+14-07-2022; BH; Bjornbarssnarigt; E2 5c; 20m; lead- TW; <3S><W>
     Very close to a real mother of a whipper. I went up above my last nut placement to commit to the crux move and accidently kicked the nut out with my foot. That ment I was now in a committing move and looking at a double length whipper with hurting consequences. I managed to reverse the moves and while loosing power to the pump I just managed to place a friend in, clip it and Tim took in for me to rest and re callibrate. 
-14-07-2022; BH; I andra hand; HVS; 55m; alt TW; <3S><E>
-13-07-2022; BH; Sir William; E2; 20m; lead- TW; <F>
+14-07-2022; BH; I andra hand; HVS 5b 5b; 55m; alt TW; <3S><E>
+13-07-2022; BH; Sir William; E2 6a; 20m; lead- TW; <F>
     Haller Myr is a pretty place but the routes are not. Apparently the neighbourgh 7- is easier than this one.
-13-07-2022; BH; Gradhyllan; HVS; 20m; sec TW; <P https://photos.app.goo.gl/BtsiPwRfXLX5NQGH8>
-12-07-2022; BH; DNA; E1; 35m; lead TW; <3S>
-12-07-2022; BH; Palimpsest; HVS; 40m; sec TW; <3S><P https://photos.app.goo.gl/61hMqiAPm1nfuecb6>
+13-07-2022; BH; Gradhyllan; HVS 5b; 20m; sec TW; <P https://photos.app.goo.gl/BtsiPwRfXLX5NQGH8>
+12-07-2022; BH; DNA; E1 5b; 35m; lead TW; <3S>
+12-07-2022; BH; Palimpsest; HVS 5a; 40m; sec TW; <3S><P https://photos.app.goo.gl/61hMqiAPm1nfuecb6>
 
 29-06-2022; KU; Den hoeje travers; HS; 45m; lead AX; <3S><E><T><P https://photos.app.goo.gl/5e4mnzaNGFN38dJ98>
 29-06-2022; KU; Tyskerruten; VS 4c; 22m; lead LA; <3S><S>
