@@ -162,8 +162,6 @@ MM=Michael Hjort
     Roof jam. Need a solid training at crack wall/roof.
 ; BH; Melange; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
     Corner with narrow finger crack. Start needs climbing wall fitness.
-; BH; Ettan; E2; 40m; WISH; <L>
-    Center stage Hallinden. OW section needs two cam 4. Just bloody go for it.
 ; BH; Ingmars Kamin; E1; 25m; WISH; <L>
     Exposed OW. Protection in small cracks in the top section. Go for it.
 ; YS; Black Shiver; ; ; WISH; <3><L>
@@ -176,6 +174,25 @@ MM=Michael Hjort
 # Climbs
 # 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
 # Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight Faid
+
+28-07-2022; BH; Jamspricka; VS; 12m; lead KK; <1S> 
+    Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. 
+28-07-2022; BH; Store Björn; E1 5b; 20m; lead KK; <3S> 
+    Pure splitter on sharp rock. Crack between hands and fists, but plenty of depth to take the whole arm. Super pleased to get to the top clean despite being spanked at the final bit. Just brilliant.
+28-07-2022; BH; Norsk Espresso; E1 5b; 20m; lead KK; <3S><S>
+    Stricking line on a really great crag. Superb climbing all the way.
+28-07-2022; BH; Joannas Led; E2 6a; 10m; lead KK; <3S><W>
+    So close to ticking this beauty clean. It was basically the final move and I was spanked and didn't have enough umph to pull over the lip. Got it after a quick hang on the friend. Something to come back for - excellent handjamming route.
+28-07-2022; BH; Sillunchen; E1 5b; 35m; sec KK; <3S><T>
+    Absolutely brilliant route. Great lead from Kristian who unfortunately subsequently had to withdraw from climbing and resort to belaying only. Problems with elbows. 
+28-07-2022; BH; Champangefrukost; E1 5c; 35m; lead KK; <2S><S>
+    Back to finish an unsettled bill. Excellent route, though a bit broken by the midway ledge. Ate my full rack. Crux is in the roof.
+27-07-2022; BH; Blame Canada; HVS 5a; 20m; sec KK; <3S> 
+27-07-2022; BH; Vad ar otid; E1; 8m; sec KK; <2S>
+27-07-2022; BH; I andra hand; HVS; 55m; alt KK; <3S><E> 
+27-07-2022; BH; Ettan; E2 5c 6a; 55; alt KK; <3S><E>
+    Finally we entered center stage. Good to get on it and less intimedating than when looked at from below. I led the first easier pitch and Kristian the second. 
+27-07-2022; BH; Troettmoessans Tystnad; HVS; 20m; sec KK; <2S> 
 
 17-07-2022; BH; Nixten; E1; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.jpg>
 16-07-2022; BH; Vad ar otid; E1; 8m; lead TW; <2S>; <I http://willerup.com/p/otid.jpg>
@@ -193,7 +210,7 @@ MM=Michael Hjort
     Excellent lead by Tim.
 14-07-2022; BH; Bjornbarssnarigt; E2; 20m; lead- TW; <3S><W>
     Very close to a real mother of a whipper. I went up above my last nut placement to commit to the crux move and accidently kicked the nut out with my foot. That ment I was now in a committing move and looking at a double length whipper with hurting consequences. I managed to reverse the moves and while loosing power to the pump I just managed to place a friend in, clip it and Tim took in for me to rest and re callibrate. 
-14-07-2022; BH; I andra hand; HVS; 55m; sec TW; <3S><E>
+14-07-2022; BH; I andra hand; HVS; 55m; alt TW; <3S><E>
 13-07-2022; BH; Sir William; E2; 20m; lead- TW; <F>
     Haller Myr is a pretty place but the routes are not. Apparently the neighbourgh 7- is easier than this one.
 13-07-2022; BH; Gradhyllan; HVS; 20m; sec TW; <P https://photos.app.goo.gl/BtsiPwRfXLX5NQGH8>
