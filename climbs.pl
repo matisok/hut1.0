@@ -226,6 +226,7 @@ while (<CLIMBS>) {
         $icons =~ s/<Y>/&#127788;/g; #windy
         $icons =~ s/<F>/&#127868;/g; #aid
         $icons =~ s/<Z>/&#127768;/g; #night 
+        $icons =~ s/<H>/&#129508;/g; #glove 
         $icons =~ s/<N ([^\>]*)>/<a href="\1" class="report">&#128218;Report<\/a>/g;
         $icons =~ s/<P ([^\>]*)>/<a href="\1" class="photo">&#128248;<\/a>/g;
         $icons =~ s/<O ([^\>]*)>/<a href="\1" class="map">&#129517;Topo<\/a>/g;
