@@ -160,6 +160,8 @@ MM=Michael Hjort
     Lives at Granitgrotten amongst a lot of bolted climbs.
 ; BH; Tor Line; E3; 25m; WISH; <L>
     Roof jam. Need a solid training at crack wall/roof.
+; BH; Stone Temple Pilot; E3; 25m; WISH; <L>
+    Double ropes. Binghult.
 ; BH; Melange; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
     Corner with narrow finger crack. Start needs climbing wall fitness.
 ; BH; Ingmars Kamin; E1; 25m; WISH; <L>
@@ -168,7 +170,7 @@ MM=Michael Hjort
     Dangerous SRT.
 ; KU; Freak Brothers; E4 5c; 15m; WISH; <L>
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
-; BH; Torsketaket; E2 5b; 25m; WISH; <L>
+; BH; Torsketaket; E3 6a; 25m; WISH; <L>
     Recommended from internet.
 
 # Climbs
@@ -176,37 +178,37 @@ MM=Michael Hjort
 # Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight Faid Hglove
 
 28-07-2022; BH; Jamspricka; VS 4c; 12m; lead KK; <1S> 
-    Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. 
+    Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. The guide book says: bring small nuts and double rope 
 28-07-2022; BH; Store Björn; E1 5b; 20m; lead KK; <3S> 
     Pure splitter on sharp rock. Crack between hands and fists, but plenty of depth to take the whole arm. Super pleased to get to the top clean despite being spanked at the final bit. Just brilliant. No gloves.
 28-07-2022; BH; Norsk Espresso; E1 5b; 20m; lead KK; <3S><S>
     Stricking line on a really great crag. Superb climbing all the way.
 28-07-2022; BH; Joannas Led; E2 6a; 10m; lead KK; <3S><W><M><H>
-    So close to ticking this beauty clean. It was basically the final move and I was spanked and didn't have enough umph to pull over the lip. Got it after a quick hang on the friend. Perfect hand size all the way. Gloves.
-28-07-2022; BH; Sillunchen; E1 5b; 35m; sec KK; <3S><T>
+    Pure splitter. So close to ticking this beauty clean. It was basically the final move and I was spanked and didn't have enough umph to pull over the lip. Got it after a quick hang on the friend. Perfect hand size all the way. Gloves.
+28-07-2022; BH; Sillunchen; E1 5b; 35m; sec KK; <3S><T><P https://photos.app.goo.gl/PgPBr1fG7xRrKzKr6>
     Absolutely brilliant route. Great lead from Kristian who unfortunately subsequently had to withdraw from climbing and resort to belaying only. Problems with elbows. 
 28-07-2022; BH; Champangefrukost; E1 5c; 35m; lead KK; <2S><S>
     Back to finish an unsettled bill. Excellent route, though a bit broken by the midway ledge. Ate my full rack. Crux is in the roof.
 27-07-2022; BH; Blame Canada; HVS 5a; 20m; sec KK; <3S> 
 27-07-2022; BH; Vad ar otid; E1 5b; 8m; sec KK; <2S>
-27-07-2022; BH; I andra hand; HVS 5a 5a; 55m; alt KK; <3S><E> 
-27-07-2022; BH; Ettan; E2 5b 5c; 55; alt KK; <3S><E>
-    Finally we entered center stage. Good to get on it and less intimedating than when looked at from below. I led the first easier pitch and Kristian the second. 
-27-07-2022; BH; Troettmoessans Tystnad; HVS; 20m; sec KK; <2S> 
+27-07-2022; BH; I andra hand; HVS 5a 5a; 55m; alt KK; <3S><E><P https://photos.app.goo.gl/cZBoSEwNAngdBvx69>
+27-07-2022; BH; Ettan; E2 5b 5c; 55; alt KK; <3S><E><P https://photos.app.goo.gl/pKyDpuy36emHgLhE8>; <I http://willerup.com/p/ettan.png>
+    Finally we entered center stage. Good to get on it and less intimedating than when looked at from afar. I led the first easier pitch and Kristian the second. 
+27-07-2022; BH; Troettmoessans Tystnad; HVS; 20m; sec KK; <2S><P https://photos.app.goo.gl/YcsAQgjgF4dCzC1d6>
 
-17-07-2022; BH; Nixten; E1 5b; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.jpg>
+17-07-2022; BH; Nixten; E1 5b; 20m; sec TW; <2S><P https://photos.app.goo.gl/kzn57Qa7w7kFfFJWA>; <I http://willerup.com/p/nixten.png>
 16-07-2022; BH; Vad ar otid; E1 5b; 8m; lead TW; <2S>; <I http://willerup.com/p/otid.jpg>
     Pretty happy about this finger crack tick.
 16-07-2022; BH; Stackanda Myror; S; 10m; lead TW; <1S><P https://photos.app.goo.gl/uiWww77sB7uJYXLv6>; <I http://willerup.com/p/myror.jpg>
     Easier version of Tims Tabu.
-16-07-2022; BH; Tabu; E1 5c; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>; <I http://willerup.com/p/tabu.jpg>
+16-07-2022; BH; Tabu; E1 5c; 10m; sec TW; <3S><T><P https://photos.app.goo.gl/6EGQR6LQTcrnLBYaA>; <I http://willerup.com/p/tabu.png>
     Amazing OW using hand-fist stacks. It really worked. I was glad Tim led it and really impressed with his abilities.
 16-07-2022; BH; Salsa; HVS 5a; 30m; lead TW; <1S>
 16-07-2022; BH; Tjuvjakt; E2 5c; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
     Excellent route at Binghult. 
 15-07-2022; BH; Stålfål; E1 5b; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
     Climbed next to Pete Whitaker and his super climber of a girlfriend.
-15-07-2022; BH; En liten bit granit; E2 5c; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.jpg>
+15-07-2022; BH; En liten bit granit; E2 5c; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.png>
     Excellent lead by Tim.
 14-07-2022; BH; Bjornbarssnarigt; E2 5c; 20m; lead- TW; <3S><W>
     Very close to a real mother of a whipper. I went up above my last nut placement to commit to the crux move and accidently kicked the nut out with my foot. That ment I was now in a committing move and looking at a double length whipper with hurting consequences. I managed to reverse the moves and while loosing power to the pump I just managed to place a friend in, clip it and Tim took in for me to rest and re callibrate. 
@@ -222,7 +224,7 @@ MM=Michael Hjort
     Great day out with Lasse and the kids
 29-06-2022; KU; Wolfgang Amadeus; E1 5a; 12m; lead LA; <3S><S>
 29-06-2022; KU; Master and Servant; E1 5b; 10m; top; <3S><S>
-29-06-2022; KU; Thunderlips; VS 4c; 10m; lead LA; <3S><S><P https://photos.app.goo.gl/6f6AANf8q7kAz6zL6>; <I http://willerup.com/p/mbike.jpg>
+29-06-2022; KU; Thunderlips; VS 4c; 10m; lead LA; <3S><S><P https://photos.app.goo.gl/6f6AANf8q7kAz6zL6>; <I http://willerup.com/p/mbike.png>
     On motorbike to Kullen. Excellent day out.
 26-06-2022; KU; King Kong; E2 5c; 25m; sec EE; <3S><F><S>
     Emil won the toss of the lead. Good job. I struggled in the crux and had to pull on the gear to get up.
@@ -248,7 +250,7 @@ MM=Michael Hjort
 	One point of aid. Found it impossible to move around the arete. Excellent route after the burly start.
 16-06-2022; GB; Jamspricka Nr 1; E2 5b; 25m; lead- FZ; <3S><A>
 	This time I didn't have a hangover. I was on for it. Still had to rest on the rope once - my hands were cramped up. I think it is more like E2.
-16-06-2022; GB; Climb it; VS 4c; 10m; lead FZ; <P https://photos.app.goo.gl/HxuuU2NFxrhfFbyY7>; <I http://willerup.com/p/climbit.jpg>
+16-06-2022; GB; Climb it; VS 4c; 10m; lead FZ; <P https://photos.app.goo.gl/HxuuU2NFxrhfFbyY7>; <I http://willerup.com/p/climbit.png>
 16-06-2022; GB; Drambuie; VS 4c; 15m; lead FZ;
 	Nice little spot.
 16-06-2022; GB; Koskovenor; VS 4c; 15m; lead FZ;
@@ -290,7 +292,7 @@ MM=Michael Hjort
 	Traverse is fairly sketchy. Finishing move requires umph
 09-04-2022; GB; Roennleden; HS; 15m; sec FZ; <P https://photos.app.goo.gl/pDu3mVoLyKHhEM8f7>
 
-23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><K http://willerup.com/p/blame.mov>; <I http://willerup.com/p/blame.jpg>
+23-10-2021; BH; Blame Canada; HVS 5a; 60ft; lead FZ; <3S><K http://willerup.com/p/blame.mov>; <I http://willerup.com/p/blame.png>
     Brilliant route. You abseil down to the base and have to climb out. This is the easiest route out.
 23-10-2021; BH; Sex i smyg; S; 60ft; sec FZ CA; 
 23-10-2021; BH; Toker och Glader; HS; 60ft; lead FZ;
@@ -329,16 +331,16 @@ MM=Michael Hjort
 11-10-2020; BH; Barnleken; E1 5b; 40m; lead FZ; <P https://photos.app.goo.gl/CN1m3cFfyCaMWu1S6>
     Worth doing for the diedre in the top. Brilliant.
 
-24-06-2020; HF; Mot Sola; HVS 5b; 550m; dnf KK; <R><E>
+24-06-2020; HF; Mot Sola; HVS 5b; 550m; dnf KK; <R><E><Q>
     First roof section was dripping wet and we decided to bail. 
 24-06-2020; HF; Linker Einstieg Agent Orange; VS; 400m; alt KK; <E>
     Excellent last route if the 3 day visit. The roof part is brilliant. 
-23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R><E><F>; <I http://willerup.com/p/hager.JPG>
+23-06-2020; HF; Haegar; E1 5b; 550m; alt KK; <2S><S><T><R><E><F>; <I http://willerup.com/p/hager.png>
     The striking line of the area. We were doing pretty well  though I had to pull on the gear in the crux roof - it was soaking wet. 
 22-06-2020; HF; Gone with the weed; VS 4c; 550m; alt KK; <E>
 
 #Cogne with Sean
-20-01-2020; CO; Monday Money; W4; 220m; alt SF; <1><Q><E> <P https://photos.app.goo.gl/AP9oS64QBgfPPkcP7>
+20-01-2020; CO; Monday Money; W4; 220m; alt SF; <1><Q><E> <P https://photos.app.goo.gl/AP9oS64QBgfPPkcP7>; <I http://willerup.com/p/monday.png>
     Picked one of the big ones. Long walk in and an absolutely knackering climb up to the base of the ice fall. We started the first pitch but were drained after the walk and hill climb. We bailed. 
 19-01-2020; CO; Valmiana; W3; 200m; alt SF; <1><2S> <P https://photos.app.goo.gl/W5kp5sK2pdsBR1jv6>
     Good conditions throughout. Had the route to ourselves.
@@ -384,7 +386,6 @@ MM=Michael Hjort
 12-01-2019; RU; Trappfoss; W4; 200m; alt JC; <1>
 12-01-2019; RU; I Just Love a Nice Stein Pull!; M6+; 60ft; sec JC; <A><3S><1>
 
-
 05-10-2018; GB; Tjabo; HS; 60ft; sec FZ;
 05-10-2018; GB; Roennleden; VS; 60ft; sec FZ;
 05-10-2018; KU; Ingers Parla; VS 4b; 40ft; lead FZ; ; <I https://live.staticflickr.com/1958/31256610588_c84dd0ba04_b.jpg> 
@@ -398,7 +399,8 @@ MM=Michael Hjort
 
 01-01-2018; GB; Till; HVS 5b; 40m; alt KR;
 
-19-01-2018; BH; Champangefrukost; E1 5b; 60ft; lead MB; <Q> <R>
+19-01-2018; BH; Champangefrukost; E1 5b; 60ft; lead MB; <Q><R>
+    Bailed because of the rain.
 19-08-2018; BH; Prismaster; E1 5b; 55m; alt MB; <3S><T><M>
     Our ambition for the weekend ticked. 
 19-08-2018; BH; Amurleoparden; HVS 5a; ; lead MB; <N http://willerup.com/climbing/bohuslan2018.html>
@@ -412,6 +414,7 @@ MM=Michael Hjort
 17-08-2018; BH; Slippery when wet; VS 4b; 60ft; lead MB; 
 17-08-2018; BH; Bergkirstis polska; E1 5b; 60ft; lead MB; <A><2S><T>
 17-08-2018; BH; Hoppande Norrman; E1 5b; 10m; lead MB; ; <I http://willerup.com/p/norman.JPG>
+
 04-07-2018; GB; Pollux; HVS 5a; 10m; lead FZ;
 04-07-2018; GB; Megera; E2 5b; 15m; lead FZ; <3S><A>; <I http://willerup.com/p/megera.JPG>
     Happy with onsight of hidden gem of grade 6 jam crack. Sustained and awesome. 
