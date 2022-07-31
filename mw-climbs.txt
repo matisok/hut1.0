@@ -655,7 +655,7 @@ WW=Will Wray
     After work climb. Excellent line. Remember to save the Cam 4 for the break. Negotiated the mantle in stranded whale style: it worked  but it wasn't pretty. Excellent climb.
 12-10-2015; GB; Climb it; S; 10m; sec KR; 
     First onsight trad lead by Kaspar. Excellent effort. 
-28-09-2015; GB; Plugghaesten; E1 5b; 15m; lead- KR; <W><Z> <N http://willerup.com/climbing/lexbyabseil.html> 
+28-09-2015; GB; Plugghaesten; E1 5b; 15m; lead- KR; <W><Z><N http://willerup.com/climbing/lexbyabseil.html> 
     Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more.
 24-09-2015; KU; Originalruten; VS 4c; 20m; sec FZ; 
 22-09-2015; GB; Mefisto; f6c; 60ft; lead- KR; <W>
@@ -1942,7 +1942,8 @@ Due to some serious partying the day before I managed to forget my harness and c
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 
 ##### Surfing and Sail ##### 
-31-07-2022; OR; Rungsted; ; ; EW; <8><2S>
+31-07-2022; OR; Rungsted; ; ; EW; <8><3S><Y><T>
+    Superb down winder in beefy wind and full sails all the way. 
 29-07-2022; OR; Skovshoved; ; ; solo; <8><2S>
     Finally a perfect wind from Christianshavn to Skovshoved. 
 19-07-2022; OR; Christianshavn; ; ; solo; <8>
@@ -1961,9 +1962,9 @@ Due to some serious partying the day before I managed to forget my harness and c
     Transport of Spooky from Ockero to Malmo. One long stretch. Extreme. Most of it in pitch black darkness. Cold.
 01-03-1998; OR; Ven Camp; ; ; JR FW; <8><3S><X><A>; <P http://willerup.com/others/seakayak.jpg>
     Wild trip in kayaks to Ven in the middle of winter. Done as part of preparing for the 1998 Raid Gauloises. 
-19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z>; <N http://willerup.com/sailing/>
-19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8>; <N http://willerup.com/sailing/sr2003.html>
-26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><R><X><X>; <N http://willerup.com/boat/bath.html>
+19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z><N http://willerup.com/sailing/>
+19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8><Q><X><M><T><N http://willerup.com/sailing/sr2003.html>
+26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><R><X><X><N http://willerup.com/boat/bath.html>
     Possibly the maddest trip ever. In a sport that if not often associated with adrenalinus maximus
 
 20-09-2020; SJ; Landerslev; ; 1h; SG; <8>; <I https://s3.amazonaws.com/garmin-connect-prod/profile_images/06d600f3-83d8-4d14-8fbc-107554e398b3-1104980.jpg>
