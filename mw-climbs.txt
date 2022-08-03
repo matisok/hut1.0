@@ -400,19 +400,23 @@ WW=Will Wray
 01-01-2018; GB; Till; HVS 5b; 40m; alt KR;
 
 19-01-2018; BH; Champangefrukost; E1 5b; 60ft; lead MB; <Q><R>
-    Bailed because of the rain.
+    Did first pitch and then bailed at the ledge because of the rain.
 19-08-2018; BH; Prismaster; E1 5b; 55m; alt MB; <3S><T><M>
     Our ambition for the weekend ticked. 
 19-08-2018; BH; Amurleoparden; HVS 5a; ; lead MB; <N http://willerup.com/climbing/bohuslan2018.html>
-19-08-2018; BH; Berguven; E1 5b; 60ft; lead MB; 
+    A 5+ slab beauty
+19-08-2018; BH; Berguven; E1 5b; 60ft; lead MB;
+    Easy for the grade
 18-08-2018; BH; Tag mig harifron; S; 60ft; lead MB; 
 18-08-2018; BH; Byggeman Bob; S; 60ft; lead MB; 
 18-08-2018; BH; Oedhumlan; S; 60ft; lead MB; 
 18-08-2018; BH; Baesta Leden i Valesrod; E1 5b; 60ft; lead MB; <3S> 
+    Monkey style pull up in the roof
 17-08-2018; BH; Palimpsest; HVS 5a; 60ft; lead MB; <2S>; <I http://willerup.com/p/palimpsest.JPG> 
 17-08-2018; BH; DNA; E1 5b; 60ft; lead MB; 
 17-08-2018; BH; Slippery when wet; VS 4b; 60ft; lead MB; 
 17-08-2018; BH; Bergkirstis polska; E1 5b; 60ft; lead MB; <A><2S><T>
+    Nearly slid off in the crux.
 17-08-2018; BH; Hoppande Norrman; E1 5b; 10m; lead MB; ; <I http://willerup.com/p/norman.JPG>
 
 04-07-2018; GB; Pollux; HVS 5a; 10m; lead FZ;
@@ -550,7 +554,7 @@ WW=Will Wray
 28-03-2017; BH; Jaernkaminen; VS 4c; 40m; lead MB; 
 28-03-2017; BH; Jungfrun; S; 40m; lead MB; 
 28-03-2017; BH; Villskudd; E1 5b; 40m; lead MB; <3S><A><T>
-
+28-03-2017; BH; Q.Robur; HVS 5a; 40m; lead MB;
 
 05-03-2017; RU; Blindtarmen; W4; 60ft; lead FZ; <1>
     Good ice all the way. Highlight of the weekend. I found the second pitch pretty steep and sustained. Top belay was in-situ slings with maillon around a block (as opposed to the guidebook bolted belay) and the half-way belay and abseil point was to in-situ bala-threads without maillon. The guidebook description is odd: we walked up easy slope to the what we would describe as the first pitch. Did then a full rope length (50m) on quite steep ice and then a second 40m to the top with some bridging out of the left rock wall. 
