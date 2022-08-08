@@ -106,6 +106,7 @@ JB=Jack Bernstein
 JC=<b>John Culsaw</b>
 JG=Jean Gabriel
 JI=Jim Randell
+JJ=Jill
 JL=Jakob Lorentzen
 JR=Jesper Ritzau
 JS=Joakim Svensker
@@ -172,10 +173,30 @@ WW=Will Wray
 ; KU; Yosemite; E2 5c; 20m; WISH; <L>
 ; BH; Torsketaket; E3 6a; 25m; WISH; <L>
     Recommended from internet.
+; BH; Svart Intrusion; E2 5b; 35m; WISH; <L>
+    Recommended from Niklas
 
 # Climbs
-# 1S star Whipper Photo Inlinephoto Kvideo Ntripreport Dlink Emultipitch Achievement Bolts
-# Gboulder Lwish Qbail Mindblower Tbullseye Rainy Sunny Xsuicide Ywindy Znight Faid Hglove
+# 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
+# <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+07-08-2022; BH; Sesam; HVS 5b; 25m; lead JJ; <X><Q>
+    Catastrophic expedition into a route that apparently has not been repeated. It was ultra manky and downwrite dangerous in places (loose mega blocks). I decided to bail from the upper bit and got lowered from a sacrifised sling. 
+07-08-2022; BH; Letta Leden; VS 4b; 50m; lead JJ; <3S><E><T>; <I http://willerup.com/p/letta.png>
+    2 pitches, 50 meter in total. Second pitch is a jamming marathon. Perfect route in that grade. A bit like Blue Sky from Pembroke.
+06-08-2022; BH; Oventat Besog; HVS 5b; 20m; lead JJ; <2S>
+    Start of this one is really tough for the grade. Great route.
+06-08-2022; BH; Varnarn; E1 5b; 20m; lead JJ; <2S>
+    Boulder start, exciting unprotected slab mid route and an brilliant jam corner to finish.
+06-08-2022; BH; Myggarnas Flugt; HVS 4b; 20m; sec JJ; <2S>; <I http://willerup.com/p/mygarna.png>
+    Beautiful line. Excellent climbing.
+06-08-2022; BH; Norsk Espresso; E1 5b; 20m; lead JJ; <2S>
+    Jill had a go at leading but it is clear that you need firm jamming skills to find these types of route easy. We lowered her down and I led instead.
+06-08-2022; BH; Dolomittravers; HVS 4c; 30m; lead JJ; <1S>; <I http://willerup.com/p/dolomiti.png>
+    A neighbourghing crag to the popular Høgberget. Real impressive and the high level traverse did not disappoint. Classic adventure climbing.
+06-08-2022; BH; Olivia; VS 4a; 20m; sec JJ;
+06-08-2022; BH; Feministiskt Initiative; HVS 4c; 20m; lead JJ;
+    Gave Høgberget a chance to shine and I still think the place sucks. The rock is dirty and there is seepage here and there. I don't know why people rave about this place. I do need to have a go at Yamamoto, but it was ... wet.
 
 28-07-2022; BH; Jamspricka; VS 4c; 12m; lead KK; <1S> 
     Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. The guide book says: bring small nuts and double rope 
