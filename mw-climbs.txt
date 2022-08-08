@@ -80,6 +80,7 @@ WV=Wye Valley
 YO=Yosemite, USA 
 YS=Yorkshire, UK 
 CW=Cotswold
+WS=Wishlist
 
 # People
 AK=Anders Kantola
@@ -151,30 +152,33 @@ WISH=Wish list
 WW=Will Wray
 
 # Wishlist
-; RU; Juvsojla; W6; 50m; WISH; <1><L>
+; WS; Juvsojla, Rjukan; W6; 50m; WISH; <1><L>
     Straight 50m pillar. Need to train on wall before winter season for this to happen.
-; GB; Tuborg; E3; 25m; WISH; <L>
+; WS; Tuborg, Utby; E3; 25m; WISH; <L>
     Technical Wall climb. Need finger strength.
-; GB; Great Crack; E2; 25m; WISH; <L>
+; WS; Great Crack, Lexby; E2; 25m; WISH; <L>
     Monster OW. I think this requires more nerve than anything.
-; GB; Machu Pichu; E3; 30m; WISH; <L>
-    Lives at Granitgrotten amongst a lot of bolted climbs.
-; BH; Tor Line; E3; 25m; WISH; <L>
+; WS; Machu Pichu, Granitgrotten; E3; 30m; WISH; <L>
+    Lives a quiet trad life amongst a lot of bolted climbs.
+; WS; Tor Line, Haller; E3; 25m; WISH; <L>
     Roof jam. Need a solid training at crack wall/roof.
-; BH; Stone Temple Pilot; E3; 25m; WISH; <L>
+; WS; Stone Temple Pilot, Binghult; E3; 25m; WISH; <L>
     Double ropes. Binghult.
-; BH; Melange; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
+; WS; Melange, Tullboden; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
     Corner with narrow finger crack. Start needs climbing wall fitness.
-; BH; Ingmars Kamin; E1; 25m; WISH; <L>
+; WS; Ingmars Kamin, Valserod; E1; 25m; WISH; <L>
     Exposed OW. Protection in small cracks in the top section. Go for it.
-; YS; Black Shiver; ; ; WISH; <3><L>
+; WS; Black Shiver, Yorkshire; ; ; WISH; <3><L>
     Dangerous SRT.
-; KU; Freak Brothers; E4 5c; 15m; WISH; <L>
-; KU; Yosemite; E2 5c; 20m; WISH; <L>
-; BH; Torsketaket; E3 6a; 25m; WISH; <L>
+; WS; Freak Brothers, Kullen; E4 5c; 15m; WISH; <L>
+; WS; Yosemite, Kullen; E2 5c; 20m; WISH; <L>
+; WS; Torsketaket, Valserod; E3 6a; 25m; WISH; <L>
     Recommended from internet.
-; BH; Svart Intrusion; E2 5b; 35m; WISH; <L>
-    Recommended from Niklas
+; WS; Svart Intrusion, Dingle; E2 5b; 35m; WISH; <L>
+    Recommended from Niklas. Well protected in the hard bits
+; WS; Tydliga Hørnet, Haller; E3 5c; 20m; WISH; <L>
+    Spotted with Jesper at Haller. Looked amazing. Start in a tree to get to the ledge.
+
 
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
