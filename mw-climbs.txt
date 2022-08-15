@@ -178,6 +178,11 @@ WW=Will Wray
     Recommended from Niklas. Well protected in the hard bits
 ; WS; Tydliga Hørnet, Haller; E3 5c; 20m; WISH; <L>
     Spotted with Jesper at Haller. Looked amazing. Start in a tree to get to the ledge.
+; WS; Välkommen till Bohuslän, Bohusporten; E1; 15m; WISH; <L>
+    New area. Look at PDF.
+; WS; Strix, Bohus; E1; 20m; WISH; <L>
+    New area. Look at PDF. Excellent looking ow.
+
 
 
 # Climbs
