@@ -152,8 +152,10 @@ WISH=Wish list
 WW=Will Wray
 
 # Wishlist
-; WS; Juvsojla, Rjukan; W6; 50m; WISH; <1><L>
+; WS; Juvsojla, Rjukan; W6; 200m; WISH; <1><L>
     Straight 50m pillar. Need to train on wall before winter season for this to happen.
+; WS; Lipton, Rjukan; W7; 200m; WISH; <1><L><P http://willerup.com/p/lipton.JPG><P http://willerup.com/p/lipton2.JPG>
+    The pinnacle of ice ambitions. Photo from season 2023.
 ; WS; Tuborg, Utby; E3; 25m; WISH; <L>
     Technical Wall climb. Need finger strength.
 ; WS; Great Crack, Lexby; E2; 25m; WISH; <L>
@@ -189,6 +191,15 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
+# Trip with John.
+05-02-2023; RU; Bakveien; W4; 100m; alt JC; <1><2S>
+    Excellent route to finish the weekend. The ice was plenty thick in the narrow gully. Done in 2 pitches.
+04-02-2023; RU; Førerkomiteen; W4+; 60m; alt JC; <1><3S><T><M>; <I http://willerup.com/p/forer.JPG>
+    Off the beaten track this monster route needs all the dedication you can muster. Approach was done in snow shoes and was tough going. The reward was a sustained climb from the base all the way to the top. I was at my absolute limit.
+03-02-2023; RU; Sabotoerfossen; W5; 200m; alt JC; <1><3S>
+    I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 ptiches
+
+# Trip with Jill
 07-08-2022; BH; Sesam; HVS 5b; 25m; lead JJ; <X><Q>
     I was so fired up after the previous route that I had Jill belaying me up an ultra manky and downwrite dangerous route. 20 meters up I managed to pass an extremely dodgy loose boulder the size of a washing machine, and standing on top of this boulder I decided to bail from an in-situ rusty friend and my backup sling. 
 07-08-2022; BH; Letta Leden; VS 4b; 50m; lead JJ; <3S><E><T>; <I http://willerup.com/p/letta.png>
