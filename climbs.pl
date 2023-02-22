@@ -26,7 +26,7 @@ $thedate = `date +"%e %B %y"`;
 $src = ".";
 $dest = "./html";
 
-$Istar1 = '&#129482;'; #ice
+$Istar1 = '&#9935;'; #ice
 $Istar2 = '&#127956;'; #mountain
 $Istar3 = '&#129686;'; #cave &#128294; (flashlight)
 $Istar4 = '&#128074;'; #boulder 
