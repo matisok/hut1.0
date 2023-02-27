@@ -9,6 +9,7 @@ BG=Bosigran, UK
 BH=Bohuslan, Sweden
 BX=Buoux, France 
 BZ=Belize, Belize
+BS=Beitostoelen, Norway
 CA=Les Callanques, France 
 CC=Cervinia, Italy 
 CG=Cheddar Gorge, UK
@@ -196,8 +197,8 @@ WW=Will Wray
     Excellent route to finish the weekend. The ice was plenty thick in the narrow gully. Done in 2 pitches.
 04-02-2023; RU; Førerkomiteen; W4+; 60m; alt JC; <1><3S><T><M>; <I http://willerup.com/p/forer.JPG>
     Off the beaten track this monster route needs all the dedication you can muster. Approach was done in snow shoes and was tough going. The reward was a sustained climb from the base all the way to the top. I was at my absolute limit.
-03-02-2023; RU; Sabotoerfossen; W5; 200m; alt JC; <1><3S>
-    I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 ptiches
+03-02-2023; RU; Sabotoerfossen; W5; 200m; alt JC; <1><3S>; <I https://live.staticflickr.com/65535/52669205092_a1586cdd37_4k.jpg>
+    I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 pitches
 
 # Trip with Jill
 07-08-2022; BH; Sesam; HVS 5b; 25m; lead JJ; <X><Q>
@@ -248,7 +249,7 @@ WW=Will Wray
 16-07-2022; BH; Tjuvjakt; E2 5c; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
     Excellent route at Binghult. 
 15-07-2022; BH; Stålfål; E1 5b; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
-    Climbed next to Pete Whitaker and his super climber of a girlfriend.
+    Climbed next to crackmaster Pete Whitaker and his super crack climber of a girlfriend.
 15-07-2022; BH; En liten bit granit; E2 5c; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.png>
     Excellent lead by Tim.
 14-07-2022; BH; Bjornbarssnarigt; E2 5c; 20m; lead- TW; <3S><W>
@@ -667,7 +668,7 @@ WW=Will Wray
 03-06-2016; KY; Tomboy; f6a; 30m; lead TW; <2S>
 02-06-2016; KY; Monahiki Elia; f6a+; 60ft; lead TW; <3S>
     Back at sport climbing like the old days! Great place.
-02-06-2016; KY; DNA; f7a; 60ft; lead- TW; <W> <2S>
+02-06-2016; KY; DNA; f7a; 60ft; lead- TW; <W> <2S>; <I https://willerup.com/pics/27531481356_8a68ea67d0_w.jpg>
     Took a proper whipper 3/4 way up
 01-06-2016; KY; Joy in the Garden; ; 60ft; lead TW; <3S>
     Warm up
@@ -701,7 +702,7 @@ WW=Will Wray
 12-10-2015; GB; Climb it; S; 10m; sec KR; 
     First onsight trad lead by Kaspar. Excellent effort. 
 28-09-2015; GB; Plugghaesten; E1 5b; 15m; lead- KR; <W><Z><N http://willerup.com/climbing/lexbyabseil.html> 
-    Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more.
+    Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more. Epic abseil (see report)
 24-09-2015; KU; Originalruten; VS 4c; 20m; sec FZ; 
 22-09-2015; GB; Mefisto; f6c; 60ft; lead- KR; <W>
 10-09-2015; KU; Franska Trick; f6c; 15m; lead FZ; <T>
@@ -821,7 +822,7 @@ WW=Will Wray
     Trip report on willerup.com from an amazing trip to Jordan.
 01-04-2006; WR; Sunkiss; AD; 600m; alt AW; <3S>
 01-04-2006; WR; Ocean Slabs; AD; 600m; alt AW; <3S><T>
-01-04-2006; WR; Rijm Assaf; E2 6a; 600m; alt AW; ; <3S><I https://live.staticflickr.com/52/124626415_754c1a9d3e_b.jpg> 
+01-04-2006; WR; Rijm Assaf; E2 6a; 600m; alt AW; <3S>; <I https://live.staticflickr.com/52/124626415_754c1a9d3e_b.jpg> 
 01-04-2006; WR; Merlin's Wand; E2 6a; 600m; alt AW; <3S>
 01-04-2006; WR; Storm in the Desert; E2 6a; 600m; alt AW; <3S>; <I https://live.staticflickr.com/50/124613789_33ef6a1406_b.jpg> 
 
@@ -854,7 +855,7 @@ WW=Will Wray
 1-11-2003; WL; Nibelheim; VS 4b 4a 4c 4b; 90m; alt SF; <2S> 
 1-11-2003; WL; Joe's Route; VS 4a 4c; 48m; lead SF; <2S> 
     Worthwhile VS just right of the main North Wall
-24-8-2003; KU; Flopp; V; 15m; lead JR FW AN TR HW; <K https://www.youtube.com/watch?v=P19bYP63OUU>
+24-8-2003; KU; Flopp; V; 15m; lead JR FW AN TR HW; <K https://www.youtube.com/watch?v=P19bYP63OUU>; <I https://willerup.com/pics/36777099_c50efb9df5_w.jpg>
     Another fun weekend of mixed climbing and scuba diving.
 24-8-2003; KU; Handjam; IV; 18m; lead JR; <2S> Excellent jamming route.
 23-8-2003; KU; Tyskeruten; V+; 22m; lead JR; <3S> Jesper did well in following.
@@ -1411,7 +1412,7 @@ WW=Will Wray
 20-12-1998; TU; Sea Travers; V2; 40m; FW; ; <I http://willerup.com/p/tulum.jpg>
 18-12-1998; TU; Tulum Pillar; VS 4c; 12m; solo; <3S><M>; <I http://willerup.com/mexico/img/tulum.jpg>
 	Great place. Superb rock rising from the beach. Very soft sand  good for a potential fall.
-8-12-1998; GM; Chop Chop Machette Galore; HVS 5b; 100m; alt FW; <3S><N http://willerup.com/climbing/machete.html>
+8-12-1998; GM; Chop Chop Machette Galore; HVS 5b; 100m; alt FW; <3S><N http://willerup.com/climbing/machete.html>; <I https://willerup.com/climbing/routes/chop1.jpg>
 	New route. Good experience. A festive climb.
 8-11-1998; WL; Notung; E1 5a/b; 180ft; lead MB; <3S>
 8-11-1998; WL; Pig Iron; E2 5b; 60ft; lead MB; <1S>
@@ -1679,17 +1680,18 @@ Due to some serious partying the day before I managed to forget my harness and c
 1-1-1994; EC; The Wire; VS; 300ft; alt FW; <3S><M><X>; <I https://live.staticflickr.com/32/65885993_829640d61f_o.jpg>
     Wild ride on the wire. Required careful preparation and a full package of yoor.
 
-1-1-1994; TE; El Regreso del Patron; f7a; ; alt- FW; <B> 
+1-1-1994; TE; El Regreso del Patron; f7a; ; alt- FW; <B><N https://willerup.com/climbing/tenerife.html>
 	We didn't have a topo at this time and the line looked reasonable. It wasn't so we went off route to easier ground before the crux
 1-1-1994; TE; Barrio Conflictivo; f6a+;; lead FW; <2S><B>
 1-1-1994; TE; Esponlon del Rampa; f6a;; FW; <B> 
 1-1-1994; TE; Papeo Chachi; f6a;; FW; <B> 
-1-1-1994; TE; Super Lopez; f6b;; FW; <B> 
+1-1-1994; TE; Super Lopez; f6b;; FW; <B>; <I https://willerup.com/climbing/tenbelay.jpg>
 1-1-1994; TE; McNesio; f6a;; FW; <B> 
 1-1-1994; TE; Diedre; IV+;; sec FW 
 1-1-1994; TE; Waterloo; V+;; lead FW; <1S><B>
 1-1-1994; TE; No Repercute; f6a+;; sec- FW; <2S><B>
 1-1-1994; TE; El Senor de las Bestitas; f6b;; lead FW; <B> 
+1-1-1993; EC; Many Routes; f6a;; alt DS; <B><N https://willerup.com/climbing/elchorro93.html>
 
 1-1-1992; KU; One tricky move; VS 4b; 8m; lead
 1-1-1992; KU; Originalruten; D; 18m; lead 
@@ -1715,7 +1717,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 1-1-1992; KU; Svenskervaeggen; S; 50m; lead 
 1-1-1992; KU; Lynet; A1/2; 22m; lead JR
       My first aid climb. Excellent stuff. I fell on my smallest rp  and it held. Good good fun.
-1-1-1991; KU; Traditionel; D; 22m; sec JR SH;
+1-1-1991; KU; Traditionel; D; 22m; sec JR SH
       September 1991. My first ever climb. Jesper Ritzau took Simon Hauch and me up this 2 pitch route on Aakermansberget on Kullen. I was pretty excited for almost a whole year having done this one climb. It was good fun and it was the start of something big!
 
 
@@ -1827,7 +1829,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 14-10-2000; MD; Goatchurch Cavern; ; 2h; RR LH; <3><C3><X>
      Brilliant trip. Laerke's first ever caving trip and she was so on for it  that we decided to do the full Goaty - into the letterbox and back. It's  f*cking scary in there - sort of smells of evil and it was a stupendious effort from the girls.
 12-10-2000; MD; Fairy/Hillier's Cave; ; 4h; FW TR RR; <3><C2>
-     The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back.
+     The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back. A photo from this trip was subsequently used in a caving instruction book.
 08-10-2000; LL; Ogof y Daren Cilau; ; 2h; FW RR; <3><C3>; <I https://live.staticflickr.com/27/36764893_d4fc135dea_b.jpg>
      Oh baby! This hole had been on the ticklist for quite some time and still  is! We had to turn back approx 350 meters in through the 530m crawl that  guards the cave. RR had some bad equipment and was freezing and we decided to go back before it would be too late. I have the feeling we will be back - soon.
 25-09-2000; MD; GB Cavern; ; 3h; FW RR DG TR; <3><C2>
@@ -1846,7 +1848,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Great little Saturday afternoon adventure. It was/had been raining a  reasonable amount and there was a sizable stream entering the cave. We  managed to do a nice round trip
 15-03-2000; MD; Thrupe Lane Swallet; ; 4h; FW TW; <3><C2>
      Excellent trip. Did a 'double' abseil simultaneously next to each other  and swapped over in the bottom 
-07-03-2000; MD; Shatter Cave; ; 2h; FW TW DG; <3><C2>
+07-03-2000; MD; Shatter Cave; ; 2h; FW TW DG; <3><C2>; <I https://willerup.com/front/fairy_bro.jpg>
      Very pretty cave in the Fairy Quarry. It's normally locked  so you need an  official guide for this stuff. Impressive formations 
 25-02-2000; MD; Thrupe Lane Swallet; ; 4h; TW; <3><C2>; <I http://willerup.com/caving/img/thrupe-big.jpg>
      We did the Latheral Aven pitch. But we missed our honoured caving mentor  DG Grosvenor who unfortunately had other obligations this Friday  evening 
@@ -1944,31 +1946,31 @@ Due to some serious partying the day before I managed to forget my harness and c
     Excellent trip to Mont Blanc with Mark, Sean and Mark. Got to 4000 something and returned.
 01-06-2000; CC; Matterhorn; TD; 4000m; SF FW UH; <2><N http://willerup.com/matterhorn/>
     Successfull ascent.
-01-01-1998; MZ; Aconcagua; TD; 6000m; SF FW; <Q><2><Y><A><N http://willerup.com/aconcagua/>
+01-01-1998; MZ; Aconcagua; TD; 6000m; SF FW; <Q><2><Y><A><N http://willerup.com/aconcagua/>; <I https://willerup.com/aconcagua/img/camp-fire.jpg>
     900 meters from the top.
 
 ##### Paragliding #####
-01-07-2012; JL; Bovbjerg Fyr; ; 3h; PP; <7><3S>
+01-07-2012; JL; 11. Bovbjerg Fyr; ; 3h; PP; <7><3S>
     Joined the yearly parafun meet. Awesome to be back in the air. Happy I hadn't forgotten. Brilliant to be back with the club. 
-01-07-2010; JL; Lindtorp; ; 1h; PP; <7><3S>
-    Just as I thought I was getting comfortable with it all Allan phone me up with a last chance before going back to CPH to try towing. I said yes and got towed up to 300 meters height and then released my thingy and had a mad mad flight down to earth. It was absolutely mental and I was just screaming and giggling the whole way down. Awesome kick!
-29-06-2010; JL; Toftum; ; 4h; PP; <7><3S>; <I https://live.staticflickr.com/65535/4741298211_1fd61e9fee_b.jpg>
+01-07-2010; JL; 10. Lindtorp; ; 1h; PP; <7><3S>
+    Just as I thought I was getting comfortable with it all Allan phone me up with a last chance before going back to Copenhagen to try towing. I said yes and got towed up to 300 meters height and then released my thingy and had a mad mad flight down to earth. It was absolutely mental and I was just screaming and giggling the whole way down. Awesome kick!
+29-06-2010; JL; 9. Toftum; ; 4h; PP; <7><3S>; <I https://live.staticflickr.com/65535/4741298211_1fd61e9fee_b.jpg>
     Brilliant session with lots of top landing and take offs. Managed to stay from the beach the whole time and was generally pretty much comfortable with everything. Great fun.
-23-06-2010; JL; Bovbjerg Fyr; ; 4h; PP; <7>
+23-06-2010; JL; 8. Bovbjerg Fyr; ; 4h; PP; <7>
     Another great session at Bovbjerg. This time top starting and just enough wind to keep on hanging. It required care with the flying and I ended up on the beach a few times. Biggest tick was a couple of 100% self supported take-offs from a remoter spot and flying back to the others gaining height. Super satisfying.
-17-06-2010; JL; Bovbjerg; ; 4h; PP; <7><3S>
-    Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with PP; <7> flying all over to the lighthouse which was a great trip.
-21-05-2010; JL; Toftum; ; 1h; PP; <7><3S><T>; <I https://live.staticflickr.com/4071/4647143618_b6e3c8ef71_b.jpg>
+17-06-2010; JL; 7. Bovbjerg; ; 4h; PP; <7><3S>
+    Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with Poul flying all over to the lighthouse which was a great trip.
+21-05-2010; JL; 6. Toftum; ; 1h; PP; <7><3S><T>; <I https://live.staticflickr.com/4071/4647143618_b6e3c8ef71_b.jpg>
     The tick is in the bag! Ever since the first session in Toftum this place remained number one on the ticklist. Great session feeling really in control all the time. The new school wing is really comfortable and launches and handles really smooth. Did 3 succesfull top landings and 2 beach landings. The wind picked up in the end making the last run a bit epic.
-05-05-2010; JL; Hamborg; ; 1h; PP; <7><3S>
+05-05-2010; JL; 5. Hamborg; ; 1h; PP; <7><3S>
     Fully self supported with Poul on the ground obviously. Had some crash landings which I learned a lot from. Landed with my bum on the top  on the slope (controlled)  and in a fence (not controled). 
-02-05-2010; JL; Venø  ; ; 2h; PP; <7> <2S> 
+02-05-2010; JL; 4. Venø  ; ; 2h; PP; <7> <2S> 
     4 runs at Venø with last run unsupported. Sideways winds. Crossed brake launch.
-02-05-2010; JL; Toftum; ; 4h; PP; <7>
+02-05-2010; JL; 3. Toftum; ; 4h; PP; <7>
     Ground control. Crossed brake launch in stronger wind. Hard work.
-24-04-2010; JL; Bovbjerg; ; 2h; PP; <7><3S>  
+24-04-2010; JL; 2. Bovbjerg; ; 2h; PP; <7><3S>  
     3 runs at Bovbjerg. Forward launch.
-24-04-2010; JL; Toftum; ; 5h; PP; <7><1S>
+24-04-2010; JL; 1. Toftum; ; 5h; PP; <7><1S>
     Ground control. Crossed brake launch technique.
 
 ##### Diving #####
@@ -2005,11 +2007,11 @@ Due to some serious partying the day before I managed to forget my harness and c
 15-08-2019; OR; Ven Singlehand; ; ; solo; <8>;
 02-08-2018; OR; Ven Nord; ; ; CW EW; <8><3S><M>;
     Excellent trip. A few dramas. Engine stop on the way into harbour. Nearly struck by lightning in the night.
-14-10-2017; OR; Ockero to Malmo; ; ; HW DS; <8><3S><X><Y><Z>;
+14-10-2017; OR; Ockero to Malmo; ; ; HW DS; <8><3S><X><Y><Z><N https://www.google.com/maps/d/u/0/edit?mid=1qaOy4wPA_D73nmAy1HaLTq4w-kQ&usp=sharing>
     Transport of Spooky from Ockero to Malmo. One long stretch. Extreme. Most of it in pitch black darkness. Cold.
 01-03-1998; OR; Ven Camp; ; ; JR FW; <8><3S><X><A><P http://willerup.com/others/seakayak.jpg>
     Wild trip in kayaks to Ven in the middle of winter. Done as part of preparing for the 1998 Raid Gauloises. 
-19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z><N http://willerup.com/sailing/>
+19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z><N http://willerup.com/sailing/>; <I https://willerup.com/sailing/sr2004/race.jpg>
 19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8><Q><X><M><T><N http://willerup.com/sailing/sr2003.html>
 26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><R><X><X><N http://willerup.com/boat/bath.html>
     Possibly the maddest trip ever. In a sport that if not often associated with adrenalinus maximus
@@ -2051,10 +2053,15 @@ Due to some serious partying the day before I managed to forget my harness and c
     Although the wind was fading, we had some good practice with the 12 and 16m2
 11-08-2007; JL; Ejsing; ; 1h; solo; <8>
     Kitesurfing course. Essential. 
+1-07-1994; SJ; Furesøen; ; 1h; solo; <8>; <I https://willerup.com/windsurfing/fureso.jpg> 
+    Learned to windsurf locally in Holte. 
+
 
 ##### Snowboarding #####
-18-02-2023; CH; Chamonix; ; ; AX, EW; <9><S>
+18-02-2023; CH; Chamonix; ; ; AX, EW; <9><S>; <I https://live.staticflickr.com/65535/52697263575_1d814f7f15_z.jpg>
     5 days of skiing and snowboarding in Cham. Stayed at the Chamoniard Volant like I did first time i 1995. 
+23-02-2005; BS; Bitihorn; ; ; FW, AN; <9><S><N https://willerup.com/bitihorn/index.html>; <I https://willerup.com/pics/75144243_e40d9388e1_w.jpg>
+    Winter ascent of the main feature of Beitostoelen
 14-05-2001; CH; Chamonix; ; ; solo; <9><S>
     Got the randonee skis out and revisited the Grande Jorasse basin where Fred and I had been 7 years ago. Went up to Refuge Lascaux (2450m) and headed back. Brilliant trip. 6 hours
 29-04-2001; LG; La Grave; ; ; solo; <9><S>
@@ -2079,7 +2086,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Despite quite crazy conditions (fluffy snow, sun, fog, snowstorm, rain, slush - all in a day) we managed to get some good stuff done. Good jumps.
 11-02-2001; LG; La Grave; ; ; DS; <9>; <I https://live.staticflickr.com/33/67874261_e6d0a62cbc_b.jpg>
     David and Annabel joined me for the evening and we had a good day skiing/boarding. Still plenty of deep snow
-10-02-2001; LG; La Grave; ; ; RG; <9>
+10-02-2001; LG; La Grave; ; ; RG; <9> 
     It had snowed a lot the previous day and we arrived to a perfect morning. Perfect snow, lots of it, no people
 04-02-2001; LG; La Grave; ; ; solo; <9>
     Ice climbed Saturday and it then snowed 30cm during the night and Sunday was a real treat on the gun. Excellent cornice surfing on the Vallons side. I think I've found my favourite line in La Grave. If only the lift didn't close so early (4pm). I was the third one down the slope in the morning though!
@@ -2103,10 +2110,16 @@ Due to some serious partying the day before I managed to forget my harness and c
     A week to check out the powder in Chamonix and La Grave. Great trip together with the skiers Jesper Ritzau and Lars Klammer. No trip report. No photos. But we have a fully edited movie (9 MB!)
 01-01-1997; GR; Col de Palet; ; 4h; solo; <9><X>; <I https://live.staticflickr.com/30/65885904_a462ae6e35_b.jpg>
     Did the Col de Palet to Champagny run (alone!). A bit irresponsible in retrospect. Desperate on a snowboard
-01-01-1996; CH; Chamonix; ; ; FW; <9>
+20-12-1996; CH; Chamonix; ; ; FW; <9>
     We only had three days as the following days was ear marked for Christmas purposes. There where a lot of nice offpiste riding
-01-01-1995; CH; Chamonix; ; ; solo; <9>
+10-03-1996; CH; Chamonix; ; ; solo; <9>
     Spent two months in Chamonix, one week in Serre Chevalier (and La Grave) and one week in Val d'Isere. The off piste conditions in Val d'Isere was unbelievably good.
+01-03-1996; LG; La Grave; ; ; LK; <9>
+    First time in La Grave with Lars. What a place.
+01-02-1996; BS; Beitostoelen; ; ; HW, OR; <9>
+    Skiing with family
+01-02-1995; BS; Beitostoelen; ; ; HW; <9>; <I https://willerup.com/snowboard/norje.jpg>
+    Skiing with family
 
 ##### Running #####
 01-07-2017; LD; SLMM 35K; ; 8h; CW TW; <9>; <I https://live.staticflickr.com/4366/35968049080_e8a33776ed_b.jpg>

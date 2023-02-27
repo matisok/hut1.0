@@ -11,7 +11,8 @@
 <meta property="og:image"              content="http://willerup.com/climbing/routes/bernal.jpg" /> -->
 
 <link rel="apple-touch-icon" href="/custom_icon.png"/>
-<title>{NAME}'s Tiklog</title>
+<title>Willerup</title>
+<!-- title>Willerup {NAME}'s Tiklog</title -->
 <!-- Changed by: climbs.pl {DATE} -->
 <style> 
     body {
@@ -23,7 +24,8 @@
     th, td { vertical-align: top;}
     h2 { font-size: x-large;
     margin-bottom: 4px;
-    border-bottom: 1pt solid rgb(0, 0, 0);
+    color: cornflowerblue;
+    /* border-bottom: 1pt solid rgb(0, 0, 0); */
   }
     .tiny { font-size: small;
             color: slategray;
@@ -112,35 +114,19 @@
   overflow: hidden;
   background-color: white;
   position: fixed;
-  top: 0;
+  bottom: 0;
   width: 100%;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar a:hover {
-  background: #ddd;
-  color: black;
 }
 
 .main {
   padding: 16px;
-  margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
-
 </style>
 </head>
 <body>
 <div class="navbar">
+  <hr>
   <script language="JavaScript">
     function MM_jumpMenu(targ,selObj,restore){ //v3.0
         eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -149,50 +135,48 @@
     </script>
 <form name="form1">
         <select name="menu1" onChange="MM_jumpMenu('parent',this,0)">
-            <option selected>Views</option>
-            <option value="mw-people.html">People</option>
-            <option value="mw-area.html">Area</option>
-            <option value="mw-grade.html">Grade</option>
-            <option value="mw-quality.html">Type</option>
-            <option value="mw-photo.html">Photo</option>
-            <option value="mw-date.html">Now</option>
-            <option value="mw-date.html#202008">2020</option>
-            <option value="mw-date.html#201901">2019</option>
-            <option value="mw-date.html#201801">2018</option>
-            <option value="mw-date.html#201701">2017</option>
-            <option value="mw-date.html#201601">2016</option>
-            <option value="mw-date.html#201506">2015</option>
-            <option value="mw-date.html#201401">2014</option>
-            <option value="mw-date.html#201303">2013</option>
-            <option value="mw-date.html#201203">2012</option>
-            <option value="mw-date.html#201102">2011</option>
-            <option value="mw-date.html#201001">2010</option>
-            <option value="mw-date.html#200904">2009</option>
-            <option value="mw-date.html#200803">2008</option>
-            <option value="mw-date.html#200701">-</option>
-            <option value="mw-date.html#200602">2006</option>
-            <option value="mw-date.html#200503">2005</option>
-            <option value="mw-date.html#200401">2004</option>
-            <option value="mw-date.html#200301">2003</option>
-            <option value="mw-date.html#200201">2002</option>
-            <option value="mw-date.html#200102">2001</option>
-            <option value="mw-date.html#200002">2000</option>
-            <option value="mw-date.html#199901">1999</option>
-            <option value="mw-date.html#199801">1998</option>
-            <option value="mw-date.html#199703">1997</option>
-            <option value="mw-date.html#199605">1996</option>
-            <option value="mw-date.html#199501">1995</option>
-            <option value="mw-date.html#199401">1994</option>
-            <option value="mw-date.html#199201">1992</option>
+            <option selected>Date</option>
+            <option value="mw-photo.html">Now</option>
+            <option value="mw-photo.html#202008">2020</option>
+            <option value="mw-photo.html#201901">2019</option>
+            <option value="mw-photo.html#201801">2018</option>
+            <option value="mw-photo.html#201701">2017</option>
+            <option value="mw-photo.html#201601">2016</option>
+            <option value="mw-photo.html#201506">2015</option>
+            <option value="mw-photo.html#201401">2014</option>
+            <option value="mw-photo.html#201303">2013</option>
+            <option value="mw-photo.html#201203">2012</option>
+            <option value="mw-photo.html#201102">2011</option>
+            <option value="mw-photo.html#201001">2010</option>
+            <option value="mw-photo.html#200904">2009</option>
+            <option value="mw-photo.html#200803">2008</option>
+            <option value="mw-photo.html#200701">-</option>
+            <option value="mw-photo.html#200602">2006</option>
+            <option value="mw-photo.html#200503">2005</option>
+            <option value="mw-photo.html#200401">2004</option>
+            <option value="mw-photo.html#200301">2003</option>
+            <option value="mw-photo.html#200201">2002</option>
+            <option value="mw-photo.html#200102">2001</option>
+            <option value="mw-photo.html#200002">2000</option>
+            <option value="mw-photo.html#199901">1999</option>
+            <option value="mw-photo.html#199801">1998</option>
+            <option value="mw-photo.html#199703">1997</option>
+            <option value="mw-photo.html#199605">1996</option>
+            <option value="mw-photo.html#199501">1995</option>
+            <option value="mw-photo.html#199401">1994</option>
+            <option value="mw-photo.html#199201">1992</option>
           </select>
-          <i>{NAME}'s ticks {DATE}</i>
+
+ | <a href="mw-area.html">Area</a> | <a href="mw-people.html">People</a> | <a href="mw-quality.html">Medium</a> | <a href="mw-grade.html">Grade</a>
 </form>
 <hr>
 </div>
-
 <div class=main>
-
-{LEGEND}
+<p>
+  Fred and Mathias got into climbing in the nineties and this interest led them to travel the world 
+  doing various great sports together and with different people we met along the way. From early on 
+  we captured the experiences in text and photos, and uploaded them to this website.
+</p>
 
 {DATA}
 

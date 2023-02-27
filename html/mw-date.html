@@ -11,8 +11,9 @@
 <meta property="og:image"              content="http://willerup.com/climbing/routes/bernal.jpg" /> -->
 
 <link rel="apple-touch-icon" href="/custom_icon.png"/>
-<title>Mathias's Tiklog</title>
-<!-- Changed by: climbs.pl 21 February 23
+<title>Willerup</title>
+<!-- title>Willerup Mathias's Tiklog</title -->
+<!-- Changed by: climbs.pl 27 February 23
  -->
 <style> 
     body {
@@ -24,7 +25,8 @@
     th, td { vertical-align: top;}
     h2 { font-size: x-large;
     margin-bottom: 4px;
-    border-bottom: 1pt solid rgb(0, 0, 0);
+    color: cornflowerblue;
+    /* border-bottom: 1pt solid rgb(0, 0, 0); */
   }
     .tiny { font-size: small;
             color: slategray;
@@ -113,35 +115,19 @@
   overflow: hidden;
   background-color: white;
   position: fixed;
-  top: 0;
+  bottom: 0;
   width: 100%;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar a:hover {
-  background: #ddd;
-  color: black;
 }
 
 .main {
   padding: 16px;
-  margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
-
 </style>
 </head>
 <body>
 <div class="navbar">
+  <hr>
   <script language="JavaScript">
     function MM_jumpMenu(targ,selObj,restore){ //v3.0
         eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
@@ -150,65 +136,60 @@
     </script>
 <form name="form1">
         <select name="menu1" onChange="MM_jumpMenu('parent',this,0)">
-            <option selected>Views</option>
-            <option value="mw-people.html">People</option>
-            <option value="mw-area.html">Area</option>
-            <option value="mw-grade.html">Grade</option>
-            <option value="mw-quality.html">Type</option>
-            <option value="mw-photo.html">Photo</option>
-            <option value="mw-date.html">Now</option>
-            <option value="mw-date.html#202008">2020</option>
-            <option value="mw-date.html#201901">2019</option>
-            <option value="mw-date.html#201801">2018</option>
-            <option value="mw-date.html#201701">2017</option>
-            <option value="mw-date.html#201601">2016</option>
-            <option value="mw-date.html#201506">2015</option>
-            <option value="mw-date.html#201401">2014</option>
-            <option value="mw-date.html#201303">2013</option>
-            <option value="mw-date.html#201203">2012</option>
-            <option value="mw-date.html#201102">2011</option>
-            <option value="mw-date.html#201001">2010</option>
-            <option value="mw-date.html#200904">2009</option>
-            <option value="mw-date.html#200803">2008</option>
-            <option value="mw-date.html#200701">-</option>
-            <option value="mw-date.html#200602">2006</option>
-            <option value="mw-date.html#200503">2005</option>
-            <option value="mw-date.html#200401">2004</option>
-            <option value="mw-date.html#200301">2003</option>
-            <option value="mw-date.html#200201">2002</option>
-            <option value="mw-date.html#200102">2001</option>
-            <option value="mw-date.html#200002">2000</option>
-            <option value="mw-date.html#199901">1999</option>
-            <option value="mw-date.html#199801">1998</option>
-            <option value="mw-date.html#199703">1997</option>
-            <option value="mw-date.html#199605">1996</option>
-            <option value="mw-date.html#199501">1995</option>
-            <option value="mw-date.html#199401">1994</option>
-            <option value="mw-date.html#199201">1992</option>
+            <option selected>Date</option>
+            <option value="mw-photo.html">Now</option>
+            <option value="mw-photo.html#202008">2020</option>
+            <option value="mw-photo.html#201901">2019</option>
+            <option value="mw-photo.html#201801">2018</option>
+            <option value="mw-photo.html#201701">2017</option>
+            <option value="mw-photo.html#201601">2016</option>
+            <option value="mw-photo.html#201506">2015</option>
+            <option value="mw-photo.html#201401">2014</option>
+            <option value="mw-photo.html#201303">2013</option>
+            <option value="mw-photo.html#201203">2012</option>
+            <option value="mw-photo.html#201102">2011</option>
+            <option value="mw-photo.html#201001">2010</option>
+            <option value="mw-photo.html#200904">2009</option>
+            <option value="mw-photo.html#200803">2008</option>
+            <option value="mw-photo.html#200701">-</option>
+            <option value="mw-photo.html#200602">2006</option>
+            <option value="mw-photo.html#200503">2005</option>
+            <option value="mw-photo.html#200401">2004</option>
+            <option value="mw-photo.html#200301">2003</option>
+            <option value="mw-photo.html#200201">2002</option>
+            <option value="mw-photo.html#200102">2001</option>
+            <option value="mw-photo.html#200002">2000</option>
+            <option value="mw-photo.html#199901">1999</option>
+            <option value="mw-photo.html#199801">1998</option>
+            <option value="mw-photo.html#199703">1997</option>
+            <option value="mw-photo.html#199605">1996</option>
+            <option value="mw-photo.html#199501">1995</option>
+            <option value="mw-photo.html#199401">1994</option>
+            <option value="mw-photo.html#199201">1992</option>
           </select>
-          <i>Mathias's ticks 21 February 23
-</i>
+
+ | <a href="mw-area.html">Area</a> | <a href="mw-people.html">People</a> | <a href="mw-quality.html">Medium</a> | <a href="mw-grade.html">Grade</a>
 </form>
 <hr>
 </div>
-
 <div class=main>
-
-&#129336;Whip &#128175;Top100 &#129344;Bail &#129528;Wish 
-        
-        &#128128;Suicide &#128170;Achievement &#128293;Mindblower &#127868;Aid &#129422;Multipitch
+<p>
+  Fred and Mathias got into climbing in the nineties and this interest led them to travel the world 
+  doing various great sports together and with different people we met along the way. From early on 
+  we captured the experiences in text and photos, and uploaded them to this website.
+</p>
 
 <h2><a name="202302">February 2023</a></h2>
 <hr class=grey>
 <div><b>Chamonix</b> ,
-                 &#127938; &#128095;  &#127780; <a href="mw-people.html#AX">AX</a>, <a href="mw-people.html#EW">EW</a>
+                 &#127938; &#128095;  &#127780; <a href="mw-people.html#AX">AX</a>, <a href="mw-people.html#EW">EW</a>
 <div class=comment>5 days of skiing and snowboarding in Cham. Stayed at the Chamoniard Volant like I did first time i 1995. </div></div><hr class=grey><div><b>Bakveien</b> W4,
                 100m &#9935;  &#127775; alt <a href="mw-people.html#JC">JC</a>
 <div class=comment>Excellent route to finish the weekend. The ice was plenty thick in the narrow gully. Done in 2 pitches.</div></div><hr class=grey><div><b>Førerkomiteen</b> W4+,
                 60m &#9935;  &#11088;&#128175;&#128293; alt <a href="mw-people.html#JC">JC</a>
 <div class=comment>Off the beaten track this monster route needs all the dedication you can muster. Approach was done in snow shoes and was tough going. The reward was a sustained climb from the base all the way to the top. I was at my absolute limit.</div></div><hr class=grey><div><b>Sabotoerfossen</b> W5,
-                200m &#9935;  &#11088; alt <a href="mw-people.html#JC">JC</a>
-<div class=comment>I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 ptiches</div></div><hr class=grey>
+                200m &#9935;  &#11088; alt <a href="mw-people.html#JC">JC</a>
+<div class=comment>I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 pitches</div></div><hr class=grey>
 
 <h2><a name="202208">August 2022</a></h2>
 <hr class=grey>
@@ -276,7 +257,7 @@
                 15m   &#11088;&#128293;<a href="https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8" class="photo">&#128248;</a> sec <a href="mw-people.html#TW">TW</a>
 <div class=comment>Excellent route at Binghult. </div></div><hr class=grey><div><b>Stålfål</b> E1 5b,
                 15m   &#11088; lead <a href="mw-people.html#TW">TW</a>
-<div class=comment>Climbed next to Pete Whitaker and his super climber of a girlfriend.</div></div><hr class=grey><div><b>En liten bit granit</b> E2 5c,
+<div class=comment>Climbed next to crackmaster Pete Whitaker and his super crack climber of a girlfriend.</div></div><hr class=grey><div><b>En liten bit granit</b> E2 5c,
                 15m   &#11088;<a href="https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9" class="photo">&#128248;</a> sec <a href="mw-people.html#TW">TW</a>
 <div class=comment>Excellent lead by Tim.</div></div><hr class=grey><div><b>Bjornbarssnarigt</b> E2 5c,
                 20m   &#11088;&#129336; lead- <a href="mw-people.html#TW">TW</a>
@@ -769,7 +750,7 @@
 <h2><a name="201710">October 2017</a></h2>
 <hr class=grey>
 <div><b>Ockero to Malmo</b> ,
-                 &#127940; &#9973;  &#11088;&#128128;&#127788;&#127768; <a href="mw-people.html#HW">HW</a> <a href="mw-people.html#DS">DS</a>
+                 &#127940; &#9973;  &#11088;&#128128;&#127788;&#127768;<a href="https://www.google.com/maps/d/u/0/edit?mid=1qaOy4wPA_D73nmAy1HaLTq4w-kQ&usp=sharing" class="report">&#128218;Report</a> <a href="mw-people.html#HW">HW</a> <a href="mw-people.html#DS">DS</a>
 <div class=comment>Transport of Spooky from Ockero to Malmo. One long stretch. Extreme. Most of it in pitch black darkness. Cold.</div></div><hr class=grey><div><b>Alcove Crack</b> HVS 5a,
                 60ft   &#127775;  lead <a href="mw-people.html#RS">RS</a> <a href="mw-people.html#MB">MB</a>
 <div class=comment>Led the one Royston did the day before. A perfect route for rainy conditions</div></div><hr class=grey><div><b>Chequers Crack</b> HVS 5c,
@@ -983,7 +964,7 @@
 </div><hr class=grey><div><b>Monahiki Elia</b> f6a+,
                 60ft   &#11088; lead <a href="mw-people.html#TW">TW</a>
 <div class=comment>Back at sport climbing like the old days! Great place.</div></div><hr class=grey><div><b>DNA</b> f7a,
-                60ft   &#129336; &#127775; lead- <a href="mw-people.html#TW">TW</a>
+                60ft   &#129336; &#127775; lead- <a href="mw-people.html#TW">TW</a>
 <div class=comment>Took a proper whipper 3/4 way up</div></div><hr class=grey><div><b>Joy in the Garden</b> ,
                 60ft   &#11088; lead <a href="mw-people.html#TW">TW</a>
 <div class=comment>Warm up</div></div><hr class=grey><div><b>Remember Wadi Rum</b> f6c,
@@ -1042,7 +1023,7 @@
 <hr class=grey>
 <div><b>Plugghaesten</b> E1 5b,
                 15m   &#129336;&#127768;<a href="http://willerup.com/climbing/lexbyabseil.html" class="report">&#128218;Report</a>  lead- <a href="mw-people.html#KR">KR</a>
-<div class=comment>Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more.</div></div><hr class=grey><div><b>Originalruten</b> VS 4c,
+<div class=comment>Seemed like the easiest way up from the ledge. Great route  shame I had to hang on the gear. Need more jamming practice. Lots more. Epic abseil (see report)</div></div><hr class=grey><div><b>Originalruten</b> VS 4c,
                 20m   sec <a href="mw-people.html#FZ">FZ</a>
 </div><hr class=grey><div><b>Mefisto</b> f6c,
                 60ft   &#129336; lead- <a href="mw-people.html#KR">KR</a>
@@ -1178,7 +1159,7 @@
                 110ft   &#11088; lead <a href="mw-people.html#MB">MB</a>
 </div><hr class=grey><div><b>Tactician</b> HVS 5a,
                 110ft   &#11088; sec <a href="mw-people.html#MB">MB</a>
-</div><hr class=grey><div><b>Bovbjerg Fyr</b> ,
+</div><hr class=grey><div><b>11. Bovbjerg Fyr</b> ,
                 3h &#129666;  &#11088; <a href="mw-people.html#PP">PP</a>
 <div class=comment>Joined the yearly parafun meet. Awesome to be back in the air. Happy I hadn't forgotten. Brilliant to be back with the club. </div></div><hr class=grey>
 
@@ -1240,39 +1221,39 @@
 
 <h2><a name="201007">July 2010</a></h2>
 <hr class=grey>
-<div><b>Lindtorp</b> ,
+<div><b>10. Lindtorp</b> ,
                 1h &#129666;  &#11088; <a href="mw-people.html#PP">PP</a>
-<div class=comment>Just as I thought I was getting comfortable with it all Allan phone me up with a last chance before going back to CPH to try towing. I said yes and got towed up to 300 meters height and then released my thingy and had a mad mad flight down to earth. It was absolutely mental and I was just screaming and giggling the whole way down. Awesome kick!</div></div><hr class=grey>
+<div class=comment>Just as I thought I was getting comfortable with it all Allan phone me up with a last chance before going back to Copenhagen to try towing. I said yes and got towed up to 300 meters height and then released my thingy and had a mad mad flight down to earth. It was absolutely mental and I was just screaming and giggling the whole way down. Awesome kick!</div></div><hr class=grey>
 
 <h2><a name="201006">June 2010</a></h2>
 <hr class=grey>
-<div><b>Toftum</b> ,
+<div><b>9. Toftum</b> ,
                 4h &#129666;  &#11088; <a href="mw-people.html#PP">PP</a>
-<div class=comment>Brilliant session with lots of top landing and take offs. Managed to stay from the beach the whole time and was generally pretty much comfortable with everything. Great fun.</div></div><hr class=grey><div><b>Bovbjerg Fyr</b> ,
+<div class=comment>Brilliant session with lots of top landing and take offs. Managed to stay from the beach the whole time and was generally pretty much comfortable with everything. Great fun.</div></div><hr class=grey><div><b>8. Bovbjerg Fyr</b> ,
                 4h &#129666;  <a href="mw-people.html#PP">PP</a>
 <div class=comment>Another great session at Bovbjerg. This time top starting and just enough wind to keep on hanging. It required care with the flying and I ended up on the beach a few times. Biggest tick was a couple of 100% self supported take-offs from a remoter spot and flying back to the others gaining height. Super satisfying.</div></div><hr class=grey><div><b>Bovbjerg</b> ,
                 1h &#127940; &#9973;  <a href="mw-people.html#PP">PP</a>
-</div><hr class=grey><div><b>Bovbjerg</b> ,
+</div><hr class=grey><div><b>7. Bovbjerg</b> ,
                 4h &#129666;  &#11088; <a href="mw-people.html#PP">PP</a>
-<div class=comment>Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with PP; <7> flying all over to the lighthouse which was a great trip.</div></div><hr class=grey>
+<div class=comment>Awesome session learning to beach start. Quite tricky and also a notch up on the danger scale. Really good fun though flying low over the sand dunes and taking off and landing constantly. Also went with Poul flying all over to the lighthouse which was a great trip.</div></div><hr class=grey>
 
 <h2><a name="201005">May 2010</a></h2>
 <hr class=grey>
-<div><b>Toftum</b> ,
+<div><b>6. Toftum</b> ,
                 1h &#129666;  &#11088;&#128175; <a href="mw-people.html#PP">PP</a>
-<div class=comment>The tick is in the bag! Ever since the first session in Toftum this place remained number one on the ticklist. Great session feeling really in control all the time. The new school wing is really comfortable and launches and handles really smooth. Did 3 succesfull top landings and 2 beach landings. The wind picked up in the end making the last run a bit epic.</div></div><hr class=grey><div><b>Hamborg</b> ,
+<div class=comment>The tick is in the bag! Ever since the first session in Toftum this place remained number one on the ticklist. Great session feeling really in control all the time. The new school wing is really comfortable and launches and handles really smooth. Did 3 succesfull top landings and 2 beach landings. The wind picked up in the end making the last run a bit epic.</div></div><hr class=grey><div><b>5. Hamborg</b> ,
                 1h &#129666;  &#11088; <a href="mw-people.html#PP">PP</a>
-<div class=comment>Fully self supported with Poul on the ground obviously. Had some crash landings which I learned a lot from. Landed with my bum on the top  on the slope (controlled)  and in a fence (not controled). </div></div><hr class=grey><div><b>Venø  </b> ,
+<div class=comment>Fully self supported with Poul on the ground obviously. Had some crash landings which I learned a lot from. Landed with my bum on the top  on the slope (controlled)  and in a fence (not controled). </div></div><hr class=grey><div><b>4. Venø  </b> ,
                 2h &#129666;   &#127775;  <a href="mw-people.html#PP">PP</a>
-<div class=comment>4 runs at Venø with last run unsupported. Sideways winds. Crossed brake launch.</div></div><hr class=grey><div><b>Toftum</b> ,
+<div class=comment>4 runs at Venø with last run unsupported. Sideways winds. Crossed brake launch.</div></div><hr class=grey><div><b>3. Toftum</b> ,
                 4h &#129666;  <a href="mw-people.html#PP">PP</a>
 <div class=comment>Ground control. Crossed brake launch in stronger wind. Hard work.</div></div><hr class=grey>
 
 <h2><a name="201004">April 2010</a></h2>
 <hr class=grey>
-<div><b>Bovbjerg</b> ,
+<div><b>2. Bovbjerg</b> ,
                 2h &#129666;  &#11088;   <a href="mw-people.html#PP">PP</a>
-<div class=comment>3 runs at Bovbjerg. Forward launch.</div></div><hr class=grey><div><b>Toftum</b> ,
+<div class=comment>3 runs at Bovbjerg. Forward launch.</div></div><hr class=grey><div><b>1. Toftum</b> ,
                 5h &#129666;  &#10024; <a href="mw-people.html#PP">PP</a>
 <div class=comment>Ground control. Crossed brake launch technique.</div></div><hr class=grey>
 
@@ -1411,7 +1392,7 @@
 </div><hr class=grey><div><b>Ocean Slabs</b> AD,
                 600m   &#11088;&#128175; alt <a href="mw-people.html#AW">AW</a>
 </div><hr class=grey><div><b>Rijm Assaf</b> E2 6a,
-                600m   alt <a href="mw-people.html#AW">AW</a>
+                600m   &#11088; alt <a href="mw-people.html#AW">AW</a>
 </div><hr class=grey><div><b>Merlin's Wand</b> E2 6a,
                 600m   &#11088; alt <a href="mw-people.html#AW">AW</a>
 </div><hr class=grey><div><b>Storm in the Desert</b> E2 6a,
@@ -1446,6 +1427,12 @@
                 14h &#129686;  &#11088; <a href="mw-people.html#MB">MB</a> <a href="mw-people.html#RS">RS</a>
 <div class=comment>13 hours spankotronic. With John Stevens</div></div><hr class=grey>
 
+<h2><a name="200502">February 2005</a></h2>
+<hr class=grey>
+<div><b>Bitihorn</b> ,
+                 &#127938; &#128095;  &#127780;<a href="https://willerup.com/bitihorn/index.html" class="report">&#128218;Report</a> <a href="mw-people.html#FW">FW</a>, <a href="mw-people.html#AN">AN</a>
+<div class=comment>Winter ascent of the main feature of Beitostoelen</div></div><hr class=grey>
+
 <h2><a name="200411">November 2004</a></h2>
 <hr class=grey>
 <div><b>Agen Allwedd</b> ,
@@ -1455,7 +1442,7 @@
 <h2><a name="200406">June 2004</a></h2>
 <hr class=grey>
 <div><b>Sealand Round</b> ,
-                 &#127940; &#9973;  &#11088;&#127788;&#127768;<a href="http://willerup.com/sailing/" class="report">&#128218;Report</a> <a href="mw-people.html#AN">AN</a> <a href="mw-people.html#UH">UH</a> <a href="mw-people.html#FW">FW</a>
+                 &#127940; &#9973;  &#11088;&#127788;&#127768;<a href="http://willerup.com/sailing/" class="report">&#128218;Report</a> <a href="mw-people.html#AN">AN</a> <a href="mw-people.html#UH">UH</a> <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey>
 
 <h2><a name="200405">May 2004</a></h2>
@@ -1509,7 +1496,7 @@
 <h2><a name="200308">August 2003</a></h2>
 <hr class=grey>
 <div><b>Flopp</b> V,
-                15m   <a href="https://www.youtube.com/watch?v=P19bYP63OUU" class="map">&#127916;Video</a> lead <a href="mw-people.html#JR">JR</a> <a href="mw-people.html#FW">FW</a> <a href="mw-people.html#AN">AN</a> <a href="mw-people.html#TR">TR</a> <a href="mw-people.html#HW">HW</a>
+                15m   <a href="https://www.youtube.com/watch?v=P19bYP63OUU" class="map">&#127916;Video</a> lead <a href="mw-people.html#JR">JR</a> <a href="mw-people.html#FW">FW</a> <a href="mw-people.html#AN">AN</a> <a href="mw-people.html#TR">TR</a> <a href="mw-people.html#HW">HW</a>
 <div class=comment>Another fun weekend of mixed climbing and scuba diving.</div></div><hr class=grey><div><b>Handjam</b> IV,
                 18m   &#127775; Excellent jamming route. lead <a href="mw-people.html#JR">JR</a>
 </div><hr class=grey><div><b>Aakersberget</b> ,
@@ -1998,7 +1985,7 @@
                 2h &#129686;  &#128128; <a href="mw-people.html#RR">RR</a> <a href="mw-people.html#LH">LH</a>
 <div class=comment>Brilliant trip. Laerke's first ever caving trip and she was so on for it  that we decided to do the full Goaty - into the letterbox and back. It's  f*cking scary in there - sort of smells of evil and it was a stupendious effort from the girls.</div></div><hr class=grey><div><b>Fairy/Hillier's Cave</b> ,
                 4h &#129686;  <a href="mw-people.html#FW">FW</a> <a href="mw-people.html#TR">TR</a> <a href="mw-people.html#RR">RR</a>
-<div class=comment>The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back.</div></div><hr class=grey><div><b>Ogof y Daren Cilau</b> ,
+<div class=comment>The Rhoades sisters had an unsettled bill in the sump of this fine system.  We went all the way  through Cambridge Grotto to the Red Room. Good to be  back. A photo from this trip was subsequently used in a caving instruction book.</div></div><hr class=grey><div><b>Ogof y Daren Cilau</b> ,
                 2h &#129686;  <a href="mw-people.html#FW">FW</a> <a href="mw-people.html#RR">RR</a>
 <div class=comment>Oh baby! This hole had been on the ticklist for quite some time and still  is! We had to turn back approx 350 meters in through the 530m crawl that  guards the cave. RR had some bad equipment and was freezing and we decided to go back before it would be too late. I have the feeling we will be back - soon.</div></div><hr class=grey>
 
@@ -2711,7 +2698,7 @@
 <div class=comment>Big tube with mud and good formations  second level round trip with  somewhat technical climbing and crawling. Long. Very visited</div></div><hr class=grey><div><b>Lanquin</b> ,
                 3h &#129686;  <a href="mw-people.html#FW">FW</a>
 <div class=comment>Big chambers  bats  spiders  lake with potential  river  lots of potential  side passages  one easy squeeze. Total virgin experience. Only very few  traces of humans. Unique. FW managed to catch the 'Bat Disease' or  Histoplasmosis as it is apparently called - pretty nasty  lasted for  weeks  but he survived. Only he nows sleeps hanging from the ceiling </div></div><hr class=grey><div><b>Chop Chop Machette Galore</b> HVS 5b,
-                100m   &#11088;<a href="http://willerup.com/climbing/machete.html" class="report">&#128218;Report</a> alt <a href="mw-people.html#FW">FW</a>
+                100m   &#11088;<a href="http://willerup.com/climbing/machete.html" class="report">&#128218;Report</a> alt <a href="mw-people.html#FW">FW</a>
 <div class=comment>New route. Good experience. A festive climb.</div></div><hr class=grey><div><b>Lanquin</b> ,
                 1h &#129686;  &#11088;&#128293;&#128175; <a href="mw-people.html#FW">FW</a>
 <div class=comment>Psycedelic praying with candles etc. reentry with smoke and strange  sounds. Photos</div></div><hr class=grey>
@@ -3065,7 +3052,7 @@
 <div class=comment>My first proper iceclimb. Good stuff  although a bit thin and delicate at places. Released a huge rock which thundered down the gully which was packed with 4-5 other teams. Not good! Nobody got hurt luckily.</div></div><hr class=grey><div><b>St. Cuthberts Swallet</b> ,
                 2h &#129686;  <a href="mw-people.html#DG">DG</a>
 <div class=comment>An extremely beautiful cave. With Andy Sparrow</div></div><hr class=grey><div><b>Aconcagua</b> TD,
-                6000m &#127956;  &#129344;&#127788;&#128170;<a href="http://willerup.com/aconcagua/" class="report">&#128218;Report</a> <a href="mw-people.html#SF">SF</a> <a href="mw-people.html#FW">FW</a>
+                6000m &#127956;  &#129344;&#127788;&#128170;<a href="http://willerup.com/aconcagua/" class="report">&#128218;Report</a> <a href="mw-people.html#SF">SF</a> <a href="mw-people.html#FW">FW</a>
 <div class=comment>900 meters from the top.</div></div><hr class=grey><div><b>Wye Valley 19K</b> ,
                 2h05m &#127938; &#128095;  <a href="mw-people.html#TW">TW</a>
 <div class=comment>After work run. I left the field after Devils Pulpit and was alone until the last road section near Chepstow. Fine conditions. Big bloody blister on left toe.</div></div><hr class=grey><div><b>Wye Valley 19K</b> ,
@@ -3160,6 +3147,12 @@
                 4h &#127938; &#128095;  &#128128; solo
 <div class=comment>Did the Col de Palet to Champagny run (alone!). A bit irresponsible in retrospect. Desperate on a snowboard</div></div><hr class=grey>
 
+<h2><a name="199612">December 1996</a></h2>
+<hr class=grey>
+<div><b>Chamonix</b> ,
+                 &#127938; &#128095;  <a href="mw-people.html#FW">FW</a>
+<div class=comment>We only had three days as the following days was ear marked for Christmas purposes. There where a lot of nice offpiste riding</div></div><hr class=grey>
+
 <h2><a name="199610">October 1996</a></h2>
 <hr class=grey>
 <div><b>Grande Veine Bleu</b> f6a,
@@ -3208,11 +3201,19 @@
                 110ft   alt <a href="mw-people.html#JI">JI</a>
 </div><hr class=grey>
 
-<h2><a name="199601">January 1996</a></h2>
+<h2><a name="199603">March 1996</a></h2>
 <hr class=grey>
 <div><b>Chamonix</b> ,
-                 &#127938; &#128095;  <a href="mw-people.html#FW">FW</a>
-<div class=comment>We only had three days as the following days was ear marked for Christmas purposes. There where a lot of nice offpiste riding</div></div><hr class=grey>
+                 &#127938; &#128095;  solo
+<div class=comment>Spent two months in Chamonix, one week in Serre Chevalier (and La Grave) and one week in Val d'Isere. The off piste conditions in Val d'Isere was unbelievably good.</div></div><hr class=grey><div><b>La Grave</b> ,
+                 &#127938; &#128095;  <a href="mw-people.html#LK">LK</a>
+<div class=comment>First time in La Grave with Lars. What a place.</div></div><hr class=grey>
+
+<h2><a name="199602">February 1996</a></h2>
+<hr class=grey>
+<div><b>Beitostoelen</b> ,
+                 &#127938; &#128095;  <a href="mw-people.html#HW">HW</a>, <a href="mw-people.html#OR">OR</a>
+<div class=comment>Skiing with family</div></div><hr class=grey>
 
 <h2><a name="199510">October 1995</a></h2>
 <hr class=grey>
@@ -3280,6 +3281,12 @@
                 27m   &#127775;&#128297; sec <a href="mw-people.html#FW">FW</a> <a href="mw-people.html#DS">DS</a>
 </div><hr class=grey>
 
+<h2><a name="199502">February 1995</a></h2>
+<hr class=grey>
+<div><b>Beitostoelen</b> ,
+                 &#127938; &#128095;  <a href="mw-people.html#HW">HW</a>
+<div class=comment>Skiing with family</div></div><hr class=grey>
+
 <h2><a name="199501">January 1995</a></h2>
 <hr class=grey>
 <div><b>Transcript Direct</b> VS 5a,
@@ -3296,9 +3303,7 @@
                 175ft   &#129422; alt <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>Dives/Better Things</b> HS 4a,
                 210ft   &#127775;&#129422; alt <a href="mw-people.html#FW">FW</a>
-</div><hr class=grey><div><b>Chamonix</b> ,
-                 &#127938; &#128095;  solo
-<div class=comment>Spent two months in Chamonix, one week in Serre Chevalier (and La Grave) and one week in Val d'Isere. The off piste conditions in Val d'Isere was unbelievably good.</div></div><hr class=grey>
+</div><hr class=grey>
 
 <h2><a name="199409">September 1994</a></h2>
 <hr class=grey>
@@ -3314,7 +3319,9 @@
                 2h &#129686;  &#11088;&#128293; <a href="mw-people.html#FW">FW</a>
 <div class=comment>Our first cave ever. Excellent trip. Photo</div></div><hr class=grey><div><b>Swildons Hole</b> ,
                 4h &#129686;  <a href="mw-people.html#FW">FW</a>
-</div><hr class=grey>
+</div><hr class=grey><div><b>Furesøen</b> ,
+                1h &#127940; &#9973;  solo
+<div class=comment>Learned to windsurf locally in Holte. </div></div><hr class=grey>
 
 <h2><a name="199401">January 1994</a></h2>
 <hr class=grey>
@@ -3365,7 +3372,7 @@
 </div><hr class=grey><div><b>The Wire</b> VS,
                 300ft   &#11088;&#128293;&#128128; alt <a href="mw-people.html#FW">FW</a>
 <div class=comment>Wild ride on the wire. Required careful preparation and a full package of yoor.</div></div><hr class=grey><div><b>El Regreso del Patron</b> f7a,
-                   &#128297;  alt- <a href="mw-people.html#FW">FW</a>
+                   &#128297;<a href="https://willerup.com/climbing/tenerife.html" class="report">&#128218;Report</a> alt- <a href="mw-people.html#FW">FW</a>
 <div class=comment>We didn't have a topo at this time and the line looked reasonable. It wasn't so we went off route to easier ground before the crux</div></div><hr class=grey><div><b>Barrio Conflictivo</b> f6a+,
                    &#127775;&#128297; lead <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>Esponlon del Rampa</b> f6a,
@@ -3373,7 +3380,7 @@
 </div><hr class=grey><div><b>Papeo Chachi</b> f6a,
                    &#128297;  <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>Super Lopez</b> f6b,
-                   &#128297;  <a href="mw-people.html#FW">FW</a>
+                   &#128297; <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>McNesio</b> f6a,
                    &#128297;  <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>Diedre</b> IV+,
@@ -3384,6 +3391,12 @@
                    &#127775;&#128297; sec- <a href="mw-people.html#FW">FW</a>
 </div><hr class=grey><div><b>El Senor de las Bestitas</b> f6b,
                    &#128297;  lead <a href="mw-people.html#FW">FW</a>
+</div><hr class=grey>
+
+<h2><a name="199301">January 1993</a></h2>
+<hr class=grey>
+<div><b>Many Routes</b> f6a,
+                   &#128297;<a href="https://willerup.com/climbing/elchorro93.html" class="report">&#128218;Report</a> alt <a href="mw-people.html#DS">DS</a>
 </div><hr class=grey>
 
 <h2><a name="199201">January 1992</a></h2>

@@ -417,10 +417,10 @@ while (<IN>) {
                 ($name,$grade,$height,$people,$date,$icons,$stars,$comment) = split('~');
                 $output .= "<hr class=grey>";
                 $output .= "<div><span class=name2>$name </span><span class=grade>$people $date $stars $icons</span></div>";
-                # $output .= "<div class=details>$height / </div> \n ";
-                #if ($comment) {
-                #    $output .= "<div class=comment>$comment</div>\n";
-                #}
+                $output .= "<div class=details></div> \n ";
+                if ($comment) {
+                    $output .= "<div class=comment>$comment</div>\n";
+                }
 
                 $height = $1 if ($height =~ /^([0-9]*)ft/);   # Height is in feet
                 $height = $1*3 if ($height =~ /^([0-9]*)m/);  # Height is in meters
@@ -513,7 +513,7 @@ while (<IN>) {
         # Write PEOPLE
         %stat = ();
         foreach $person(sort keys %cpeople) {
-            $output = "<a name=\"$person\"></a><hr class=grey><h2>$lpeople{$person} ($person)</h2>\n";
+            $output = "<a name=\"$person\"></a><h2>$lpeople{$person} ($person)</h2>\n";
             $output .= "";
             $output .= "";
 
@@ -699,7 +699,7 @@ $stats{$theinit} = $s;
 sub index {
   # Write index file
   open(IN, "$src/index-frame.html");
-  open(OUT, "> $dest/index.html");
+  open(OUT, "> $dest/stats.html");
   while (<IN>) {
     if (/\{LATEST (.)\}/) {
       print OUT $latest{"$1w"};
