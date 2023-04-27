@@ -188,13 +188,10 @@ WW=Will Wray
     New area. Look at PDF. Excellent looking ow.
 
 
-
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
-01-04-2023; BO; Biscali; ED; 1000m; solo; <2><3S><T><M>; <I http://willerup.com/p/bescali.png>
-    Crazy E-MTB ride. Went up the mountain with vague idea of the area. I had spotted smoke in the distance and also firefigthers while driving up in the car. My round trip was committed in the mountain landscape (at some point I could not return back the way I came) and I had to go straight through a full blown forest fire with fire on both sides and embers on the path (!) and to top it up, helicopters and planes above throwing water down. I luckily hit a short window where they were not throwing water down but it was all super intense and quite dangerous. I was most nervous about puncturing the tires on the hot embers as I would be very screwed in that case (with a heavy e-mtb). All went well and I ended up with an eventfull tick in the bag.
 31-03-2023; BO; Limone Via Ferrata; VF; 200m; solo; <2S><S><A><5>
     Lack of partners I ventured into the high alps for this ViaF. Plenty of doubts along the way, but at the end I gave it a try and quiched one third of the way. Mainly due to uncertainty of the conditions of the descent; in particular if it would be snowy/icy, in which case I would be severely screwed. Also I didn't bring any sunscreen or water which was a bad. I will be back.
 # Trip with John.
@@ -1726,6 +1723,14 @@ Due to some serious partying the day before I managed to forget my harness and c
 1-1-1991; KU; Traditionel; D; 22m; sec JR SH; <3S>
       September 1991. My first ever climb. Jesper Ritzau took Simon Hauch and me up this 2 pitch route on Aakermansberget on Kullen. I was pretty excited for almost a whole year having done this one climb. It was good fun and it was the start of something big!
 
+##### Mountain expeditions #####
+
+01-06-2014; CH; Mont Blanc; TD; 4000m; SF; <Q><A>
+    Excellent trip to Mont Blanc with Mark, Sean and Mark. Got to 4000 something and returned.
+01-06-2000; CC; Matterhorn; TD; 4000m; SF FW UH; <N http://willerup.com/matterhorn/>
+    Successfull ascent.
+01-01-1998; MZ; Aconcagua; TD; 6000m; SF FW; <Q><Y><A><N http://willerup.com/aconcagua/>; <I https://willerup.com/aconcagua/img/camp-fire.jpg>
+    900 meters from the top.
 
 ##### Caves #####
 
@@ -1946,14 +1951,22 @@ Due to some serious partying the day before I managed to forget my harness and c
      Entertaining trip. Went all the way past the Drainpipe and up in the  letterbox 
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
-##### Mountains #####
+##### Rides #####
+22-04-2023; SJ; Orø Round; ; ; AX; <2><3S>
+    Excellent motorcycle trip with Axel. Cold but sunny. We visited a local animal park at the island which was brilliant. The talking and laughing parrot Cookie was a highlight. 
+01-04-2023; BO; Biscali; ED; 1000m; solo; <2><3S><T><M>; <I http://willerup.com/p/bescali.png>
+    Crazy E-MTB ride. Went up the mountain with vague idea of the area. I had spotted smoke in the distance and also firefigthers while driving up in the car. My round trip was committed in the mountain landscape (at some point I could not return back the way I came) and I had to go straight through a full blown forest fire with fire on both sides and embers on the path (!) and to top it up, helicopters and planes above throwing water down. I luckily hit a short window where they were not throwing water down but it was all super intense and quite dangerous. I was most nervous about puncturing the tires on the hot embers as I would be very screwed in that case (with a heavy e-mtb). All went well and I ended up with an eventfull tick in the bag.
+01-07-2021; SJ; Geels Skov; ; 1h; LA EW; <2><W><Q><X>
+    Major crash while doing a major gap. Bent a few ribs.   
+01-07-1996; ND; Black Mountains; ; 2h; WW SL; <2><3S>; <I http://willerup.com/others/cdc7.jpg>
+    Hardcore uphill. Fun downhill.  
 
-01-06-2014; CH; Mont Blanc; TD; 4000m; SF; <Q><A><2>
-    Excellent trip to Mont Blanc with Mark, Sean and Mark. Got to 4000 something and returned.
-01-06-2000; CC; Matterhorn; TD; 4000m; SF FW UH; <2><N http://willerup.com/matterhorn/>
-    Successfull ascent.
-01-01-1998; MZ; Aconcagua; TD; 6000m; SF FW; <Q><2><Y><A><N http://willerup.com/aconcagua/>; <I https://willerup.com/aconcagua/img/camp-fire.jpg>
-    900 meters from the top.
+<W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport 
+<D>link <E>multipitch <A>chievement <B>olts
+# <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy 
+<S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+
 
 ##### Paragliding #####
 01-07-2012; JL; 11. Bovbjerg Fyr; ; 3h; PP; <7><3S>

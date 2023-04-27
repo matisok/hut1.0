@@ -27,7 +27,7 @@ $src = ".";
 $dest = "./html";
 
 $Istar1 = '&#9935;'; #ice
-$Istar2 = '&#127956;'; #mountain
+$Istar2 = '&#128692;'; #ride
 $Istar3 = '&#129686;'; #cave &#128294; (flashlight)
 $Istar4 = '&#128074;'; #boulder 
 $Istar5 = '&#128279;'; #Via Ferrata 
