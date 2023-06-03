@@ -126,7 +126,7 @@ LW=Leon Wulff
 MB=<b>Martin Beale</b>
 MF=Mads Fisher-Rasmussen
 MI=Mikkel Bulow Lehnsby
-MM=Michael Hjort
+MH=Michael Hjort
 NE=Neil
 OR=Ole Rasmussen
 PD=Paola Dotti
@@ -171,7 +171,7 @@ WW=Will Wray
 ; WS; Melange, Tullboden; E3; 20m; WISH; <L><P https://photos.app.goo.gl/2uikchMcQ75fXY7F7>
     Corner with narrow finger crack. Start needs climbing wall fitness.
 ; WS; Ingmars Kamin, Valserod; E1; 25m; WISH; <L>
-    Exposed OW. Protection in small cracks in the top section. Go for it.
+    Exposed OW. Protection in small cracks in the top section. Go for it. Bring Cam6.
 ; WS; Black Shiver, Yorkshire; ; ; WISH; <3><L>
     Dangerous SRT.
 ; WS; Freak Brothers, Kullen; E4 5c; 15m; WISH; <L>
@@ -179,7 +179,7 @@ WW=Will Wray
 ; WS; Torsketaket, Valserod; E3 6a; 25m; WISH; <L>
     Recommended from internet.
 ; WS; Svart Intrusion, Dingle; E2 5b; 35m; WISH; <L>
-    Recommended from Niklas. Well protected in the hard bits
+    Recommended from Niklas. Well protected in the hard bits. Bird banned.
 ; WS; Tydliga Hørnet, Haller; E3 5c; 20m; WISH; <L>
     Spotted with Jesper at Haller. Looked amazing. Start in a tree to get to the ledge.
 ; WS; Välkommen till Bohuslän, Bohusporten; E1; 15m; WISH; <L>
@@ -191,6 +191,51 @@ WW=Will Wray
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+03-05-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S>; 
+    Much harder than I remembered.
+03-05-2023; GB; Stopper; E2 5b; 25m; lead MH; <3S><T><A><M>;
+    Tick of the day! I have been wanting to try this for a while and with Michael I felt ready. A sustained jam fest with mostly small hands, fingers and the odd fist. Boy was I glad to get to the top spanked and happy.
+03-05-2023; GB; Robins Crack; E1 5b; 20m; sec MH; <1S>; 
+    Michael was struggling in the crux with a high step. I had my hands full seconding.
+03-05-2023; GB; Spagaten; HVS 5b; 20m; lead MH; <1S>; 
+03-05-2023; GB; Snet til Højre; HVS 5b; 20m; sec MH; <1S>;
+03-05-2023; GB; Espilon; E1 5b; 20m; lead MH; <2S>;
+    Couldnt believe I hadnt climbed this obvious line before. Brilliant. 
+03-05-2023; GB; Babianen; VS 5a; 20m; lead MH; ; 
+03-05-2023; GB; Ormens Fader; VS 4b; 20m; sec MH; ; 
+    Finish to Panda
+03-05-2023; GB; Panda; E1 5b; 20m; lead MH; <3S>; 
+    Had been on my wishlist for a while. Did not disappoint. Brilliant splitter continueing from previous route.
+03-05-2023; GB; Ants in my Pants; E1 5b; 20m; sec MH; <2S>;
+    Tricky start needing umfph and careful route finding combined! 
+03-05-2023; GB; Sneda Sprickan; VS 4b; 20m; lead MH; <1S>; 
+
+# Trip with Fritz.
+21-05-2023; BH; Gulag; E3 6a; 35m; alt FZ; <2S><F><H>; <I http://willerup.com/p/gulag.png>
+    In search of a clean splitter had us engaging in this swedish 6+! Probably E3. Excellent fun. Had to hang a couple of times and on a desperate bulgy, dirty and grassy finish I used a point of aid (foot sling) to reach a branch in the top. Fairly desperate. I have learned now from experience (Sesam) that not all routes get climbed and if they do they may just be done on top rope up to a certain point. This means that you may be climbing something that feels "well trodden" and they after all the physical struggles you may arrive to a horrendous un-groomed finish. Last pitch was a 20 meter pure layback crack. Also a bit dirty but excellent fun. 
+20-05-2023; BH; Hällere den anden; E1 5b; 10m; lead FZ; <2S><S><H>
+    Tricky start.
+20-05-2023; BH; En trumpen vår; E2 5c; 10m; lead FZ; <2S><S><H>
+    Newly opened area (2022) with a handful of 10-15 meter jam test pieces. This one was OW and had me at my limit of capabilities.
+20-05-2023; BH; Stina; S; 25m; sec FZ;
+20-05-2023; BH; Mia; E1 5b; 23m; lead FZ; <2S>
+    Easier graded in the book but the committing finish makes it E1 in my book. 
+20-05-2023; BH; Jakob; E1 5b; 23m; lead FZ; <3S>; <I http://willerup.com/p/jakob.png>
+    Clean granite slanting jaming. Brilliant. 
+20-05-2023; BH; Spectra; E1 5c; 20m; lead FZ; <2S><P https://flic.kr/s/aHBqjAEFry>
+    Fired up for more. The more technical neighbor but not as long and majestic. Fun!  
+20-05-2023; BH; Kaminokul; E1 5b; 30m; lead FZ; <3S><T>; <I http://willerup.com/p/hollander.png>
+    I had spotted this climb a few times earlier and finally it was dry for us to engage. What a line. A crack/chimney from base to top. An absolute full on yoor fest.
+19-05-2023; BH; Queen Elizabeth; VD; 20m; sec FZ;
+    Weird guidebook description. Grade completely off.
+19-05-2023; BH; Prinsessan; E2 5b; 20m; lead FZ; <3S><A>
+    Beautiful line. Hard fingery crack. Glad it went free. Excellent remote location in a the forest near a deep dark lake.
+19-05-2023; BH; Prins Hat; VD; 20m; sec FZ;
+19-05-2023; BH; Store Björn; E1 5b; 20m; lead FZ; <2S>
+    Revisiting this climb to start the morning.
+18-05-2023; BH; Letta Leden; VS 4b; 50m; lead FZ; <2S>
+    Excellent afternoon climb and start to an extended weekend.
 
 31-03-2023; BO; Limone Via Ferrata; VF; 200m; solo; <2S><S><A><5>
     Lack of partners I ventured into the high alps for this ViaF. Plenty of doubts along the way, but at the end I gave it a try and quiched one third of the way. Mainly due to uncertainty of the conditions of the descent; in particular if it would be snowy/icy, in which case I would be severely screwed. Also I didn't bring any sunscreen or water which was a bad. I will be back.
@@ -279,7 +324,7 @@ WW=Will Wray
 25-06-2022; KU; Thunderlips; VS 4c; 10m; sec EE; <3S>
     This is a great route.
 25-06-2022; KU; Master and Servant; E1 5b; 10m; lead EE; <3S>
-25-06-2022; KU; Giacomo Puccini; 6b+; 10m; sec MM EE; <1S><P https://photos.app.goo.gl/zkxx2EuiteH36uSu7>
+25-06-2022; KU; Giacomo Puccini; 6b+; 10m; sec MH EE; <1S><P https://photos.app.goo.gl/zkxx2EuiteH36uSu7>
     Climbed with the Danish climbing legend Hjorten.
 25-06-2022; KU; Franz Liszt; E1 5a; 11m; sec EE; <2S>
 25-06-2022; KU; Wolfgang Amadeus; E1 5a; 12m; lead EE; <2S> 
@@ -679,7 +724,11 @@ WW=Will Wray
     Awesome climb on overhaning tufas
 
 01-04-2016; FB; Marie Rose; f6c; 8m; solo FZ JG LP LW; <4><3S>; <I http://willerup.com/p/fbleau_fz.jpg> 
+    Great trip to FB with the Danish climbing mates. Ended up camping in the forest on a piece of cardboard. I love FB.
+01-04-2014; FB; Several Problems; f6c; 8m; solo TW PW AX EW CW; <4><3S>; <I http://willerup.com/p/fb2014.jpg> 
+    Awesome week in FB with 3 families. Should get a camper van for this sort of tripping.
 01-04-2011; FB; Langle Ben; f6c; 8m; solo JG LP LW; <4><3S>; <I http://willerup.com/p/fbleau_jg.jpg>
+    Cool to be in FB with JG and the Danes. JG is an excellent guide to FB.
 
 06-03-2016; WL; Freedom; VS; 60ft; lead RS MB;
 06-03-2016; WL; Swatter; VS; 60ft; lead RS MB;
@@ -2023,7 +2072,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     3rd leg.
 26-07-2021; JL; Denmark-Sønderborg; ; 5h48m; EW CW FW TR HW AX UH; <8>
     2nd leg.
-25-07-2021; JL; Kiel-Denmark; ; 5h48m; EW CW FW TR HW AX UH; <8>
+25-07-2021; JL; Kiel-Denmark; ; 5h48m; EW CW FW TR HW AX UH; <8><3S>
     Start of weeks sailing with 3 rental boats.
 05-06-2021; OR; Rungsted; ; ; EW; <8>
     Returning the boat from ChrHavn. No wind, engine throttle cable broke half way. Managed to rig a temporary solution with string and pulleys to make it all the way back. Exciting trip. 
@@ -2038,7 +2087,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Wild trip in kayaks to Ven in the middle of winter. Done as part of preparing for the 1998 Raid Gauloises. 
 19-06-2004; SJ; Sealand Round; ; ; AN UH FW; <8><3S><Y><Z><N http://willerup.com/sailing/>; <I https://willerup.com/sailing/sr2004/race.jpg>
 19-06-2003; SJ; Sealand Round; ; ; AN UH FW; <8><Q><X><M><T><N http://willerup.com/sailing/sr2003.html>
-26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><R><X><X><N http://willerup.com/boat/bath.html>
+26-05-2000; MD; Bath Narrowboat; ; ; FW TR HW; <8><3S><R><X><X><N http://willerup.com/boat/bath.html>
     Possibly the maddest trip ever. In a sport that if not often associated with adrenalinus maximus
 
 20-09-2020; SJ; Landerslev; ; 1h; SG; <8>; <I https://s3.amazonaws.com/garmin-connect-prod/profile_images/06d600f3-83d8-4d14-8fbc-107554e398b3-1104980.jpg>
@@ -2085,13 +2134,13 @@ Due to some serious partying the day before I managed to forget my harness and c
 
 
 ##### Snowboarding #####
-05-03-2023; BO; Artesina; ; ; solo; <9><S><N https://www.strava.com/activities/8669854983><O https://www.strava.com/activities/8669854983>; <I https://live.staticflickr.com/65535/52728948185_b09a5350ef_z.jpg>
+05-03-2023; BO; Artesina; ; ; solo; <9><3S><S><N https://www.strava.com/activities/8669854983><O https://www.strava.com/activities/8669854983>; <I https://live.staticflickr.com/65535/52728948185_b09a5350ef_z.jpg>
     Absolutely brilliant and exciting ski rando. New equipment worked perfectly and my skills on skis in steep powder was satisfying. Amazing full day out. Epic return through the valley.
-28-02-2023; BO; Artesina; ; ; ; <9><S> 
+28-02-2023; BO; Artesina; ; ; ; <9><3S><S> 
     7 days of skiing and snowboarding with the UVR team. The conditions were perfect with massive snowfall prior to 4 days of perfect sunshine and deep powder. Artesina is a brilliant resort. Maybe my favorite. 
-18-02-2023; CH; Chamonix; ; ; AX, EW; <9><S>; <I https://live.staticflickr.com/65535/52697263575_1d814f7f15_z.jpg>
+18-02-2023; CH; Chamonix; ; ; AX, EW; <9><3S><S>; <I https://live.staticflickr.com/65535/52697263575_1d814f7f15_z.jpg>
     5 days of skiing and snowboarding in Cham. Stayed at the Chamoniard Volant like I did first time i 1995.
-23-02-2005; BS; Bitihorn; ; ; FW, AN; <9><S><N https://willerup.com/bitihorn/index.html>; <I https://willerup.com/pics/75144243_e40d9388e1_w.jpg>
+23-02-2005; BS; Bitihorn; ; ; FW, AN; <9><2S><S><N https://willerup.com/bitihorn/index.html>; <I https://willerup.com/pics/75144243_e40d9388e1_w.jpg>
     Winter ascent of the main feature of Beitostoelen
 29-01-2011; CH; Chamonix; ; ; solo; <9><S>
 14-05-2001; CH; Chamonix; ; ; solo; <9><S>

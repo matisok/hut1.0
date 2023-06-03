@@ -200,9 +200,9 @@ while (<CLIMBS>) {
         $photo =~ s/<I ([^\>]*)>/<img src="\1" width="100%"><\/img><br>/g;
         
         # Stars
-        $icons =~ s/<1S>/&#10024;/g;  #1 &#128261; star 
-        $icons =~ s/<2S>/&#127775;/g; #2 &#128262; stars
-        $icons =~ s/<3S>/&#11088;/g;  #3 stars
+        $icons =~ s/<1S>//g;  #1 &#128261; star 
+        $icons =~ s/<2S>//g; #2 &#128262; stars
+        $icons =~ s/<3S>/&#127826;/g;  #3 stars
 
         # Caving
         $icons =~ s/<C1>//g; # &#128154; green helemt
@@ -498,7 +498,7 @@ while (<IN>) {
 # HOW TO PRINT FULL PHOTO  # print PHOTO "<a name=\"$date\"></a>";
                 print PHOTO "<div>";
                 print PHOTO "$photo";
-                print PHOTO "<span class=name2>$name </span><span class=grade>$grade $stars $icons $people</span>\n";
+                print PHOTO "<span class=name2>$name ($grade)</span><span class=grade> $height $stars $icons $people</span>\n";
                 # print PHOTO "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
                 print PHOTO "<div class=comment>$comment</div>";
