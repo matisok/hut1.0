@@ -192,24 +192,24 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
-03-05-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S>; 
+03-06-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S>; 
     Much harder than I remembered.
-03-05-2023; GB; Stopper; E2 5b; 25m; lead MH; <3S><T><A><M>;
+03-06-2023; GB; Stopper; E2 5b; 25m; lead MH; <3S><T><A><M>; <I http://willerup.com/p/stopper.jpg>
     Tick of the day! I have been wanting to try this for a while and with Michael I felt ready. A sustained jam fest with mostly small hands, fingers and the odd fist. Boy was I glad to get to the top spanked and happy.
-03-05-2023; GB; Robins Crack; E1 5b; 20m; sec MH; <1S>; 
+03-06-2023; GB; Robins Crack; E1 5b; 20m; sec MH; <1S>; 
     Michael was struggling in the crux with a high step. I had my hands full seconding.
-03-05-2023; GB; Spagaten; HVS 5b; 20m; lead MH; <1S>; 
-03-05-2023; GB; Snet til Højre; HVS 5b; 20m; sec MH; <1S>;
-03-05-2023; GB; Espilon; E1 5b; 20m; lead MH; <2S>;
+03-06-2023; GB; Spagaten; HVS 5b; 20m; lead MH; <1S>; 
+03-06-2023; GB; Snet til Højre; HVS 5b; 20m; sec MH; <1S>;
+03-06-2023; GB; Espilon; E1 5b; 20m; lead MH; <2S>;
     Couldnt believe I hadnt climbed this obvious line before. Brilliant. 
-03-05-2023; GB; Babianen; VS 5a; 20m; lead MH; ; 
-03-05-2023; GB; Ormens Fader; VS 4b; 20m; sec MH; ; 
+03-06-2023; GB; Babianen; VS 5a; 20m; lead MH; ; 
+03-06-2023; GB; Ormens Fader; VS 4b; 20m; sec MH; ; 
     Finish to Panda
-03-05-2023; GB; Panda; E1 5b; 20m; lead MH; <3S>; 
+03-06-2023; GB; Panda; E1 5b; 20m; lead MH; <3S>; 
     Had been on my wishlist for a while. Did not disappoint. Brilliant splitter continueing from previous route.
-03-05-2023; GB; Ants in my Pants; E1 5b; 20m; sec MH; <2S>;
-    Tricky start needing umfph and careful route finding combined! 
-03-05-2023; GB; Sneda Sprickan; VS 4b; 20m; lead MH; <1S>; 
+03-06-2023; GB; Ants in my Pants; E1 5b; 20m; sec MH; <2S>;
+    Tricky start needing umfph and careful route finding - combined! 
+03-06-2023; GB; Sneda Sprickan; VS 4b; 20m; lead MH; <1S>; 
 
 # Trip with Fritz.
 21-05-2023; BH; Gulag; E3 6a; 35m; alt FZ; <2S><F><H>; <I http://willerup.com/p/gulag.png>
