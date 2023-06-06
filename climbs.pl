@@ -498,7 +498,7 @@ while (<IN>) {
 # HOW TO PRINT FULL PHOTO  # print PHOTO "<a name=\"$date\"></a>";
                 print PHOTO "<div>";
                 print PHOTO "$photo";
-                print PHOTO "<span class=name2>$name ($grade)</span><span class=grade> $height $stars $icons $people</span>\n";
+                print PHOTO "<span class=name2>$name</span><span class=grade> $grade $height $stars $icons $people</span>\n";
                 # print PHOTO "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
                 print PHOTO "<div class=comment>$comment</div>";

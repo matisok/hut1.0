@@ -1936,7 +1936,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 09-04-1999; MD; Swildons Hole; ; 10m; LK HL; <3>
      I took Lars and Helene down Swildons Hole for a grand caving trip.  Unfortunately the mission was aborted shortly after entering the cave due  to too much 'noia' 
 09-04-1999; MD; Goatchurch Cavern; ; 1h; LK HL; <3>
-     After the failed attempt in Swildons we went for the Goatchurch instead -  objective: to go through the drainpipe. We got to it after some persuasion  but that was as far as the party wanted to go. Drainpipe 2 - Lars Klammer  0 
+     After the failed attempt in Swildons we went for the Goatchurch instead -  objective: to go through the drainpipe. We got to it after some persuasion but that was as far as the party wanted to go. Drainpipe 2 - Lars Klammer  0 
 25-03-1999; MD; St. Cuthberts Swallet; ; 3h; FW DG TW; <3>
      The yearly 'Insult DG' trip was as festive as ever. Sparrow treated us  with several muddy squeezes and a good selection of pretty formations 
 14-03-1999; YS; Simpson's Pot; ; 3h; FW TW RS; <3>
@@ -1944,7 +1944,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 07-03-1999; MD; Manor Farm Swallet; ; 4h; DG; <3>
      A bit of a project. Check out the Trip Note with a little drawing 
 07-03-1999; MD; Goatchurch Cavern; ; 2h; FW; <3>
-     We finally managed to get all the way in to the 'letterbox' - the furthest  end of the classic cave. The letterbox is an extremely tight squeeze  section very awkward  specially on the return 
+     We finally managed to get all the way in to the 'letterbox' - the furthest  end of the classic cave. The letterbox is an extremely tight squeeze section very awkward  specially on the return 
 29-12-1998; MX; Cueva Miso Ha; ; 1h; FW TR; <3>
      Mathias negotiated a tricky entrance to a cave with a waterfall coming out  of it. Ended in some muddy dig business
 27-12-1998; MX; Cueva Xtacumbilxun; ; 2h; FW TR; <3>
@@ -1984,7 +1984,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 05-03-1998; MD; Swildons Hole; ; 2h; DG TW; <3><C2><R>
      Very wet conditions
 23-02-1998; MD; Goatchurch Cavern; ; 3h; LK; <3><C2><N http://willerup.com/caving/goatchurch.html>
-     The guys had visited me all the way from Denmark to see Britol Rovers play against Oldham Saturday the 21th of February. Having arrived already Thursday night we were looking for something to do Friday. With Keld and Frede Firsttimer
+     The guys had visited me all the way from Denmark to see Bristol Rovers play against Oldham Saturday the 21th of February. Having arrived already Thursday night we were looking for something to do Friday. With Keld and Frede Firsttimer
 28-01-1998; MD; St. Cuthberts Swallet; ; 2h; DG; <3><C2>
      An extremely beautiful cave. With Andy Sparrow
 08-03-1997; MD; Swildons Hole; ; 2h; JL; <3><C2>
@@ -2002,6 +2002,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Rides #####
+05-06-2023; SJ; Rødvig; ; 5h; solo; <2><2S>
 28-05-2023; SJ; Hornsherred; ; 5h; AX AL; <2><2S>
     Excellent trip with Allan and his new bike.
 22-04-2023; SJ; Orø Round; ; 4h; AX; <2><3S>
