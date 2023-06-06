@@ -86,7 +86,8 @@ WS=Wishlist
 
 # People
 AK=Anders Kantola
-AL=Al Mackenzie
+AL=Allan Koudal
+AM=Al Mackenzie
 AN=Anton Greiffenberg
 AS=Anders Soendergaard
 AW=Andrew Walker
@@ -192,8 +193,8 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
-03-06-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S>; 
-    Much harder than I remembered.
+03-06-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S><A>; 
+    Harder than I remembered.
 03-06-2023; GB; Stopper; E2 5b; 25m; lead MH; <3S><T><A><M>; <I http://willerup.com/p/stopper.jpg>
     Tick of the day! I have been wanting to try this for a while and with Michael I felt ready. A sustained jam fest with mostly small hands, fingers and the odd fist. Boy was I glad to get to the top spanked and happy.
 03-06-2023; GB; Robins Crack; E1 5b; 20m; sec MH; <1S>; 
@@ -203,13 +204,13 @@ WW=Will Wray
 03-06-2023; GB; Espilon; E1 5b; 20m; lead MH; <2S>;
     Couldnt believe I hadnt climbed this obvious line before. Brilliant. 
 03-06-2023; GB; Babianen; VS 5a; 20m; lead MH; ; 
-03-06-2023; GB; Ormens Fader; VS 4b; 20m; sec MH; ; 
-    Finish to Panda
+03-06-2023; GB; Ormens Fader; VS 4b; 20m; sec MH; <1S>; <I http://willerup.com/p/ormensfader.jpg> 
+    Finish to Panda. In itself an excellent route.
 03-06-2023; GB; Panda; E1 5b; 20m; lead MH; <3S>; 
     Had been on my wishlist for a while. Did not disappoint. Brilliant splitter continueing from previous route.
 03-06-2023; GB; Ants in my Pants; E1 5b; 20m; sec MH; <2S>;
-    Tricky start needing umfph and careful route finding - combined! 
-03-06-2023; GB; Sneda Sprickan; VS 4b; 20m; lead MH; <1S>; 
+    Tricky start needing a rare combination of umfph and careful route finding! 
+03-06-2023; GB; Sneda Sprickan; VS 4c; 20m; lead MH; <1S>; 
 
 # Trip with Fritz.
 21-05-2023; BH; Gulag; E3 6a; 35m; alt FZ; <2S><F><H>; <I http://willerup.com/p/gulag.png>
@@ -977,13 +978,13 @@ WW=Will Wray
     Lovely little pump
 24-7-2002; GR; Au dela de la Verticale; f6c; 25m; sec; <B>; <I http://willerup.com/p/matclimb.jpg>
     Went free this time  but self toproped because of lack of commited partners. This is definitely the route of the crag.
-22-7-2002; GR; Au dela de la Verticale; f6c; 25m; sec AL; <W><B>; 
+22-7-2002; GR; Au dela de la Verticale; f6c; 25m; sec AM; <W><B>; 
     Al took a nasty lob on the top crux. I topped out afterwards  using Al's ropes from his attempt. That route will go free next time.
-22-7-2002; GR; La Mule; f6a; 12m; sec AL; <W><B>; <I http://willerup.com/p/mat1.jpg>
+22-7-2002; GR; La Mule; f6a; 12m; sec AM; <W><B>; <I http://willerup.com/p/mat1.jpg>
     Good effort from visiting Ahut member Al  I had to bail out on the crux pumped out.
-22-7-2002; GR; Mort Subite; f6b; 10m; lead AL; <B>; <I http://willerup.com/p/al1.jpg>
+22-7-2002; GR; Mort Subite; f6b; 10m; lead AM; <B>; <I http://willerup.com/p/al1.jpg>
     Great little pumpy number. Super pockets.
-22-7-2002; GR; Belle de Jour; f5+; 8m; sec AL; <B>; 
+22-7-2002; GR; Belle de Jour; f5+; 8m; sec AM; <B>; 
 7-7-2002; AR; Apres de mon Abre; f4c; 30m; sec CW; <B>; 
     I let Celine lead this one and got while she was at the top out of view, I got undressed to climb it nude and to arrive nude at the stance - for festive purposes. 
 7-7-2002; AR; La Vie Eternelle; f6c; 30m; lead- CW; <B>; 
@@ -2001,9 +2002,11 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Rides #####
-22-04-2023; SJ; Orø Round; ; ; AX; <2><3S>
+28-05-2023; SJ; Hornsherred; ; 5h; AX AL; <2><2S>
+    Excellent trip with Allan and his new bike.
+22-04-2023; SJ; Orø Round; ; 4h; AX; <2><3S>
     Excellent motorcycle trip with Axel. Cold but sunny. We visited a local animal park at the island which was brilliant. The talking and laughing parrot Cookie was a highlight. 
-01-04-2023; BO; Biscali; ED; 1000m; solo; <2><3S><T><M>; <I http://willerup.com/p/bescali.png>
+01-04-2023; BO; Biscali; ED; 3h; solo; <2><3S><T><M>; <I http://willerup.com/p/bescali.png>
     Crazy E-MTB ride. Went up the mountain with vague idea of the area. I had spotted smoke in the distance and also firefigthers while driving up in the car. My round trip was committed in the mountain landscape (at some point I could not return back the way I came) and I had to go straight through a full blown forest fire with fire on both sides and embers on the path (!) and to top it up, helicopters and planes above throwing water down. I luckily hit a short window where they were not throwing water down but it was all super intense and quite dangerous. I was most nervous about puncturing the tires on the hot embers as I would be very screwed in that case (with a heavy e-mtb). All went well and I ended up with an eventfull tick in the bag.
 01-07-2021; SJ; Geels Skov; ; 1h; LA EW; <2><W><Q><X>
     Major crash while doing a major gap. Bent a few ribs.   
