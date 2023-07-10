@@ -1085,7 +1085,7 @@ WW=Will Wray
 14-4-2001; GR; Nose Dik; f5; 20m; sec MB; <B>; 
 14-4-2001; GR; Niou-Niou; f6a; 20m; sec MB; <B>; 
 14-4-2001; GR; Nestea; f6a; 17m; sec MB; <B>; 
-14-4-2001; GR; N.R.J.; f5+; 20m; sec MB; <B><3S> 
+14-4-2001; GR; N.R.J.; f5+; 20m; sec MB; <B><3S>; <I https://willerup.com/mathias/easter/CNV00033b.jpg> 
     Superb climbing. Undercling 4 meters up provides an easy pass of the crux.
 14-4-2001; GR; Lubna; f6a; 9m; sec MB; <B>; 
 14-4-2001; GR; Interlude; f6a; 20m; lead MB; <B>; 
@@ -1872,11 +1872,11 @@ Due to some serious partying the day before I managed to forget my harness and c
      Long day out. 13 hours including the walk. We got back to Grenoble at 4am in the morning. 
 19-05-2001; VC; Trou de Diable; ; 1h; MB; <3><C3><O http://willerup.com/caving/img/diable.gif>; <I https://live.staticflickr.com/26/67874301_12eb37461b_b.jpg>
      Beautiful walk-in - quite long. Descended amazing looking shaft (140  meters straight!). 10 meter down bolt ripped. Mission aborted. Glad to be  alive.
-15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>
+15-04-2001; VC; Scialet des Joufflus; ; 3h; MB; <3><C2><O https://live.staticflickr.com/29/62118984_7b47887a20_o.gif>; <I https://willerup.com/mathias/easter/CNV00023.jpg>
      Beautiful cave - lots of little lakes and excellent formations. Perfect rig as well.
-11-04-2001; VC; Glaciere de Carri; ; 7h; MB; <C4><C4><3S><3><X>
+11-04-2001; VC; Glaciere de Carri; ; 7h; MB; <C4><C4><3S><3><X>; <I https://willerup.com/mathias/easter/CNV00024b.jpg>
      Desperate trip. Got back up to the surface at 12'o'clock at night after a long day in the darkness. Our friends in Grenoble was getting well worried  and had started phoning the local police etc. Luckily they sensibly held  back any rescue attempts as we were perfectly fine. Glaciere de Scary!
-10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2><O http://willerup.com/caving/img/anglaise.gif>
+10-04-2001; VC; Scialet de Fee Anglaise; ; 4h; MB; <3><C2><O http://willerup.com/caving/img/anglaise.gif>; <I https://willerup.com/mathias/easter/CNV00018b.jpg>
      Excellent cave  ends in a big lake which goes of in the distance. Next  time we'll bring a boat and explore further. This time we both put the  double amount of clothes on and was relatively warm. 
 09-04-2001; VC; Scialet de Malaterre; ; 6h; MB; <3><C4><3S><O http://willerup.com/caving/img/malaterre.gif>
      Massive cave shaft - starts with a 120 meter (360ft) drop of a bridge -  straight down in to the void. Desperate trip - quite wet and extremely cold. 
@@ -2002,6 +2002,8 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Rides #####
+09-07-2023; SJ; Rørvig; ; 6h; solo; <2><2S>
+    Tried with Scotty first but he is yet too unsettled for longer trips. Went to Hundested, ferry to Rørvig and then trailed the beautiful landscape down to Holbæk and back home. Excellent space on the roads, not much traffic.   
 05-06-2023; SJ; Rødvig; ; 5h; solo; <2><2S>
 28-05-2023; SJ; Hornsherred; ; 5h; AX AL; <2><2S>
     Excellent trip with Allan and his new bike.
@@ -2155,13 +2157,13 @@ Due to some serious partying the day before I managed to forget my harness and c
     Brilliant day. Worked on trying to jump the big serac thing on the left of the drag lift in the top. It's a massive drop and the landing is not very steep so you really gotta go for it all the way. I was there a couple of times but didn't do it. Even Tigers has limits. :-) - I successfully did my usual cliff jump on the left of the telepherique which is always amazingly adreanline pumpy.
 21-04-2001; LG; La Grave; ; ; solo; <9>
     Woke up. Looked at the webcam. Looked good. Headed off. Scrounged my way to a free lift ride. Conditions was pretty desperate actually. Fresh snow but very cold and the base was rock solid (not good for the big air landings). Also the avalance risk was quite obvious very high and I was glad to reach the bottom in one piece
-13-04-2001; LG; La Grave; ; ; MB; <9><3S>
+13-04-2001; LG; La Grave; ; ; MB; <9><3S>; <I https://willerup.com/mathias/easter/boarding2.jpg>
     Superb day. Excellent big air jumps and some really pumping carving. Absolutely shagged afterwards also partly because of heavy drinking at the previous night with Martin, Christian Holst and forty bottles of bottles of Christians vodka
 12-04-2001; LG; La Grave; ; ; MB; <9>
     Gnarled around a bit to figure out what the best descend would be with the access to P2 being unskiable. Perfect weather and only few people
-08-04-2001; LG; Sherre Chevalier; ; ; SN; <9>
+08-04-2001; LG; Sherre Chevalier; ; ; SN; <9>; <I http://willerup.com/mathias/easter/serreche.jpg>
     Plenty of untouched snow, but weather a bit unstable. Good fun
-06-04-2001; LG; Derby de La Meije; ; ; solo; <9><A><T><3S>
+06-04-2001; LG; Derby de La Meije; ; ; solo; <9><A><T><3S>; <I http://willerup.com/mathias/easter/derby.jpg>
     Yearly off piste race of festive proportions. Came in 84th in the my category - time 12m33s
 18-03-2001; LG; La Grave; ; ; DS; <9>; <I http://willerup.com/snowboard/lagravejump.jpg>
     Steep aaaaand deep. Did my favourite left side (facing the mountain) exclusively. Lot of queing in the lift unfortunately
