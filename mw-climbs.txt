@@ -193,22 +193,22 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
-09-09-2023; KU; Exhibitionistens Frustrationer ; HVS 5a; 15m; lead LP, JG; ;
-    Ridge visible from the JG hut. Excellent route. Spectacluar setting. Really worthwhile.
-09-09-2023; KU; Kuseskræck; VS 4c; 10m; lead LP, JG; ; 
+09-09-2023; KU; Exhibitionistens Frustrationer ; HVS 5a; 15m; lead LP, JG; <1S><S>; 
+    Ridge visible from the JG hut. Excellent route. Spectacular setting. Really worthwhile.
+09-09-2023; KU; Kuseskraeck; VS 4c; 10m; lead LP, JG; ; 
     Nice puzzle. Had to make most of the few pieces of gear placements available.
-03-09-2023; GB; Bondage; E1 5b; 15m; lead FZ; ;
+03-09-2023; GB; Bondage; E1 5b; 15m; lead FZ; <2S>;
     Great handjam test piece.
-03-09-2023; GB; Grævlingesex; VS; 15m; lead FZ; ; 
+03-09-2023; GB; Graevlingesex; VS; 15m; lead FZ; ; 
     Enjoyable fistjamming
 03-09-2023; GB; Tunnsprickan; VS; 25m; lead FZ; ; 
-03-09-2023; GB; Oles Crack; HVS 5a; 25m; lead FZ; ; 
+03-09-2023; GB; Oles Crack; HVS 5a; 25m; lead FZ; ; <I http://willerup.com/p/ole.png>
     Frits had a bit of a struggle trying to lead it. Gear ripped twice.
-02-09-2023; GB; Ninja-Sara; VS 4c; 25m; lead FZ; ; 
+02-09-2023; GB; Ninja-Sara; VS 4c; 25m; lead FZ; <1S>;
     Great long route from the base to the top of Lexby. In the new guide
 02-09-2023; GB; Plugghaesten; E1 5b; 25m; lead FZ; ; 
 02-09-2023; GB; Oktober; HVS 5a; 25m; lead FZ; ; 
-02-09-2023; GB; Great Crack DNF; E2 5c; 30m; ; ;
+02-09-2023; GB; Great Crack DNF; E2 5c; 30m; ; <Q>;
     Had to bail again! It was fairly damp deep inside the crack but still. I need to get someone to take me up this. 
 
 03-06-2023; GB; Bananblocket; E1 5b; 25m; sec MH; <2S><A>; 
