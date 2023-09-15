@@ -181,13 +181,16 @@ WW=Will Wray
     Recommended from internet.
 ; WS; Svart Intrusion, Dingle; E2 5b; 35m; WISH; <L>
     Recommended from Niklas. Well protected in the hard bits. Bird banned.
-; WS; Tydliga Hørnet, Haller; E3 5c; 20m; WISH; <L>
+; WS; Tydliga Hoernet, Haller; E3 5c; 20m; WISH; <L>
     Spotted with Jesper at Haller. Looked amazing. Start in a tree to get to the ledge.
 ; WS; Välkommen till Bohuslän, Bohusporten; E1; 15m; WISH; <L>
     New area. Look at PDF.
 ; WS; Strix, Bohus; E1; 20m; WISH; <L>
     New area. Look at PDF. Excellent looking ow.
-
+; WS; ELENA MUIERRTAS, Binghult; E1; 20m; WISH; <L>
+    OW recommended by Anna. In PDF.
+; WS; ZORRO, Binghult; E2; 20m; WISH; <L>
+    Crazy looking route. Maybe more E3. Go try it! In PDF.
 
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
@@ -218,7 +221,7 @@ WW=Will Wray
 03-06-2023; GB; Robins Crack; E1 5b; 20m; sec MH; <1S>; 
     Michael was struggling in the crux with a high step. I had my hands full seconding.
 03-06-2023; GB; Spagaten; HVS 5b; 20m; lead MH; <1S>; 
-03-06-2023; GB; Snet til Højre; HVS 5b; 20m; sec MH; <1S>;
+03-06-2023; GB; Snet til Hoejre; HVS 5b; 20m; sec MH; <1S>;
 03-06-2023; GB; Espilon; E1 5b; 20m; lead MH; <2S>;
     Couldnt believe I hadnt climbed this obvious line before. Brilliant. 
 03-06-2023; GB; Babianen; VS 5a; 20m; lead MH; ; 
@@ -235,7 +238,7 @@ WW=Will Wray
     In search of a clean splitter had us engaging in this swedish 6+! Probably E3. Excellent fun. Had to hang a couple of times and on a desperate bulgy, dirty and grassy finish I used a point of aid (foot sling) to reach a branch in the top. Fairly desperate. I have learned now from experience (Sesam) that not all routes get climbed and if they do they may just be done on top rope up to a certain point. This means that you may be climbing something that feels "well trodden" and they after all the physical struggles you may arrive to a horrendous un-groomed finish. Last pitch was a 20 meter pure layback crack. Also a bit dirty but excellent fun. 
 20-05-2023; BH; Hällere den anden; E1 5b; 10m; lead FZ; <2S><S><H>
     Tricky start.
-20-05-2023; BH; En trumpen vår; E2 5c; 10m; lead FZ; <2S><S><H>
+20-05-2023; BH; En trumpen vaar; E2 5c; 10m; lead FZ; <2S><S><H>
     Newly opened area (2022) with a handful of 10-15 meter jam test pieces. This one was OW and had me at my limit of capabilities.
 20-05-2023; BH; Stina; S; 25m; sec FZ;
 20-05-2023; BH; Mia; E1 5b; 23m; lead FZ; <2S>
@@ -261,7 +264,7 @@ WW=Will Wray
 # Trip with John.
 05-02-2023; RU; Bakveien; W4; 100m; alt JC; <1><2S>
     Excellent route to finish the weekend. The ice was plenty thick in the narrow gully. Done in 2 pitches.
-04-02-2023; RU; Førerkomiteen; W4+; 60m; alt JC; <1><3S><T><M>; <I http://willerup.com/p/forer.JPG>
+04-02-2023; RU; Foererkomiteen; W4+; 60m; alt JC; <1><3S><T><M>; <I http://willerup.com/p/forer.JPG>
     Off the beaten track this monster route needs all the dedication you can muster. Approach was done in snow shoes and was tough going. The reward was a sustained climb from the base all the way to the top. I was at my absolute limit.
 03-02-2023; RU; Sabotoerfossen; W5; 200m; alt JC; <1><3S>; <I https://live.staticflickr.com/65535/52669205092_a1586cdd37_4k.jpg>
     I did the middle pitch and belayed in an ice cave on the right. Pleased to be able to lead grade 5. Done in 3 pitches
@@ -280,10 +283,10 @@ WW=Will Wray
 06-08-2022; BH; Norsk Espresso; E1 5b; 20m; lead JJ; <2S>
     Jill had a go at leading but it is clear that you need firm jamming skills to find these types of route easy. We lowered her down and I led instead.
 06-08-2022; BH; Dolomittravers; HVS 4c; 30m; lead JJ; <1S>; <I http://willerup.com/p/dolomiti.png>
-    A neighbourghing crag to the popular Høgberget. Real impressive and the high level traverse did not disappoint. Classic adventure climbing.
+    A neighbourghing crag to the popular Hoegberget. Real impressive and the high level traverse did not disappoint. Classic adventure climbing.
 06-08-2022; BH; Olivia; VS 4a; 20m; sec JJ;
 06-08-2022; BH; Feministiskt Initiative; HVS 4c; 20m; lead JJ;
-    Gave Høgberget a chance to shine and I still think the place sucks. The rock is dirty and there is seepage here and there. I don't know why people rave about this place. I do need to have a go at Yamamoto, but it was ... wet.
+    Gave Hoegberget a chance to shine and I still think the place sucks. The rock is dirty and there is seepage here and there. I don't know why people rave about this place. I do need to have a go at Yamamoto, but it was ... wet.
 
 28-07-2022; BH; Jamspricka; VS 4c; 12m; lead KK; <1S> 
     Exploring a new area near Dingle. True adventure climbing place. This route is a short little piece with grand routes behind. The guide book says: bring small nuts and double rope 
@@ -314,7 +317,7 @@ WW=Will Wray
 16-07-2022; BH; Salsa; HVS 5a; 30m; lead TW; <1S>
 16-07-2022; BH; Tjuvjakt; E2 5c; 15m; sec TW; <3S><M><P https://photos.app.goo.gl/zSjwuVSkkTjBRb7d8>
     Excellent route at Binghult. 
-15-07-2022; BH; Stålfål; E1 5b; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
+15-07-2022; BH; Staalfaal; E1 5b; 15m; lead TW; <3S>; <I http://willerup.com/p/stalfal.jpg>
     Climbed next to crackmaster Pete Whitaker and his super crack climber of a girlfriend.
 15-07-2022; BH; En liten bit granit; E2 5c; 15m; sec TW; <3S><P https://photos.app.goo.gl/pr9LaiFjNVGqA6rT9>; <I http://willerup.com/p/bitgranit.png>
     Excellent lead by Tim.
@@ -366,10 +369,10 @@ WW=Will Wray
 16-06-2022; GB; Himmelberget; VS 4c; 35m; lead FZ; <2S>
 	Great long expedition
 15-06-2022; GB; One move of Sex; E1 5b; 15m; lead FZ; <3S><T>
-	Awesome corner route. Gets grade 6 in the book and a "badly protected". Complete bollocks. It's easier and well protected. Great route.
+	Awesome corner route. Gets grade 6 in the book and badly protected. Complete bollocks. It's easier and well protected. Great route.
 15-06-2022; GB; Hollywood; E3 6a; 15m; lead FZ; <W>; <I http://willerup.com/p/holy.png>
 	Fell on the crux - again. Excellent sporty route. I gave it E4 6b last time, that I think it too much. No more than E3. 
-15-06-2022; GB; Rosa på Bete; VS 4c; 15m; lead FZ; <2S>
+15-06-2022; GB; Rosa paa Bete; VS 4c; 15m; lead FZ; <2S>
 	Worthwhile route. Looks a bit manky from below.
 15-06-2022; GB; Slowfox; VS 4c; 45m; dnf FZ; <Q>
 	Manky. We went up a wrong start and decided to leave it for another day. 
@@ -384,7 +387,7 @@ WW=Will Wray
 	A monster of a route. Was spanked at the crux and physced out due to the exposure and sketchy hang on a single rope with sharp edges on the rock. Good gear throughout. Will be back to attempt it again.
 10-04-2022; GB; Boa Constrictor; E1; 20m; lead FZ; <Q><A>
 	Description in the book is wrong. Had to back off this due to lack of large gear
-10-04-2022; GB; Vrålapan; E1 5b; 10m; lead FZ; 
+10-04-2022; GB; Vraalapan; E1 5b; 10m; lead FZ; 
 	Good pumpy number. Did the left-round-the-block version.
 10-04-2022; GB; Babianen; HS; 25m; sec FZ; <P https://photos.app.goo.gl/Ji9otumZtX3PWERj7>
 09-04-2022; GB; Till; HVS 5a; 30m; lead FZ; 
@@ -2021,12 +2024,12 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Rides #####
-09-07-2023; SJ; Rørvig; ; 6h; solo; <2><2S>
-    Tried with Scotty first but he is yet too unsettled for longer trips. Went to Hundested, ferry to Rørvig and then trailed the beautiful landscape down to Holbæk and back home. Excellent space on the roads, not much traffic.   
-05-06-2023; SJ; Rødvig; ; 5h; solo; <2><2S>
+09-07-2023; SJ; Roervig; ; 6h; solo; <2><2S>
+    Tried with Scotty first but he is yet too unsettled for longer trips. Went to Hundested, ferry to Roervig and then trailed the beautiful landscape down to Holbaek and back home. Excellent space on the roads, not much traffic.   
+05-06-2023; SJ; Roedvig; ; 5h; solo; <2><2S>
 28-05-2023; SJ; Hornsherred; ; 5h; AX AL; <2><2S>
     Excellent trip with Allan and his new bike.
-22-04-2023; SJ; Orø Round; ; 4h; AX; <2><3S>
+22-04-2023; SJ; Oroe Round; ; 4h; AX; <2><3S>
     Excellent motorcycle trip with Axel. Cold but sunny. We visited a local animal park at the island which was brilliant. The talking and laughing parrot Cookie was a highlight. 
 01-04-2023; BO; Biscali; ED; 3h; solo; <2><3S><T><M>; <I http://willerup.com/p/bescali.png>
     Crazy E-MTB ride. Went up the mountain with vague idea of the area. I had spotted smoke in the distance and also firefigthers while driving up in the car. My round trip was committed in the mountain landscape (at some point I could not return back the way I came) and I had to go straight through a full blown forest fire with fire on both sides and embers on the path (!) and to top it up, helicopters and planes above throwing water down. I luckily hit a short window where they were not throwing water down but it was all super intense and quite dangerous. I was most nervous about puncturing the tires on the hot embers as I would be very screwed in that case (with a heavy e-mtb). All went well and I ended up with an eventfull tick in the bag.
@@ -2057,8 +2060,8 @@ Due to some serious partying the day before I managed to forget my harness and c
     The tick is in the bag! Ever since the first session in Toftum this place remained number one on the ticklist. Great session feeling really in control all the time. The new school wing is really comfortable and launches and handles really smooth. Did 3 succesfull top landings and 2 beach landings. The wind picked up in the end making the last run a bit epic.
 05-05-2010; JL; 5. Hamborg; ; 1h; PP; <7><3S>
     Fully self supported with Poul on the ground obviously. Had some crash landings which I learned a lot from. Landed with my bum on the top  on the slope (controlled)  and in a fence (not controled). 
-02-05-2010; JL; 4. Venø  ; ; 2h; PP; <7> <2S> 
-    4 runs at Venø with last run unsupported. Sideways winds. Crossed brake launch.
+02-05-2010; JL; 4. Venoe  ; ; 2h; PP; <7> <2S> 
+    4 runs at Venoe with last run unsupported. Sideways winds. Crossed brake launch.
 02-05-2010; JL; 3. Toftum; ; 4h; PP; <7>
     Ground control. Crossed brake launch in stronger wind. Hard work.
 24-04-2010; JL; 2. Bovbjerg; ; 2h; PP; <7><3S>  
@@ -2093,9 +2096,9 @@ Due to some serious partying the day before I managed to forget my harness and c
     Returning the boat to Rungsted. Beefy wind. Had to make an emergency stop in a harbour on the way for sail only (engine failure) which went really well. 
 05-06-2022; OR; Christianshavn; ; ; EW; <8><P https://photos.app.goo.gl/CYBmfqK4ddPfAKjp9>
     Moving the boat to ChrHavn for the kids to stay in the center. Excellent concept.
-27-07-2021; JL; Sønderborg-Aabenraa; ; 5h48m; EW CW FW TR HW AX UH; <8>
+27-07-2021; JL; Soenderborg-Aabenraa; ; 5h48m; EW CW FW TR HW AX UH; <8>
     3rd leg.
-26-07-2021; JL; Denmark-Sønderborg; ; 5h48m; EW CW FW TR HW AX UH; <8>
+26-07-2021; JL; Denmark-Soenderborg; ; 5h48m; EW CW FW TR HW AX UH; <8>
     2nd leg.
 25-07-2021; JL; Kiel-Denmark; ; 5h48m; EW CW FW TR HW AX UH; <8><3S>
     Start of weeks sailing with 3 rental boats.
@@ -2120,7 +2123,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Nice to get out. Dad and Fred on shore admirering my shenanigans.
 10-07-2017; SJ; Lynaes kite; ; 2h; SG; <8>
     Nice session with Soeren
-17-07-2015; AV; Oxford Canal; ; 9d; EW AW; <8><3S><S><T>
+17-07-2015; AV; Oxford Canal; ; 9d; EW AX; <8><3S><S><T>
 28-10-2014; SJ; Lynaes; ; 2h; SG; <8>
     Morning session
 23-06-2013; SJ; Landerslev; ; 2h; ; <8>
@@ -2154,7 +2157,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     Although the wind was fading, we had some good practice with the 12 and 16m2
 11-08-2007; JL; Ejsing; ; 1h; solo; <8>
     Kitesurfing course. Essential. 
-1-07-1994; SJ; Furesøen; ; 1h; solo; <8>; <I https://willerup.com/windsurfing/fureso.jpg> 
+1-07-1994; SJ; Furesoen; ; 1h; solo; <8>; <I https://willerup.com/windsurfing/fureso.jpg> 
     Learned to windsurf locally in Holte. 
 
 
@@ -2232,9 +2235,9 @@ Due to some serious partying the day before I managed to forget my harness and c
  Wonderful to be back in England running with Celine.
 15-10-2000; WV; Double Wye Valley 38K; ; 4h42m; TW; <9>
  Tim did a "Double Wye Valley run" today - I was climbing, but I thought this should be noted. Double! If the normal round wasn't hard enough, but doing it it twice - pfeww. Well done Tim.
-6-2-2000; WV; Molboløbet 10K; ; 1h12m; ; <9>
+6-2-2000; WV; Molboloebet 10K; ; 1h12m; ; <9>
  Anders Soft ground. No frost. Lots of branches. Danish Orienteering. Great fun. 18 posts. At each post one had to answer a question which is then part of the score.
-16-1-2000; SJ; Furesøen Rundt 22K; ; 2h01m; LK; <9> 
+16-1-2000; SJ; Furesoeen Rundt 22K; ; 2h01m; LK; <9> 
  Soft ground. No frost. Perfect. Excellent run. All systems were running fine.
 5-12-1999; WV; Wye Valley 19K; ; 2h09m; solo; <9>
  Agony. I thought it would never go. If I want to get the sub2 again I need to rethink be current diet of beer and crisps. Still - I was going allright from the field to Tutshill, so I was quite pleased with the time.
@@ -2260,7 +2263,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Perfect! The seasons first after work run. It looked like it was going to be a mean run, but after reaching the otter hole car park things seemed to just go really smoothly and no pain in the knees which is great.
 28-4-1999; WV; HP Extended Valley 12K; ; 0h54m; TW; <9> 
  Beautiful. I have started running more frequently and on less savage terrain. All systems are working fine. No problems with knees or anything. So I guess I just need to go easy on the actual fell runs.
-21-2-1999; SJ; Furesøen Rundt 18K; ; 1h45m; LK; <9> 
+21-2-1999; SJ; Furesoeen Rundt 18K; ; 1h45m; LK; <9> 
  Changed to my old more bouncy shoes. I think it helped a bit on my knee, though it still hurt quite a lot. Specially afterwards. Good trip though - but less hilly than I had hoped. Denmark just is flat as a pancake.
 14-2-1999; WV; Wye Valley 19K; ;  2h43m; ; <9>
  Right knee really painful. Maybe it is my beloved Walsh shoes which are a bit too hardcore after all.
