@@ -134,6 +134,7 @@ PD=Paola Dotti
 PE=Pete Internet
 PP=Poul Henriksen
 PS=Peter Ras
+PH=Peter Heegaard
 PW=<b>Paul Wood</b>
 RG=Ralf Grusshaber
 RI=Rich Semple
@@ -1175,10 +1176,10 @@ WW=Will Wray
     Reasonably exciting in big boots
 31-7-2000; AV; Sleepwalk; S 4a - - 4a; 63m; alt SF; <1S> 
     Training session for our Matterhorn trip later this month
-29-7-2000; AV; Nightmare; S - 4a -; 48m; sec FW; <1S> 
+29-7-2000; AV; Nightmare; S - 4a -; 48m; sec FW PH; <1S> 
     Our Cousin from Denmarks first climb. Good job!
-1-7-2000; KU; Quicksilber; V-; 10m; lead; <3S> 
-    Excellent route. Superb rock  big jugs on exposed ground. As festive as it
+1-7-2000; KU; Quicksilber; V-; 10m; lead UH; <3S> 
+    Excellent route. Superb rock  big jugs on exposed ground. As festive as it gets
 1-7-2000; KU; Oligmal; V+; 10m; lead UH; <1S> 
 1-7-2000; KU; Mirakel; VI; 10m; lead UH; <1S> 
     A critical midway hold was wet which made it quite difficult.
@@ -1219,7 +1220,7 @@ WW=Will Wray
 21-5-2000; GC; Shagrat; E2 5b; 21m; lead TW; <2S>
 
 14-5-2000; NQ; The Owl and The Antelope; E2 5b; 26m; lead PW; <3S> 
-    Last route of the day. It was either this or another HVS. Having pushed the limit quite a bit already I wasn't quite sure that I wanted to lead the magnificiently positioned slab which looked completely unprotected from below. We fired up the final bit of yoor and I went for it. An excellent route  and the slab has *one* piece of perfect gear so that's plenty!  
+    Last route of the day. It was either this or another HVS. Having pushed the limit quite a bit already I wasn't quite sure that I wanted to lead the magnificiently positioned slab which looked completely unprotected from below. But we fired up the final bit of yoor and I went for it. An excellent route and the slab has *one* piece of perfect gear so that's plenty!  
 14-5-2000; NQ; Let Me Know What Life is Like; HVS 5b; 25m; sec PW; <2S> 
     Great route. Paul finally picked up the sharp end  and he led the route in fine style. Plenty of pro (very unusual at Navigation Quarry) 
 14-5-2000; NQ; Totally Relaxed; f6c; 25m; lead PW; <2S><F> 
