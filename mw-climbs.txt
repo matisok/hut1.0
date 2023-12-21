@@ -47,6 +47,7 @@ LG=La Grave, France
 LH=Lillehammer, Norway 
 LL=Llangattock, UK
 MD=Mendips caves, UK
+MO=Moab Utah, USA
 MX=Mexico 
 MZ=Mendoza, Argentina 
 ND=North Devon, UK
@@ -145,6 +146,7 @@ SG=Soeren Lynggaard
 SH=Simon Hauch
 SL=Steve Lougrahn
 SN=Sanne Wendes
+SP=Sean Prior
 SW=Steve Wright
 TB=Tom Bruntt
 TR=Theresa Rhoades
@@ -196,6 +198,19 @@ WW=Will Wray
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+20-12-2023; MO; 30 seconds over Potash; 5.8; 25m; lead SP; <2S><H>;
+    My introductury lead to MOAB sandstone climbing.
+20-12-2023; MO; Lucy in the Sky with Potash; 5.10a; 25m; sec SP; <2S>;
+    Had to rest on the rope for the trickiest section.
+20-12-2023; MO; Potash Bong Hit; 5.9+; 25m; lead SP; <3S><M>;
+    Just brilliant jamming and flake climbing. Happy to get to the top.
+20-12-2023; MO; Static Cling; 5.11a; 25m; sec SP; <1S>;
+    Sean almost climbed it clean. Really fingery climbing.
+20-12-2023; MO; Flakes of Wrath; 5.9+; 25m; lead SP; <3S><T>;
+    Storming route. Perfect hand jamming and a sting at the top with a undercling roof traverse with no feet to speak of. 
+20-12-2023; MO; Bad Moki Roof; 5.9+; 25m; sec SP; <3S><T><A>;
+    Last route of the day. Excellent jamming through the roof. It took all my yoor to second it clean. 
 
 09-09-2023; KU; Exhibitionistens Frustrationer ; HVS 5a; 15m; lead LP, JG; <1S><S>; 
     Ridge visible from the JG hut. Excellent route. Spectacular setting. Really worthwhile.
