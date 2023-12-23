@@ -1,9 +1,10 @@
+name: Publish
 on:
   push:
     branches:
       - main
 jobs:
-  perl:
+  build:
     runs-on: ubuntu-latest
 
     steps:
