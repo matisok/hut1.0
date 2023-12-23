@@ -5,6 +5,10 @@ on:
       - main
 jobs:
   build:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:
@@ -23,9 +27,23 @@ jobs:
       #     username: ${{ secrets.ftp_username }}
       #     password: ${{ secrets.ftp_password }}
 
-      - name: Commit report
+      # - name: Commit report
+      #   run: |
+      #     git config --global user.name 'sok'
+      #     git config --global user.email 'matisok@gmail.com'
+      #     git commit html/ -m "html"
+      #     git push
+      - name: create index file
         run: |
-          git config --global user.name 'sok'
-          git config --global user.email 'matisok@gmail.com'
-          git commit html/ -m "html"
-          git push
+          cp html/mw-photo.html html/index.html
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'html'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      
