@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - main
+jobs:
+  perl:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        perl-version:
+          - '5.10'
+          - '5.16'
+          - 'latest'
+          - 'threaded'
+
+    container:
+      image: perl:${{ matrix.perl-version }}
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install perl
+        run: |
+          sudo apt-get install -qq -yy perl
+      - name: Launch script with --help
+        run: |
+          ./climbs.pl
