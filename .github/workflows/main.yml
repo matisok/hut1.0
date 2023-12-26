@@ -25,31 +25,34 @@ jobs:
       - name: Launch script with --help
         run: |
           perl climbs.pl
+         
+      - name: create index file
+        run: |
+          cp html/mw-photo.html html/index.html
 
-      # - name: 📂 Sync files
-      #   uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      #   with:
-      #     server: ${{ secrets.ftp_server }}
-      #     username: ${{ secrets.ftp_username }}
-      #     password: ${{ secrets.ftp_password }}
-
-      # - name: Commit report
+      # - name: Commit html files
       #   run: |
       #     git config --global user.name 'sok'
       #     git config --global user.email 'matisok@gmail.com'
       #     git commit html/ -m "html"
       #     git push
-      - name: create index file
-        run: |
-          cp html/mw-photo.html html/index.html
 
-      - name: Setup Pages
+      - name: Setup Github Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'html'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
       
+      - name: 📂 Sync files to bluehost
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          local-dir: ./html/
+          server-dir: ./public_html/adventurehut/
+          server: ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
