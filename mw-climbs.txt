@@ -23,6 +23,7 @@ CR=Crolles, France
 CU=La Cuajo, Mexico 
 CY=Cloggy, UK
 DI=El Diente, Mexico
+DU=Dubai, UAE
 EC=El Chorro, Spain 
 ES=El Escalone, Mexico
 FB=Fontaine Bleau, France 
@@ -201,18 +202,18 @@ WW=Will Wray
 
 21-12-2023; MO; Shafer Trail; ; 72k; solo; <3S><9><M><T>;
     At the spur of the moment I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
-02-01-2013; DU; Fossil Rock; ; 30k; lead EW, CW, AW; <3S><9><M><T>;
-    Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.    
+02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><9><M><T>;
+    Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.
 
 20-12-2023; MO; 30 seconds over Potash; 5.8; 25m; lead SP; <2S><H>;
     My introductury lead to MOAB sandstone climbing.
-20-12-2023; MO; Lucy in the Sky with Potash; 5.10a; 25m; sec SP; <2S>;
+20-12-2023; MO; Lucy in the Sky with Potash; 5.10a; 25m; sec- SP; <2S>;
     Had to rest on the rope for the trickiest section.
-20-12-2023; MO; Potash Bong Hit; 5.9+; 25m; lead SP; <3S><M>;
-    Just brilliant jamming and flake climbing. Happy to get to the top.
-20-12-2023; MO; Static Cling; 5.11a; 25m; sec SP; <1S>;
+20-12-2023; MO; Potash Bong Hit; 5.9+; 25m; lead SP; <3S><M>; <I http://willerup.com/p/potash.jpg>
+    Just brilliant jamming and flake climbing. Happy to get to the top. 
+20-12-2023; MO; Static Cling; 5.11a; 25m; sec- SP; <1S>; <I http://willerup.com/p/staticcling.jpg>
     Sean almost climbed it clean. Really fingery climbing.
-20-12-2023; MO; Flakes of Wrath; 5.9+; 25m; lead SP; <3S><T>;
+20-12-2023; MO; Flakes of Wrath; 5.9+; 25m; lead SP; <3S><T>; <I http://willerup.com/p/flakesofwrath.jpg>
     Storming route. Perfect hand jamming and a sting at the top with a undercling roof traverse with no feet to speak of. 
 20-12-2023; MO; Bad Moki Roof; 5.9+; 25m; sec SP; <3S><T><A>;
     Last route of the day. Excellent jamming through the roof. It took all my yoor to second it clean. 
