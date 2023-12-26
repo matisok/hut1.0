@@ -200,9 +200,9 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
-21-12-2023; MO; Shafer Trail; ; 72k; solo; <3S><9><M><T>;
+21-12-2023; MO; Shafer Trail; ; 72k; solo; <3S><2><M><T>;
     At the spur of the moment I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
-02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><9><M><T>;
+02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><2><M><T>;
     Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.
 
 20-12-2023; MO; 30 seconds over Potash; 5.8; 25m; lead SP; <2S><H>;
