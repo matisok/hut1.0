@@ -1334,7 +1334,7 @@ WW=Will Wray
 25-3-2000; PD; Owl's Arete; VS 4c; 15m; lead TW; <1S>
 25-3-2000; PD; Avalanche Wall; HVS 5a; 12m; sec TW; <1S>
 19-3-2000; WL; Dragonfly; HVS 5a 5a; 54m; lead MB; <3S><N http://willerup.com/climbing/dragonfly.html>
-18-3-2000; ND; Chudleigh Overhang; VS 5a 4c; 24m; lead TW; ; 
+18-3-2000; ND; Chudleigh Overhang; VS 5a 4c; 24m; alt TW; ; 
     Very dodgy second pitch. Pure munge. 
 18-3-2000; ND; Oesophegus; E1 5b; 30m; lead TW; <2S>
 18-3-2000; ND; Loot; E1 5b; 24m; sec TW
