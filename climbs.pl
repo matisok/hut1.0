@@ -554,7 +554,7 @@ while (<IN>) {
         
         # Write STARS
         foreach $stars(sort {$c<=>$b} keys %cstars) {
-            @stars = ("Ice climbs $Istar1", "Mountains and Mountainbike $Istar2", "Caves $Istar3", "Blocs $Istar4", 
+            @stars = ("Ice climbs $Istar1", "Off Road $Istar2", "Caves $Istar3", "Blocs $Istar4", 
             "Via Ferrata $Istar5", "Dive $Istar6", "Paraglider $Istar7", "Surf $Istar8", "Snow and Run $Istar9");
             printf STARS "<h2>%s</h2>\n", $stars[$stars-1];
             print STARS "";
