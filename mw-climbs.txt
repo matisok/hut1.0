@@ -200,6 +200,8 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
+27-12-2023; BC; Jordan Valley; ; 100k; FW; <2S><2>;
+    Hunting trip with off road vehicle. Drove all day in savage terrain, never spotting other than deer. We had tags to shoot an Elk, which we did not find.
 21-12-2023; MO; Shafer Trail; ; 72k; solo; <3S><2><M><T>;
     At the spur of the moment I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
 02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><2><M><T>; <I https://live.staticflickr.com/8074/8338716280_f860d3c360_z.jpg>
@@ -230,9 +232,9 @@ WW=Will Wray
     Enjoyable fistjamming
 03-09-2023; GB; Tunnsprickan; VS; 25m; lead FZ; ; 
 03-09-2023; GB; Oles Crack; HVS 5a; 25m; lead FZ; ; <I http://willerup.com/p/ole.png>
-    Frits had a bit of a struggle trying to lead it. Gear ripped twice.
+    Frits had a bit of a struggle trying to lead it. Gear ripped twice on two falls.
 02-09-2023; GB; Ninja-Sara; VS 4c; 25m; lead FZ; <1S>;
-    Great long route from the base to the top of Lexby. In the new guide
+    Great long route from the base to the top of Lexby. In the new guide.
 02-09-2023; GB; Plugghaesten; E1 5b; 25m; lead FZ; ; 
 02-09-2023; GB; Oktober; HVS 5a; 25m; lead FZ; ; 
 02-09-2023; GB; Great Crack DNF; E2 5c; 30m; ; <Q>;
