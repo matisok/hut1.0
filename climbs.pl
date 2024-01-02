@@ -465,15 +465,14 @@ while (<IN>) {
                 ($x,$date,$name,$area,$grade,$height,$people,$icons,$photo,$stars,$comment) = split('\~');
                 # print DATE "<hr class=grey>\n";
 # HOW TO PRINT FULL DATE  # print DATE "<a name=\"$date\"></a>";
-                print DATE "<div>";
+                print DATE "<div>\n";
                 # print DATE "$photo";
-                print DATE "<b>$name</b> $grade,
-                $height $stars $icons $people\n";
+                print DATE "<b>$name</b> $grade, $height $stars $icons $people\n";
                 # print DATE "<div class=details>$area / $height /  / </div>\n";  
             if ($comment) {
-                print DATE "<div class=comment>$comment</div>";
+                print DATE "<div class=comment>\n$comment</div>\n";
                 }
-                print DATE "</div><hr class=grey>";
+                print DATE "</div>\n<hr class=grey>\n";
             }
             print DATE "\n\n";
         }
