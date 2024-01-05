@@ -206,7 +206,7 @@ WW=Will Wray
     At the spur of the moment I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
 02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><2><M><T>; <I https://live.staticflickr.com/8074/8338716280_f860d3c360_z.jpg>
     Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.
-17-10-2008; BC; Garden Valley; ; 10k; alt FW; <3S><2><X>; <I http://willerup.com/p/atv.jpg>
+17-10-2008; BC; Garden Valley; ; 10k; alt FW; <3S><2><X>; <I https://willerup.com/p/atv.jpg>
     ATV drive on the back trails of Idaho. Ended in a real epic with a crash and one of the ATVs going over the side of the mountain road and tumbled several hundreds of meters down the steep forested mountain side. Glad to be alive. We spent hours hoisting the atv back to the trail, totalled. Close call.
 
 20-12-2023; MO; 30 seconds over Potash; 5.8; 25m; lead SP; <2S><H>;
@@ -1142,7 +1142,7 @@ WW=Will Wray
     Perfert Saturday afternoon in superb weather. Almost no people  had most of the world class rock to ourselves.
 31-3-2001; BX; La Voliere; f5b; 30m; lead SW; <B><2S> 
 
-29-3-2001; GR; On n'est pad des Betes; f5c; 30m; lead RI; <B><3S>; <I http://willerup.com/p/1onnestpasdesbetes.jpg>
+29-3-2001; GR; On n'est pad des Betes; f5c; 30m; lead RI; <B><3S>; <I https://willerup.com/p/1onnestpasdesbetes.jpg>
     Superb route! Layback and exposed back and footing in the chimney in the top.
 29-3-2001; GR; Mocamba; f5c; 20m; lead RI; <B><1S>; <I http://willerup.com/p/1mocamba.jpg>
     First climb of the year  and first climb in my new local crag. Excellent sports climbing.
@@ -1539,9 +1539,9 @@ WW=Will Wray
             A bold lead by Martin Beale (his first E3 lead). Read his <a href="http://willerup.com/climbing/terrapin.html">story in here.</a>
 31-8-1998; PB; Rock Idol; E1 5a/b; 140ft; lead TW; <3S>
 31-8-1998; PB; The Hole; E1 5b; 120ft; lead TW; <2S>
-31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S>; <I http://willerup.com/p/manzuko.jpg>
+31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S>; <I https://willerup.com/p/manzuko.jpg>
 31-8-1998; PB; World War III Blues; E1 5b; 65ft; sec TW; <2S>
-30-8-1998; PB; Deep Space; E2 5b 5a; 150ft; alt TW; <3S>; <I http://willerup.com/p/deepspace.jpg><T>
+30-8-1998; PB; Deep Space; E2 5b 5a; 150ft; alt TW; <3S><T>; <I http://willerup.com/p/deepspace.jpg>
 30-8-1998; PB; The Strait Gate; E2 5b; 150ft; sec TW; <3S>
 30-8-1998; PB; Brazen Butress Triple Direct; E2 5b; 120ft; lead TW; ; <I http://willerup.com/p/brazenbutress.jpg>
              Desperately off route I climbed three routes in one.
