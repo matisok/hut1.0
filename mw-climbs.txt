@@ -203,7 +203,7 @@ WW=Will Wray
 27-12-2023; BC; Jordan Valley; ; 100k; FW; <2S><2>;
     Hunting trip with off road vehicle. Drove all day in savage terrain, never spotting other than deer. We had tags to shoot an Elk, which we did not find.
 21-12-2023; MO; Shafer Trail; ; 72k; solo; <3S><2><M><T>;
-    At the spur of the moment I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
+    At the spur of the moment, I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
 02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><2><M><T>; <I https://live.staticflickr.com/8074/8338716280_f860d3c360_z.jpg>
     Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.
 17-10-2008; BC; Garden Valley; ; 10k; alt FW; <3S><2><X>; <I https://willerup.com/p/atv.jpg>
@@ -1539,7 +1539,7 @@ WW=Will Wray
             A bold lead by Martin Beale (his first E3 lead). Read his <a href="http://willerup.com/climbing/terrapin.html">story in here.</a>
 31-8-1998; PB; Rock Idol; E1 5a/b; 140ft; lead TW; <3S>
 31-8-1998; PB; The Hole; E1 5b; 120ft; lead TW; <2S>
-31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S>; <I https://willerup.com/p/manzuko.jpg>
+31-8-1998; PB; Manzoku; E1 5b; 120ft; sec TW; <3S>
 31-8-1998; PB; World War III Blues; E1 5b; 65ft; sec TW; <2S>
 30-8-1998; PB; Deep Space; E2 5b 5a; 150ft; alt TW; <3S><T>; <I http://willerup.com/p/deepspace.jpg>
 30-8-1998; PB; The Strait Gate; E2 5b; 150ft; sec TW; <3S>
