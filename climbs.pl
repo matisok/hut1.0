@@ -535,7 +535,7 @@ while (<IN>) {
         }
         # Print statistics for each person
         print PEOPLE "<hr class=grey><h2>Climbing Partners</h2><table width=100%>\n";
-        print PEOPLE "<tr><td><i>Initials</i></td><td><i>Person</i></td>";
+        print PEOPLE "<tr><td></td><td></td>";
         print PEOPLE "<td align=right><i>Routes</i></td><td align=right><i>Height</i></td></tr>\n";
         foreach $person(sort byroutes keys %stat) {
             ($routes,$height) = split(' ', $stat{$person});
