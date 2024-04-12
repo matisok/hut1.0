@@ -472,7 +472,7 @@ while (<IN>) {
             if ($comment) {
                 print DATE "<div class=comment>\n$comment</div>\n";
                 }
-                print DATE "</div>\n<hr class=grey>\n";
+                print DATE "</div>\n";
             }
             print DATE "\n\n";
         }
