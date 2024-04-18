@@ -28,7 +28,7 @@ jobs:
          
       - name: create index file
         run: |
-          cp html/mw-photo.html html/index.html
+          cp html/mw-date.html html/index.html
 
       # - name: Commit html files
       #   run: |
