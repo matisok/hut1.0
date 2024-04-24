@@ -211,6 +211,7 @@ while (<CLIMBS>) {
         $icons =~ s/<C4>//g; # &#128420; black helmet
 
         # Icons
+        $icons =~ s/<U>/&#127894;/g; #majorevent
         $icons =~ s/<A>/&#128170;/g; #achievement
         $icons =~ s/<B>/&#128297;/g; #bolt
         $icons =~ s/<E>/&#129422;/g; #multipitch
