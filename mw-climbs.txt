@@ -145,6 +145,7 @@ RR=Rene Rhoades
 RS=<b>Royston Sellman</b>
 SF=<b>Sean Franks</b>
 SG=Soeren Lynggaard
+SD=Soeren Dykker
 SH=Simon Hauch
 SL=Steve Lougrahn
 SN=Sanne Wendes
@@ -2100,6 +2101,8 @@ Due to some serious partying the day before I managed to forget my harness and c
     Ground control. Crossed brake launch technique.
 
 ##### Diving #####
+17-06-2024; OR; Strandgade; ; 2h; SD; <6>
+    First dive under my boat. Awesome experience. Found an empty safe. Really exciting dive.
 24-08-2003; KU; Aakersberget; ; 15m; JR FW AN TR HW; <6><3S><K https://www.youtube.com/watch?v=P19bYP63OUU>
 19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><M><2S><U><P http://willerup.com/mexico/img/cavediving.jpg>
 05-11-1997; IN; Tulamben; ; 15m; FW; <6>
@@ -2115,8 +2118,10 @@ Due to some serious partying the day before I managed to forget my harness and c
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 
 ##### Surfing and Sail ##### 
+16-06-2024; OR; Trekroner; ; 6h; family; <8>
+    Fourth trip. Family outing. Ferrying 30 people from Amerikakaj to Trekroner. All systems worked well. Fuel consumption seems to be very reasonable. Brilliant day out. 
 25-05-2024; OR; Svanemollebugten; ; 20h; solo; <8><3S>
-    Third trip. Well prepared this time. Exciting to leave single handed. All worked well and anchored up for the night. Home day after in the afternoon.💊
+    Third trip. Well prepared this time. Exciting to leave single handed. All worked well and anchored up for the night. Home day after in the afternoon.
 11-05-2024; OR; Svanemollebugten; ; 5h; EW; <8><3S>
     Second trip. Great weather. Exit of canal a bit gnarly but apart from that all went perfectly smooth. Anchored up which also worked great.
 20-04-2024; OR; Trekroner; ; 2h; FW; <8><U><P https://photos.app.goo.gl/YED8WZAzwvw7tF9z8>
