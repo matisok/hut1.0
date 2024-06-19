@@ -2107,15 +2107,17 @@ Due to some serious partying the day before I managed to forget my harness and c
 19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><M><2S><U><P http://willerup.com/mexico/img/cavediving.jpg>
 05-11-1997; IN; Tulamben; ; 15m; FW; <6>
 05-11-1997; IN; Tulamben; ; 30m; FW; <6>
-04-11-1997; IN; Tulamben; ; 25m; FW; <6>; <I https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg>
+04-11-1997; IN; Tulamben; ; 25m; FW; <6>; <I https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg><P https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg>
 04-11-1997; IN; Tulamben; ; 32m; FW; <6>
     Deep dive
-03-11-1997; IN; Lovina Beach; ; 15m; FW; <6>
+03-11-1997; IN; Lovina Beach; ; 15m; FW; <6><3S>
     Night dive
 03-11-1997; IN; Menjangan; ; 15m; HW; <6>
 03-11-1997; IN; Menjangan; ; 18m; HW; <6>
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
 02-11-1997; IN; Lovina Reef; ; 12m; HW; <6>
+02-11-1994; OR; Helsingor Wreck; ; 12m; JR; <6><3S>
+    First dive. Together with Jesper who had lined up all the gear from a local diving club. We practiced first at the shallow water at the beach and then took a dingy out and dived down to a small wreck in the middle of Oresund. Quite exiciting.
 
 ##### Surfing and Sail ##### 
 16-06-2024; OR; Trekroner; ; 6h; family; <8>
