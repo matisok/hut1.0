@@ -134,7 +134,8 @@ MH=Michael Hjort
 NE=Neil
 OR=Ole Rasmussen
 PD=Paola Dotti
-PE=Pete Internet
+PE=Pete Rock
+PI=Pete Internet
 PP=Poul Henriksen
 PS=Peter Ras
 PH=Peter Heegaard
@@ -201,6 +202,10 @@ WW=Will Wray
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+
+18-08-2024; KU; Originalruten; VS 4c; 20m; sec PE; ;
+    Great weekend with sailing and climbing. I was not climbing much due to a badly injured left elbow. Too much repetitive boat/engine/diving work.
 
 11-01-2024; SJ; Furesoeen; ; 10k; EW KN; <3S><8><S><T>;
     Brilliant ice sailing with Knudsen. Perfect conditions. Amazing speed and delicate control. Yoor! 
