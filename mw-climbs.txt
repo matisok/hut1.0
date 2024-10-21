@@ -35,6 +35,7 @@ GM=Guatemala, Guatemala
 GR=Grenoble, France
 GU=Gunnard Head, UK
 GW=Gower, UK 
+HA=Halland
 HC=Huntsham Crags, UK
 HF=Hagefjell, Norway
 IN=Indonesia 
@@ -202,6 +203,11 @@ WW=Will Wray
 # Climbs
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
+
+15-10-2024; HA; Agrikulturen; VS 4c; 20m; sec FZ; ;
+15-10-2024; HA; Dirty Harry; 5a; 20m; sec FZ; ;
+15-10-2024; HA; El Kamino; VS 4c; 20m; sec FZ; ;
+15-10-2024; HA; Solsting; 6a; 20m; sec FZ; ;
 
 
 18-08-2024; KU; Originalruten; VS 4c; 20m; sec PE; ;
