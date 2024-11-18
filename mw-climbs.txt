@@ -612,7 +612,7 @@ WW=Will Wray
 14-05-2018; GB; Granny Smith; HVS 5a; 60ft; lead KR; <1S> 
     Finally got round to do this. A bit manky in the crack and a ravens nest mid way (with a mother raven and dad raven flying around squeaking) made the route nice to have put behind us
 25-04-2018; GB; Braennvinsleden; HVS 5a; 60ft; lead; 
-18-03-2018; GB; The Undertaker; W5+; 60ft; sec JC; <1><M><A><N http://willerup.com/ice/undertaker.html>
+18-03-2018; GB; The Undertaker; W5+; 60ft; sec JC; <1><M><U><A><N http://willerup.com/ice/undertaker.html>
     Absolute mindblowing beauty. Climbed with head torches at night.
 
 #Trip to Rjukan Sean
@@ -1021,7 +1021,7 @@ WW=Will Wray
 9-2-2003; LG; Symphonie d'automne; W4; 120m; alt TW PW; <1><T><P https://flic.kr/p/4frZ2>; <I https://live.staticflickr.com/31/36768426_6f1bbb853b_b.jpg>
     The classic of the crag. Excellent snowblade descent afterwards.
 8-2-2003; LG; Stalactus; W4; 50m; alt TW PW; <1>
-17-1-2003; LG; Caturgeas; W5; 600m; sec SF; <M><1><T><3S><A>; <I https://live.staticflickr.com/18/69319217_627019763d_o.jpg>
+17-1-2003; LG; Caturgeas; W5; 600m; sec SF; <M><1><T><3S><A><U>; <I https://live.staticflickr.com/18/69319217_627019763d_o.jpg>
     600 meters of pure ice! We ticked all of it although it took us 15 hours! (and then 3 hours to get down). Quite a day out.
 12-1-2003; LG; Chizarton; W3; 20m; lead JA; <1S><1>
     Initiation ice climb for James. He did very well. The finishing top is quite unpleasant.
@@ -1878,7 +1878,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Brilliant rig. World class. The subsequent connection was an ultra burly bit of caving. I was particularly traumatised by the gravel-stream squeeze that nearly caught me on the return. Next time I will remember to turn my head the right way. Good effort from Martin leading this bit and not drowning while reversing in the sump. Double black helmet.
 30-01-2004; LL; Ogof y Daren Cilau; ; 22h; RS MB AW FW; <3><C4><3S><N http://willerup.com/oydc/vicevirgin.html>
      Highlights: sucessfull use of heyphone  wading through bonzai streamway  pushing to Aquenos Choke. Exit series felt hard. 
-07-11-2003; LL; Ogof y Daren Cilau; ; 45h; RS MB; <3><C4><3S>; <I https://live.staticflickr.com/29/36765121_bab3deb22a_o.jpg>
+07-11-2003; LL; Ogof y Daren Cilau; ; 45h; RS MB; <3><C4><3S><U>; <I https://live.staticflickr.com/29/36765121_bab3deb22a_o.jpg>
      Two-nighter into Dweebland (the end of the cave so far). Excellent trip. Flawlessly executed. We let off two smoke bombs (one failed) at the end to see if there's a draught towards Aggen Allwed. There is. Get your crowbars out!
 07-12-2002; LL; Ogof y Daren Cilau; ; 32h; TW MB RS PW; <3><C4><3S>; <I https://live.staticflickr.com/15/68313436_984fae3035_o.jpg>
      Trip to the restaurant of the end of the universe
@@ -2022,7 +2022,7 @@ Due to some serious partying the day before I managed to forget my harness and c
      Big tube with mud and good formations  second level round trip with  somewhat technical climbing and crawling. Long. Very visited
 09-12-1998; GM; Lanquin; ; 3h; FW; <3>
      Big chambers  bats  spiders  lake with potential  river  lots of potential  side passages  one easy squeeze. Total virgin experience. Only very few  traces of humans. Unique. FW managed to catch the 'Bat Disease' or  Histoplasmosis as it is apparently called - pretty nasty  lasted for  weeks  but he survived. Only he nows sleeps hanging from the ceiling 
-08-12-1998; GM; Lanquin; ; 1h; FW; <3><M><U>
+08-12-1998; GM; Lanquin; ; 1h; FW; <3><M>
      Psycedelic praying with candles etc. reentry with smoke and strange  sounds. Photos
 15-11-1998; YS; Gaping Ghyll; ; 4h; TW; <3><3S>
       Bar Pot. Possible my best caving trip so far. Interesting SRT'ing  good deal of  route finding and a long section of tunnels. All rewarded with the  inconceivable main chamber of Gaping Ghyll. Photos
@@ -2121,7 +2121,7 @@ Due to some serious partying the day before I managed to forget my harness and c
 17-06-2024; OR; Strandgade; ; 2h; SD; <6><3S><M>
     First dive under my boat. Awesome experience. Found an empty safe. Really exciting dive.
 24-08-2003; KU; Aakersberget; ; 15m; JR FW AN TR HW; <6><3S><K https://www.youtube.com/watch?v=P19bYP63OUU>
-19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><M><2S><U><P http://willerup.com/mexico/img/cavediving.jpg>
+19-12-1998; TU; Taj Mahal Cenote; ; 15m; FW; <6><M><2S><P http://willerup.com/mexico/img/cavediving.jpg>
 05-11-1997; IN; Tulamben; ; 15m; FW; <6>
 05-11-1997; IN; Tulamben; ; 30m; FW; <6>
 04-11-1997; IN; Tulamben; ; 25m; FW; <6>; <I https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg><P https://live.staticflickr.com/6/68311588_99e6d17cfc_o.jpg>
