@@ -204,6 +204,22 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
+
+17-04-2025; GB; Undanflukten; S; 20m; sec FZ; ;
+17-04-2025; GB; Flyganda Maran Variant; HVS; 20m; lead FZ; ;
+	Tempting to go rightwards in the top but route goes left
+17-04-2025; GB; Traversen; VD; 20m; sec FZ; ;
+17-04-2025; GB; Hurtigruten; HVS; 20m; lead FZ; ;
+	Gear is okay
+
+18-04-2025; HA; Jam Session; E1; 20m; lead FZ; <H><3S>;
+	Visited this masterpiece a few months earlier when I was badly injured. Promised to go back. I was not disappointed. What an absolute beauty. Intimidating and long. Had to rest once in the jam bulge crux
+18-04-2025; HA; Agrikulturen; S; 20m; sec FZ; ;
+18-04-2025; HA; Jam Session; E1; 20m; lead FZ; <H>;
+	Had to do it again and clean. How climbing a route with prior knowledge makes a difference. Zoomed up with one big smile. Only brought the gear needed. Feels wrong. And I did need some additional gear at the stance because the rope got jammed just below the lip of the top-out
+18-04-2025; HA; Belly Jam; HVS 5b; 20m; lead FZ; <3S>;
+	Spotted this as a starred route and classic belly traverse high up. Just brilliant. A route with 3 cruxes. And the final few moves are tricky. Guidebook mentions bad gear in the start - I found some stellar nut placements on the way. No problem
+
 15-10-2024; HA; Agrikulturen; VS 4c; 20m; sec FZ; ;
 15-10-2024; HA; Dirty Harry; 5a; 20m; sec FZ; ;
 15-10-2024; HA; El Kamino; VS 4c; 20m; sec FZ; ;
@@ -2225,6 +2241,9 @@ Due to some serious partying the day before I managed to forget my harness and c
     Although the wind was fading, we had some good practice with the 12 and 16m2
 11-08-2007; JL; Ejsing; ; 1h; solo; <8>
     Kitesurfing course. Essential. 
+07-08-2007; JL; Hvide Sande; ; 1h; solo; <8><X>
+    Decided to try kitesurfing on Jespers old kites. With the family (celine and two boys aged 1 and 3) looking I got Camilla to launch the old Ocean Rodeo C-kites (dangerous types) directly into the wind catapulting me straight from 0 to 100 and smack down in the sand. This happened 3 times until - luckily without anything really broken - my body was yelling at me: stop, you are about to kill yourself! (well maybe it was actually Celine who was yelling it). A totally irresponsible start to an otherwise thriving kite surf career.
+
 1-07-1994; SJ; Furesoen; ; 1h; solo; <8>; <I https://willerup.com/windsurfing/fureso.jpg> 
     Learned to windsurf locally in Holte. 
 
