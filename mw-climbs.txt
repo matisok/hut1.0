@@ -47,7 +47,7 @@ KY=Kalymnos, Greece
 LD=Lake District, UK
 LG=La Grave, France
 LH=Lillehammer, Norway 
-LL=Llangattock, UK
+LL=Llangatock, UK
 MD=Mendips caves, UK
 MO=Moab Utah, USA
 MX=Mexico 
@@ -2408,6 +2408,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
 01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
  First time - twisted my ankle a bit
+
 
 
 
