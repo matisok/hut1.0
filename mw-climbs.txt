@@ -212,7 +212,7 @@ WW=Will Wray
 10-10-2025; GB; Alfa Helix; HVS 5b; 20m; sec PE; <2S>
 	This line is exposed. Pete did well. 
 10-10-2025; GB; Återvandsgråden; E1 5b; 20m; lead PE; <2S>
-	This is a favourite of mine.
+	This is a favourite of mine. The weekend marked the first use of the Rock Mobile Van - absolutely brilliant. 
 11-10-2025; GB; Kenneths Led; VS 5b; 20m; sec PE; <2S>
 11-10-2025; GB; Gomora; VS 5a; 20m; lead PE; <2S>
 11-10-2025; GB; Ole's Crack; E1 5b; 20m; sec PE; <2S>
@@ -220,7 +220,7 @@ WW=Will Wray
 11-10-2025; GB; Tunnsprickan; HVS 5b; 20m; lead PE; <2S>
 	Brilliant route.
 11-10-2025; GB; Bantaren; E1 5b; 20m; lead- PE; <2S>
-	The last route of the day. I wanted to show Pete the last specialities of GBG: Offwidth! It was as hard as it looks and we both got a proper spanking just like we ordered. The weekend marked the first use of the Rock Mobile Van - absolutely brilliant. 
+	The last route of the day. I wanted to show Pete the last specialities of GBG: Offwidth! It was as hard as it looks and we both got a proper spanking just like we ordered. Beta: don't bring a lot of gear: only tiny cams for the start and a camelot 2 and 3 for the roof. Tie a long knot in the harness for easier negotiation of the cave part. 
 
 
 09-06-2025; BH; Fimbul; HVS; 25m; lead FZ; <2S>
@@ -250,7 +250,7 @@ WW=Will Wray
 18-04-2025; HA; Jam Session; E1; 20m; lead FZ; <H>;
 	Had to do it again and clean. How climbing a route with prior knowledge makes a difference. Zoomed up with one big smile. Only brought the gear needed. Feels wrong. And I did need some additional gear at the stance because the rope got jammed just below the lip of the top-out
 18-04-2025; HA; Belly Jam; HVS 5b; 20m; lead FZ; <3S>;
-	Spotted this as a starred route and classic belly traverse high up. Just brilliant. A route with 3 cruxes. And the final few moves are tricky. Guidebook mentions bad gear in the start - I found some stellar nut placements on the way. No problem
+	Spotted this as a starred route and classic belly traverse high up. Just brilliant. A route with 3 cruxes. And the final few moves are tricky. Guidebook mentions bad gear in the start - I found some stellar nut placements on the way. No problems
 
 15-10-2024; HA; Agrikulturen; VS 4c; 20m; sec FZ; ;
 15-10-2024; HA; Dirty Harry; 5a; 20m; sec FZ; ;
@@ -269,7 +269,7 @@ WW=Will Wray
     At the spur of the moment, I decided to drive off-road back to Moab from Dead Horse Point. A bit late in the day with only 2 hours light left it was a bit touch and go. Totally wild drive and incredible nature experience.   
 02-01-2013; DU; Fossil Rock; ; 30k; lead EW CW AW; <3S><2><M><T>; <I https://live.staticflickr.com/8074/8338716280_f860d3c360_z.jpg>
     Mad 4x4 wheel drive in the desert. Camped mid-way and struggled to get out the day after as the wind has removed all tracks and we were completely left on our own to find our way (I had a guidebook). True epic.
-17-10-2008; BC; Garden Valley; ; 10k; alt FW; <3S><2><X>; <I https://willerup.com/p/atv.jpg>
+17-10-2008; BC; Garden Valley; ; 10k; alt FW; <3S><2><X>; <I http://willerup.com/p/atv.jpg>
     ATV drive on the back trails of Idaho. Ended in a real epic with a crash and one of the ATVs going over the side of the mountain road and tumbled several hundreds of meters down the steep forested mountain side. Glad to be alive. We spent hours hoisting the atv back to the trail, totalled. Close call.
 
 20-12-2023; MO; 30 seconds over Potash; 5.8; 25m; lead SP; <2S><H>;
@@ -2408,6 +2408,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
 01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
  First time - twisted my ankle a bit
+
 
 
 
