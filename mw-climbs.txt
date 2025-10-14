@@ -35,7 +35,7 @@ GM=Guatemala, Guatemala
 GR=Grenoble, France
 GU=Gunnard Head, UK
 GW=Gower, UK 
-HA=Halland
+HA=Halland, SE
 HC=Huntsham Crags, UK
 HF=Hagefjell, Norway
 IN=Indonesia 
@@ -2408,6 +2408,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
 01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
  First time - twisted my ankle a bit
+
 
 
 
