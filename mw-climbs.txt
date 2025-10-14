@@ -191,8 +191,6 @@ WW=Will Wray
     Recommended from Niklas. Well protected in the hard bits. Bird banned.
 ; WS; Tydliga Hoernet, Haller; E3 5c; 20m; WISH; <L>
     Spotted with Jesper at Haller. Looked amazing. Start in a tree to get to the ledge.
-; WS; Välkommen till Bohuslän, Bohusporten; E1; 15m; WISH; <L>
-    New area. Look at PDF.
 ; WS; Strix, Bohus; E1; 20m; WISH; <L>
     New area. Look at PDF. Excellent looking ow.
 ; WS; ELENA MUIERRTAS, Binghult; E1; 20m; WISH; <L>
@@ -230,7 +228,7 @@ WW=Will Wray
 09-06-2025; BH; Pulcinella; E1 5b; 25m; lead- FZ; <3S>
 	Route next to the famous Våroffer. Brilliant line of wide finger cracking. Had to rest once, it'll go free next time. I was just psyched out to be honest. Excellent finish to a somewhat amputated weekend.
 08-06-2025; BH; Välkommen til Bohuslän; E3 5b; 20m; lead- FZ; <2S>
-	Spotted on previous trips and part of the PDF guide book addition. Great looking line and beefy as hell. I was huffing and puffing all the way up: total sustain job. I had to rest on the rope once as I was pumped stupid - in my hands! Crack as only seeping wet in some places which had an effect on my abilities. Great route and one to repeat again. 
+	Spotted on previous trips and part of the PDF guide book addition. Great looking line and beefy as hell. I was huffing and puffing all the way up: total sustain job. I had to rest on the rope once as I was pumped stupid - in my hands! Crack as only seeping wet in some places which had an effect on my abilities. Great route and one to repeat again. No way it's an E1 (as the PDF guide claims)
 07-06-2025; BH; Prismaster; E1 5b; 20m; lead FZ; <Q>
 	Climbed 8 years ago with Martin, I revisited this Bohus classic. Frits led the first pitch in good style but then the intimidation set in. I just couldn't recognize the route at all and I (wrongly) remembered it as a jamming fest, but it is more a series of excellent tricky sport type moves up the obvious slanting line. I just didn't have the yoor and we traversed left to a ledge where we eventually rappeled down leaving a threaded sling and a no 5 nut. Total disappointment. I am not in the shape I need to be.  
 07-06-2025; BH; Norsk Espresso; E1 5b; 20m; lead FZ; <3S>
@@ -2410,6 +2408,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
 01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
  First time - twisted my ankle a bit
+
 
 
 
