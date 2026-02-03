@@ -202,6 +202,8 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
+30-01-2026; GB; The Undertaker; W5+; 70ft; top JC; <2S><1>; <I https://live.staticflickr.com/7825/46250223104_76f2f58a15_b.jpg>
+	Finally in condition again. A bit iffy to lead and John didn't feel like taking the sharp end. I'm not in shape to do it on lead. So we ended up top-roping 4 lines on the face. Quite brilliant actually. Excellent training and top-roping on ice is actually worhtwhile. But it doesn't really qualify as a proper climb.  
 10-10-2025; GB; Spagaten; HVS 5b; 20m; sec PE; <2S>
 	Petes first go at Gothenburg. Thought a capable climber like Pete could free a 5+ easily. But GBG rock is a speciality so Pete needed a few hangs as he was getting akin to the type of climbing. 
 10-10-2025; GB; Snet til Hoejre; HVS 5b; 20m; lead PE; <2S>
@@ -2285,6 +2287,8 @@ Due to some serious partying the day before I managed to forget my harness and c
 
 
 ##### Snowboarding #####
+28-12-2025; CH; Chamonix; ; ; EW; <9><3S><S><X>; <I https://live.staticflickr.com/65535/52697263575_1d814f7f15_z.jpg>
+    Fairly mad outing. Went to the other side of MtBlanc where the snow was good. Top of skilift and then Valle Blanche like outing. Me and Emil alone and the arva's out of battery. Weather super stable, but we were a bit late in the day. No prior beta other than "keep left left and then right". No maps, not GPS tracks. Anyway, off we went and immediately the beta didn't make sense. Following prior ski tracks has become super dangerous as they can easily and often is tracks from speed-skiers (with paragliders). So you really have to read the mountain yourself. Thankfully my years of experience took us down a fairly decent descent though coulouir and steep. And it ended in a proper cliff jump which was gnarly as hell. Both me and Emil did it and had a total adrenaline rush on it. Next time in the alps: bring harnesses and ab-rope. Totally critical. 
 26-02-2025; BO; Artisina; ; ; UH; <9><2S>
     Excellent rando with LilleA. Went up the usual path but higher above the first cabin. This worked well. Getting better at drone filming.
 25-02-2025; BO; Artisina; ; ; UH; <9><1S>
@@ -2412,6 +2416,7 @@ Due to some serious partying the day before I managed to forget my harness and c
  Muddy. Wet ground. Snow. Good. Good Run - very wet, otherwise good conditions. Snowed on the higher grounds. Blister
 01-01-1998; WV; Wye Valley 19K; ; 2h; TW; <9>
  First time - twisted my ankle a bit
+
 
 
 
