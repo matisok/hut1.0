@@ -202,6 +202,12 @@ WW=Will Wray
 # 1S star <W>hipper <P>hoto <I>nlinephoto <K>video <N>tripreport <D>link <E>multipitch <A>chievement <B>olts
 # <G>boulder <L>wish <Q>bail <M>indblower <T>bullseye <R>ainy <S>unny <X>suicide <Y>windy <Z>night <F>aid <H>glove
 
+26-04-2026; WL; African Killer Bee; VS 4c; 30m; lead PW; <3S> 
+26-04-2026; WL; Zebrazone; E2 5b; 30m; dnf PW; <3S>
+	Tried but didn't manage. Need more rutine to climb E2 again.
+26-04-2026; WL; Ecliptic; E1 5b; 30m; alt PW; <3S> 
+	Took a proper lob on a fairly sketchy nut, but it held! Glad it did. Was pretty shaken afterwards.
+
 30-01-2026; GB; The Undertaker; W5+; 70ft; top JC; <2S><1>; <I https://live.staticflickr.com/7825/46250223104_76f2f58a15_b.jpg>
 	Finally in condition again. A bit iffy to lead and John didn't feel like taking the sharp end. I'm not in shape to do it on lead. So we ended up top-roping 4 lines on the face. Quite brilliant actually. Excellent training and top-roping on ice is actually worhtwhile. But it doesn't really qualify as a proper climb.  
 10-10-2025; GB; Spagaten; HVS 5b; 20m; sec PE; <2S>
@@ -1899,6 +1905,8 @@ Due to some serious partying the day before I managed to forget my harness and c
     900 meters from the top.
 
 ##### Caves #####
+
+25-04-2026; LL; Pwll Dwfn; ; 4h; TW JT; <3><C2><2S> 
 
 16-11-2025; YS; Mayday Pothole; ; 5h; TW AX JT; <3><C3><3S>
 	Celebrating Axels 19th birthday with a trip to Yorkshire. Went down a newly discovered pothole. Pre-rigged made it nice and efficient but we still spent 5 hours of the whole trip. Great effort from Axel. The cave was tight and had tricky sections of narrow traverses on the ropes. 
