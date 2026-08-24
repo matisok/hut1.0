@@ -38,6 +38,7 @@ GW=Gower, UK
 HA=Halland, SE
 HC=Huntsham Crags, UK
 HF=Hagefjell, Norway
+HR=Croatia
 IN=Indonesia 
 JL=Jylland, Denmark 
 JT=Joshua Tree, USA 
@@ -2199,6 +2200,8 @@ Due to some serious partying the day before I managed to forget my harness and c
     First dive. Together with Jesper who had lined up all the gear from a local diving club. We practiced first at the shallow water at the beach and then took a dingy out and dived down to a small wreck in the middle of Oresund. Quite exiciting.
 
 ##### Surfing and Sail ##### 
+19-08-2026; HR; Sealand Round; ; 24h; AX EW; <8>
+    7 days of sailing around the Adriatic Sea. Awesome conditions.
 05-02-2025; OR; Amager Power Plant; ; 5h; EW; <8><3S><M>
     Got hired by the danish frogmen to take part of a night excercise with navy seals. Full blown yoor. Really pleased it went well - night sailing in winter is quite full on.
 15-07-2024; SJ; Sealand Round; ; 4h; AX; <8>
