@@ -100,6 +100,7 @@ CA=Chris Adam
 CH=Craig Harwood
 CL=Claire Wilkinson
 CW=Celine Willerup
+CK=Christian Knudsen
 DG=Dave Grosvenor
 DP=Dietrich Paulus
 DS=David Skov
@@ -2130,6 +2131,8 @@ Due to some serious partying the day before I managed to forget my harness and c
 01-07-1994; MD; Swildons Hole; ; 4h; FW; <3><C2>
 
 ##### Rides #####
+14-09-2026; BO; Limone; ; 5h; CK; <2><3S><T>
+	Excellent round trip with Knudsen.
 16-02-2024; BO; Boves; ED; 4h; AX HW; <2><2S>
     Great trip with an additional two rented e-mtbs. 
 18-11-2023; BO; Limone; ED; 4h; EW; <2><3S><T>
@@ -2200,7 +2203,7 @@ Due to some serious partying the day before I managed to forget my harness and c
     First dive. Together with Jesper who had lined up all the gear from a local diving club. We practiced first at the shallow water at the beach and then took a dingy out and dived down to a small wreck in the middle of Oresund. Quite exiciting.
 
 ##### Surfing and Sail ##### 
-19-08-2026; HR; Sealand Round; ; 24h; AX EW; <8>
+19-08-2026; HR; Zadar; ; 24h; AX EW; <8>
     7 days of sailing around the Adriatic Sea. Awesome conditions.
 05-02-2025; OR; Amager Power Plant; ; 5h; EW; <8><3S><M>
     Got hired by the danish frogmen to take part of a night excercise with navy seals. Full blown yoor. Really pleased it went well - night sailing in winter is quite full on.
