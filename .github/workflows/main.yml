@@ -47,7 +47,14 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy html --project-name=adventurehut --branch=main
+
       - name: 📂 Sync files to bluehost
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
